@@ -1,4 +1,4 @@
-# ![logo](https://i41.servimg.com/u/f41/18/23/59/53/miui1310.png)
+# ![logo](https://i41.servimg.com/u/f41/18/23/59/53/miui-112.png)
 # MIUI V14 German Translation on Xiaomi.eu
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI13.svg)](https://github.com/berlinux2016/MIUI13/issues "GitHub issues")
