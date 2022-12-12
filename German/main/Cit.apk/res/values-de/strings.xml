@@ -34,6 +34,10 @@
     <string name="allow_gpu_maxfreq_summary">Der experimentelle GPU-Overfreq-Modus könnte zu Leistungsproblemen oder noch schwerwiegenderen Problemen führen. Sie werden jedoch wiederabgestellt, wenn Sie diesen Modus ausschalten. GPU-Maxfreq-Modus einschalten?</string>
     <string name="audio_spk_cal_wait">Bitte kalibrieren…</string>
     <string name="audio_spk_def">Bitte Lautsprecher kalibrieren</string>
+    <string name="auto_frontflash_description">Alle vorderen Blitzlichter sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
+    <string name="auto_frontflash_title">Blitzlichttest Frontkamera</string>
+    <string name="auto_rearflash_description">Alle Blitzlichter der Rückkamera sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
+    <string name="auto_rearflash_title">Blitzlichttest Rückkamera</string>
     <string name="back_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Geräterückseite.</string>
     <string name="baterry_percent">"Höhe der Akkuladung: "</string>
     <string name="baterry_temperature">"Akkutemperatur: "</string>
@@ -49,6 +53,7 @@
     <string name="battery_reverse_wireless_charge_summary">Test kabelloses Umkehrladen</string>
     <string name="battery_reverse_wireless_charge_time_out">Timeout kabelloses Umkehrladen</string>
     <string name="battery_reverse_wireless_charge_title">Kabelloses Umkehrladen</string>
+    <string name="battery_third_connector">Spannung Akkuanschluss</string>
     <string name="battery_value">Strom</string>
     <string name="begin_to_save_finger_data">Beginn der Speicherung der Fingerdaten</string>
     <string name="bottom_high_speaker_title">Test unterer Hochtöner</string>
@@ -57,6 +62,7 @@
     <string name="bottom_low_speaker_title">Test unterer Tieftöner</string>
     <string name="bottom_right_high_speaker">Test unterer Hochtöner rechts</string>
     <string name="bottom_right_low_speaker">Test unterer Tieftöner rechts</string>
+    <string name="bottom_speaker_title">Test unterer Lautsprecher</string>
     <string name="bt_address">Adresse:</string>
     <string name="button_cancel">Abbrechen</string>
     <string name="camera_capture">Aufnahme</string>
@@ -200,11 +206,17 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
     <string name="cit_battery_temp_fail">Akkutemperatur ist nicht normal (Wert=%d)</string>
     <string name="cit_battery_temp_pass">Akkutemperatur ist normal</string>
     <string name="cit_batterylight">Akku-LED</string>
+    <string name="cit_batterylight_13blue">13Blau</string>
+    <string name="cit_batterylight_13green">13Grün</string>
+    <string name="cit_batterylight_13red">13Rot</string>
+    <string name="cit_batterylight_24blue">24Blau</string>
+    <string name="cit_batterylight_24green">24Grün</string>
+    <string name="cit_batterylight_24red">24Rot</string>
     <string name="cit_batterylight_blue">Blau</string>
     <string name="cit_batterylight_green">Grün</string>
     <string name="cit_batterylight_red">Rot</string>
-    <string name="cit_batterylight_rgb_all">Alle Lichteffekte</string>
     <string name="cit_batterylight_rgb">Akku-LED</string>
+    <string name="cit_batterylight_rgb_all">Alle Lichteffekte</string>
     <string name="cit_batterylight_white">Weiß</string>
     <string name="cit_blue_tooth_address_check_summary">Bluetooth-Adresse dieses Geräts sollte unten angezeigt werden</string>
     <string name="cit_blue_tooth_address_check_title">Bluetooth-Adresse abfragen</string>
@@ -1029,7 +1041,9 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="sample_data">Musterdaten</string>
     <string name="sample_hint">Entnehmen Sie %1$s Muster für einen Finger</string>
     <string name="sample_progress_hint">Warten auf die Entnahme von Musterdaten</string>
+    <string name="sar_algo_data_check_description">Sar Algo Datenerfassung</string>
     <string name="sar_authentation_test_title">SAR-Authentifizierungstest</string>
+    <string name="sar_mtk_test_title">Sar Mtk Authentifizierungstest</string>
     <string name="sar_off">SAR Aus</string>
     <string name="sar_on">SAR Ein</string>
     <string name="sar_sensor_calibrate">Kalibrierung starten</string>
@@ -1135,6 +1149,7 @@ Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="top_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO oben im Gerät.</string>
     <string name="top_right_high_speaker">Test oberer Hochtöner rechts</string>
     <string name="top_right_low_speaker">Test oberer Tieftöner rechts</string>
+    <string name="top_speaker_title">Test oberer Lautsprechers</string>
     <string name="touch_auto">Touchpanel-Selbsttest läuft, bitte warten…</string>
     <string name="touch_sefl_fail">Test fehlgeschlagen</string>
     <string name="touch_self">Bitte Bildschirm während des Tests nicht berühren…</string>
