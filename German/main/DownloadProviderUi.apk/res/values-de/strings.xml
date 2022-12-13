@@ -263,6 +263,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="insufficient_space">Nicht genügend Speicherplatz</string>
     <string name="invalid_address">Eingegebener Dateipfad ist ungültig</string>
     <string name="jump_rank_hint">Schauen Sie sich die heutige Downloadrangliste an &gt;</string>
+    <string name="jump_rank_hint2">Top-Downloads anzeigen</string>
     <string name="keep_queued_download">Behalten</string>
     <string name="load_finish_hint">Morgen können Sie mit dem Anschauen fortfahren</string>
     <string name="loading">Einen Moment…</string>

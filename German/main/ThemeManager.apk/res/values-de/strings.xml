@@ -332,7 +332,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
     <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
     <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
-    <string name="exo_controls_rewind_description">Rücklauf</string>
+    <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_seek_bar_description">Wiedergabe läuft…</string>
     <string name="exo_controls_settings_description">Einstellungen</string>
     <string name="exo_controls_show">Spielersteuerung anzeigen</string>
