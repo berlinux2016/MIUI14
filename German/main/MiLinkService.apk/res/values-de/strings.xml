@@ -243,6 +243,8 @@
     <string name="err_toast_msg_not_support_audio_protocol">Audiowiedergabe wird nicht auf dieses Gerät übertragen</string>
     <string name="err_toast_msg_not_support_video_protocol">Dieses Gerät unterstützt MIUI+ nicht</string>
     <string name="err_toast_msg_retry_later">Aktion konnte nicht ausgeführt werden. Ein oder zwei Minuten warten und erneut versuchen.</string>
+    <string name="err_toast_msg_try_switch_network">Verbinden Sie Ihr mobiles Gerät und Ihren Computer mit demselben WLAN</string>
+    <string name="err_toast_msg_upgrade_pc_version">Aktualisieren Sie MIUI+ auf Ihrem Computer, um diese Funktion nutzen zu können</string>
     <string name="error_icon_content_description">Fehler</string>
     <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Erweitert</string>
@@ -555,8 +557,12 @@
     <string name="privacy_permission_nfc_desc">Kopplung von Geräten über NFC</string>
     <string name="privacy_permission_optional">Optionale Berechtigungen</string>
     <string name="privacy_permission_optional_desc">Wird für zusätzliche Funktionen verwendet, während Sie diese verwenden</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage">Zugriff auf und Speichern von Elementen im Speicher</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage_desc">Für den Zugriff auf und das Speichern von Dateien und Fotos auf diesem Gerät</string>
     <string name="privacy_permission_screencast">Zugriff auf Informationen auf dem Bildschirm</string>
     <string name="privacy_permission_screencast_desc">Während der Aufnahme oder Übertragung kann der Dienst, der diese Funktion anbietet, alle sensiblen Informationen erfassen, die auf Ihrem Bildschirm angezeigt oder von Ihrem Gerät wiedergegeben werden, einschließlich sensibler Informationen wie Audio, Passwörter, Zahlungsinformationen, Fotos und Nachrichten</string>
+    <string name="privacy_permission_sound_recording">Audio aufnehmen</string>
+    <string name="privacy_permission_sound_recording_desc">Für Sprachanrufe oder Tonaufnahmen</string>
     <string name="privacy_permission_wlan">WLAN ein- und ausschalten</string>
     <string name="privacy_permission_wlan_china">WLAN ein- und ausschalten</string>
     <string name="privacy_permission_wlan_desc">Verfügbare Geräte in der Nähe finden</string>
@@ -739,9 +745,11 @@
     <string name="upgrade_tv_device_tip">*Updates werden von Xiaomi TV bereitgestellt</string>
     <string name="upgrade_ver_can_upgrade">Update verfügbar</string>
     <string name="upgrade_ver_can_upgrade_1to2">Von Version %1$d auf %2$d aktualisieren</string>
+    <string name="upgrade_ver_can_upgrade_1to2s">Von Version %1$s auf %2$s aktualisieren</string>
     <string name="upgrade_ver_can_upgrade_to1">Auf Version %1$d aktualisieren</string>
     <string name="upgrade_ver_latest">Aktuelle Version ist auf dem neuesten Stand</string>
     <string name="upgrade_ver_latest1">Aktuelle Version (%1$d) ist auf dem neuesten Stand</string>
+    <string name="upgrade_ver_latest1s">Aktuelle Version (%1$s) ist auf dem neuesten Stand</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="wednesday">Mittwoch</string>
