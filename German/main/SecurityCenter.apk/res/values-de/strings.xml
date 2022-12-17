@@ -1003,6 +1003,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="bh_purchase_dialog_number_text">"Rufnummer: "</string>
     <string name="bh_purchase_dialog_tips">Käufe können verzögert geliefert werden</string>
     <string name="bh_set_phone_dialog_title">Stellen Sie sicher, dass die hier angegebene Rufnummer korrekt ist.\nSie können Ihre Rufnummer in den Einstellungen ändern.</string>
+    <string name="bh_set_phone_dialog_title_new">Fügen Sie Ihre Rufnummer hinzu, um die für Sie verfügbaren Datentarife anzuzeigen und zu kaufen.\nSie können Ihre Rufnummer jederzeit in den Einstellungen ändern.</string>
     <string name="bh_settings_declare">Haftungsausschluss</string>
     <string name="bh_settings_policy_text">Datenschutzerklärung</string>
     <string name="bh_settings_user_agreement">Nutzervereinbarung</string>
@@ -2128,6 +2129,8 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
     <string name="gb_advance_settings_vibration_4d_summary2">Bei Abschüssen im Spiel vibrieren</string>
     <string name="gb_audition_instruction">Gedrückt halten zum Aufnehmen (%1$s-%2$s Sek)</string>
     <string name="gb_audition_play_instruction">Kopfhörer verwenden für den besten Effekt</string>
+    <string name="gb_award_noti_message">Aktivieren Sie die Hintergrundaktualisierung von Game for Peace in Game Turbo, um Belohnungen zu erhalten</string>
+    <string name="gb_award_noti_title">Die Game for Peace-Belohnungen sind da!</string>
     <string name="gb_barrage_chat_desc">Glaube immer daran, dass etwas Wunderbares passieren wird</string>
     <string name="gb_barrage_chat_pre_desc">Vorschau</string>
     <string name="gb_barrage_chat_text_color">Farbe</string>
@@ -2243,9 +2246,9 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
     <string name="gb_new_feature">Neue Funktion</string>
     <string name="gb_not_support_on_device">App kann auf dem äußeren Bildschirm nicht verwendet werden</string>
     <string name="gb_operat_frequently">Nicht so schnell!</string>
-    <string name="gb_performace_tips_title">Für ein besseres Erlebnis in den Leistungsmodus wechseln</string>
     <string name="gb_performace_switch_toast">In den Leistungsmodus gewechselt. Ihr Gerät könnte sich erhitzen und mehr Strom verbrauchen.</string>
     <string name="gb_performace_tips_button">Umschalten</string>
+    <string name="gb_performace_tips_title">Für ein besseres Erlebnis in den Leistungsmodus wechseln</string>
     <string name="gb_performance_balance">Ausgeglichen</string>
     <string name="gb_performance_balance_tips">"Ausgeglichener Modus spart Strom
 bei gleichzeitiger Senkung der Aktualisierungsrate und Temperaturgrenzen"</string>
@@ -2265,7 +2268,10 @@ erhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Gerät
     <string name="gb_predownload_noti_message">%2$1.2f GB an aktualisierten Inhalten befinden sich bereits auf diesem Gerät. Sie können sie nutzen, sobald die neue Version veröffentlicht wird.</string>
     <string name="gb_predownload_noti_title">%s im Hintergrund erfolgreich aktualisiert</string>
     <string name="gb_predownload_receive">Prämien erhalten</string>
+    <string name="gb_predownload_receive_error">Ein Netzwerkfehler ist aufgetreten. Erneut versuchen.</string>
+    <string name="gb_predownload_receive_max">Mehr Belohnungen sind auf diesem Gerät nicht möglich</string>
     <string name="gb_predownload_receive_tips">Hintergrundaktualisierung einschalten, um Prämien zu erhalten</string>
+    <string name="gb_predownload_receiving">Empfangen…</string>
     <string name="gb_predownload_title">Hintergrundaktualisierungen</string>
     <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
     <string name="gb_shoulder_guide_message1">[L] auf eine beliebige Funktionsposition verschieben, um es über den Pop-up-Auslöser zu verwenden.</string>
@@ -3411,6 +3417,7 @@ Stromverbrauch"</string>
     <string name="pc_battery_history_rank_percent_menu_item">Prozent</string>
     <string name="pc_battery_history_total_consumption_title">Gesamte Leistungsaufnahme</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
+    <string name="pc_emergency_call">Notfall</string>
     <string name="pc_endurance_calculation">Berechnen…</string>
     <string name="pc_fast_charge_notifi_action_text_on">Erhöhen</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Akkustand für Erinnerungen einstellen</string>
@@ -3430,6 +3437,9 @@ Stromverbrauch"</string>
     <string name="pc_hidemode_performance">Leistung</string>
     <string name="pc_hidemode_performance_title">Leistungsmodus</string>
     <string name="pc_hidemode_power_save">Stromsparen</string>
+    <string name="pc_high_temp_protection_noti_bt_text">Verstanden</string>
+    <string name="pc_high_temp_protection_noti_summary">Hotspots, mobile Daten und Standortdienste können jetzt nicht verwendet werden</string>
+    <string name="pc_high_temp_protection_noti_tile">Ihr Gerät ist überhitzt</string>
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s Min hinzugefügt, ca. %2$s T betriebsbereit</string>
@@ -3456,7 +3466,9 @@ Stromverbrauch"</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d Std %2$d Min seit letztem Laden</string>
     <string name="pc_statistics_battery_use_summary">%s seit letztem Laden</string>
     <string name="pc_statistics_battery_use_title">Akkuverbrauch</string>
+    <string name="pc_temperature_too_high">Gerät überhitzt</string>
     <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
+    <string name="pc_wait_device_cools_down">Warten Sie, bis Ihr Gerät abgekühlt ist, um diese Funktion zu nutzen</string>
     <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi KI</string>
     <string name="per_month_pkg_traffic_settings">Datenlimit festlegen</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
@@ -3541,6 +3553,7 @@ Stromverbrauch"</string>
     <string name="permission_instruction_send_mms">Diese Berechtigung erlaubt Apps, Multimedia-Nachrichten zu senden, was zusätzliche Kosten verursachen kann. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtige Nachrichten zu versenden.</string>
     <string name="permission_instruction_send_payment_sms">Diese Berechtigung erlaubt Apps, kostenpflichtige Textnachrichten zu senden.</string>
     <string name="permission_instruction_send_sms">Diese Berechtigung erlaubt Apps, Textnachrichten zu versenden, was zusätzliche Kosten verursachen kann. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtige Nachrichten zu versenden.</string>
+    <string name="permission_instruction_shake">Mit dieser Berechtigung können Apps die Ausrichtung und Bewegung Ihres Geräts verfolgen (z. B. Schütteln, Kippen und Drehen)</string>
     <string name="permission_instruction_show_locked">Diese Berechtigung erlaubt Apps, Elemente auf Ihrem Sperrbildschirm anzuzeigen. Bösartige Apps können diese Berechtigung nutzen, um Ihnen lästige Werbung zu zeigen.</string>
     <string name="permission_instruction_sociality">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die in Social Media-Apps erzeugten Dateien zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_storage">Wenn Sie Apps erlauben, auf Dateien in ihren eigenen Ordnern zuzugreifen, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie und auf Dateien, die in Social Media-Apps erstellt wurden, zugreifen dürfen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
@@ -3862,6 +3875,7 @@ Stromverbrauch"</string>
     <string name="power_setting_wireless_reverse_charging_summary">Kompatible Geräte kabellos laden</string>
     <string name="power_setting_wireless_reverse_charging_title">Kabelloses Umkehrladen</string>
     <string name="power_settings_category_title">Akkuanzeige</string>
+    <string name="power_settings_firmware_update_title">Firmware-Aktualisierungen</string>
     <string name="power_settings_lock_screen_saver_title">Sperrbildschirmeinstellungen</string>
     <string name="power_settings_number">Prozent</string>
     <string name="power_settings_saver_title">Stromsparen</string>
@@ -5085,6 +5099,7 @@ Um ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string
     <string name="storage_system_memory_expansion">Speichererweiterung</string>
     <string name="storage_system_memory_expansion_tip">RAM durch Belegung von Speicherplatz erweitern</string>
     <string name="storage_system_other_tip">Daten, die für den normalen Betrieb des Systems erforderlich sind (Dateigröße kann sich im Laufe der Zeit ändern)</string>
+    <string name="storage_system_other_tip_new">Enthält den für Systembetrieb und Upgrades erforderlichen Speicherplatz. Die Größe dieser Partition schwankt je nach Systemstatus.</string>
     <string name="storage_unmount_failure">%1$s aushängen nicht möglich</string>
     <string name="storage_unmount_success">%1$s erfolgreich ausgehängt</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 formatieren</string>
@@ -5772,6 +5787,8 @@ Wollen Sie es übernehmen?"</string>
     <string name="vb_video_effects_dolby_headset">" (Nur Kopfhörer)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos ist an</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Erweitertes Stereo</string>
+    <string name="vb_video_effects_immersion_sound">Immersiver Klang</string>
+    <string name="vb_video_effects_immersion_sound_summary">Erleben Sie Immersion und Raumgefühl, wenn unterstützte Audiodateien über Kopfhörer abgespielt werden</string>
     <string name="vb_video_effects_liquid_summary">Klarheit von Dialogen in Videos verbessern</string>
     <string name="vb_video_effects_only_headphone">Funktioniert nur mit Kopfhörern</string>
     <string name="vb_video_effects_setting_black_white">SW</string>
@@ -5792,6 +5809,7 @@ Wollen Sie es übernehmen?"</string>
     <string name="vb_video_effects_spatial">Kopfbewegung verfolgen</string>
     <string name="vb_video_effects_spatial_summary">"Anpassen des Surround Sound anhand der Kopfbewegung
 *Wird nur von Gaming-Kopfhörermodellen unterstützt"</string>
+    <string name="vb_video_effects_spatial_summary_new">Erleben Sie ein verbessertes Raum- und Richtungsgefühl für unterstützte Audio- und Videodateien und passen Sie den immersiven Klang basierend auf Kopfbewegungen an</string>
     <string name="vb_video_effects_srs_premium_sound">Ton</string>
     <string name="vb_video_super_division">Skalieren</string>
     <string name="vb_video_super_division_desc">"Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.

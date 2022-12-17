@@ -579,7 +579,9 @@
     <string name="pa_shopping_widget_no_cta_content_desc">Tippen, um die Erlaubnis zur Nutzung von Shopping zu erteilen</string>
     <string name="pa_shopping_widget_no_network_content_desc">Netzwerkverbindung fehlgeschlagen</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Shopping-Datenschutzerklärung zustimmen, um diese Funktion zu verwenden. Zur Anzeige tippen.</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Diesem Widget die Berechtigung erteilen, Gutscheine und Angebote für Ihre bevorzugten E-Commerce-Plattformen zu erhalten</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Einstellungen</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Erteilen</string>
     <string name="pa_shopping_widget_title">Einkaufen</string>
     <string name="pa_shortcut_accessibility_description">Infoassistent bietet Verknüpfungen für ausgewählte Drittanbieter-Apps. Diese Verknüpfungen funktionieren nicht, wenn Sie die Funktion deaktivieren.</string>
     <string name="pa_shortcut_accessibility_service">Infoassistent</string>

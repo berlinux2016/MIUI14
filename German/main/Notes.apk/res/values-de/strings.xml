@@ -51,6 +51,9 @@
     <string name="app_name">Notizen</string>
     <string name="app_notification_info">Notizen arbeiten im Hintergrund</string>
     <string name="app_widget">Notizen</string>
+    <string name="app_widget_name_create_note">Notizen erstellen</string>
+    <string name="app_widget_name_create_todo">Aufgaben erstellen</string>
+    <string name="app_widget_name_fast_entry">Verknüpfungen</string>
     <string name="app_widget_name_new">Notizen</string>
     <string name="application_icon">App-Symbol</string>
     <string name="audio_btn_mode_meeting">Konferenz</string>

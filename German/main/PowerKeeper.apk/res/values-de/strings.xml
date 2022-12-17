@@ -39,6 +39,7 @@
     <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="checking_intranet">Intranet-Verbindung prüfen…</string>
     <string name="chip_text">Chiptext</string>
+    <string name="clear_temperature">Temp. beenden</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
@@ -299,6 +300,8 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
     <string name="scenario_policies_summary">Verschiedene Stromsparstrategien für verschiedene Szenarien anwenden</string>
     <string name="scenario_policies_title">Smarte Szenarien</string>
     <string name="scenario_policies_warmcontrol">Temperaturkontrolle</string>
+    <string name="screen_off_current">Bildschirm aus DC</string>
+    <string name="screen_on_current">Bildschirm an DC</string>
     <string name="search_menu_title">Suchen</string>
     <string name="search_result_text">Keine Apps gefunden</string>
     <string name="send">Senden</string>
@@ -396,6 +399,7 @@ Stromsparen wird wichtige Apps bevorzugt behandeln."</string>
     <string name="title_home">Startseite</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
+    <string name="trig_temperature">Temp. starten</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
