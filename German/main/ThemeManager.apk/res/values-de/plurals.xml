@@ -137,6 +137,14 @@
         <item quantity="other">in %d Minuten</item>
         <item quantity="one">in 1 Minute</item>
     </plurals>
+        <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Für %1$d Supersymbole ist ein Update verfügbar</item>
+        <item quantity="one">Für %1$d Supersymbol ist ein Update verfügbar</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Aktualisierung von %1$d Supersymbolen</item>
+        <item quantity="one">Aktualisierung von %1$d Supersymbol</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">gerade eben</item>
     </plurals>
@@ -163,6 +171,10 @@
     <plurals name="resource_download_notification_title_many">
         <item quantity="one">%1$d Elemente erfolgreich heruntergeladen</item>
         <item quantity="other">%1$d Element erfolgreich heruntergeladen</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Coins/Satz</item>
+        <item quantity="one">%1$s Mi Coin/Satz</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f Punkte</item>

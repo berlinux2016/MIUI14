@@ -108,7 +108,7 @@
     <string name="avatar_picker_title">Profilbild wählen</string>
     <string name="b_negative">B negativ</string>
     <string name="b_positive">B positiv</string>
-    <string name="back_navigation_animation">Vorausschauende  Zurück-Animationen</string>
+    <string name="back_navigation_animation">Vorausschauende Zurück-Animationen</string>
     <string name="back_navigation_animation_dialog">Diese Einstellung aktiviert Systemanimationen für vorausschauende Gestenanimation. Sie erfordert die Einstellung von enableOnBackInvokedCallback pro App auf true in der Manifestdatei.</string>
     <string name="back_navigation_animation_summary">Systemanimationen für vorausschauendes Zurück aktivieren.</string>
     <string name="battery_info_status_charging">Laden</string>

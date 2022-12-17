@@ -452,9 +452,9 @@
     <string name="available_via_passpoint">Verfügbar über %1$s</string>
     <string name="avatar_picker_title">Profilbild wählen</string>
     <string name="back">Zurück</string>
-    <string name="back_navigation_animation">Vorausschauende Hintergrundanimationen</string>
+    <string name="back_navigation_animation">Vorausschauende Zurück-Animationen</string>
     <string name="back_navigation_animation_dialog">Diese Einstellung aktiviert Systemanimationen für vorausschauende Gestenanimation. Sie erfordert die Einstellung von enableOnBackInvokedCallback pro App auf true in der Manifestdatei.</string>
-    <string name="back_navigation_animation_summary">Systemanimationen für vorausschauenden Hintergrund aktivieren</string>
+    <string name="back_navigation_animation_summary">Systemanimationen für vorausschauendes Zurück aktivieren</string>
     <string name="band_24G">" (2,4-GHz-Band)"</string>
     <string name="band_5G">" (5-GHz-Band)"</string>
     <string name="basic_status">Unterhaltung öffnen</string>
@@ -582,7 +582,7 @@
     <string name="bluetooth_hearing_aid_left_active">Aktiv, nur links</string>
     <string name="bluetooth_hearing_aid_left_and_right_active">Aktiv, links und rechts</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Mit Hörgerät verbunden</string>
-    <string name="bluetooth_hearing_aid_profile_summary_use_for">Als Hörgerät verwenden</string>
+    <string name="bluetooth_hearing_aid_profile_summary_use_for">Für Hörgerät verwendet</string>
     <string name="bluetooth_hearing_aid_right_active">Aktiv, nur rechts</string>
     <string name="bluetooth_hearingaid_left_battery_level">Links - %1$s Akku</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Linkes Hörgerät koppeln…</string>

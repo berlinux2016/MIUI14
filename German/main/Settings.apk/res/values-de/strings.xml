@@ -690,7 +690,7 @@ benachrichtigungen erlauben"</string>
     <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen</string>
     <string name="allow_sound">Ton erlauben</string>
     <string name="allow_sound_title">Ton abspielen erlauben</string>
-    <string name="allow_turn_screen_on">Einschalten des Bildschirms erlauben</string>
+    <string name="allow_turn_screen_on">Bildschirm einschalten erlauben</string>
     <string name="allow_turn_screen_on_description">Einer App erlauben, den Bildschirm einzuschalten. Wenn diese Erlaubnis erteilt wird, kann die App den Bildschirm jederzeit ohne Ihre ausdrückliche Absicht einschalten.</string>
     <string name="allow_vibrate_title">Vibration erlauben</string>
     <string name="already_delete_system_app">Deinstallierte System-Apps</string>
@@ -1090,14 +1090,15 @@ Zuletzt am %2$s ausgeführt"</string>
     <string name="ba_security_summary_pin_unavailable">Nicht verfügbar</string>
     <string name="back">Zurück</string>
     <string name="back_button">Zurück</string>
-    <string name="back_double_tap">Rückseite doppelt antippen</string>
+    <string name="back_double_tap">Zurück doppelt antippen</string>
     <string name="back_key">Zurück</string>
+    <string name="back_navigation_animation">Vorausschauende Zurück-Animationen</string>
     <string name="back_navigation_animation_dialog">Diese Einstellung aktiviert Systemanimationen für vorausschauende Gestenanimation. Sie erfordert die Einstellung von enableOnBackInvokedCallback pro App auf true in der Manifestdatei.</string>
-    <string name="back_navigation_animation_summary">Systemanimationen für vorausschauenden Hintergrund aktivieren</string>
+    <string name="back_navigation_animation_summary">Systemanimationen für vorausschauendes Zurück aktivieren</string>
     <string name="back_sensitivity_dialog_message">Höhere Empfindlichkeit kann mit allen App-Gesten an den Bildschirmrändern kollidieren</string>
-    <string name="back_sensitivity_dialog_title">Empfindlichkeit Rückseite</string>
-    <string name="back_tap">Rückseite antippen</string>
-    <string name="back_triple_tap">Rückseite dreifach antippen</string>
+    <string name="back_sensitivity_dialog_title">Empfindlichkeit Zurück</string>
+    <string name="back_tap">Zurück antippen</string>
+    <string name="back_triple_tap">Zurück dreifach antippen</string>
     <string name="background_activity_disabled_dialog_text">"Da diese App nicht auf Akkuoptimierung eingestellt ist, können Sie sie nicht einschränken.
 
 Um die App einzuschränken, schalten Sie zuerst die Akkuoptimierung ein."</string>
@@ -1674,11 +1675,11 @@ Sie haben sich noch nicht mit %2$s verbunden."</string>
     <string name="bluetooth_hd_music_play_title">%d kHz-Audio abspielen</string>
     <string name="bluetooth_headset_profile_summary_connected">Mit Sprachtelefonie verbunden</string>
     <string name="bluetooth_headset_profile_summary_use_for">Für Sprachtelefonie verwenden</string>
-    <string name="bluetooth_hearing_aid_left_active">Aktiv (nur links)</string>
-    <string name="bluetooth_hearing_aid_left_and_right_active">Aktiv (beide)</string>
+    <string name="bluetooth_hearing_aid_left_active">Aktiv, nur links</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Aktiv, links und rechts</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Mit Hörgerät verbunden</string>
-    <string name="bluetooth_hearing_aid_profile_summary_use_for">Als Hörgerät verwenden</string>
-    <string name="bluetooth_hearing_aid_right_active">Aktiv (nur rechts)</string>
+    <string name="bluetooth_hearing_aid_profile_summary_use_for">Für Hörgerät verwendet</string>
+    <string name="bluetooth_hearing_aid_right_active">Aktiv, nur rechts</string>
     <string name="bluetooth_hearingaid_left_battery_level">Links - %1$s Akku</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Linkes Hörgerät koppeln…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Rechts - %1$s Akku</string>
@@ -2487,6 +2488,7 @@ Nach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatum
     <string name="colors_viewpager_content_description">Farbvorschau</string>
     <string name="common_settings">Allgemein</string>
     <string name="complete_parameters">Alle Spezifikationen</string>
+    <string name="complete_parameters_new">Ausführliche Infos und Spezifikationen</string>
     <string name="complete_settings">Erweitert</string>
     <string name="compute_backup_info">Sicherungsinfo abfragen…</string>
     <string name="compute_delete_contact_info">Info abfragen…</string>
@@ -2830,6 +2832,7 @@ Damit Sie Ihr Gerät wieder verwenden können, müssen Sie es auf Werkseinstellu
     <string name="dark_wallpaper_mode">Hintergrund an den Dark Mode anpassen</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Zuklappen</string>
     <string name="dashboard_title">Einstellungen</string>
+    <string name="data_acceleration_summery">Sowohl WLAN als auch mobile Daten nutzen, um die Geschwindigkeit zu erhöhen, wenn die WLAN-Verbindung schlecht ist</string>
     <string name="data_during_calls_summary">Dieser SIM erlauben, nur für mobile Daten bei Anrufen verwendet zu werden</string>
     <string name="data_during_calls_title">Daten bei Anrufen</string>
     <string name="data_item_desc">Daten</string>
@@ -2978,6 +2981,7 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="dc_light_summary_new">Ausgedehntes Flimmern und Augenbelastung bei schlechten Lichtverhältnissen reduzieren</string>
     <string name="dc_light_title">Antiflimmer-Modus</string>
     <string name="dclight_unavailable_prompt">Antiflimmer-Modus wird nur vom 2. Bildschirm unterstützt</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Smart-DDS-Schalter ist an</string>
     <string name="debug_app">Debug-App auswählen</string>
     <string name="debug_app_not_set">Keine Debug-App ausgewählt</string>
     <string name="debug_app_set">Debug-App: %1$s</string>
@@ -4465,6 +4469,9 @@ Wenn Sie automatische Sicherungen einschalten, werden Geräte- und App-Daten per
     <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Schaltflächen anstelle von Vollbildgesten umschalten.</string>
     <string name="haptic_agent_completion_01_content_description">Erledigte Aufgabe</string>
     <string name="haptic_cursor_movement_07_content_description">Helligkeit einstellen</string>
+    <string name="haptic_descripthion_for_max_level">Stark</string>
+    <string name="haptic_descripthion_for_middle_level">Standard</string>
+    <string name="haptic_descripthion_for_min_level">Leicht</string>
     <string name="haptic_experience_details">Haptisches Feeback &amp; Erreichbarkeit</string>
     <string name="haptic_feedback_enable_title">Bei Berührung vibrieren</string>
     <string name="haptic_feedback_progress">Level haptisches Feedback</string>
@@ -4671,6 +4678,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="imitate_real_keyboard_summary">Praktisch, wenn Ihr Gerät auf einer flachen Oberfläche liegt</string>
     <string name="immediately_destroy_activities">Aktionen nicht speichern</string>
     <string name="immediately_destroy_activities_summary">Aktivität löschen, sobald der Benutzer diese beendet</string>
+    <string name="immersive_audio_sources">Immersions-Audio</string>
     <string name="import_again">Erneut importieren</string>
     <string name="import_data_from_icloud">Daten aus iCloud importieren</string>
     <string name="import_from_xiaomi_account_hint1">"1. Mi Talk herunterladen und anmelden, http://www.miliao.com
@@ -4898,11 +4906,13 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
     <string name="keyguard_vertical_clock_title">Vertikale Uhr</string>
     <string name="keywords_accessibility">Benutzerfreundlichkeit, leichter Zugang, Unterstützung, Hilfsmittel</string>
+    <string name="keywords_accessibility_vibration_primary_switch">Haptik, Vibrieren, Vibration</string>
     <string name="keywords_accounts">Konto</string>
     <string name="keywords_add_an_account">Arbeitsprofil</string>
     <string name="keywords_add_language">Sprache hinzufügen, eine Sprache hinzufügen</string>
     <string name="keywords_airplane">Flugzeug;Flugmodus;Flugzeugmodus;Flug;Flug-Modus</string>
     <string name="keywords_airplane_safe_networks">Flugzeug, flugzeugsicher, flugsicher</string>
+    <string name="keywords_alarm_vibration">Haptik, Vibrieren, Empfindlichkeit, Alarm</string>
     <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
     <string name="keywords_all_apps">Apps;Download;Anwendungen;System;App</string>
     <string name="keywords_ambient_display">ankommende benachrichtigung</string>
@@ -4915,6 +4925,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_applications_settings">Apps</string>
     <string name="keywords_assist_gesture_launch">gesten</string>
     <string name="keywords_assist_input">standard;assistent</string>
+    <string name="keywords_audio_description">Audiobeschreibung, Audio, Beschreibung, Sehschwäche</string>
     <string name="keywords_auto_click">Motor, Maus</string>
     <string name="keywords_auto_rotate">Rotation;Bildschirm drehen;Bildschirm Orientierung;Portrait-Modus;Landschaft-Modus;vertikal;horizontal</string>
     <string name="keywords_backup">Backup;back up;Sicherung</string>
@@ -4930,6 +4941,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
     <string name="keywords_bluetooth_settings">verbunden;gerät;kopfhörer;headset;lautsprecher;drahtlos;kabellos;koppeln;ohrstöpsel;musik;medien</string>
     <string name="keywords_bold_text">Hoher Kontrast, Sehschwäche, fette Schrift, fette Schriftart</string>
+    <string name="keywords_button_navigation_settings">Navigationstaste, Home-Taste</string>
     <string name="keywords_cards_passes">Karten, Pässe</string>
     <string name="keywords_change_wifi_state">wlan;wi-fi;toggle;steuerung</string>
     <string name="keywords_color_correction">Farbe anpassen</string>
@@ -4988,22 +5000,26 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_magnification">Fensterlupe, Zoom, Vergrößerung, Sehschwäche, vergrößern, größer machen</string>
     <string name="keywords_media_controls">medien</string>
     <string name="keywords_media_management_apps">Medien, Datei, Management, Manager, Verwalten, Bearbeiten, Editor, App, Anwendung, Programm</string>
+    <string name="keywords_media_vibration">Haptik, Vibrieren, Empfindlichkeit, Medien</string>
     <string name="keywords_model_and_hardware">seriennummer;hardware version</string>
     <string name="keywords_more_default_sms_app">Textnachricht</string>
     <string name="keywords_more_mobile_networks">Mobilfunk;Mobil;Mobilfunkanbieter;drahtlos;kabellos;Daten;4g;3g;2g;LTE</string>
     <string name="keywords_network_name_display">Netzwerkname anzeigen</string>
     <string name="keywords_network_reset">zurücksetzen;wiederherstellen;Werkszustand</string>
     <string name="keywords_notification_vibration">Haptik;vibrieren;Sensibilität;Empfindlichkeit</string>
+    <string name="keywords_nr_advanced_calling">vo5g, vonr, erweiterte Anrufe, 5g Anrufe</string>
     <string name="keywords_one_handed">Erreichbarkeit</string>
     <string name="keywords_paper_mode">Flux;Lesen;Lesemodus;Blaues Licht;Augen schützen</string>
     <string name="keywords_payment_settings">zahlen;tippen;Zahlungen</string>
     <string name="keywords_printing">Drucker</string>
     <string name="keywords_profile_challenge">work challenge;Arbeit;Profil</string>
     <string name="keywords_quick_ball">Berührungsassistent;Verknüpfung;Verknüpfungen;Schalter;Schalter</string>
+    <string name="keywords_ramping_ringer_vibration">Haptik, vibrieren, Telefon, anrufen, klingeln, schrittweise</string>
     <string name="keywords_reduce_bright_colors">Lichtempfindlichkeit, Photophobie, dunkles Thema, Migräne, Kopfschmerzen, Lesemodus, Nachtmodus, Helligkeit reduzieren, Weißpunkt</string>
     <string name="keywords_reset_apps">zurücksetzen Präferenzen Standard</string>
     <string name="keywords_ring_vibration">haptik;vibrieren;telefon;anruf;sensitivität</string>
     <string name="keywords_rtt">Schwerhörigkeit, Hörverlust, Untertitel, Teletype, tty</string>
+    <string name="keywords_screen_resolution">FHD, QHD, Auflösung, 1080p, 1440p</string>
     <string name="keywords_screen_timeout">bildschirm;sperrzeit;timeout;sperrbildschirm</string>
     <string name="keywords_silent">Still;Stumm;Ton ausschalten</string>
     <string name="keywords_sim_status">netzwerk;mobilnetzstatus;servicestatus;signalstärke;mobilenetztyp;roaming;iccid</string>
@@ -5029,6 +5045,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_users">Einschränkung;beschränken;beschränkt</string>
     <string name="keywords_vibrate">Vibrieren;Vibration</string>
     <string name="keywords_vibrate_on_touch">Vibration stoppen;tippen;Tastatur</string>
+    <string name="keywords_vibration">Haptik, Vibrieren, Vibration</string>
     <string name="keywords_voice_input">Erkennungszeichen;Eingabe;Sprache;sprechen;Freisprechen;Freihand;Erkennung;offensiv;Wort, Audio;Verlauf;Bluetooth-Headset</string>
     <string name="keywords_vr_listener">VR;Virtual Reality;Listener;Stereo;Helper Service</string>
     <string name="keywords_wallet">wallet, Geldbörse, Geldbeutel</string>
@@ -5146,6 +5163,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="legacy_dhcp_client_summary">Alten DHCP-Client von Lollipop anstelle des neuen Android DHCP Client verwenden</string>
     <string name="legacy_navigation_summary">Zurück zur Startseite und Apps mit Schaltflächen am unteren Bildschirmrand wechseln</string>
     <string name="legacy_navigation_title">3-Tasten-Navigation</string>
+    <string name="legacy_power_menu">Altes Power-Menü</string>
     <string name="legal_information">Rechtliche Hinweise</string>
     <string name="legal_workday">Werktage</string>
     <string name="legal_workday_invalidate">Mo-Fr (Feriendetails abgelaufen)</string>
@@ -6445,6 +6463,7 @@ Betriebssystem auswählen:"</string>
     <string name="multi_face_name_prefix">"Gesicht "</string>
     <string name="multi_face_number_reach_limit">Max. 2 Gesichter können hinzugefügt werden</string>
     <string name="multi_network_acceleration_app_settings">Netzwerkbeschleunigung für Apps</string>
+    <string name="multi_network_acceleration_summery">Mit mehreren WLAN gleichzeitig verbinden, um die Geschwindigkeit zu erhöhen</string>
     <string name="multi_select_title">%1$s ausgewählt</string>
     <string name="multi_touch_points_category_title">Multitouchpunkte</string>
     <string name="multi_touch_points_preference">Zum Einschalten neustarten</string>
@@ -6555,6 +6574,7 @@ Betriebssystem auswählen:"</string>
     <string name="network_3G_only">Nur 3G</string>
     <string name="network_4G">4G (empfohlen)</string>
     <string name="network_5G_recommended">5G (empfohlen)</string>
+    <string name="network_acceleration">Netzwerkbeschleunigung</string>
     <string name="network_alarm">Internet-Anrufe nicht stumm schalten</string>
     <string name="network_alarm_summary">Hinweis: Einige Apps sind nicht kompatibel mit dieser Funktion. %1$s</string>
     <string name="network_alarm_summary_reg">Unterstützte Apps anzeigen</string>
@@ -6562,6 +6582,8 @@ Betriebssystem auswählen:"</string>
     <string name="network_and_internet_preferences_summary">Mit öffentlichen Netzen verbinden</string>
     <string name="network_and_internet_preferences_title">Netzwerkeinstellungen</string>
     <string name="network_assistant">Datenverbrauch</string>
+    <string name="network_auto_switch">Zwischen Netzwerken umschalten</string>
+    <string name="network_auto_switch_summery">Auf mobile Daten umschalten, wenn das WLAN-Signal schwach oder das Netzwerk nicht verfügbar ist</string>
     <string name="network_changed_noti_summary">Nutzung mobiler Daten</string>
     <string name="network_changed_noti_title">Vom WLAN getrennt</string>
     <string name="network_changed_notification_text">Ihr Mobilfunknetz hat sich geändert</string>
@@ -6583,6 +6605,7 @@ Betriebssystem auswählen:"</string>
     <string name="network_dashboard_summary_data_usage">Datennutzung</string>
     <string name="network_dashboard_summary_hotspot">Hotspot</string>
     <string name="network_dashboard_summary_mobile">Mobil</string>
+    <string name="network_dashboard_summary_no_mobile">WLAN, Hotspot</string>
     <string name="network_dashboard_title">Netzwerk &amp; Internet</string>
     <string name="network_detail">%s Netzwerkdetails</string>
     <string name="network_disconnected">Getrennt</string>
@@ -7300,7 +7323,7 @@ Lesen und akzeptieren Sie die %s, bevor Sie diesen Dienst nutzen."</string>
     <string name="phone_info_label">Über das Telefon</string>
     <string name="phone_language">Sprache</string>
     <string name="photo_data">Fotos und Videos</string>
-    <string name="physical_keyboard_title">Hardwaretastatur</string>
+    <string name="physical_keyboard_title">Physische Tastatur</string>
     <string name="pick_up_gesture_wakeup_title">Gerät zum Aufwecken anheben</string>
     <string name="picker_text">Zeitauswahl</string>
     <string name="pico_installed">Installiert</string>
@@ -9299,6 +9322,7 @@ Durch den Wechsel wird Ihr %1$s-Dienst nicht gekündigt."</string>
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="solid_text">Verwendet niederfrequentes taktiles Feedback und entsprechende visuelle Übergänge, um ein solides, kraftvolles Gestenerlebnis zu schaffen</string>
     <string name="sometimes_running">Läuft manchmal (%s)</string>
     <string name="sort_avg_use">Nach durchschnittl. Verwendung sortieren</string>
     <string name="sort_max_use">Nach max. Verwendung sortieren</string>
@@ -11718,6 +11742,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
     <string name="wifi_password">Passwort</string>
     <string name="wifi_poor_network_detection">Schlechte Verbindungen vermeiden</string>
     <string name="wifi_poor_network_detection_summary">Keine WLAN mit schlechter Verbindung nutzen</string>
+    <string name="wifi_primary">Primäres Netzwerk</string>
     <string name="wifi_priority_changed" formatted="false">Alter Wert %s | Neuer Wert %s</string>
     <string name="wifi_priority_label">Priorität</string>
     <string name="wifi_priority_settings_label">Prioritätseinstellungen</string>
@@ -11742,6 +11767,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
     <string name="wifi_required_info_text">Ihr Telefon muss WLAN-Verbindung haben, damit die Einrichtung abgeschlossen wird. Nach Einrichtung können Sie zwischen WLAN und Mobilfunk wechseln.</string>
     <string name="wifi_sap_no_channel_error">5-GHz-Band in diesem Land nicht verfügbar</string>
     <string name="wifi_save">Speichern</string>
+    <string name="wifi_saved_access_point">Gespeicherte Netzwerke</string>
     <string name="wifi_saved_access_points_label">Gespeicherte Netzwerke</string>
     <string name="wifi_saved_access_points_titlebar">Gespeicherte Netzwerke</string>
     <string name="wifi_saved_other_networks_tab">Andere Netzwerke</string>
@@ -11750,6 +11776,7 @@ Das Netzwerk als versteckt einzustellen, wird Ihre Routereinstellungen nicht än
     <string name="wifi_scan_always_available_title">Scannen immer erlauben</string>
     <string name="wifi_scan_always_confirm_allow">Erlauben</string>
     <string name="wifi_scan_always_confirm_deny">Verweigern</string>
+    <string name="wifi_settings_primary_switch_title">WLAN verwenden</string>
     <string name="wifi_scan_always_turn_on_message_unknown">"Zur Verbesserung der Standortgenauigkeit und für andere Zwecke möchte eine unbekannte App Netzwerk-Scannen einschalten, auch wenn WLAN ausgeschaltet ist.
 
 Für alle Apps, die scannen möchten, erlauben?"</string>
@@ -12032,6 +12059,8 @@ Speicherung von Anmeldedaten ist evtl. nicht aktiviert."</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Abgelaufen</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Temporär schlechte Netzwerkbedingungen</string>
     <string name="wifitrackerlib_wifi_remembered">Gespeichert</string>
+    <string name="wifitrackerlib_wifi_standard_legacy">Alt</string>
+    <string name="wifitrackerlib_wifi_standard_unknown">Unbekannt</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Kostenfrei</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WLAN wird vorerst nicht automatisch verbunden</string>
     <string name="wimax_settings">4G</string>
