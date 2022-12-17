@@ -103,7 +103,6 @@
     <string name="help_content">Wenn Sie das gewünschte Gerät nicht finden können, bitten Sie die andere Person, Mi Share einzuschalten.</string>
     <string name="image_decode_failed">Bild entschlüsseln nicht möglich</string>
     <string name="image_not_found">Bild nicht gefunden</string>
-    <string name="lenovo_phone">Lenovo-Telefon</string>
     <string name="loading_text_format" formatted="false">Private Daten aus Fotos entfernen (%d/%d)…</string>
     <string name="long_screenshot_error">Ein Fehler ist aufgetreten. Erneut versuchen.</string>
     <string name="long_screenshot_guide_text">Hier tippen, um einen\nScreenshot mit Bildlauf zu erstellen</string>
@@ -206,7 +205,6 @@
     <string name="photo_save_to_msg">Gespeichert in %s</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="remover_menu_processing">Verarbeitung…</string>
-    <string name="samsung_phone">Samsung-Telefon</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

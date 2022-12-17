@@ -763,6 +763,8 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="system_alert">Internetverbindung</string>
+    <string name="talkback_close">Schließen</string>
+    <string name="talkback_close_open_picture">Abbrechen</string>
     <string name="talkback_continue">Fortsetzen</string>
     <string name="talkback_doc_filter">Filter-Taste</string>
     <string name="talkback_list_play">Alles abspielen</string>

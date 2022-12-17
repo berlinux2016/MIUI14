@@ -878,6 +878,7 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
     <string name="unknown">Unbekannt</string>
     <string name="unknown_apps_admin_dlg_text">Ihr Administrator erlaubt die Installation von Apps aus unbekannten Quellen nicht</string>
     <string name="unknown_apps_dlg_text">Aus Sicherheitsgründen können Sie auf Ihrem Telefon keine Apps von unbekannten Quellen installieren</string>
+    <string name="unknown_error_info">Unbekannter Fehler</string>
     <string name="unknown_installer">Nichtidentifizierte PC-Tools</string>
     <string name="unknown_source_allow">Zulassen</string>
     <string name="unknown_source_forbidden">Einschränken</string>

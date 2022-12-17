@@ -103,7 +103,7 @@
     <string name="grant_permission_go_and_set_2">Einstellungen</string>
     <string name="grant_permission_remind_title">Berechtigungen erforderlich</string>
     <string name="grant_permission_storage">Dieser App den Speicherzugriff erlauben</string>
-    <string name="grant_permission_text">Galerie-Editor benötigt die folgende Berechtigung, um normal zu arbeiten: %s. Tippen Sie auf \"Einstellungen\", um sie zu erteilen.</string>
+    <string name="grant_permission_text">Galerie Editor benötigt die folgende Berechtigung, um normal zu arbeiten: %s. Tippen Sie auf \"Einstellungen\", um sie zu erteilen.</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -216,6 +216,14 @@
     <string name="refocus_type_relighting_small_face">3D-Beleuchtung funktioniert auf Fotos, bei denen Gesichter mehr Platz einnehmen als hier</string>
     <string name="refocus_type_static">Unschärfe</string>
     <string name="refocus_type_video">Lichtspuren</string>
+    <string name="saf_operation_guide_1">"Galerie Editor benötigt Ihre Erlaubnis, um Ihre Daten zu schützen und zu verwalten. "</string>
+    <string name="saf_operation_guide_2">Um die Berechtigung zu erteilen, tippen Sie auf \"%1$s\" und wählen dann \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Weiter</string>
+    <string name="saf_operation_guide_param2">Auf diesen Ordner zugreifen</string>
+    <string name="saf_requester_cancel">Abbrechen</string>
+    <string name="saf_requester_title">Galerie Editor den Zugriff auf \"%s\" erlauben</string>
+    <string name="saf_secret_album">Privates Album</string>
+    <string name="saf_secret_album_guide">Diese App benötigt die Erlaubnis, Elemente aus Ihrem privaten Album anzuzeigen.</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

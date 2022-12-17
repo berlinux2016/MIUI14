@@ -183,6 +183,8 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="facebook_login_btn_content_description">Mit Facebook anmelden</string>
     <string name="failed_dup_secure_phone_number">Diese Rufnummer ist bereits mit einem anderen Xiaomi-Konto verbunden.</string>
     <string name="failed_to_fetch_fql">Keine FAQ-Informationen erhalten, Netzwerkverbindung prüfen</string>
+    <string name="feedback_account_inconsistent_login_hint">Anscheinend haben Sie Ihr Konto gewechselt. Melden Sie sich bei Ihrem vorherigen Xiaomi Konto an.</string>
+    <string name="feedback_account_login_hint">Erst bei Ihrem Xiaomi-Konto anmelden</string>
     <string name="feedback_answer_detail_feedback_resolved">Ja</string>
     <string name="feedback_answer_detail_feedback_result">Danke für Ihr Feedback!</string>
     <string name="feedback_answer_detail_feedback_title">War das hilfreich?</string>
