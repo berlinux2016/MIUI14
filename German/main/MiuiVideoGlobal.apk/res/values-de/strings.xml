@@ -77,6 +77,7 @@
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Zustimmen</string>
     <string name="agree_and_continue">Zustimmen</string>
+    <string name="agree_label">Zustimmen</string>
     <string name="ai_animation_music_text">KI Soundtrack</string>
     <string name="ai_music_save_cancel">Abbrechen</string>
     <string name="ai_music_save_dialog_title">Speichern</string>
@@ -185,6 +186,7 @@
     <string name="cloud_online_switch">Personalisierte Empfehlungen</string>
     <string name="cloud_online_switch_close_time">Personalisierte Inhaltsempfehlungen können Sie in %s einschalten</string>
     <string name="cloud_online_switch_open_time">Personalisierte Inhaltsempfehlungen anzeigen</string>
+    <string name="cmp_tier_privacy_policy">Datenschutzerklärungen Dritter</string>
     <string name="collect_diagnosis_log">Logs sammeln</string>
     <string name="columbus_ad_flag_text">WERBUNG</string>
     <string name="columbus_player_close_desc">Sie werden Ihre Belohnung verlieren</string>
@@ -284,6 +286,7 @@
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="day">Tag</string>
     <string name="default_filedownloader_notification_content">FileDownloader läuft gerade</string>
+    <string name="default_title">Titel</string>
     <string name="default_upgrade_hint">"Hallo zusammen!
 Mi Video ist bereit für ein Update.
 App jetzt aktualisieren, um unsere neuen coolen Funktionen auszuprobieren!
@@ -307,8 +310,11 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="dialog_clearn_content">Browserverlauf jetzt löschen?</string>
     <string name="dialog_clearn_title">Verlauf löschen</string>
     <string name="dialog_delete_bookmarks_content">Lesezeichen jetzt löschen?</string>
+    <string name="dialog_disagree_continue">Fortfahren</string>
+    <string name="dialog_disagree_info">Wenn Sie der Mi Video-Datenschutzerklärung nicht zustimmen, können Sie unsere Online-Dienste nicht nutzen und nur die auf Ihrem Gerät gespeicherten Videos ansehen. Trotzdem fortfahren?</string>
     <string name="dialog_disagree_privacychange_info">Sie können die Online-Streaming-Dienste von Mi Video nicht nutzen, wenn Sie unserer Datenschutzerklärung nicht zustimmen. Tippen Sie auf \"Abbrechen\", um zurückzugehen, oder auf \"Ablehnen\", um fortzufahren und Mi Video nur als lokalen Player zu verwenden.</string>
     <string name="dialog_disagree_privacychange_title">"Ablehnen?"</string>
+    <string name="dialog_disagree_title">Datenschutzerklärung</string>
     <string name="dialog_edit_bookmarks">Lesezeichen bearbeiten</string>
     <string name="dialog_edit_hint_bookmarks_name">Lesezeichenname</string>
     <string name="dialog_item_add_video">Videos hinzufügen</string>
@@ -1568,6 +1574,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="recommend_slide_to_more">Wischen für mehr</string>
     <string name="recommend_switch_alert">Zum Entfernen dieses Bereichs gehen Sie zu den Einstellungen in Mi Video</string>
     <string name="recommend_to_you">Für Sie empfohlen</string>
+    <string name="reject_all_label">Alle ablehnen</string>
     <string name="reload_sub_title">Tippen, um erneut zu versuchen</string>
     <string name="reload_title">Netzwerkverbindung nicht möglich</string>
     <string name="remaining_space">Verfügbar: %s</string>
@@ -1651,6 +1658,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="share_ugc_content">Einen Blick auf %1$s werfen! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Mitmachen</string>
     <string name="share_ugc_waitting">Link generieren…</string>
+    <string name="show_options_label">Optionen anzeigen</string>
     <string name="show_the_location">Benachrichtigungstypen</string>
     <string name="sign_in">Anmelden</string>
     <string name="sign_in_google_account">Mit Google anmelden</string>
@@ -1995,6 +2003,11 @@ Es zeigt nichts an."</string>
     <string name="welcome_tip_into_mivideo">"Los geht's"</string>
     <string name="welcome_tip_skip">Überspringen</string>
     <string name="welcome_tip_title">Willkommen bei Mi Video</string>
+    <string name="widget_add_dialog_button_add">Hinzufügen</string>
+    <string name="widget_add_dialog_button_cancel">Abbrechen</string>
+    <string name="widget_add_dialog_desc_local">Mit diesem Widget können Sie auf Ihrem Gerät gespeicherte Audio- und Videodateien mit einem Tippen von Ihrem Startbildschirm aus abspielen. Jetzt hinzufügen?</string>
+    <string name="widget_add_dialog_desc_online">Mit diesem Widget können Sie die heute beliebten Videos mit einem Tippen von Ihrem Startbildschirm aus ansehen. Jetzt hinzufügen?</string>
+    <string name="widget_add_dialog_title">Widget hinzufügen</string>
     <string name="widget_local_video">Lokale Videos</string>
     <string name="widget_local_video_click">Tippen, um auf Ihrem Gerät gespeicherte Videos anzusehen</string>
     <string name="widget_more_channel">Weitere Kanäle</string>

@@ -69,6 +69,10 @@
         <item quantity="other">%d App-Benachrichtigungen verbergen?</item>
         <item quantity="one">Benachrichtigungen dieser App verbergen?</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s Apps sind aktiv</item>
+        <item quantity="one">%s App ist aktiv</item>
+    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d unwichtige Benachrichtigungen</item>
         <item quantity="one">%d unwichtige Benachrichtigung</item>

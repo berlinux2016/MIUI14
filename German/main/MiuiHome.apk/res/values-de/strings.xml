@@ -140,6 +140,7 @@
     <string name="app_drawer_guide_description">Finden Sie, was Sie suchen, in Ihren Lieblings-Apps</string>
     <string name="app_drawer_guide_title">App-Übersicht</string>
     <string name="app_drawer_tip_title">Wir haben Content-Feed durch App-Übersicht ersetzt.</string>
+    <string name="app_edit_icon">Symbol bearbeiten</string>
     <string name="app_install_state">Installiert</string>
     <string name="app_name">Kleines Popup</string>
     <string name="application_name">Systemlauncher</string>
@@ -293,6 +294,8 @@
     <string name="dialog_work_profile_content_2">Firmen-Apps &amp; -Daten sind für Ihre IT-Administration sichtbar</string>
     <string name="dialog_work_profile_title">Firmenprofil</string>
     <string name="disable_wallpaper_scroll">Hintergrundscrollen ausschalten</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Zum Bearbeiten müssen Sie die App zuerst aus dem Dock und dem Ordner verschieben</string>
+    <string name="dock_not_edit_icon_tip">Zum Bearbeiten müssen Sie die App zuerst aus dem Dock verschieben</string>
     <string name="double_tap_to_lock_title">2x tippen, um Bildschirm zu sperren</string>
     <string name="download_action">Herunterladen</string>
     <string name="drag_icon_to_homescreen_guide">App-Symbol gedrückt halten und dann ziehen, um eine Verknüpfung zum Startbildschirm hinzuzufügen</string>
@@ -304,6 +307,7 @@
     <string name="dual_app">Dual Apps</string>
     <string name="early_morning">Morgen</string>
     <string name="edit">Bearbeiten</string>
+    <string name="edit_folder">Ordner bearbeiten</string>
     <string name="edit_folder_title">Ordnernamen bearbeiten</string>
     <string name="edit_mode_dual_app">Dual App erstellen</string>
     <string name="edit_mode_group">Gruppe</string>
@@ -367,6 +371,12 @@
     <string name="fold_pair_install_shortcut_long_click">Gedrückt halten, um zum Startbildschirm hinzuzufügen</string>
     <string name="fold_pair_installed_shortcut_launcher">Diese Verknüpfung existiert bereits</string>
     <string name="folder_name">Ordner</string>
+    <string name="folder_not_edit_icon_tip">Zum Bearbeiten müssen Sie die App zuerst aus dem Ordner verschieben</string>
+    <string name="folder_picker_big_text">Vergrößert</string>
+    <string name="folder_picker_default_text">Normal</string>
+    <string name="folder_picker_options_tab_text">Größe</string>
+    <string name="folder_picker_sliding_button_tab_text">Hervorgehobene Apps vorschlagen</string>
+    <string name="folder_picker_tab_text">Ordner</string>
     <string name="frame_load_failed">Rahmen laden nicht möglich</string>
     <string name="free_style_apps_title">Apps wählen</string>
     <string name="free_style_drawer_title">Alle Apps</string>
@@ -450,6 +460,7 @@
     <string name="image_too_small_message">Originalbild ist nicht groß genug</string>
     <string name="in_app_result_by">In-App-Ergebnisse von</string>
     <string name="install">Installieren</string>
+    <string name="intelligent_exposed_button_summary_text">Smarte Vorschläge basierend auf Ihrer App-Nutzung verwenden, um Apps in vergrößerten Ordnern hervorzuheben</string>
     <string name="invalid_contact_shortcut">Ungültiger Kontakt</string>
     <string name="is_setting_wallpaper_message">Hintergrund einrichten…</string>
     <string name="is_system_wallpaper_message">Systemkomponenten löschen nicht möglich</string>
@@ -549,6 +560,7 @@
     <string name="minus_one_screen_none">Nichts anzeigen</string>
     <string name="miui_screen_config_title">Einstellungen Startbildschirm</string>
     <string name="miui_widget_menu_replace_text">Wechseln</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">Infoassistent unterstützt keine Widgets dieser Größe</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
@@ -922,6 +934,7 @@
     <string name="sort_by_abc">Nach Name sortieren</string>
     <string name="sort_by_frequency">Nach Nutzung sortieren</string>
     <string name="sort_by_not_defined">Autom. Sortierung</string>
+    <string name="split_screen_position_top">Oben teilen</string>
     <string name="start_activity_failed">Launcher starten nicht möglich</string>
     <string name="starting_preset_app">Starten…</string>
     <string name="status_bar_recent_memory_info1">%1$s von %2$s verfügbar</string>

@@ -523,10 +523,10 @@ Prüfen Sie Ihre SIM-Karte."</string>
     <string name="mms_block_alert_message">Alle MMS mit Ausnahme der von autorisierten Absendern gesendeten Nachrichten werden blockiert. Zu den zugelassenen Absendern gehören Mobilfunkanbieter, nationale Bahnbuchungssysteme etc.</string>
     <string name="mms_block_alert_ok">Blockieren</string>
     <string name="mms_block_alert_title">MMS blockieren</string>
-    <string name="mms_block_hint">"Dieser Absender ist nicht in Ihren Kontakten.
-Diese Nachricht kann unerwünscht sein."</string>
+    <string name="mms_block_hint">Dieser Absender ist nicht in Ihren Kontakten.\nDiese Nachricht kann unerwünscht sein.</string>
     <string name="mms_block_hint_highlight">MMS blockieren</string>
     <string name="mms_main_purpose">Um Zugriff auf die volle Funktionalität von Nachrichten zu erhalten, Mi Message und Smart Messaging einschalten.</string>
+    <string name="mms_main_purpose_new">Diese App muss sich mit dem Internet verbinden, um Ihnen grundlegende Dienste zur Verfügung zu stellen. Wir empfehlen, dass Sie die Dienste Mi Message und Smart Messaging aktivieren.</string>
     <string name="mms_mi_message_main_purpose">Willkommen bei Mi Message! Zur Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
     <string name="mms_mi_message_request_notice">Wir möchten, dass Sie das Beste aus Mi Message herausholen.</string>
     <string name="mms_mx_privacy_policy">Mi Message Datenschutzerklärung</string>
@@ -616,8 +616,7 @@ Diese Nachricht kann unerwünscht sein."</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Mi Message &gt; Einstellungen deaktivieren."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Mi Message von unbekannten Nummern blockieren</string>
     <string name="mx_filter_message_from_stranger_summary">"Sie können nach wie vor gewöhnliche SMS von unbekannten Nummern empfangen"</string>
-    <string name="mx_main_purpose">"Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer über das Internet senden, ohne dass Ihnen Kosten entstehen.
-Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht Kosten in Rechnung stellen."</string>
+    <string name="mx_main_purpose">Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer über das Internet senden, ohne dass Ihnen Kosten entstehen.\nFür die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht Kosten in Rechnung stellen.</string>
     <string name="mx_main_purpose_short">Mi Message erlaubt es MIUI-Benutzern, kostenlose SMS- und MMS-Nachrichten zu senden und zu empfangen.</string>
     <string name="mx_msg_pageview_setting_title">Einstellungen Mi Message </string>
     <string name="mx_on_sim_1">Mi Message mit SIM-Steckplatz 1</string>
@@ -1432,6 +1431,7 @@ Bisherige Versuche: %s."</string>
     <string name="voice_report_anytime">Immer</string>
     <string name="voice_report_off">Aus</string>
     <string name="voice_report_wiredon">Mit Kopfhörern</string>
+    <string name="wait_for_sp_mark_as_read">Einen Moment…</string>
     <string name="warning_show">Senden in %ds</string>
     <string name="web_content_invalid_hint">Die Anzeige dieses Elements ist durch die örtlichen Gesetze und Vorschriften eingeschränkt.</string>
     <string name="wednesday">Mittwoch</string>

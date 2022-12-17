@@ -190,6 +190,8 @@
     <string name="auth_pay_fail">Aufladen fehlgeschlagen, bitte rufen Sie die Seite später erneut auf, um das Münzguthaben zu prüfen, oder wenden Sie sich an den Kundendienst</string>
     <string name="auto_payment">Automatisch erneuern</string>
     <string name="auto_payment_date">Nächste Zahlung: %s</string>
+    <string name="auto_play_switch">Videos automatisch abspielen</string>
+    <string name="auto_play_toast">Autoplay ist an. In Einstellungen können Sie es ausschalten.</string>
     <string name="auto_recommend">Automatisch (empfohlen)</string>
     <string name="auto_sound_quality">Automatisch</string>
     <string name="auto_update">Automatisch aktualisieren</string>
@@ -2759,4 +2761,5 @@
     <string name="you_can_switch_mode_in_settings">In Einstellungen können Sie zwischen den Modi wechseln</string>
     <string name="you_may_like">Vielleicht gefällt Ihnen auch</string>
     <string name="youtube_play_history">Wiedergabeverlauf</string>
+    <string name="youtube_share_guide_tip">Sie können jetzt Videos mit Freunden teilen</string>
 </resources>

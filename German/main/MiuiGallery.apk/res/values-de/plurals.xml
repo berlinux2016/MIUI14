@@ -532,6 +532,10 @@
         <item quantity="other">%1$d Zimmer</item>
         <item quantity="one">%1$d Zimmer</item>
     </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d Bildschirme</item>
+        <item quantity="one">%1$d Bildschirm</item>
+    </plurals>
     <plurals name="share_album_home_pref_screens">
         <item quantity="other">%1$d Bildschirme</item>
         <item quantity="one">%1$d Bildschirm</item>

@@ -31,6 +31,16 @@
     <string name="download_button">Download-Taste</string>
     <string name="download_failed">Herunterladen nicht möglich</string>
     <string name="early_morning">Morgen</string>
+    <string name="earth_position_content_0">Der Naturpark Kap Kamenjak in Kroatien bietet die wohl atemberaubendsten Aussichten entlang der Mittelmeerküste. Beeindruckende geologische Formationen machen diesen Ort zu einem Paradies für Taucher. Jeden Sommer locken die strahlende Sonne und das warme Wasser des Mittelmeers unzählige Outdoor-Fans an.</string>
+    <string name="earth_position_content_1">Terrassenfelder sind das Ergebnis menschlicher Tätigkeit, dienen aber auch als herausragende Naturschönheiten. In China sind Reisterrassen vor allem südlich des Jangtse-Flusses zu finden, wo es häufig regnet und es viele Gebirgszüge gibt. Die Reisterrassen von Longji gibt es seit mehr als 700 Jahren, und in den nahe gelegenen Dörfern befinden sich zahlreiche historische Denkmäler.</string>
+    <string name="earth_position_content_2">Ilulissat liegt im Westen Grönlands, 200 Kilometer nördlich des Polarkreises. Der wunderschöne 56 Kilometer lange Ilulissat-Eisfjord liegt direkt neben dem Jakobshavn-Isbræ-Gletscher. Er ist der größte Gletscher der nördlichen Hemisphäre und produziert jedes Jahr 2 Milliarden Tonnen Eisberge. Nach einem kurzen Abstecher nach Norden wenden sie sich nach Süden und fließen in den Atlantischen Ozean.</string>
+    <string name="earth_position_content_3">Navagio ist einer der schönsten Strände an der Küste von Zakynthos, auf den Ionischen Inseln in Griechenland. Hier soll sich ein berühmtes Schiffswrack befinden, weshalb der Strand auch \"Schmugglerbucht \" genannt wird.</string>
+    <string name="earth_position_content_4">Die Dolomiten sind ein Gebirgszug im Nordosten Italiens. Der Berg Seceda ist wirklich einer der malerischsten Orte dort.</string>
+    <string name="earth_position_title_0">Kroatien\nKap Kamenjak</string>
+    <string name="earth_position_title_1">Guangxi, China\nLongji Terrassenfelder</string>
+    <string name="earth_position_title_2">Grönland\nIlulissat</string>
+    <string name="earth_position_title_3">Griechenland\nNavagio-Strand</string>
+    <string name="earth_position_title_4">Italien\nDolomiten</string>
     <string name="earth_summary">Die Erde ist die Wiege der menschlichen Zivilisation.</string>
     <string name="earth_super_wallpaper_label">Erde</string>
     <string name="earth_title">Heimat</string>
@@ -70,20 +80,14 @@
     <string name="geometry_super_wallpaper_label">Geometrie</string>
     <string name="geometry_title">Geometrie</string>
     <string name="install_failed">Installieren nicht möglich</string>
-    <string name="mars_position_content_0">"In dieser Region gibt es Klippen, Tafelberge und weite flache Täler, die vermutlich von mit Schutt bedeckten Gletschern verursacht wurden. Hier wurden auch Tonminerale entdeckt, die bei der Suche nach Beweisen für Leben auf dem alten Mars von großem Interesse sind.
-
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Aufgenommen, als der Mars-Rover Curiosity die Pahrump Hills im Gale Krater erkundet. Die Region enthält Sedimentgesteine, von denen Wissenschaftler glauben, dass sie in Gegenwart von Wasser entstanden sind, und die dunklen Bereiche sind Sand.
-
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis ist ein alter Wasserabflusskanal mit hellem, lehmhaltigem Gestein. Tonmineralien bewahren leicht mikroskopisch kleines Leben auf der Erde, so dass vielleicht Spuren von altem Leben in Mawrth gefunden werden können.
-
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_title_0">"Nilosyrtis
-Mensae Region"</string>
-    <string name="mars_position_title_1">Gale Krater</string>
-    <string name="mars_position_title_2">"Kater im
-Mawrth Vallis"</string>
+    <string name="mars_position_content_0">In dieser Region gibt es Klippen, Tafelberge und weite flache Täler, die vermutlich von mit Schutt bedeckten Gletschern verursacht wurden. Hier wurden auch Tonminerale entdeckt, die bei der Suche nach Beweisen für Leben auf dem alten Mars von großem Interesse sind.\n\nNASA/JPL/University of Arizona</string>
+    <string name="mars_position_content_1">Aufgenommen, als der Mars-Rover Curiosity die Pahrump Hills im Gale Krater erkundet. Die Region enthält Sedimentgesteine, von denen Wissenschaftler glauben, dass sie in Gegenwart von Wasser entstanden sind, und die dunklen Bereiche sind Sand.\n\nNASA/JPL/University of Arizona</string>
+    <string name="mars_position_content_2">Mawrth Vallis ist ein alter Wasserabflusskanal mit hellem, lehmhaltigem Gestein. Tonmineralien bewahren leicht mikroskopisch kleines Leben auf der Erde, so dass vielleicht Spuren von altem Leben in Mawrth gefunden werden können.\n\nNASA/JPL/University of Arizona</string>
+    <string name="mars_position_content_3">Diese Bilder wurden aufgenommen, als der Marsrover Curiosity die Pahrump Hills im Gale-Krater erkundete. Diese Region enthält Sedimentgestein, von dem Wissenschaftler annehmen, dass es sich in Gegenwart von Wasser gebildet hat. Die dunkleren Bereiche sind Sand.\n\nNASA/JPL/University of Arizona</string>
+    <string name="mars_position_content_4">Bahram Vallis ist ein einkanaliges Flusstal, das an einigen Stellen gewellte Wände aufweist. Das Vorhandensein von stromlinienförmigen Erosionsmerkmalen auf seinem Boden zeigt, dass bei seiner Entstehung Flüssigkeit im Spiel war.\n\nNASA/JPL/University of Arizona</string>
+    <string name="mars_position_title_0">Nilosyrtis\n\nMensae-Region</string>
+    <string name="mars_position_title_1">Gale-Krater</string>
+    <string name="mars_position_title_2">Krater im\nMawrth Vallis</string>
     <string name="mars_summary">Die gewaltigen Wüsten des Mars haben die Menschheit immer in Ehrfurcht versetzt.</string>
     <string name="mars_super_wallpaper_label">Mars</string>
     <string name="mars_title">Der rote Planet</string>
