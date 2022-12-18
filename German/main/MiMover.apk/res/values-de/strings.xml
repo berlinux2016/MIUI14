@@ -354,6 +354,21 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="lack_perm_msg">Mi Mover benötigt folgende Berechtigungen, um normal zu arbeiten: <b>%s</b>.</string>
     <string name="lack_perm_title">Erforderliche Berechtigungen</string>
     <string name="launcher">Startbildschirm-Layout</string>
+    <string name="league_acquire_accept">Zustimmen</string>
+    <string name="league_acquire_message1">Um Apps von Drittanbietern und deren Daten von diesem Gerät auf Ihr neues %s-Gerät zu übertragen, sind die folgenden Berechtigungen erforderlich:</string>
+    <string name="league_acquire_message2">Mi Mover den Zugriff auf die Daten von Drittanbieter-Apps erlauben</string>
+    <string name="league_acquire_message3">Dies ist eine einmalige Berechtigung, die nur für die Übertragung von Daten verwendet wird. Sobald die Übertragung abgeschlossen ist, verwendet Mi Mover diese Berechtigung automatisch nicht mehr.</string>
+    <string name="league_acquire_message4">Wenn Sie dieser Erlaubnis nicht zustimmen, können Sie keine Drittanbieter-Apps und deren Daten übertragen.</string>
+    <string name="league_acquire_refuse">Ablehnen</string>
+    <string name="league_acquire_title">Berechtigungen erforderlich</string>
+    <string name="league_check_service_content">Mi Mover bietet Transferdienste für %s an und ist derzeit nicht verfügbar.</string>
+    <string name="league_check_service_title">Übertragen mit %s</string>
+    <string name="league_client_acquire">%s öffnen</string>
+    <string name="league_client_hint_text">Die Cloning Alliance kann bei der Übertragung von Daten aus Drittanbieter-Apps helfen (z. B. Chatverläufe von WeChat und QQ). Tippen Sie auf \"%s\", um mit uns fortzufahren, oder tippen Sie auf \"Nicht jetzt\", um ohne die Übertragung von Drittanbieter-Apps und -Daten fortzufahren.</string>
+    <string name="league_client_install">%s installieren</string>
+    <string name="league_client_title">Mit Mi Mover übertragen</string>
+    <string name="league_client_traditional">Jetzt nicht</string>
+    <string name="league_client_update">%s aktualisieren</string>
     <string name="less_than_1_minute">Weniger als 1 Minute</string>
     <string name="loading_data">Einen Moment…</string>
     <string name="location_permission_desc">Um Geräte in der Nähe zu finden</string>
@@ -631,6 +646,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
 - Textnachrichten
 - Speicher"</string>
     <string name="request_all_permission_title">Berechtigung erforderlich</string>
+    <string name="request_permission">Erlauben</string>
     <string name="restore_data_to_device_content">"Ihre Elemente wurden mit Xiaomi Cloud synchronisiert.
 Am Xiaomi-Konto anmelden, um sie wiederherzustellen."</string>
     <string name="restore_data_to_device_title">Elemente auf diesem Gerät wiederherstellen</string>

@@ -50,7 +50,6 @@
         <item>EUR 1001-1500</item>
         <item>&gt; EUR über 1500</item>
     </string-array>
-
     <string-array name="settings_search_account_and_authority">
         <item>Konten</item>
         <item>Hinzufügen und Verwalten von Drittkonten</item>
@@ -70,6 +69,16 @@
         <item>Passwort ändern</item>
         <item>Mi-Kontopasswort ändern</item>
         <item>Passwort ändern;Passwort aktualisieren;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+    </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Familienspeicherplatz</item>
+        <item>Familienspeicherplatz anzeigen/einschalten</item>
+        <item>Familienspeicherplatz;Speicherfreigabe</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Familiendienste</item>
+        <item>Familiendienste anzeigen/einschalten</item>
+        <item>Familie;Familiendienste; Familienfreigabe</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Hilfe</item>

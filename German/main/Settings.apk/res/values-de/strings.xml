@@ -6180,7 +6180,6 @@ Fortfahren, um auf weitere Einstellungen zuzugreifen."</string>
     <string name="miui_sos_exit_emergency_title">Ausschalten</string>
     <string name="miui_sos_exit_send_location_title">Standort mit Notfallkontakten in Echtzeit teilen</string>
     <string name="miui_sos_green_guard_summary">Standortinformationen in Echtzeit teilen</string>
-    <string name="miui_sos_green_guard_title">Elterliche Kontrolle</string>
     <string name="miui_sos_hospital_card">Krankenversicherungskarte</string>
     <string name="miui_sos_hospital_card_important_info">Ihre wichtigen medizinischen Daten für Ersthelfer</string>
     <string name="miui_sos_launch_error">Notfall-SOS wurde nicht aktiviert</string>
@@ -8128,7 +8127,6 @@ UT Interface: %5$s"</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Keine Berechtigungen angefragt</string>
     <string name="rx_link_speed_label">Verbindungsgeschwindigkeit erhalten:</string>
     <string name="rx_wifi_speed">Verbindungsgeschwindigkeit erhalten</string>
-    <string name="safe_install_mode_settings">Sicherer Modus</string>
     <string name="safety_and_regulatory_info">Sicherheits- &amp; Regelwerk</string>
     <string name="safety_center_summary">App-Sicherheit, Gerätesperre, Berechtigungen</string>
     <string name="safety_center_title">Sicherheit &amp; Datenschutz</string>

@@ -303,10 +303,11 @@
     <string name="guide_page_title_1_pad">Audiowiedergabe</string>
     <string name="guide_page_title_2">Bildschirm spiegeln</string>
     <string name="guide_page_title_2_pad">Bildschirm spiegeln</string>
-    <string name="hang_up">Übertragen wenn Bildschirm aus ist</string>
-    <string name="hang_up_alert_dialog_content">Das Übertragen wird nicht unterbrochen, wenn der Bildschirm Ihres Telefons ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch. Drücken Sie die Ein-/Aus-Taste, um den Bildschirm wieder einzuschalten.</string>
+    <string name="hang_up">Übertragen bei Bildschirm aus</string>
+    <string name="hang_up_alert_dialog_content">Übertragen wird nicht unterbrochen, wenn der Bildschirm Ihres Telefons ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch. Drücken Sie die Ein-/Aus-Taste, um den Bildschirm wieder einzuschalten.</string>
     <string name="hang_up_alert_dialog_neg">Abbrechen</string>
     <string name="hang_up_alert_dialog_title">Im Begriff, bei ausgeschaltetem Bildschirm zu übertragen…</string>
+    <string name="headset_circulate_connect_success">verbunden</string>
     <string name="help_page_text_01">Hilfe</string>
     <string name="help_page_text_02">Was ist Übertragung</string>
     <string name="help_page_text_03">Beim Übertragen werden die Elemente vom Bildschirm Ihres Geräts auf einen größeren externen Monitor projiziert. Es erlaubt Ihnen, Bilder und Videos mit Ihren Freunden und Ihrer Familie zu teilen, ohne mobile Daten zu verwenden.</string>
