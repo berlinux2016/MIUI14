@@ -8934,8 +8934,8 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
     <string name="set_jeejen_prompt_message">Jeejen wird als Standard-Launcher festgelegt. Sie können den Standard-Launcher unter Einstellungen &gt; Systemeinstellungen &gt; Startbildschirm &amp; Schnellzugriff &gt; Standard-Launcher ändern.</string>
     <string name="set_jeejen_prompt_title">Änderungen bestätigen</string>
     <string name="set_screen_paper_mode">Lesemodus</string>
-    <string name="set_shoulder_key_shortcut_checkbox_message">"Nicht mehr anzeigen"</string>
-    <string name="set_shoulder_key_shortcut_message">"Sie haben den Schultertasten noch keine Verknüpfungen zugewiesen. Schultertasten jetzt konfigurieren?"</string>
+    <string name="set_shoulder_key_shortcut_checkbox_message">Nicht mehr anzeigen</string>
+    <string name="set_shoulder_key_shortcut_message">Sie haben den Schultertasten noch keine Verknüpfungen zugewiesen. Schultertasten jetzt konfigurieren?</string>
     <string name="set_shoulder_key_shortcut_negative_button">Nein</string>
     <string name="set_shoulder_key_shortcut_positive_button">Ja</string>
     <string name="set_shoulder_key_shortcut_title">Schultertasten konfigurieren</string>
@@ -8945,7 +8945,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
     <string name="settings_backup">Einstellungen sichern</string>
     <string name="settings_backup_summary">Meine Einstellungen sichern</string>
     <string name="settings_button">Einstellungen</string>
-    <string name="settings_charging_at_fast_speed">Schnelles Laden</string>
+    <string name="settings_charging_at_fast_speed">Schnellladen</string>
     <string name="settings_charging_at_normal_speed">Laden</string>
     <string name="settings_charging_at_top_speed">Laden mit Höchstgeschwindigkeit</string>
     <string name="settings_charging_fully_charged">Vollständig geladen</string>
@@ -9025,7 +9025,7 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
     <string name="shoulder_key_shortcut_launch_sound_recorder">Audio aufzeichnen</string>
     <string name="shoulder_key_shortcut_launch_video">Video aufzeichnen</string>
     <string name="shoulder_key_shortcut_long_press">Taste halten</string>
-    <string name="shoulder_key_shortcut_mute">Lautlos Modus</string>
+    <string name="shoulder_key_shortcut_mute">Lautlosmodus</string>
     <string name="shoulder_key_shortcut_none">Keine</string>
     <string name="shoulder_key_shortcut_settings">Popup-Auslöser</string>
     <string name="shoulder_key_shortcut_settings_summary">Diese Option funktioniert nicht, wenn Sie Spiele spielen</string>
