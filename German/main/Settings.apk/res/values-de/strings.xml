@@ -8934,6 +8934,11 @@ Hinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu en
     <string name="set_jeejen_prompt_message">Jeejen wird als Standard-Launcher festgelegt. Sie können den Standard-Launcher unter Einstellungen &gt; Systemeinstellungen &gt; Startbildschirm &amp; Schnellzugriff &gt; Standard-Launcher ändern.</string>
     <string name="set_jeejen_prompt_title">Änderungen bestätigen</string>
     <string name="set_screen_paper_mode">Lesemodus</string>
+    <string name="set_shoulder_key_shortcut_checkbox_message">"Nicht mehr anzeigen"</string>
+    <string name="set_shoulder_key_shortcut_message">"Sie haben den Schultertasten noch keine Verknüpfungen zugewiesen. Schultertasten jetzt konfigurieren?"</string>
+    <string name="set_shoulder_key_shortcut_negative_button">Nein</string>
+    <string name="set_shoulder_key_shortcut_positive_button">Ja</string>
+    <string name="set_shoulder_key_shortcut_title">Schultertasten konfigurieren</string>
     <string name="setting_privacy_password">Datenschutzpasswort festlegen</string>
     <string name="settings_ad_loading">Laden…</string>
     <string name="settings_ad_loading_unavailable">Beim Laden ist ein Problem aufgetreten</string>
