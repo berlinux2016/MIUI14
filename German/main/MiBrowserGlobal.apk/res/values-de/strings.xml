@@ -135,11 +135,17 @@
     <string name="allow_current">Einmal erlauben</string>
     <string name="already_add">%s zu Ihrem Startbildschirm hinzugefügt</string>
     <string name="app_id">Firebase App-ID (Zum Exportieren tippen)</string>
+    <string name="app_library_category_financial_management">Finanzen</string>
     <string name="app_library_category_games">Spiele</string>
+    <string name="app_library_category_health_and_exercise">Gesundheit</string>
+    <string name="app_library_category_individualization">Personalisierung</string>
     <string name="app_library_category_information">Medien</string>
+    <string name="app_library_category_originality">Kreativität</string>
     <string name="app_library_category_others">Anderes</string>
     <string name="app_library_category_productivity">Produktivität</string>
     <string name="app_library_category_social">Soziales</string>
+    <string name="app_library_category_travel">Reisen</string>
+    <string name="app_library_category_work_and_efficiency">Produktivität</string>
     <string name="app_name_camera">Kamera</string>
     <string name="app_name_downloadedrom">Pakete</string>
     <string name="app_name_miuimusic">Musik</string>
@@ -445,6 +451,7 @@
     <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
     <string name="close_cant_recommand">Sie erhalten keine personalisierten Inhalte, wenn Sie diese Funktion deaktivieren.</string>
     <string name="close_cloud_tab_tip">Cloud Tabs auf %s schließen?</string>
+    <string name="close_desktop">Desktopversion ausgeschaltet</string>
     <string name="cloud_loading_tips">Zum Synchronisieren runterziehen</string>
     <string name="cloud_no_new_data_toast">Alle Daten sind aktuell</string>
     <string name="cloud_sync_closed_toast">Aktualisierung nicht möglich, da Synchronisation deaktiviert</string>
@@ -1718,6 +1725,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="offline_opt_in_title">Anzeige öffnen, wenn Sie wieder online sind</string>
     <string name="one_prefect_author">Autor</string>
     <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
+    <string name="open_desktop">Erfolgreich zur Desktopversion gewechselt</string>
     <string name="open_google_gaid">Um diese Funktion zu nutzen, stellen Sie sicher, dass Sie die Werbepersonalisierung unter Einstellungen > Google > Werbung nicht deaktiviert haben.</string>
     <string name="open_personalized_services">Aktivieren Sie personalisierte Dienste, um diese Funktion zu nutzen.</string>
     <string name="open_private_folder">Loslassen, um versteckte Ordner anzuzeigen</string>

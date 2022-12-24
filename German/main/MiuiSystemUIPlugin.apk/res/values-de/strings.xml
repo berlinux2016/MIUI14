@@ -79,7 +79,7 @@
     <string name="controls_dismiss_dialog_message_international">\"Smart Home\"-Karte jetzt entfernen? Sie können sie unter Einstellungen &gt; Kontrollzentrum wiederherstellen.</string>
     <string name="controls_dismiss_dialog_title">Smart Home-Geräte</string>
     <string name="controls_dismiss_dialog_title_international">Karte entfernen</string>
-    <string name="controls_edit_add_device_guide">Keine Geräte zum Hinzufügen verfügbar</string>
+    <string name="controls_edit_add_device_guide">Noch keine Geräte hier</string>
     <string name="controls_edit_added_subtitle">Elemente durch Ziehen neu anordnen</string>
     <string name="controls_edit_added_title">Hinzugefügt</string>
     <string name="controls_edit_done_button">Fertig</string>
@@ -99,7 +99,7 @@
     <string name="controls_favorite_removed">Alle Steuerelemente entfernt</string>
     <string name="controls_favorite_subtitle">Steuerelemente für den Zugriff aus dem Power-Menü wählen</string>
     <string name="controls_favorite_toast_no_changes">Nicht gespeicherte Änderungen</string>
-    <string name="controls_loading_device">Standortwechsel</string>
+    <string name="controls_loading_device">Standort wechseln…</string>
     <string name="controls_media_title">Medien</string>
     <string name="controls_menu_add">Steuerelemente hinzufügen</string>
     <string name="controls_menu_edit">Steuerelemente bearbeiten</string>
@@ -109,8 +109,8 @@
     <string name="controls_no_device_subtitle">Zuerst Geräte in %s hinzufügen</string>
     <string name="controls_no_device_title">Keine Geräte vorhanden</string>
     <string name="controls_no_favorites_title">Apps zum Verwalten von Smart Home-Geräten hier wählen</string>
-    <string name="controls_not_found_device_toast">Dieses Element wurde in der App entfernt</string>
-    <string name="controls_not_found_device_toast_mihome">Dieses Element wurde in der App entfernt</string>
+    <string name="controls_not_found_device_toast">Dieses Element wurde bereits in der App gelöscht</string>
+    <string name="controls_not_found_device_toast_mihome">Dieses Element wurde bereits in der App gelöscht</string>
     <string name="controls_offline_device_toast">Dieses Gerät ist offline. Gedrückt halten, um die App zu öffnen.</string>
     <string name="controls_pin_instructions">PIN eingeben</string>
     <string name="controls_pin_instructions_retry">Andere PIN probieren</string>
@@ -121,7 +121,7 @@
     <string name="controls_removed">Entfernt</string>
     <string name="controls_seeding_in_progress">Empfehlungen zum Laden</string>
     <string name="controls_structure_tooltip">Wischen, um mehr zu sehen</string>
-    <string name="controls_unsupport_toggle_toast">Dieses Gerät kann von hier nicht gesteuert werden. Gedrückt halten, um die App zu öffnen.</string>
+    <string name="controls_unsupport_toggle_toast">Dieses Gerät unterstützt keine Schnellwahlen. Gedrückt halten, um die App zu öffnen.</string>
     <string name="copy">Kopieren</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>

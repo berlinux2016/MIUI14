@@ -10,6 +10,12 @@
         <item>Mikrofon</item>
         <item>System</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Nichts</item>
+        <item>Mikrofon</item>
+        <item>System</item>
+        <item>Beides</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Interner Speicher</item>
         <item>Externer Speicher</item>

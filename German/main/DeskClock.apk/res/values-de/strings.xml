@@ -272,6 +272,14 @@
     <string name="midnight">Nacht</string>
     <string name="minute">1 Min</string>
     <string name="minutes">%d Min</string>
+    <string name="miui_clock_city_name_local">Lokal</string>
+    <string name="miui_clock_city_name_second">Zweite Uhr</string>
+    <string name="miui_lock_screen_date">EEE, dd. MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd. MMM</string>
+    <string name="miui_lock_screen_date_two_lines">dd. MMM\nEEE</string>
+    <string name="miui_lock_screen_date_two_lines_12">dd. MMM\nEEE</string>
+    <string name="miui_lock_screen_large_date">EEE\nd.M.</string>
+    <string name="miui_lock_screen_large_date_12">EEE\nd.M.</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
@@ -467,8 +475,7 @@
     <string name="sleep_duration_avg_text_diff">Durchschnittl. Schlafdauer (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Geschlafen für %1$s %2$s</string>
     <string name="sleep_duration_no_data">Noch nicht genug Daten</string>
-    <string name="sleep_duration_recommendation">"Die meisten Menschen brauchen
-7 bis 9 Stunden Schlaf pro Nacht"</string>
+    <string name="sleep_duration_recommendation">Die meisten Menschen brauchen\n7 bis 9 Stunden Schlaf pro Nacht.</string>
     <string name="sleep_no_disturbance">DND-Modus</string>
     <string name="sleep_no_disturbance_desc">Zum DND-Modus wechseln, bis Sie aufwachen</string>
     <string name="sleep_no_record_text">Anfangen, Ihren Schlaf zu verfolgen, um Statistiken anzuzeigen</string>
@@ -478,8 +485,7 @@
     <string name="sleep_record_desc">Einschalten, um die Aufnahme von Schlafdaten zu starten</string>
     <string name="sleep_record_desc_detailed">Schlaferfassung wird von Mi Health bereitgestellt. Nach dem Einschalten zeichnet Mi Health automatisch Ihren Schlaf auf, basierend auf Ihrer Telefonnutzung, der Aktivitätsstatistik sowie der eingestellten Einschlaf-/Aufwachzeit, und zeigt Ihnen die Statistik in Form von Diagrammen an. Um den Schlaf genauer zu verfolgen, erlauben Sie Mi Health den Autostart. Alle zugehörigen Daten werden lokal auf Ihrem Gerät gespeichert, sodass Sie sie einfach verwalten können.</string>
     <string name="sleep_record_desc_detailed_new">Schlaferfassung wird von Mi Fitness bereitgestellt. Wenn Sie diese Funktion aktivieren, sammelt und zeigt Mi Fitness automatisch Ihre Schlafdaten, die auf Ihrer Telefonnutzung, Aktivität und der von Ihnen eingestellten Schlaf- und Aufwachzeit basieren. Um den Schlaf genauer zu erfassen, lassen Sie Mi Fitness automatisch starten.</string>
-    <string name="sleep_record_no_data">"Ihre Statistik wird hier angezeigt, sobald
-Mi Health genügend Daten analysiert hat."</string>
+    <string name="sleep_record_no_data">Ihre Statistik wird hier angezeigt, sobald\nMi Health genügend Daten analysiert hat.</string>
     <string name="sleep_remind">Schlafenszeit-Erinnerung</string>
     <string name="sleep_time">Einschlafen</string>
     <string name="slider_text">Zum Ausschalten hochwischen</string>

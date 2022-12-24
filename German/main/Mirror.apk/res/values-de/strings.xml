@@ -30,7 +30,9 @@
     <string name="cast_mcc_tips_button_cancel">Ignorieren</string>
     <string name="cast_mcc_tips_button_ok">Einstellungen</string>
     <string name="cast_mcc_tips_message">Um Verzögerungen bei der Verwendung von MIUI+ zu vermeiden, beide Geräte mit demselben WLAN verbinden.</string>
+    <string name="cast_mcc_tips_message_china">Um Verzögerungen bei der Verwendung von MIUI+ zu vermeiden, verbinden Sie beide Geräte mit demselben WLAN.</string>
     <string name="cast_mcc_tips_title">WLAN-Einstellungen ändern</string>
+    <string name="cast_mcc_tips_title_china">WLAN-Einstellungen ändern</string>
     <string name="circulate_cta_agree">Zustimmen</string>
     <string name="circulate_cta_desc_phone">Willkommen bei Mi Smart Hub! Sie können diese App verwenden, um Bildschirminhalte zu übertragen, Multimedia-Wiedergabe zwischen Geräten zu übertragen, Mi Smart Play, MIUI+ und App-Handoff zu verwenden. Diese App benötigt eine Internetverbindung und die folgenden Berechtigungen, um normal zu funktionieren:</string>
     <string name="circulate_cta_exit">Nicht zustimmen</string>
@@ -40,7 +42,9 @@
     <string name="circulate_cta_premission_storage_subtitle">Für das Senden und Empfangen von übertragenen Dateien</string>
     <string name="circulate_cta_premission_storage_title">Zugriff auf und Speichern von Elementen im Speicher</string>
     <string name="circulate_cta_premission_wlan_subtitle">Für die Übertragung von Elementen und die Verbindung von Geräten über WLAN</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Für die Übertragung von Elementen und die Verbindung von Geräten über WLAN</string>
     <string name="circulate_cta_premission_wlan_title">WLAN ein- und ausschalten</string>
+    <string name="circulate_cta_premission_wlan_title_china">WLAN ein- und ausschalten</string>
     <string name="circulate_cta_user_agreement">Lesen Sie und akzeptieren Sie unsere &lt;txt href=\"%1$s\">Nutzervereinbarung&lt;/txt> und &lt;txt href=\"%2$s\">Datenschutzerklärung&lt;/txt>, bevor Sie fortfahren.</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="clipboard_tip">Von %1$s kopiert</string>
@@ -75,6 +79,7 @@
     <string name="enable_wifi_alert_cancel">Abbrechen</string>
     <string name="enable_wifi_alert_message">MIUI+ verbindet Geräte über WLAN. WLAN jetzt einschalten?</string>
     <string name="enable_wifi_alert_message_china">MIUI+ verbindet Geräte über WLAN. WLAN jetzt einschalten?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ erlaubt Ihnen, nahtlos zwischen den Geräten zu wechseln, wenn Sie die mit Ihrem Telefon aufgenommenen Fotos auf Ihrem Tablet bearbeiten müssen. WLAN einschalten, um die Übergabe zu nutzen?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ ermöglicht Ihnen, nahtlos zwischen den Geräten zu wechseln, wenn Sie die mit Ihrem Telefon aufgenommenen Fotos auf Ihrem Tablet bearbeiten müssen. WLAN einschalten, um die Weiterleitung zu verwenden?</string>
     <string name="enable_wifi_alert_ok">Einschalten</string>
     <string name="enable_wifi_alert_title">WLAN einschalten</string>
@@ -122,6 +127,12 @@
     <string name="generic_error_no_device_credential">Keine PIN, kein Muster und kein Passwort eingestellt.</string>
     <string name="generic_error_no_keyguard">Dieses Gerät unterstützt keine PIN, kein Muster und kein Passwort.</string>
     <string name="generic_error_user_canceled">Authentifizierung wurde vom Benutzer abgebrochen.</string>
+    <string name="global_cta_agree">Zustimmen</string>
+    <string name="global_cta_desc">Willkommen bei %s! Unsere App bietet folgende Dienste an:</string>
+    <string name="global_cta_exit">Ablehnen</string>
+    <string name="global_cta_feature_connect">Verbinden von Telefonen und Tablets über Ihr Xiaomi-Konto</string>
+    <string name="global_cta_feature_control">Anzeigen und Verwenden von Smartphone-Apps auf Ihrem Tablet</string>
+    <string name="global_cta_user_agreement">Bevor Sie %1$s nutzen, lesen und akzeptieren Sie unsere &lt;txt href=\"%2$s\" >Nutzervereinbarung&lt;/txt> und &lt;txt href=\"%3$s\" >Datenschutzerklärung&lt;/txt>.</string>
     <string name="guide_window_btn_know">Verstanden</string>
     <string name="guide_window_operation">Von der Seite zur Bildschirmmitte gleiten</string>
     <string name="guide_window_title">Zurück</string>
@@ -137,9 +148,15 @@
     <string name="loading_view_load_timeout">Verbindung wurde unterbrochen</string>
     <string name="loading_view_load_timeout_close">Verstanden</string>
     <string name="loading_view_load_timeout_sub">Vergewissern Sie sich, dass WLAN auf beiden Geräten eingeschaltet ist und sie sich nahe beieinander befinden. \nSie können eine weitere Sitzung auf Ihrem Computer starten.</string>
+    <string name="loading_view_load_timeout_sub_china">Stellen Sie sicher, dass WLAN auf beiden Geräten eingeschaltet ist und dass sie sich nahe beieinander befinden.\nSie können eine weitere Sitzung auf Ihrem Computer starten.</string>
     <string name="lock_layout_sub">Zum Fortfahren entsperren</string>
     <string name="lock_layout_title">Computer ist gesperrt</string>
     <string name="log_warning">Umschalten von Protokollschaltern kann die Sicherheitsrisiken erhöhen und die Leistung beeinträchtigen. Verwenden Sie diese Umschalter nur, wenn es notwendig ist.</string>
+    <string name="login_xiaomi_account_cancel">Abbrechen</string>
+    <string name="login_xiaomi_account_goto_login">Anmelden</string>
+    <string name="login_xiaomi_account_summary_pad">Um sich mit anderen Telefonen zu verbinden, verwenden Sie das gleiche Xiaomi-Konto auf beiden verbundenen Geräten. Jetzt anmelden?</string>
+    <string name="login_xiaomi_account_summary_phone">Um sich mit anderen Tablets zu verbinden, verwenden Sie das gleiche Xiaomi-Konto auf beiden verbundenen Geräten. Jetzt anmelden?</string>
+    <string name="login_xiaomi_account_title">Am Xiaomi-Konto anmelden</string>
     <string name="low_battery_notification_action">Einschalten</string>
     <string name="low_battery_notification_content">Weniger als %2$d% Akku verbleiben auf %1$s. Stromsparen einschalten.</string>
     <string name="low_battery_notification_title">Niedriger Akkustand</string>
@@ -214,6 +231,9 @@
     <string name="not_set">Nicht festgelegt</string>
     <string name="notification_channel_description_download">Download-Fortschritt in Benachrichtungsleiste anzeigen</string>
     <string name="notification_channel_name_download">Download-Fortschritt anzeigen</string>
+    <string name="notification_state_cancel">Trennen</string>
+    <string name="notification_state_content">Dieses Gerät ist mit dem Computer von %1$s verbunden. Sie können jetzt Eingabegeräte, Dateien und Bilder freigeben.</string>
+    <string name="notification_state_title">Erfolgreich verbunden</string>
     <string name="notify_clip_action_browser">Besuchen</string>
     <string name="notify_clip_action_call">Anrufen</string>
     <string name="notify_clip_action_navigation">Navigieren</string>
@@ -237,6 +257,8 @@
     <string name="pad_pc_message_introduction_title">Geteilte Zwischenablage</string>
     <string name="pad_pc_mirror_introduction_summary">Spiegeln Sie den Computerbildschirm auf IhrTablet</string>
     <string name="pad_pc_mirror_introduction_title">Bildschirm spiegeln</string>
+    <string name="pad_pc_share_introduction_summary">Verwenden Sie die Maus und Tastatur Ihres Computers mit diesem Tablet</string>
+    <string name="pad_pc_share_introduction_title">Eingabegeräte</string>
     <string name="pad_settings_bluetooth_enable_summary">Bluetooth einschalten, um Geräte in der Nähe zu finden. Jetzt einschalten?</string>
     <string name="pad_settings_bluetooth_enable_title">Bluetooth einschalten</string>
     <string name="pad_settings_click_toast_msg">Über Mi Smart Hub auf Ihrem Computer verbinden</string>
@@ -305,6 +327,7 @@
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_all_purpose">Willkommen bei MIUI+! Mit dieser App können Sie Ihr Telefon mit einem Computer verbinden und zwei Geräte zu einer Arbeitsstation kombinieren.</string>
     <string name="privacy_describe_change_wifi_state">Um Geräte zu verbinden und Dateien über WLAN zu übertragen</string>
+    <string name="privacy_describe_change_wifi_state_china">Für die Verbindung von Geräten und die Übertragung von Dateien über WLAN</string>
     <string name="privacy_describe_location">Um PC in der Nähe zu finden und Dateien zu übertragen</string>
     <string name="privacy_describe_record_audio">Um die Audiowiedergabe auf Ihren PC umzuleiten</string>
     <string name="privacy_describe_storage">Zum Senden und Empfangen von Dateien</string>
@@ -387,6 +410,17 @@
     <string name="settings_trusted_device_none">Keine Geräte hier</string>
     <string name="settings_trusted_tips">Automatische Verbindung zu ausgewählten Geräten in der Nähe, wenn Bluetooth und WLAN an sind</string>
     <string name="settings_trusted_tips_china">Automatisch mit ausgewählten Geräten in der Nähe verbinden, wenn Bluetooth und WLAN eingeschaltet sind</string>
+    <string name="share_pc_abort_dialog_message">Stellen Sie sicher, dass Bluetooth und WLAN auf beiden Geräten eingeschaltet sind, und starten Sie erneut die Sitzung auf Ihrem Computer.</string>
+    <string name="share_pc_abort_dialog_message_china">Stellen Sie sicher, dass Bluetooth und WLAN auf beiden Geräten eingeschaltet sind, und starten Sie erneut die Sitzung auf Ihrem Computer.</string>
+    <string name="share_pc_abort_dialog_ok">Verstanden</string>
+    <string name="share_pc_abort_dialog_title">Verbindung wurde unterbrochen</string>
+    <string name="share_pc_file_transfer_finish">Erfolgreich übertragen</string>
+    <string name="share_pc_folder_error_dialog_message">Ziehen von Ordnern, um sie zu übertragen, wird derzeit nicht unterstützt.</string>
+    <string name="share_pc_folder_error_dialog_ok">Verstanden</string>
+    <string name="share_pc_folder_error_dialog_title">Übertragen nicht möglich</string>
+    <string name="share_pc_folder_multi_error_dialog_message">Ausgewählte Dateien wurden erfolgreich übertragen. Das Übertragen von Ordnern wird derzeit nicht unterstützt.</string>
+    <string name="share_pc_folder_multi_error_dialog_ok">Verstanden</string>
+    <string name="share_pc_folder_multi_error_dialog_title">Nicht alle Elemente wurden übertragen</string>
     <string name="softap_notification_action">Verbinden</string>
     <string name="softap_notification_message">Keine WLANs verfügbar. Mit diesem Hotspot verbinden?</string>
     <string name="softap_notification_message_china">Keine WLANs verfügbar. Mit diesem Hotspot verbinden?</string>
@@ -422,9 +456,12 @@
     <string name="switch_wlan_action">Verbinden</string>
     <string name="switch_wlan_failed">Verbinden nicht möglich</string>
     <string name="switch_wlan_failed_desc">Automatische Verbindung mit diesem WLAN nicht möglich. Versuchen Sie, manuell in den Einstellungen zu verbinden.</string>
+    <string name="switch_wlan_failed_desc_china">Mit diesem WLAN wurde nicht automatisch verbunden. Versuchen Sie, die Verbindung manuell in den Einstellungen herzustellen.</string>
     <string name="switch_wlan_success">Erfolgreich verbunden</string>
     <string name="switch_wlan_tips">Mit demselben Netzwerk verbinden</string>
+    <string name="switch_wlan_tips_china">Mit demselben Netzwerk verbinden</string>
     <string name="switch_wlan_tips_desc">Sie können sich mit demselben WLAN wie das andere Gerät verbinden, um bessere Ergebnisse zu erzielen. Jetzt verbinden?</string>
+    <string name="switch_wlan_tips_desc_china">Sie können sich mit demselben WLAN wie das andere Gerät verbinden, um eine bessere Erfahrung zu machen. Jetzt verbinden?</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>

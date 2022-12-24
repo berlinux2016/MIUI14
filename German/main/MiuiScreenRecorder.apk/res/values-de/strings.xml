@@ -207,6 +207,7 @@
     <string name="record_item_title_multi_choice">Auswählen</string>
     <string name="record_item_title_remark">Bemerkung hinzufügen</string>
     <string name="record_item_title_send">Teilen</string>
+    <string name="record_time_too_short">Aufgenommenes Video ist zu kurz</string>
     <string name="recording_failure">Aufnahme fehlgeschlagen, bitte starten Sie die Bildschirmaufnahme neu</string>
     <string name="recording_max_size">Aufnahme wurde gestoppt und gespeichert, da die maximale Videogröße erreicht wurde. Beginnen Sie mit der Aufnahme dort, wo Sie aufgehört haben, wenn Sie noch nicht fertig sind.</string>
     <string name="recording_without_mic">Mikrofon wird schon verwendet und kann nicht aufnehmen!</string>
