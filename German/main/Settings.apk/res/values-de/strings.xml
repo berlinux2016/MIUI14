@@ -917,10 +917,10 @@ benachrichtigungen erlauben"</string>
     <string name="assist_gesture_sensitivity_title">Empfindlichkeit</string>
     <string name="assist_gesture_title">Hilfsgeste</string>
     <string name="assistance_category_title">Eingabehilfen</string>
-    <string name="assistant_corner_gesture_summary">Von einer unteren Ecke nach oben wischen, um die digitale Assistenten-App aufzurufen</string>
+    <string name="assistant_corner_gesture_summary">Von einer unteren Ecke nach oben wischen, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_corner_gesture_title">Wischen zum Aufrufen des Assistenten</string>
     <string name="assistant_gesture_category_title">Digitaler Assistent</string>
-    <string name="assistant_long_press_home_gesture_summary">Home-Taste gedrückt halten, um die digitale Assistenten-App aufzurufen</string>
+    <string name="assistant_long_press_home_gesture_summary">Home-Taste gedrückt halten, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_long_press_home_gesture_title">Home für Assistenten gedrückt halten</string>
     <string name="assistant_security_warning">Assistent kann Informationen über Apps lesen, die auf Ihrem System verwendet werden, inkl. Informationen, die auf Ihrem Bildschirm oder innerhalb der Apps sichtbar sind.</string>
     <string name="assistant_security_warning_agree">Zustimmen</string>
@@ -3006,11 +3006,11 @@ Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
     <string name="default_app">(Standard)</string>
     <string name="default_apps_title">Standard-Apps</string>
     <string name="default_assist_none">Keine</string>
-    <string name="default_assist_title">Assistenz-App</string>
+    <string name="default_assist_title">Digitaler Assistent-App</string>
     <string name="default_browser_title_none">Nicht ausgewählt</string>
     <string name="default_calendar_app_title">Kalender-App</string>
     <string name="default_contacts_app_title">Kontakte-App</string>
-    <string name="default_digital_assistant_title">Standardapp für digitalen Assistenten</string>
+    <string name="default_digital_assistant_title">Standard-App digitaler Assistent</string>
     <string name="default_document_title">Dokumente</string>
     <string name="default_emergency_app">Notfall-App</string>
     <string name="default_for_calls">Standard für Anrufe</string>
