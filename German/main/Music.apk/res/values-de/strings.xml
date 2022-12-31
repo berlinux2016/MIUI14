@@ -1970,6 +1970,7 @@
     <string name="please_select_song">Bitte zuerst einen Titel wählen</string>
     <string name="popup_exit_hint">Familie verlassen? Hinweis: Wenn Sie die Familie verlassen, können Sie sich erst nach 24 Stunden wieder anmelden.</string>
     <string name="power_save_mode_dialog_msg">Stromsparen ist an. Download jetzt beginnen?</string>
+    <string name="pre_watched">Beobachtet</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preset_music_playlist">Mi Musik Wiedergabeliste</string>
     <string name="priority_storage">Externe SD-Karte verwenden</string>
@@ -2192,6 +2193,7 @@
     <string name="search_in_youtube">Auf YouTube suchen</string>
     <string name="search_menu_title">Suchen</string>
     <string name="search_more">Mehr</string>
+    <string name="search_recommend">Empfohlen</string>
     <string name="search_result_local_songs">Lokal</string>
     <string name="search_songs">Nach Titeln suchen</string>
     <string name="search_songs_count">Titel: %d</string>

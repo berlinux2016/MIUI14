@@ -160,7 +160,7 @@
     <string name="adjust_traffic_carrier_summary_today">Heute um %s aktualisiert</string>
     <string name="adjust_traffic_carrier_summary_two_day_before">Vor 2 Tagen aktualisiert</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Gestern um %s aktualisiert</string>
-    <string name="adjust_traffic_data">Datennutzung festlegen</string>
+    <string name="adjust_traffic_data">Datennutzung einstellen</string>
     <string name="adv_permission_text">Berechtigungen</string>
     <string name="adv_privacy_text">Datenschutz</string>
     <string name="after_the_lock_screen">Apps zusammen mit dem Bildschirm sperren</string>
@@ -180,8 +180,8 @@
     <string name="anti_disturb_msg_title">Nicht stören</string>
     <string name="antispam_guangdian_card_hint">Ihre SIM-Karte unterstützt den Wechsel zu einer anderen Abwesenheitsnachricht nicht. Für Details wenden Sie sich an Ihren Anbieter.</string>
     <string name="antispam_guangdian_card_title">Wechseln wird nicht unterstützt</string>
-    <string name="antispam_mms_text">Nachrichten als Ihre Standard-SMS-App festlegen, um blockierte Nachrichten anzuzeigen</string>
-    <string name="antispam_mms_text_setting">Nachrichten als Ihre Standard-SMS-App festlegen, um die Sperrliste zu verwenden</string>
+    <string name="antispam_mms_text">Nachrichten als Ihre Standard-SMS-App einstellen, um blockierte Nachrichten anzuzeigen</string>
+    <string name="antispam_mms_text_setting">Nachrichten als Ihre Standard-SMS-App einstellen, um die Sperrliste zu verwenden</string>
     <string name="antispam_mode_details">Sperrlistendetails</string>
     <string name="antispam_notificaiton_type_show_all">Alle Nummern</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Nicht-Sperrlistennummern</string>
@@ -328,7 +328,7 @@
     <string name="app_behavior_media_volume_bg">%1s hat die Medienlautstärke im Hintergrund angepasst</string>
     <string name="app_behavior_media_volume_bg_single">Diese App hat die Medienlautstärke im Hintergrund angepasst</string>
     <string name="app_behavior_media_volume_single">Diese App hat die Medienlautstärke angepasst</string>
-    <string name="app_behavior_menu_about">Über App-Verhaltensaufnahmen</string>
+    <string name="app_behavior_menu_about">Über App-Verhaltensaufzeichnungen</string>
     <string name="app_behavior_monitor_off">Benachrichtigungen ausschalten</string>
     <string name="app_behavior_monitor_off_content">Sie werden keine Benachrichtigungen über sensible Aktionen erhalten, die von dieser App ausgeführt werden. Benachrichtigungen trotzdem ausschalten?</string>
     <string name="app_behavior_monitor_off_positive">Ausschalten</string>
@@ -336,7 +336,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Sie können sensible Aktionsbenachrichtigungen abschalten, wenn Sie dieser App vertrauen</string>
     <string name="app_behavior_monitor_tips_key">Sensible Aktionsbenachrichtigungen</string>
     <string name="app_behavior_monitor_tips_summary">Sie können Benachrichtigungen erhalten, wenn Apps Audio aufnehmen, auf Ihren Standort zugreifen oder andere sensible Aktionen im Hintergrund ausführen.</string>
-    <string name="app_behavior_no_recorder">Keine Ergebnisse gefunden</string>
+    <string name="app_behavior_no_recorder">Noch keine Elemente hier</string>
     <string name="app_behavior_notification_audio_now_one">\"%1s\"-Aufnahme</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s und %2s nehmen Audio auf</string>
     <string name="app_behavior_notification_camera_one">\"%1s\"-Foto machen</string>
@@ -374,11 +374,18 @@
     <string name="app_behavior_read_clipboard_bg">%1s-Zugriff im Hintergrund auf Elemente in der Zwischenablage</string>
     <string name="app_behavior_recognition">%1s versuchte auf Ihre Aktivitätsinformationen zuzugreifen</string>
     <string name="app_behavior_recognition_single">Diese App griff auf Ihre Aktivitätsinformationen zu</string>
+    <string name="app_behavior_record_cancel">Abbrechen</string>
+    <string name="app_behavior_record_close">Ausschalten</string>
+    <string name="app_behavior_record_close_title">Ausschalten</string>
+    <string name="app_behavior_record_hide_system">System-Apps ausblenden</string>
+    <string name="app_behavior_record_open">Einschalten</string>
+    <string name="app_behavior_record_open_content_text">App-Verhaltensaufzeichnungen zeigen, was Apps tun und helfen Ihnen, Sicherheitsrisiken zu vermeiden.</string>
     <string name="app_behavior_record_setting_button_title">Verhalten der Systemdienste anzeigen</string>
     <string name="app_behavior_record_setting_show_system">Verhalten der Systemdienste anzeigen</string>
     <string name="app_behavior_record_setting_show_system_desc">Option einschalten, um das Verhalten der grundlegenden Systemdienste anzuzeigen. Um die Stabilität des Systems zu gewährleisten, verwenden diese Dienste die erforderlichen Berechtigungen, von denen einige nicht eingeschränkt werden können.</string>
     <string name="app_behavior_record_setting_show_system_title">Verhalten der Systemdienste anzeigen</string>
-    <string name="app_behavior_record_setting_title">Verhaltensaufnahmen</string>
+    <string name="app_behavior_record_setting_title">Verhaltensaufzeichnungen</string>
+    <string name="app_behavior_record_show_system">System-Apps anzeigen</string>
     <string name="app_behavior_search">Suchen</string>
     <string name="app_behavior_sensor">%1s-Zugriff auf Sensordaten</string>
     <string name="app_behavior_sensor_single">Diese App griff auf Sensordaten zu</string>
@@ -731,11 +738,11 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_condition_choose_battery_level_down">Wenn der Akku einen bestimmten Wert erreicht</string>
     <string name="auto_task_condition_choose_end_time">Endzeit</string>
     <string name="auto_task_condition_choose_start_time">Startzeit</string>
-    <string name="auto_task_condition_choose_time_duration">Zeit festlegen</string>
-    <string name="auto_task_condition_number_pick_title">Akkuzustand festlegen</string>
+    <string name="auto_task_condition_choose_time_duration">Zeit einstellen</string>
+    <string name="auto_task_condition_number_pick_title">Akkuzustand einstellen</string>
     <string name="auto_task_condition_restore_task_when_charged">Nach dem Laden zum vorherigen Zustand wechseln</string>
     <string name="auto_task_condition_time_duration_text">Von %1$s bis %2$s</string>
-    <string name="auto_task_condition_time_pick_title">Timer festlegen</string>
+    <string name="auto_task_condition_time_pick_title">Timer einstellen</string>
     <string name="auto_task_condition_time_text">Um %s</string>
     <string name="auto_task_conncet_to_some_device">Verbinden mit %s</string>
     <string name="auto_task_create_success">Aufgabe erfolgreich erstellt</string>
@@ -863,7 +870,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="back_description_securitycenter">Zurück</string>
     <string name="back_modifypassword">Zurück zur Änderung des Passworttyps</string>
     <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
-    <string name="back_sound_fail">Einstellen nicht möglich. Die Einstellungen des Mobilfunkanbieters wurden geändert. Aktuelle SIM-Karte als Ihre Datenkarte festlegen, mit dem Netzwerk verbinden und erneut versuchen.</string>
+    <string name="back_sound_fail">Einstellen nicht möglich. Die Einstellungen des Mobilfunkanbieters wurden geändert. Aktuelle SIM-Karte als Ihre Datenkarte einstellen, mit dem Netzwerk verbinden und erneut versuchen.</string>
     <string name="back_sound_success">Erfolgreich gesetzt</string>
     <string name="back_sound_support">Aktueller Mobilfunkanbieter unterstützt diese Einstellung nicht.</string>
     <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrundnetzwerkzugriffs kann die richtige Funktion der App, den Nachrichtenempfang, das Herunterladen etc. beeinträchtigen. Trotzdem einschränken?</string>
@@ -977,7 +984,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="bh_create_order_record_service_text">Onlinesupport</string>
     <string name="bh_create_order_record_success_text">Abgeschlossen</string>
     <string name="bh_create_order_time_item_text">Zeit</string>
-    <string name="bh_home_to_set_phone_number">Rufnummer festlegen</string>
+    <string name="bh_home_to_set_phone_number">Rufnummer einstellen</string>
     <string name="bh_more_functions">Weitere Tools</string>
     <string name="bh_no_resource_tab_view">Kein Artikel verfügbar</string>
     <string name="bh_open_pay_loading_dialog_title">Zahlung vorbereiten…</string>
@@ -1235,8 +1242,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="confirm_fingerprint_msg">Fingerabdruck verifizieren</string>
     <string name="confirm_leave">Nein danke</string>
     <string name="confirm_open">Einschalten</string>
-    <string name="confirm_open_shut_down_password_content">Bildschirmsperre festlegen, bevor Sie die Abschaltbestätigung einschalten</string>
-    <string name="confirm_open_shut_down_password_title">Bildschirmsperre festlegen</string>
+    <string name="confirm_open_shut_down_password_content">Bildschirmsperre einstellen, bevor Sie die Abschaltbestätigung einschalten</string>
+    <string name="confirm_open_shut_down_password_title">Bildschirmsperre einstellen</string>
     <string name="confirm_package_type">Bestätigen Sie Ihren Datentarif</string>
     <string name="confirm_prompt_all_permission">Nach Berechtigungen für alle Apps fragen?</string>
     <string name="confirm_reject_all_permission">Alle Apps daran hindern, diese Funktion zu nutzen?</string>
@@ -1300,7 +1307,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="daily_limit_and_lock_screen">Datennutzungswarnung</string>
     <string name="daily_limit_network_available_body">Tippen, um Datennutzungsstatistik anzuzeigen</string>
     <string name="daily_limit_over_message">Sie haben Ihr tägliches Datenlimit überschritten.</string>
-    <string name="daily_package_reminder_character">Tägliches Datenverbrauchslimit festlegen, um bei Erreichen dieses Limits eine Warnung zu erhalten.</string>
+    <string name="daily_package_reminder_character">Tägliches Datenverbrauchslimit einstellen, um bei Erreichen dieses Limits eine Warnung zu erhalten.</string>
     <string name="daily_pkg_traffic">Höchstdatenlimit</string>
     <string name="daily_remind_warning_text_tips">Warnen, wenn Tageslimit erreicht ist</string>
     <string name="daily_reminder_warning">Tägliches Datenlimit</string>
@@ -1321,8 +1328,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="data_usage_no_total_package_body">Tippen, um Datenlimit einzustellen</string>
     <string name="data_usage_no_total_package_body_dual">Kein Datenlimit für %s eingestellt</string>
     <string name="data_usage_no_total_package_title">Datennutzungslimit einstellen</string>
-    <string name="data_usage_protected_dialog_message">"MIUI hat mobile Daten abgeschaltet, um zusätzliche Mobilfunkanbieterkosten zu verhindern.
-Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile Daten wieder einschalten."</string>
+    <string name="data_usage_protected_dialog_message">MIUI hat mobile Daten abgeschaltet, um zusätzliche Mobilfunkanbieterkosten zu verhindern.\nIhr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile Daten wieder einschalten.</string>
     <string name="data_usage_protected_notify_message">MIUI hat mobile Daten abgeschaltet, um zusätzliche Mobilfunkanbieterkosten zu verhindern.</string>
     <string name="data_usage_protected_notify_title">Sie haben bereits 5 GB mobile Daten genutzt.</string>
     <string name="data_usage_warning_body">Tippen, um Datennutzungsdetails anzuzeigen</string>
@@ -1365,8 +1371,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile 
     <string name="details_subtitle">Nutzungsdetails</string>
     <string name="dev_sign_notification_content">Sie verwenden jetzt Android 12 Beta. Ihr Feedback hilft uns, Probleme zu identifizieren und zu beheben. Vielen Dank für die Teilnahme an diesem Programm!</string>
     <string name="device_manager_apply_step_1">Geräteadministrator für diese App aktivieren?</string>
-    <string name="device_manager_apply_step_2">"Aktivierung des Geräteadministrators für diese App kann zur Gefährdung Ihrer personenbezogenen Daten führen.
-Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswort kann zurückgesetzt werden."</string>
+    <string name="device_manager_apply_step_2">Aktivierung des Geräteadministrators für diese App kann zur Gefährdung Ihrer personenbezogenen Daten führen.\nAlle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswort kann zurückgesetzt werden.</string>
     <string name="device_manager_apply_step_3">Stellen Sie sicher, dass Sie alle möglichen Risiken verstehen, bevor Sie fortfahren. Geräteadministrator für diese App jetzt aktivieren?</string>
     <string name="diagnostic_attention_dialog_message">Diagnose für %1$s läuft. Warten Sie, bis der Vorgang abgeschlossen ist und versuchen Sie es erneut.</string>
     <string name="dialog_app_roaming_message">%1$s kann beim Roaming keine mobilen Daten verwenden. Beim Roaming können nur Apps aus den Ausnahmen mobile Daten verwenden.</string>
@@ -1718,7 +1723,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
     <string name="ew_settings_choose_level_value_4">" (Schwere Erschütterung)"</string>
     <string name="ew_settings_push_tips">Warnungen über Gebiete außerhalb Ihres Standortes erfolgen nur in Form von Benachrichtigungen.</string>
     <string name="ew_settings_set_level_summary">Warnungen über Erdbeben erhalten, wenn deren Intensität %s oder höher ist</string>
-    <string name="ew_settings_set_level_title">Schwellenwert Erdbebenwarnung festlegen</string>
+    <string name="ew_settings_set_level_title">Schwellenwert Erdbebenwarnung einstellen</string>
     <string name="ew_signature_default">Chengdu High-Tech-Forschungsinstitut für Katastrophenvorsorge Kontinentales Erdbeben-Warnzentrum</string>
     <string name="ew_sleep_mode_alert_content">Um sicherzustellen, dass Sie Erdbebenwarnungen erhalten können, wird MIUI den Schlafmodus deaktivieren. Hintergrund-Apps, NFC, Bluetooth, GPS, mobile Daten und WLAN werden normal funktionieren, auch wenn Sie schlafen. Erdbebenwarnung jetzt einschalten?</string>
     <string name="ew_sleep_mode_alert_title">Erdbebenwarnung</string>
@@ -1976,7 +1981,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
     <string name="full_fill_oprator_and_location">Anbieterdaten und Standort angeben</string>
-    <string name="full_fill_sim_location">Erst Standort festlegen</string>
+    <string name="full_fill_sim_location">Erst Standort einstellen</string>
     <string name="fully_informed_privacy">Bewusstsein für Datenschutz</string>
     <string name="function_auto_reject_detail">"Über diese Funktion: "</string>
     <string name="function_auto_reject_detail_new">"Über diese Funktion:
@@ -2206,7 +2211,7 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
     <string name="gb_game_mode_recommend">" (empfohlen)"</string>
     <string name="gb_game_mode_search">Nach Apps suchen</string>
     <string name="gb_game_ratio_bottom">Unten</string>
-    <string name="gb_game_ratio_center">Center</string>
+    <string name="gb_game_ratio_center">Mitte</string>
     <string name="gb_game_ratio_desc_h">Aktiver Bereich wird nicht beschnitten, schwarze Bereiche können erscheinen</string>
     <string name="gb_game_ratio_desc_v">Aktiver Bereich wird nicht beschnitten, schwarze Bereiche können erscheinen</string>
     <string name="gb_game_ratio_left">Links</string>
@@ -2250,13 +2255,11 @@ Alle Daten auf Ihrem Gerät werden evtl. gelöscht und Ihr Sperrbildschirmpasswo
     <string name="gb_performace_tips_button">Umschalten</string>
     <string name="gb_performace_tips_title">Für ein besseres Erlebnis in den Leistungsmodus wechseln</string>
     <string name="gb_performance_balance">Ausgeglichen</string>
-    <string name="gb_performance_balance_tips">"Ausgeglichener Modus spart Strom
-bei gleichzeitiger Senkung der Aktualisierungsrate und Temperaturgrenzen"</string>
+    <string name="gb_performance_balance_tips">Ausgeglichener Modus spart Strom\nbei gleichzeitiger Senkung der Aktualisierungsrate und Temperaturgrenzen</string>
     <string name="gb_performace_guide_disable_desc"><Data>Im Game Turbo kann nicht in den ausgewogenen Modus gewechselt werden, wenn der systemweite Leistungsmodus aktiviert ist. Sie können die Akku-Einstellungen unter Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a></Data></string>
     <string name="gb_performance_high">Leistung</string>
     <string name="gb_performance_mode">Spielmodus</string>
-    <string name="gb_performance_tips">"Der Leistungsmodus verbessert die Grafikleistung,
-erhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Geräts"</string>
+    <string name="gb_performance_tips">Leistungsmodus verbessert die Grafikleistung,\nerhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Geräts</string>
     <string name="gb_predownload_check">Prämien ansehen</string>
     <string name="gb_predownload_dialog_cancel">Nein danke</string>
     <string name="gb_predownload_dialog_checked">Nicht mehr anzeigen</string>
@@ -2352,18 +2355,15 @@ erhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Gerät
     <string name="gb_voice_changer_setting_realtime_subtitle">Prüfen Sie, wie sich Ihre Stimme in Echtzeit verändert</string>
     <string name="gb_voice_changer_setting_realtime_title">Echtzeit-Feedback</string>
     <string name="gb_voice_changer_setting_rights">Nutzungsbedingungen und Datenschutzerklärung</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Voice Changer jetzt ausprobieren,
-um eine kostenlose 3-Tage-Testversion zu erhalten!"</string>
-    <string name="gb_voice_changer_toast_window_new_tips">"Versuchen Sie Voice Changer!
-Wechseln Sie zwischen verschiedenen Zeichen und Spezialeffekten."</string>
+    <string name="gb_voice_changer_toast_window_bubble_tips">Voice Changer jetzt ausprobieren,\num eine kostenlose 3-Tage-Testversion zu erhalten!</string>
+    <string name="gb_voice_changer_toast_window_new_tips">Versuchen Sie Voice Changer!\nWechseln Sie zwischen verschiedenen Zeichen und Spezialeffekten.</string>
     <string name="gb_voice_changer_toast_window_open">\"%s\"-Effekt eingeschalten</string>
     <string name="gb_voice_changer_toast_window_vip_expire">Ihr Abo läuft demnächst ab. Abo jetzt erneuern, um Vorteile zu erhalten!</string>
     <string name="gb_voice_changer_trial_gender_dialog">Kostenlose Testversion erfolgreich erhalten! Wählen Sie das Geschlecht, um Effekte und Empfehlungen entsprechend anzupassen.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Kostenlose Testversion</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Kostenlose Testversion erhalten…</string>
     <string name="gb_voice_changer_user_status_expired">Abo abgelaufen</string>
-    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Eine kostenlose %d-Tage Testversion erhalten
-und unseren Voice Changer erkunden!"</string>
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">Holen Sie sich eine kostenlose %d-Tage Testversion \nund erkunden Sie unseren Voice Changer!</string>
     <string name="gb_voice_changer_user_status_no_login">Bei Xiaomi-Konto anmelden</string>
     <string name="gb_voice_changer_user_status_remain_time">Ablaufdatum: %s</string>
     <string name="gb_voice_changer_user_status_renew">Erneuern</string>
@@ -2414,6 +2414,11 @@ und unseren Voice Changer erkunden!"</string>
     <string name="get_detail_by_click">Tippen für Details</string>
     <string name="get_phone_num_fail">Unbekannte Rufnummer</string>
     <string name="get_sys_info">Infos abrufen…</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Tippen Sie auf eine App in der Seitenleiste, um sie in einem Popup zu öffnen.
+· Ziehen Sie eine App in die Bildschirmmitte, um sie in einem Popup zu öffnen, oder an die Seite, um den geteilten Bildschirm zu verwenden.
+· Halten Sie den Indikator gedrückt, um das Fenster zu bewegen."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Tippen Sie auf eine App in der Seitenleiste, um sie in einem Popup zu öffnen.
+· Halten Sie den Indikator gedrückt, um das Fenster zu bewegen."</string>
     <string name="global_satisfaction_notification_button">Bewerten</string>
     <string name="global_satisfaction_notification_subhead">Erzählen Sie uns von Ihrer Erfahrung</string>
     <string name="global_satisfaction_notification_title">Bewerten Sie dieses Gerät</string>
@@ -2527,8 +2532,7 @@ und unseren Voice Changer erkunden!"</string>
     <string name="gtb_spring_festival_back_game">Zurück zum Spiel</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Netzwerkverbindung nicht möglich</string>
     <string name="gtb_spring_festival_goto_gameturbo">Ansicht</string>
-    <string name="gtb_spring_festival_guide">"Wechseln Sie ins Querformat,
-um an unserer Eiersuche teilzunehmen!"</string>
+    <string name="gtb_spring_festival_guide">Wechseln Sie ins Querformat,\num an unserer Eiersuche teilzunehmen!</string>
     <string name="gtb_spring_festival_guide_know">Verstanden</string>
     <string name="gtb_spring_festival_push_active_desc">Gewinnen Sie Telefone, Smart-Geräte und Gutscheine</string>
     <string name="gtb_spring_festival_push_active_title">Die Ostereiersuche ist eröffnet!</string>
@@ -2568,8 +2572,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
     <string name="hints_scan_result_no_finish">Scan abgebrochen, erneut versuchen!</string>
     <string name="hints_scan_result_phone_safe">Sieht gut aus</string>
     <string name="hints_scan_result_safe">Prüfen &amp; scannen</string>
-    <string name="hints_scanning">"Gescannt wird »
-"</string>
+    <string name="hints_scanning">Gescannt wird »\n</string>
     <string name="hints_scanning_text">Scannen…</string>
     <string name="hints_virus_apk_summary">%s (APK)</string>
     <string name="hints_virus_app_summary">%s (App)</string>
@@ -2606,7 +2609,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
     <string name="info_unantispam_sms">SMS erlauben</string>
     <string name="information_setting">Empfehlungen</string>
     <string name="input_available_cellular_data_daily_hint">Tägliches Datenlimit eingeben</string>
-    <string name="input_aviable_traffic">Datenlimit festlegen</string>
+    <string name="input_aviable_traffic">Datenlimit einstellen</string>
     <string name="input_celluar_data_quota_hint">Datenlimit eingeben</string>
     <string name="input_cellular_data_warn_hint">Warngrenze für Datennutzung eingeben</string>
     <string name="input_password_hint_text">Passwort eingeben</string>
@@ -2670,8 +2673,7 @@ um an unserer Eiersuche teilzunehmen!"</string>
     <string name="legal_workday_invalidate">Mo-Fr (Feiertagsinfo abgelaufen)</string>
     <string name="legal_workday_invalidate_message">Tippen, um die Feiertagsinfos zu aktualisieren</string>
     <string name="legal_workday_message">(Feiertage überspringen)</string>
-    <string name="leisure_usage_dialog_message">"Ihr Datennutzungslimit wurde erreicht.
-Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mobile Datenverbindung weiter verwenden."</string>
+    <string name="leisure_usage_dialog_message">Ihr Datennutzungslimit wurde erreicht.\nIhr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mobile Datenverbindung weiter verwenden.</string>
     <string name="leisure_usage_dialog_title">Ihr Datennutzungslimit wurde erreicht, Datenverbindung ist ausgeschaltet</string>
     <string name="limit_speed_by_quota">Unbegrenzte Datennutzung. Die Geschwindigkeit wird reduziert, wenn das Limit überschritten wird.</string>
     <string name="list_empty_text">Leer</string>
@@ -2701,8 +2703,7 @@ Ihr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mob
     <string name="lockpattern_pattern_entered_header">Muster hinzugefügt</string>
     <string name="lockpattern_recording_incorrect_too_short">Verbinden Sie mindestens %d Punkte</string>
     <string name="lockpattern_recording_inprogress">Bei vollständigem Muster Finger wegnehmen</string>
-    <string name="lockpattern_recording_intro_header">"Verbinden Sie mindestens 4 Punkte,
-um ein Muster zu erstellen"</string>
+    <string name="lockpattern_recording_intro_header">Verbinden Sie mindestens 4 Punkte,\num ein Muster zu erstellen</string>
     <string name="lockpattern_retry_button_text">Erneut zeichnen</string>
     <string name="lockpattern_settings_help_how_to_record">Zeichnen Sie ein Muster</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Zu viele erfolglose Versuche!</string>
@@ -2741,9 +2742,9 @@ um ein Muster zu erstellen"</string>
     <string name="main_button_usage_package_setting">Datennutzung einstellen</string>
     <string name="main_daily_card_guide_dialog_ok">Einstellen</string>
     <string name="main_daily_card_guide_dialog_summary">Sie können zwischen Tages-, Monats- und unbegrenzten Tarifen wählen. Datentarif jetzt einstellen?</string>
-    <string name="main_daily_card_guide_dialog_summary_new">Es werden tägliche, monatliche und unbegrenzte Datentarife unterstützt. Datentariftyp jetzt festlegen?</string>
+    <string name="main_daily_card_guide_dialog_summary_new">Tages-, Monats- und unbegrenzte Datentarife unterstützt. Datentariftyp jetzt einstellen?</string>
     <string name="main_daily_card_guide_dialog_title">Datentarif einstellen</string>
-    <string name="main_daily_card_guide_dialog_title_new">Datentariftyp festlegen</string>
+    <string name="main_daily_card_guide_dialog_title_new">Datentariftyp einstellen</string>
     <string name="main_daily_package">Täglicher Datentarif</string>
     <string name="main_indicator_title">Aktivierung</string>
     <string name="main_leisure_remained">Bis zur Nutzungsgrenze bleiben</string>
@@ -2760,10 +2761,8 @@ um ein Muster zu erstellen"</string>
     <string name="main_primary_message_traffic_warning">Mobile Datenwarnung</string>
     <string name="main_purchase_tips">Rabatt</string>
     <string name="main_tc_over">Erfolreich kalibriert</string>
-    <string name="main_tc_send_sms">"SMS senden
-zum Kalibrieren"</string>
-    <string name="main_tc_wait_result">"Auf Antwort des
-Anbieters warten"</string>
+    <string name="main_tc_send_sms">SMS senden\nzum Kalibrieren</string>
+    <string name="main_tc_wait_result">Auf Antwort des\nAnbieters warten</string>
     <string name="main_today_used">Heute genutzt</string>
     <string name="main_toolbar_custom_service">Kundendienst</string>
     <string name="main_toolbar_firewall">Datennutzung einschränken</string>
@@ -2777,7 +2776,7 @@ Anbieters warten"</string>
     <string name="man_add_application">Autostart-Apps manuell hinzufügen</string>
     <string name="manage_hybrid_permissions">App-Berechtigungen verwalten</string>
     <string name="managed_user_title">Alle Arbeits-Apps</string>
-    <string name="manual_input_free_traffic">Datenlimit festlegen</string>
+    <string name="manual_input_free_traffic">Datenlimit einstellen</string>
     <string name="manual_input_traffic">Datennutzung eingeben</string>
     <string name="manual_item_create_icon_title">Startbildschirm-Verknüpfung</string>
     <string name="manual_item_white_list_summary">Ausgewählte Apps werden nicht optimiert</string>
@@ -2826,10 +2825,8 @@ Anbieters warten"</string>
     <string name="memory_clean_cleaning_title">Cache bereinigen</string>
     <string name="memory_clean_click_tip">Geschwindigkeit erhöhen</string>
     <string name="memory_clean_no_need_clean">Alles sieht gut aus</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">"%s freigegeben.
-Ihr Gerät ist jetzt %d%% schneller."</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s freigegeben.
-Ihr Gerät ist jetzt %s schneller."</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s freigegeben.\nIhr Gerät ist jetzt %d%% schneller.</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">%s freigegeben.\nIhr Gerät ist jetzt %s schneller.</string>
     <string name="memory_clean_no_running_process">Keine Prozesse zum Bereinigen</string>
     <string name="memory_clean_running_process_title">Überwachte Apps (%d)</string>
     <string name="memory_cleaned_memory_info">Verfügbarer Speicher</string>
@@ -2866,7 +2863,7 @@ Ihr Gerät ist jetzt %s schneller."</string>
     <string name="menu_item_virus_lib_auto_update_summary">Aktualisiert am %s</string>
     <string name="menu_remove">Löschen</string>
     <string name="menu_report">Fehler melden</string>
-    <string name="menu_setting_traffic">Manuell festlegen</string>
+    <string name="menu_setting_traffic">Manuell einstellen</string>
     <string name="menu_sms">SMS senden</string>
     <string name="menu_summary_antispam">Anrufe und Nachrichten blockieren</string>
     <string name="menu_summary_antispam_2">Gesperrte Anrufe und Nachrichten</string>
@@ -2988,7 +2985,7 @@ Ihr Gerät ist jetzt %s schneller."</string>
     <string name="month_october">Oktober</string>
     <string name="month_october_short">Okt</string>
     <string name="month_october_shortest">O</string>
-    <string name="month_package_reminder_character">Bei Verwendung von Warnungen zur Datennutzung mit unbegrenzten Datentarifen muss weiterhin ein Datenlimit festgelegt werden. Sie erhalten die Warnung, wenn dieses Limit erreicht ist.</string>
+    <string name="month_package_reminder_character">Bei Verwendung von Warnungen zur Datennutzung mit unbegrenzten Datentarifen muss weiterhin ein Datenlimit eingestellt werden. Sie erhalten die Warnung, wenn dieses Limit erreicht ist.</string>
     <string name="month_reminder_warning">Monatliches Datenlimit</string>
     <string name="month_reminder_warning_necessary">Monatliches Datenlimit (erforderlich)</string>
     <string name="month_september_shortest">S</string>
@@ -3124,7 +3121,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="not_closed">Weitermachen</string>
     <string name="not_limited_brand">Unbegrenzt</string>
     <string name="not_set">Zum Einstellen tippen</string>
-    <string name="not_settled">Nicht festgelegt</string>
+    <string name="not_settled">Nicht eingestellt</string>
     <string name="not_support_root_summary">Das Zulassen des Root-Zugriffs für Drittanbieter-Apps kann Sicherheitsrisiken bergen und Ihr Gerät beschädigen. Aus diesem Grund bieten wir keine Optionen mehr für die Verwaltung von Root-Zugriffsberechtigungen an.</string>
     <string name="not_support_root_title">Root-Zugriff</string>
     <string name="note">Notiz</string>
@@ -3212,7 +3209,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="notification_whatsapp_clean_button_text">Löschen</string>
     <string name="notification_whatsapp_clean_size">WhatsApp-Cache erreichte %s</string>
     <string name="notify_channel_mipush">Push-Sicherheitsmeldungen</string>
-    <string name="notify_channel_name_behavior">Verhaltensaufnahme</string>
+    <string name="notify_channel_name_behavior">Verhaltensaufzeichnung</string>
     <string name="notify_channel_name_security">Systemsicherheit</string>
     <string name="notify_channel_optimize">Sicherheitsmeldungen</string>
     <string name="notify_daily_data_usage_body">Um die Datennutzung automatisch zu begrenzen, stellen Sie Ihr monatl. Datenvolumen ein.</string>
@@ -3317,7 +3314,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="open_right_now">Jetzt öffnen</string>
     <string name="open_wlan_title">App erlauben, WLAN ein- und auszuschalten</string>
     <string name="operator_diagnostic">Mobilfunkanbieterdiagnose</string>
-    <string name="operator_location_settings">Anbieter und Standort festlegen</string>
+    <string name="operator_location_settings">Anbieter und Standort einstellen</string>
     <string name="operator_location_settings_message">Ihr Anbieter und Ihr Standort konnten nicht erkannt werden. Sie können jetzt keine Warnungen für das Telefonguthaben und die Datennutzung einstellen.</string>
     <string name="operator_name_virtual_operator">Virtueller Betreiber</string>
     <string name="optimize_manage_title">Mehr Geschwindigkeit</string>
@@ -3365,7 +3362,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="package_change_notification_summary">Tippen, um mehr zu erfahren</string>
     <string name="package_change_notification_title">Datenlimit automatisch anpassen</string>
     <string name="package_setted_error_notification_summary">Tippen, um Datennutzung im Detail anzuzeigen</string>
-    <string name="package_setted_error_notification_titile">Datentarif wurde nicht festgelegt</string>
+    <string name="package_setted_error_notification_titile">Datentarif wurde nicht eingestellt</string>
     <string name="packages_subtitle">Inklusivpakete</string>
     <string name="passwordIncorrect">Benutzername oder Passwort falsch</string>
     <string name="password_forget_pattern_confirm">Verstanden</string>
@@ -3405,8 +3402,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_activity_title">Akku optimieren</string>
     <string name="pc_battery_chart_loading">Einen Moment…</string>
     <string name="pc_battery_detail_curve_reference_now">Jetzt</string>
-    <string name="pc_battery_detail_device_item_title">"Statistik zum
-Stromverbrauch"</string>
+    <string name="pc_battery_detail_device_item_title">Statistik zum\nStromverbrauch</string>
     <string name="pc_battery_history_consume_all_menu_item">Alle</string>
     <string name="pc_battery_history_consume_rank_menu_item">Verbrauchsliste</string>
     <string name="pc_battery_history_consumption_percent_title">Leistungsaufnahme in Prozent</string>
@@ -3471,7 +3467,7 @@ Stromverbrauch"</string>
     <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
     <string name="pc_wait_device_cools_down">Warten Sie, bis Ihr Gerät abgekühlt ist, um diese Funktion zu nutzen</string>
     <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi KI</string>
-    <string name="per_month_pkg_traffic_settings">Datenlimit festlegen</string>
+    <string name="per_month_pkg_traffic_settings">Datenlimit einstellen</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
     <string name="perfermance_optimization_title">Leistungsoptimierung</string>
     <string name="perm_intercept_content">Dieser App folgende Berechtigung erlauben: %1s?</string>
@@ -3881,7 +3877,7 @@ Stromverbrauch"</string>
     <string name="power_settings_number">Prozent</string>
     <string name="power_settings_saver_title">Stromsparen</string>
     <string name="power_settings_shape">Grafisch</string>
-    <string name="power_settings_title">Festlegen</string>
+    <string name="power_settings_title">Einstellen</string>
     <string name="power_settings_top">Obere Leiste</string>
     <string name="power_superpower_title_systemui_highpower">Verbleibende Zeit</string>
     <string name="power_superpower_title_systemui_lowpower">Ladegerät anschließen</string>
@@ -4029,11 +4025,11 @@ Stromverbrauch"</string>
     <string name="pref_new_installed_preconfig_title">Standard für neue Apps</string>
     <string name="pref_normal_traffic_limit">Wenn das Datenvolumen aufgebraucht ist</string>
     <string name="pref_open_adjust_traffic">Synchronisation der Datennutzungsstatistik mit dem Mobilfunkanbieter</string>
-    <string name="pref_operator_not_set">Kein Mobilfunkanbieter festgelegt</string>
+    <string name="pref_operator_not_set">Kein Mobilfunkanbieter eingestellt</string>
     <string name="pref_over_traffic_limit">Wenn Sie Ihr Datenvolumen überschreiten</string>
     <string name="pref_package_traffic_settings">Datentarif</string>
     <string name="pref_pkg_begin_date">Datum Nutzungsrücksetzung</string>
-    <string name="pref_roaming_daily_limit_setting">Tägliches Daten-Roaming-Limit festlegen</string>
+    <string name="pref_roaming_daily_limit_setting">Tägliches Daten-Roaming-Limit einstellen</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Tägliches Datenlimit</string>
     <string name="pref_roaming_setting_gategory">Einstellungen</string>
     <string name="pref_special_package_setting">Benutzerdef. Datenvolumen</string>
@@ -4093,8 +4089,7 @@ Stromverbrauch"</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Zwei Finger auf dem Startbildschirm spreizen, um versteckte Apps anzuzeigen</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Hinweis: Wenn Sie eine App ausblenden, wird nur ihre Verknüpfung auf dem Startbildschirm ausgeblendet.</string>
     <string name="privacy_apps_tutorial_dlg_title">Wie man versteckte Apps findet</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Wenn Sie eine App ausblenden, wird sie in einen versteckten Ordner verschoben. Die Startbildschirm-Verknüpfung ist auch versteckt.
-Diese Funktion wird bei System-Apps nicht unterstützt."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Wenn Sie eine App ausblenden, wird sie in einen versteckten Ordner verschoben. Die Startbildschirmverknüpfung ist auch versteckt.\nDiese Funktion wird bei System-Apps nicht unterstützt.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Wenn Sie Ihr Passwort eingegeben haben, erscheint der Ordner mit den versteckten Apps.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Spreizen Sie zwei Finger auf dem Bildschirm. Eine Meldung wird angezeigt, in der Sie aufgefordert werden, Ihr App-Sperrepasswort einzugeben.</string>
     <string name="privacy_danger_permission_status_summary">Verwalten von Apps, die sensible Berechtigungen anfordern</string>
@@ -4203,8 +4198,7 @@ Diese Funktion wird bei System-Apps nicht unterstützt."</string>
     <string name="privacy_pop_record">Audioaufnahme heute</string>
     <string name="privacy_pop_storage">Speicherzugriff heute</string>
     <string name="privacy_prompt_tc_sms_report_message">Ihre Rufnummer und Mobilfunkanbieterdetails werden verschlüsselt und auf den Mi Server hochgeladen, um Ihre Datennutzungsdetails zu aktualisieren.</string>
-    <string name="privacy_prompt_traffic_adjust_message">Wenn Sie mit der Kalibrierung beginnen, verbindet sich MIUI mit dem Netzwerk, kodiert die Daten Ihres Mobilfunkanbieters, Rufnummer, IMEI und Xiaomi-Konto und lädt diese Elemente auf die Mi Server hoch. Dies geschieht, um die Kalibriervorlage des Mobilfunkanbieters zu erhalten und zu erfahren, ob es möglich ist, Daten an Ihrem Standort zu erwerben.
-Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbieter, um die Kalibriervorlage zu erhalten.</string>
+    <string name="privacy_prompt_traffic_adjust_message">Wenn Sie mit der Kalibrierung beginnen, verbindet sich MIUI mit dem Netzwerk, kodiert die Daten Ihres Mobilfunkanbieters, Rufnummer, IMEI und Xiaomi-Konto und lädt diese Elemente auf die Mi Server hoch. Dies geschieht, um die Kalibriervorlage des Mobilfunkanbieters zu erhalten und zu erfahren, ob es möglich ist, Daten an Ihrem Standort zu erwerben.\nWährend der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbieter, um die Kalibriervorlage zu erhalten.</string>
     <string name="privacy_prompt_upload">Hochladen</string>
     <string name="privacy_protect_summary">Ihre persönlichen Daten schützen</string>
     <string name="privacy_protect_title">Datenschutz</string>
@@ -4219,8 +4213,7 @@ Während der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbie
     <string name="privacy_recommend_title">Personalisierte Inhaltsempfehlungen</string>
     <string name="privacy_revoke_category_title">Widerruf Zustimmung und Kündigung des Dienstes</string>
     <string name="privacy_revoke_dialog_content">Durch Schalter aus widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Sicherheit. Wir werden die Erfassung Ihrer persönlichen Daten einstellen. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Die Sicherheitsabteilung muss die notwendigen persönlichen Informationen sammeln, um Ihnen grundlegende Dienstleistungen anzubieten. Wenn Sie Ihre Zustimmung zur Datenschutzrichtlinie zurückziehen, wird dies als Verweigerung der Annahme der Dienste auf der Grundlage der gesammelten persönlichen Daten gewertet.</string>
-    <string name="privacy_revoke_dialog_content_cn">"Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis zur Datenschutzerklärung von %1$s. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.
-Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönlichen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
+    <string name="privacy_revoke_dialog_content_cn">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis zur Datenschutzerklärung von %1$s. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des eingestellten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\nDa %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönlichen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="privacy_revoke_dialog_negetive_text">Abbrechen</string>
     <string name="privacy_revoke_dialog_positive_text">Widerrufen</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Widerrufen (%ds)</string>
@@ -4414,7 +4407,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="resource_buy_flow">Mobile Daten kaufen</string>
     <string name="resource_cleanmaster">Müllbeseitigung</string>
     <string name="resource_networkassistant_1">Datennutzung</string>
-    <string name="resource_networkassistant_2">Datentarif festlegen</string>
+    <string name="resource_networkassistant_2">Datentarif einstellen</string>
     <string name="resource_networkassistant_4">Netzwerkdiagnose</string>
     <string name="resource_powercenter">Akku-Optimierung</string>
     <string name="resource_powercenter_powerrank">Akku &amp; Leistung</string>
@@ -4537,7 +4530,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="set_applock_password">Passwort setzen</string>
     <string name="set_complete">Einstellen</string>
     <string name="set_immediately">Einstellen</string>
-    <string name="set_location">Einstellung festlegen</string>
+    <string name="set_location">Einstellung einstellen</string>
     <string name="set_mixed_password_name">Passwort setzen</string>
     <string name="set_now">Einstellungen</string>
     <string name="set_numeric_password_name">PIN setzen</string>
@@ -4614,7 +4607,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_location_error_dialog_message">Die SIM-Karte, die Sie verwenden, ist von %1$s. Das unterscheidet sich von Ihrem manuell eingestellten Slot (%2$s). Wollen Sie den SIM-Slot auf %3$s ändern?</string>
     <string name="sim_location_error_notify_message">Tippen Sie auf SIM-Slot ändern</string>
     <string name="sim_location_error_notify_title">SIM-Kartenfehler</string>
-    <string name="sim_lock_change_done_message">Erfolgreich festgelegt! Merken Sie sich Ihre neue PIN. Wenn Sie sie vergessen, müssen Sie sich an den Kundendienst Ihres Anbieters wenden, um sie wiederherzustellen.</string>
+    <string name="sim_lock_change_done_message">Erfolgreich eingestellt! Merken Sie sich Ihre neue PIN. Wenn Sie sie vergessen, müssen Sie sich an den Kundendienst Ihres Anbieters wenden, um sie wiederherzustellen.</string>
     <string name="sim_lock_cloud_notification_message">PIN kann nicht verifiziert werden, wenn die Synchronisierung mit der Cloud aus ist</string>
     <string name="sim_lock_cloud_notification_title">SIM-Karte ist nicht geschützt</string>
     <string name="sim_lock_confirm_pin_hint">Neue PIN bestätigen</string>
@@ -4622,8 +4615,8 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_lock_dialog_message">Ihre SIM-Karte ist jetzt geschützt. Vergessen Sie Ihre PIN nicht.</string>
     <string name="sim_lock_dialog_title">SIM-Karte ist geschützt</string>
     <string name="sim_lock_done_dialog_confirm">Eingestellt</string>
-    <string name="sim_lock_done_dialog_message">Sie verwenden jetzt die Standard-Anbieter-PIN. Legen Sie eine neue PIN fest, um Ihre SIM-Karte sicherer zu machen. Jetzt festlegen?</string>
-    <string name="sim_lock_done_dialog_title">Neue PIN festlegen</string>
+    <string name="sim_lock_done_dialog_message">Sie verwenden jetzt die Standard-Anbieter-PIN. Stellen Sie eine neue PIN ein, um Ihre SIM-Karte sicherer zu machen. Jetzt einstellen?</string>
+    <string name="sim_lock_done_dialog_title">Neue PIN einstellen</string>
     <string name="sim_lock_done_disable">Ihre SIM-Karte ist nicht geschützt</string>
     <string name="sim_lock_done_enable">Ihre SIM-Karte ist geschützt</string>
     <string name="sim_lock_done_title">SIM-Sicherheit</string>
@@ -4631,7 +4624,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_lock_guide_button">Einstellungen</string>
     <string name="sim_lock_guide_message">SIM-Karte mit diesem Gerät verknüpfen, um es weniger anfällig für Sicherheitsrisiken zu machen</string>
     <string name="sim_lock_guide_title">Schützen Sie Ihre SIM-Karte</string>
-    <string name="sim_lock_locked_dialog_message">Sie haben das von Ihrem Anbieter festgelegte Limit für die Eingabe falscher PUKs erreicht. Ihre SIM-Karte wird jetzt gelöscht.</string>
+    <string name="sim_lock_locked_dialog_message">Sie haben das von Ihrem Anbieter eingestellte Limit für die Eingabe falscher PUKs erreicht. Ihre SIM-Karte wird jetzt gelöscht.</string>
     <string name="sim_lock_locked_dialog_title">SIM-Karte wird gelöscht</string>
     <string name="sim_lock_locked_notification_message">Tippen, um die PIN einzugeben</string>
     <string name="sim_lock_locked_notification_title">SIM-Karte ist gesperrt</string>
@@ -4640,7 +4633,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_lock_new_pin_different_error">Die eingegebenen PINs stimmen nicht überein. Erneut versuchen.</string>
     <string name="sim_lock_new_pin_hint" formatted="false">Geben Sie %d-%d Ziffern ein</string>
     <string name="sim_lock_new_pin_message">Merken Sie sich Ihre neue PIN. Wenn Sie sie vergessen, müssen Sie sich an den Kundendienst Ihres Anbieters wenden, um sie wiederherzustellen.</string>
-    <string name="sim_lock_new_pin_title">Neue PIN festlegen</string>
+    <string name="sim_lock_new_pin_title">Neue PIN einstellen</string>
     <string name="sim_lock_no_sim_notification_message">Tippen, um die SIM-PIN zu prüfen</string>
     <string name="sim_lock_no_sim_notification_title">SIM-Karte ist nicht installiert</string>
     <string name="sim_lock_other_setting_title">PIN-Einstellungen</string>
@@ -4648,7 +4641,7 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_lock_pin_dialog_message">Sie haben mehrfach eine falsche PIN eingegeben. Jetzt ist nur noch %d übrig. Wenn Sie eine weitere falsche PIN eingeben, wird Ihre SIM-Karte gesperrt. Trotzdem fortfahren?</string>
     <string name="sim_lock_pin_dialog_title">Letzter Versuch</string>
     <string name="sim_lock_pin_hint">SIM-PIN eingeben</string>
-    <string name="sim_lock_pin_message" formatted="false">Wenn Sie keine PIN für Ihre SIM-Karte festgelegt haben, versuchen Sie die Standard-PIN Ihres Anbieters (%s): %d.</string>
+    <string name="sim_lock_pin_message" formatted="false">Wenn Sie keine PIN für Ihre SIM-Karte eingestellt haben, versuchen Sie die Standard-PIN Ihres Anbieters (%s): %d.</string>
     <string name="sim_lock_pin_success">PIN erfolgreich verifiziert</string>
     <string name="sim_lock_pin_title">SIM-PIN verifizieren</string>
     <string name="sim_lock_puk_dialog_title">Keine Versuche mehr möglich</string>
@@ -4657,8 +4650,8 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_lock_puk_success">PUK erfolgreich verifiziert</string>
     <string name="sim_lock_puk_title">PUK verifizieren</string>
     <string name="sim_lock_query_all_title">PIN prüfen</string>
-    <string name="sim_lock_query_dialog_title">Neue PIN festlegen</string>
-    <string name="sim_lock_query_new_pin">Neue PIN festlegen</string>
+    <string name="sim_lock_query_dialog_title">Neue PIN einstellen</string>
+    <string name="sim_lock_query_new_pin">Neue PIN einstellen</string>
     <string name="sim_lock_query_pin_error">PIN ändern nicht möglich</string>
     <string name="sim_lock_query_pin_length_error" formatted="false">PIN muss %d-%d Ziffern enthalten</string>
     <string name="sim_lock_query_pin_mismatch_error">Die eingegebenen PINs stimmen nicht überein</string>
@@ -4677,9 +4670,9 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="sim_lock_start_close_dialog_title">Achtung</string>
     <string name="sim_lock_start_confirm_password_title">Bildschirmsperre bestätigen</string>
     <string name="sim_lock_start_keyguard_dialog_cancel">Abbrechen</string>
-    <string name="sim_lock_start_keyguard_dialog_enable">Festlegen</string>
-    <string name="sim_lock_start_keyguard_dialog_message">Bildschirmsperre festlegen, bevor Sie die SIM-Sicherheit einschalten. Jetzt festlegen?</string>
-    <string name="sim_lock_start_keyguard_dialog_title">Bildschirmsperre festlegen</string>
+    <string name="sim_lock_start_keyguard_dialog_enable">Einstellen</string>
+    <string name="sim_lock_start_keyguard_dialog_message">Bildschirmsperre einstellen, bevor Sie die SIM-Sicherheit einschalten. Jetzt einstellen?</string>
+    <string name="sim_lock_start_keyguard_dialog_title">Bildschirmsperre einstellen</string>
     <string name="sim_lock_start_lock_summary">PIN manuell bestätigen</string>
     <string name="sim_lock_start_lock_title">USIM sperren</string>
     <string name="sim_lock_start_notification_message">SIM-Karte mit diesem Gerät verknüpfen, um es weniger anfällig für Sicherheitsrisiken zu machen</string>
@@ -5064,15 +5057,9 @@ Da %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönli
     <string name="storage_compact_warning">Status Mehrfachberechtigung muss angepasst werden</string>
     <string name="storage_compact_warning_desc">App unterstützt nur die gleichzeitige Anpassung des Zugriffs auf Fotos und Videos, Audiodateien, Dateien und Dokumente, nicht aber deren getrennten Zugriff.</string>
     <string name="storage_deepclean_entry">Tiefenreinigung</string>
-    <string name="storage_dialog_unmountable">"^1 ist fehlerhaft.
-
-Um ^1 zu verwenden, müssen Sie es zuerst einrichten."</string>
-    <string name="storage_dialog_unmounted">"^1 wurde sicher entfernt, ist aber immer noch verfügbar.
-
-Um ^1 zu verwenden, müssen Sie es zuerst einhängen."</string>
-    <string name="storage_dialog_unsupported">"Dieses Gerät unterstützt ^1 nicht.
-
-Um ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string>
+    <string name="storage_dialog_unmountable">^1 ist fehlerhaft.\n\nUm ^1 zu verwenden, bitte zuerst einrichten.</string>
+    <string name="storage_dialog_unmounted">^1 wurde sicher entfernt, ist aber immer noch verfügbar.\n\nUm ^1 zu verwenden, bitte zuerst einhängen.</string>
+    <string name="storage_dialog_unsupported">Dieses Gerät unterstützt ^1 nicht.\n\nUm ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten.</string>
     <string name="storage_fbo_clear">FBO-Speicheraktualisierung</string>
     <string name="storage_fbo_des">Der interne Speicher ist fragmentiert, was Ihr Gerät erheblich verlangsamen kann. Die FBO-Speicheraktualisierung funktioniert automatisch, wenn Sie das Gerät nicht verwenden. Sie organisiert Ihre Dateien physisch in die kleinste Anzahl von Fragmenten und reduziert so die Verzögerung.</string>
     <string name="storage_fbo_number_tip">Verarbeitet am %1$s</string>
@@ -5104,9 +5091,7 @@ Um ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten."</string
     <string name="storage_unmount_failure">%1$s aushängen nicht möglich</string>
     <string name="storage_unmount_success">%1$s erfolgreich ausgehängt</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 formatieren</string>
-    <string name="storage_wizard_format_confirm_v2_body">"^1 muss formatiert werden, um Apps, Dateien und Medien zu speichern.
-
-Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, sichern Sie ihn auf einem anderen ^3 oder einem anderen Gerät."</string>
+    <string name="storage_wizard_format_confirm_v2_body">^1 muss formatiert werden, um Apps, Dateien und Medien zu speichern.\n\nFormatieren löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, sichern Sie alles auf einem anderen ^3 oder einem anderen Gerät.</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 jetzt formatieren?</string>
     <string name="stranger_call_dialog_add_block_list">Sperren</string>
     <string name="stranger_call_dialog_add_contacts">Neuer Kontakt</string>
@@ -5636,12 +5621,11 @@ Formatierung löscht vorhandenen Inhalt auf ^2. Um Inhaltsverlust zu vermeiden, 
     <string name="traffic_alert_auto_modify_package_summary">Datenpakete automatisch anpassen, je nach Mobilfunkanbieterinfo</string>
     <string name="traffic_calculation">Die Datenübertragung wird pro Tag berechnet, z. B. 1 Yuan/1GB/Tag</string>
     <string name="traffic_config_alert_auto_modify">Datentarif automatisch aktualisieren</string>
-    <string name="traffic_config_alert_body">"Ihr Datentarif zeigt dies: %s.
-Wollen Sie es übernehmen?"</string>
+    <string name="traffic_config_alert_body">Ihr Datentarif zeigt: %s.\nÜbernehmen?</string>
     <string name="traffic_config_alert_body_extra">Sie kauften diesen Monat %1$s zusätzliches Datenvolumen. Dies unterscheidet sich von %2$s, was Sie manuell eingerichtet haben.</string>
     <string name="traffic_config_alert_body_extra_notset">Sie kauften diesen Monat %s zusätzliches Datenvolumen. Dieses ist nicht im monatlichen Limit enthalten, welches Sie manuell eingerichtet haben.</string>
     <string name="traffic_config_alert_body_leisure">Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom manuell eingestellten %2$s.</string>
-    <string name="traffic_config_alert_body_leisure_notset">Ihr monatlich eingestelltes Limit ist %1$s. Sie haben kein maximales Datenlimit festgelegt.</string>
+    <string name="traffic_config_alert_body_leisure_notset">Ihr monatlich eingestelltes Limit ist %1$s. Sie haben kein maximales Datenlimit eingestellt.</string>
     <string name="traffic_config_alert_body_normal">Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom manuell eingestellten %2$s.</string>
     <string name="traffic_config_alert_package">Zusatzdatenvolumen überschritten</string>
     <string name="traffic_config_alert_setted">Einstellungen übernommen</string>
@@ -5808,19 +5792,12 @@ Wollen Sie es übernehmen?"</string>
     <string name="vb_video_effects_settings_stereo">Lautstärke</string>
     <string name="vb_video_effects_some_headphone">Supported by selected earphone models</string>
     <string name="vb_video_effects_spatial">Kopfbewegung verfolgen</string>
-    <string name="vb_video_effects_spatial_summary">"Anpassen des Surround Sound anhand der Kopfbewegung
-*Wird nur von Gaming-Kopfhörermodellen unterstützt"</string>
+    <string name="vb_video_effects_spatial_summary">Anpassen des Surround Sound anhand der Kopfbewegung\n*Wird nur von Gaming-Kopfhörermodellen unterstützt</string>
     <string name="vb_video_effects_spatial_summary_new">Erleben Sie ein verbessertes Raum- und Richtungsgefühl für unterstützte Audio- und Videodateien und passen Sie den immersiven Klang basierend auf Kopfbewegungen an</string>
     <string name="vb_video_effects_srs_premium_sound">Ton</string>
     <string name="vb_video_super_division">Skalieren</string>
-    <string name="vb_video_super_division_desc">"Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.
-
-Die Verwendung dieser Funktion erhöht den Stromverbrauch.
-
-Diese Funktion funktioniert nicht mit der Bewegungsglättung.
-Wenn Sie eine der Funktionen einschalten, schalten Sie die andere aus."</string>
-    <string name="vb_video_super_division_tips">"Nicht klar genug?
-Versuchen Sie, die Auflösung hochzuskalieren!"</string>
+    <string name="vb_video_super_division_desc">Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.\n\nDie Verwendung dieser Funktion erhöht den Stromverbrauch.\n\nDiese Funktion funktioniert nicht mit der Bewegungsglättung.\nWenn Sie eine der Funktionen einschalten, schalten Sie die andere aus.</string>
+    <string name="vb_video_super_division_tips">Nicht klar genug?\nVersuchen Sie, die Auflösung hochzuskalieren!</string>
     <string name="verify_shut_down_password_content">Bestätigen der Bildschirmsperre erforderlich, wenn das Gerät während der Sperre ausgeschaltet wird</string>
     <string name="verify_shut_down_password_title">Abschaltbestätigung</string>
     <string name="verify_sms_ensure_allow">Senden</string>
