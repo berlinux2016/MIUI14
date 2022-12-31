@@ -229,7 +229,7 @@
     <string name="error_get_image">Bild erstellen fehlgeschlagen</string>
     <string name="error_hour_limit">Zu viele Versuche pro Stunde</string>
     <string name="error_image_error">Bilderkennung nicht möglich</string>
-    <string name="error_invalid_request">Authentifizierungsfehler</string>
+    <string name="error_invalid_request">Authentisierungsfehler</string>
     <string name="error_media_storage_failure">Bild wurde nicht gespeichert</string>
     <string name="error_minute_limit">Zu viele Versuche in einer Minute</string>
     <string name="error_not_found_activity">Keine App zum PDF-Öffnen gefunden</string>

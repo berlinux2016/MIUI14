@@ -351,8 +351,8 @@
     <string name="perm_send_push_lab">Pushnachrichten senden</string>
     <string name="permdesc_manageFingerprint">Erlaubt der App, Methoden zum Löschen und Erstellen von Fingerabdrücken aufzurufen</string>
     <string name="permdesc_manageLocationPolicy">Erlaubt der App, Lokalisierungsregeln zu verwalten</string>
-    <string name="permdesc_useBiometric">Erlaubt der App, biometrische Hardware zur Authentifizierung zu verwenden</string>
-    <string name="permdesc_useFingerprint">Erlaubt der App, den Fingerabdruck zu Authentifizierung zu verwenden</string>
+    <string name="permdesc_useBiometric">Erlaubt der App, biometrische Hardware zur Authentisierung zu verwenden</string>
+    <string name="permdesc_useFingerprint">Erlaubt der App, den Fingerabdruck zu Authentisierung zu verwenden</string>
     <string name="permlab_manageFingerprint">Fingerabdruckhardware verwalten</string>
     <string name="permlab_manageLocationPolicy">Lokalisierungsregeln verwalten</string>
     <string name="permlab_useBiometric">Biometrische Hardware verwenden</string>
@@ -544,7 +544,7 @@
     <string name="unrecognized_manufacture">Unbekannt</string>
     <string name="unrecognized_model">Unbekanntes Gerät</string>
     <string name="unreplace_freeform_count_max">Weitere Popups öffnen nicht möglich</string>
-    <string name="user_authentication_failed">AUTHENTIFIZIERUNGSFEHLER -29-</string>
+    <string name="user_authentication_failed">AUTHENTISIERUNGSFEHLER -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">Zum Kinderprofil wechseln…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Kinderprofil verlassen…</string>
     <string name="user_switching_dialog_text">Umschalten…</string>

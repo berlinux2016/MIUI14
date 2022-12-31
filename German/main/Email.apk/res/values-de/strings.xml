@@ -139,7 +139,7 @@
     <string name="account_setup_exchange_certificate_title">Client-Zertifikat</string>
     <string name="account_setup_exchange_device_id_label">Mobilgerät-ID</string>
     <string name="account_setup_exchange_no_certificate">Keine</string>
-    <string name="account_setup_failed_auth_required">Diese Authentifizierungsmethode wird nicht vom Server unterstützt</string>
+    <string name="account_setup_failed_auth_required">Diese Authentisierungsmethode wird nicht vom Server unterstützt</string>
     <string name="account_setup_failed_certificate_inaccessible">Zertifikat ist ungültig oder nicht verfügbar</string>
     <string name="account_setup_failed_certificate_required">Clientzertifikat erforderlich. Möchten Sie eine Verbindung zum Server mit Clientzertifikat herstellen?</string>
     <string name="account_setup_failed_check_credentials_message">Server meldet einen Fehler zurück. Prüfen Sie Ihren Benutzernamen und Ihr Passwort und versuchen Sie es erneut.</string>
@@ -174,7 +174,7 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Alle Zertifikate akzeptieren)</string>
     <string name="account_setup_incoming_username_label">Benutzername</string>
     <string name="account_setup_incoming_username_label_default_hint">Sie können eine Domain hinzufügen</string>
-    <string name="account_setup_need_password_verification">Ihr Konto nutzt 2-Wege-Authentifizierung. Authentifizierung ist erforderlich.</string>
+    <string name="account_setup_need_password_verification">Ihr Konto nutzt Zwei-Faktor-Authentisierung. Authentisierung ist erforderlich.</string>
     <string name="account_setup_options_actionbar_title">Schnelleinstellungen</string>
     <string name="account_setup_options_mail_check_frequency_10min">Alle 10 Minuten</string>
     <string name="account_setup_options_mail_check_frequency_12hour">Alle 12 Stunden</string>
@@ -799,7 +799,7 @@
     <string name="gmail_invalid_tip_title">Gmail-Anmeldung</string>
     <string name="gmail_login_confirm_to_use_proxy">Proxyserver für den Zugriff auf Ihr Gmail-Konto verwenden?</string>
     <string name="gmail_login_failed_non_proxy_title">Kein Zugriff auf Gmail-Server</string>
-    <string name="gmail_server_authorization_deleted">Authentifizierung fehlgeschlagen. Nochmals versuchen.</string>
+    <string name="gmail_server_authorization_deleted">Authentisierung fehlgeschlagen. Nochmals versuchen.</string>
     <string name="gmail_web_login_required_message">Bei Gmail anmelden</string>
     <string name="go_to_mail_content">E-Mail anzeigen</string>
     <string name="graph_name">Unternehmen ( Grafik)</string>
@@ -894,7 +894,7 @@
     <string name="login_des_yangdex">Bei Yandex Mail anmelden</string>
     <string name="login_err_message">Autorisierte Passcodes verwenden, um sich bei %1$s anzumelden, wenn Sie diese Option zuvor ausgewählt haben. Gehen Sie zu https://email.163.com/, um Ihr Passwort oder Ihren Passcode zurückzusetzen.</string>
     <string name="login_err_outlook_msg">"%s
-Dieses Problem wird evtl. durch die Zwei-Faktor-Authentifizierung des Kontos verursacht. Versuchen Sie, Ihr Passwort einzugeben oder deaktivieren Sie die Zwei-Faktor-Authentifizierung."</string>
+Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verursacht. Versuchen Sie, Ihr Passwort einzugeben oder deaktivieren Sie die Zwei-Faktor-Authentisierung."</string>
     <string name="login_err_sina_message">Autorisierte Passcodes verwenden, um sich bei %1$s anzumelden, wenn Sie diese Option zuvor ausgewählt haben. Gehen Sie zu https://mail.sina.com.cn/, um Ihr Passwort oder Ihren Passcode zurückzusetzen.</string>
     <string name="login_failed">Anmelden fehlgeschlagen</string>
     <string name="login_failed_ticker">Anmeldung an %s erfolglos</string>
@@ -1149,7 +1149,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentifizierung des Kontos ver
     <string name="network_error">Keine Verbindung</string>
     <string name="network_invaild">Netzwerkverbindung nicht möglich</string>
     <string name="network_not_available">Netzwerkverbindung nicht möglich</string>
-    <string name="network_tip">Authentifizierung fehlgeschlagen, bitte Netzwerkverbindung prüfen</string>
+    <string name="network_tip">Authentisierung fehlgeschlagen, bitte Netzwerkverbindung prüfen</string>
     <string name="network_try_again">Bitte Netzwerk prüfen und erneut versuchen</string>
     <string name="network_unavailable">Netzwerk nicht verfügbar</string>
     <string name="new_incoming_messages_one">Neue Nachricht von %s. Anzeigen.</string>
@@ -1213,7 +1213,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="ntes_send_to">Senden an: %s</string>
     <string name="ntes_send_to_content">Wenn Ihre aktuelle Rufnummer mit dem Konto verknüpft ist, tippen Sie auf \"SMS senden\".</string>
     <string name="ntes_verification_code">Code eingeben: %s</string>
-    <string name="oauth_error_description">Authentifizierung nicht möglich</string>
+    <string name="oauth_error_description">Authentisierung nicht möglich</string>
     <string name="oauth_find_browser_error_description">Bitte Browser installieren, bevor Sie sich anmelden</string>
     <string name="oauth_gmail_login_notify">Geben Sie auf der folgenden Anmeldeseite den Benutzernamen und das Passwort Ihres Google-Kontos ein</string>
     <string name="oauth_login_continue">Weiter</string>
@@ -1435,7 +1435,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="qq_pwd_or_qq_auth_code">Code eingeben</string>
     <string name="qq_sent_no_message">Können Sie Ihre gesendeten E-Mails nicht finden? Tippen Sie hier, um zu erfahren, was Sie tun können.</string>
     <string name="qq_sent_no_message_setting">Gesendete Nachrichten von QQ Mail synchronisieren</string>
-    <string name="qq_uthentication_failed">Authentifizierung fehlgeschlagen, ereneut anmelden</string>
+    <string name="qq_uthentication_failed">Authentisierung fehlgeschlagen, ereneut anmelden</string>
     <string name="qq_verify_code">(QQ-Verifizierungscode benötigt)</string>
     <string name="qq_webview_loading">Einen Moment…</string>
     <string name="questionnair_body_invisibility">Nachrichten werden nicht angezeigt</string>
@@ -1652,7 +1652,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
     <string name="silent_ringtone">Lautlos</string>
     <string name="sms_not_found_tip">"Ihre Standard-SMS-App wurde nicht geöffnet. 
 App öffnen und Bestätigungs-SMS manuell senden."</string>
-    <string name="sms_tip">Authentifizierung fehlgeschlagen. Prüfen Sie, ob die Antiviren-Software Ihre SMS abfängt.</string>
+    <string name="sms_tip">Authentisierung fehlgeschlagen. Prüfen Sie, ob die Antiviren-Software Ihre SMS abfängt.</string>
     <string name="smtp_password_error">Passwort des Postausgangsservers ist ungültig</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
@@ -1779,7 +1779,7 @@ App öffnen und Bestätigungs-SMS manuell senden."</string>
     <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
     <string name="toast_bar_open_gmail_synchronization">Gmail-Verbindungsfehler, bitte Netzwerkeinstellungen prüfen</string>
     <string name="toast_bar_send_fail_remind">E-Mail senden fehlgeschlagen. E-Mail wurde im Ordner \"Postausgang\" gespeichert</string>
-    <string name="toast_bar_sync_failed_client_cert">Synchronisation fehlgeschlagen, Authentifizierungsfehler. Tippen, um das Zertifikat erneut hinzuzufügen.</string>
+    <string name="toast_bar_sync_failed_client_cert">Synchronisation fehlgeschlagen, Authentisierungsfehler. Tippen, um das Zertifikat erneut hinzuzufügen.</string>
     <string name="toast_bar_sync_failed_mi_authority">Dieses Gerät wurde nicht autorisiert. Prüfen Sie Ihre SMS auf eine Autorisierungsnachricht.</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Kontakte und Termine wurden nicht synchronisiert. Entsprechende Berechtigungen auf \"Immer erlauben\" ändern, um dieses Problem zu lösen.</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Um Kalenderinfos und Kontakte zu synchronisieren, die erforderlichen E-Mail-Berechtigungen in den Einstellungen setzen</string>

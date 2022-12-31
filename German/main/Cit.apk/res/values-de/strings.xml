@@ -1041,9 +1041,9 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="sample_data">Musterdaten</string>
     <string name="sample_hint">Entnehmen Sie %1$s Muster für einen Finger</string>
     <string name="sample_progress_hint">Warten auf die Entnahme von Musterdaten</string>
-    <string name="sar_algo_data_check_description">Sar Algo Datenerfassung</string>
-    <string name="sar_authentation_test_title">SAR-Authentifizierungstest</string>
-    <string name="sar_mtk_test_title">Sar Mtk Authentifizierungstest</string>
+    <string name="sar_algo_data_check_description">SAR Algo Datenerfassung</string>
+    <string name="sar_authentation_test_title">SAR-Authentisierungstest</string>
+    <string name="sar_mtk_test_title">SAR MTK Authentisierungstest</string>
     <string name="sar_off">SAR Aus</string>
     <string name="sar_on">SAR Ein</string>
     <string name="sar_sensor_calibrate">Kalibrierung starten</string>

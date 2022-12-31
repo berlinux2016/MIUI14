@@ -13,14 +13,14 @@
         <item>Kein Netzwerkzugriff. Erneut mit Wi-Fi verbinden oder den Router neu starten.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
-        <item>Für den Netzzugriff ist eine Authentifizierung erforderlich</item>
+        <item>Für den Netzzugriff ist eine Authentisierung erforderlich</item>
         <item>Netzwerkzugriff ist eingeschränkt. Zeit auf diesem Gerät einstellen und Netzwerkeinstellungen des Routers prüfen.</item>
         <item>Netzwerkfehler. HTTP-Proxy-Einstellungen prüfen.</item>
         <item>Netzwerkfehler. Prüfen Sie, ob der Router auf das Internet zugreifen kann.</item>
         <item>Netzwerkverbindung nicht möglich. Erneut mit WLAN verbinden oder den Router neu starten.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
-        <item>Für den Netzzugriff ist eine Authentifizierung erforderlich</item>
+        <item>Für den Netzzugriff ist eine Authentisierung erforderlich</item>
         <item>Netzwerkzugriff ist eingeschränkt. Zeit auf diesem Gerät einstellen und Netzwerkeinstellungen des Routers prüfen.</item>
         <item>Netzwerkfehler. HTTP-Proxy-Einstellungen prüfen.</item>
         <item>Netzwerkfehler. Prüfen Sie, ob der Router auf das Internet zugreifen kann.</item>

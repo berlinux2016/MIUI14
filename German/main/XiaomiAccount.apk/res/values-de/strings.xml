@@ -54,7 +54,7 @@
     <string name="account_security">Kontosicherheit</string>
     <string name="account_security_info_pref_title">Sicherheitsinfos</string>
     <string name="account_token_expired_msg">Verifizierungscode abgelaufen, erneut versuchen oder abmelden.\nIhre Konto-ID: %s</string>
-    <string name="account_token_expired_title">Authentifizierung fehlgeschlagen</string>
+    <string name="account_token_expired_title">Authentisierung fehlgeschlagen</string>
     <string name="account_user_avatar">Profilfoto</string>
     <string name="account_user_avatar_activity_not_found">Galerie wurde nicht geöffnet</string>
     <string name="account_user_avatar_from_album">Foto wählen</string>
@@ -687,7 +687,7 @@
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Verifizierungscode an %s senden</string>
     <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon gesendet &lt;font color=#1F93FF>%s&lt;/font></string>
-    <string name="passport_verification_failed">Authentifizierung fehlgeschlagen</string>
+    <string name="passport_verification_failed">Authentisierung fehlgeschlagen</string>
     <string name="passport_verify">Verifizieren</string>
     <string name="passport_verifying_activator_phone">Telefonsicherheit verifizieren…</string>
     <string name="passport_wait_for_sms_prompt">Jetzt neu beginnen? Die Zustellung von Bestätigungsnachrichten kann bis zu 10 Minuten dauern, wenn sich Ihr Telefon in Netzwerkreichweite Ihres Mobilfunkanbieters befindet.</string>
@@ -888,10 +888,10 @@
     <string name="tuesday_shortest">D</string>
     <string name="turn_off_find_device_failed_title">\"Gerät finden\" kann nicht deaktiviert werden</string>
     <string name="turning_off_find_device">\"Gerät finden\" deaktivieren…</string>
-    <string name="two_factor_auth">Zwei-Faktor-Authentifizierung</string>
+    <string name="two_factor_auth">Zwei-Faktor-Authentisierung</string>
     <string name="two_factor_auth_click_confirm">Bestätigen, um sich anzumelden</string>
     <string name="two_factor_auth_click_confirm_summary">Sie sehen eine Benachrichtigung auf anderen angeschlossenen Mi Geräten. Auf die Benachrichtigung tippen, um sich auf einem neuen Gerät anzumelden.</string>
-    <string name="two_factor_auth_method">Authentifizierungsmethode</string>
+    <string name="two_factor_auth_method">Authentisierungsmethode</string>
     <string name="two_factor_auth_need_code">Code eingeben</string>
     <string name="two_factor_auth_need_code_summary">Sie sehen einen Code auf anderen angeschlossenen Mi Geräten. Diesen Code auf einem neuen Gerät eingeben, um sich anzumelden.</string>
     <string name="two_factor_auth_summary">Wenn Sie versuchen, sich auf einem neuen Gerät oder an einem neuen Standort anzumelden, werden Sie auf anderen angeschlossenen Geräten darüber informiert. Sie müssen bestätigen, ob solche Anmeldeversuche von Ihnen genehmigt sind.</string>

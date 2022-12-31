@@ -126,7 +126,7 @@
     <string name="fullscreen_sink_activity_label">Mein Telefon</string>
     <string name="generic_error_no_device_credential">Keine PIN, kein Muster und kein Passwort eingestellt.</string>
     <string name="generic_error_no_keyguard">Dieses Gerät unterstützt keine PIN, kein Muster und kein Passwort.</string>
-    <string name="generic_error_user_canceled">Authentifizierung wurde vom Benutzer abgebrochen.</string>
+    <string name="generic_error_user_canceled">Authentisierung wurde vom Benutzer abgebrochen.</string>
     <string name="global_cta_agree">Zustimmen</string>
     <string name="global_cta_desc">Willkommen bei %s! Unsere App bietet folgende Dienste an:</string>
     <string name="global_cta_exit">Ablehnen</string>

@@ -29,7 +29,7 @@
     <string name="aptx_notification_aptx_hd">Dieses Gerät unterstützt Qualcomm® aptX™ HD</string>
     <string name="audio_relay_default_device_name">Xiaomi-KI-Lautsprecher</string>
     <string name="auth_notif_message">Sitzungsschlüssel eingeben für %1$s</string>
-    <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>
+    <string name="auth_notif_ticker">OBEX-Authentisierungsanfrage</string>
     <string name="auth_notif_title">Sitzungsschlüssel</string>
     <string name="avrcp_cover_art_default_image_type">Bild</string>
     <string name="bluetooth_a2dp_sink_queue_name">Läuft jetzt</string>

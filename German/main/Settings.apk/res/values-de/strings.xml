@@ -722,7 +722,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="aod_to_close">Ausschalten</string>
     <string name="ap_connect_failed">Verbindung nicht möglich</string>
     <string name="ap_connected_battery_level">" | Akku %1$s"</string>
-    <string name="apn_auth_type">Authentifizierungstyp</string>
+    <string name="apn_auth_type">Authentisierungstyp</string>
     <string name="apn_auth_type_none">Keine</string>
     <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
     <string name="apn_chinaunicom_3gnet_general">Über 3G mit dem Internet verbunden</string>
@@ -11186,7 +11186,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_disabled_generic">Deaktiviert</string>
     <string name="wifi_disabled_help">WLAN wurde wegen schlechter Verbindung getrennt</string>
     <string name="wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
-    <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
+    <string name="wifi_disabled_password_failure">Authentisierungsproblem</string>
     <string name="wifi_disabled_wifi_failure">WLAN-Verbindungsfehler</string>
     <string name="wifi_disconnect_button_text">Trennen</string>
     <string name="wifi_disconnected">Getrennt</string>
@@ -11663,7 +11663,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_wps_available_second_item">(WPS verfügbar)</string>
     <string name="wifi_wps_complete">WPS erfolgreich. Netzwerkverbindung wird hergestellt…</string>
     <string name="wifi_wps_connected">Mit WLAN %s verbunden</string>
-    <string name="wifi_wps_failed_auth">Authentifizierungsfehler. Bitte versuchen Sie es erneut.</string>
+    <string name="wifi_wps_failed_auth">Authentisierungsfehler. Bitte versuchen Sie es erneut.</string>
     <string name="wifi_wps_failed_generic">Verbindung fehlgeschlagen. Bitte versuchen Sie es in ein paar Minuten erneut.</string>
     <string name="wifi_wps_failed_overlap">Eine andere WPS-Sitzung wurde erkannt. Bitte versuchen Sie es in ein paar Minuten erneut.</string>
     <string name="wifi_wps_failed_tkip">WLAN-Routersicherheitseinstellung (TKIP) wird nicht unterstützt</string>
@@ -11709,7 +11709,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Mit Gerät verbunden. Internet nicht verfügbar.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Deaktiviert</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentifizierungsproblem</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentisierungsproblem</string>
     <string name="wifitrackerlib_wifi_disconnected">Getrennt</string>
     <string name="wifitrackerlib_wifi_limited_connection">Eingeschränkte Verbindung</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Verbinden nicht möglich. Später erneut versuchen.</string>

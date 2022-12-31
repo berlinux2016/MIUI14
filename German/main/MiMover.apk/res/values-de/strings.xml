@@ -103,16 +103,16 @@
     <string name="close">Schließen</string>
     <string name="close_cellular_summary">Ihr Gerät verwendet jetzt wegen Systembeschränkungen mobile Daten. Mobile Daten ausschalten und wieder mit dem neuen Gerät verbinden.</string>
     <string name="close_cellular_title">Verbinden fehlgeschlagen</string>
-    <string name="close_twice_auth_btn">Zwei-Faktor-Authentifizierung ausschalten</string>
+    <string name="close_twice_auth_btn">Zwei-Faktor-Authentisierung ausschalten</string>
     <string name="close_twice_auth_note">"Hinweis:
-Wenn Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt haben, wird Ihre Apple-ID Zwei-Faktor-Authentifizierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentifizierung auf der Apple-ID Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
+Wenn Sie eine neue Sicherheitsfrage erstellt und Ihr Geburtsdatum bestätigt haben, wird Ihre Apple-ID Zwei-Faktor-Authentisierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentisierung auf der Apple-ID Kontenseite nicht sehen, können Sie sie nicht deaktivieren."</string>
     <string name="close_twice_auth_operation">"URL:
 Zum Ausschalten auf https://appleid.apple.com/#!&amp;page=signin gehen"</string>
     <string name="close_twice_auth_step_1">1. Einen beliebigen Webbrowser auf einem beliebigen Computer öffnen und zu appleid.apple.com gehen.</string>
-    <string name="close_twice_auth_step_2">2. Bei der Apple-ID anmelden, für die Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" in den Kontoeinstellungen und wählen Sie \"Bearbeiten\" aus.</string>
-    <string name="close_twice_auth_step_3">3. Auf \"Zwei-Faktor-Authentifizierung deaktivieren\" tippen. Zum Bestätigen erneut tippen.</string>
-    <string name="close_twice_auth_steps">Führen Sie folgende Schritte aus, um die Zwei-Faktor-Authentifizierung für Apple-ID zu deaktivieren:</string>
-    <string name="close_twice_auth_tutor">Apple-ID Zwei-Faktor-Authentifizierung ausschalten</string>
+    <string name="close_twice_auth_step_2">2. Bei der Apple-ID anmelden, für die Sie die Zwei-Faktor-Authentisierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" in den Kontoeinstellungen und wählen Sie \"Bearbeiten\" aus.</string>
+    <string name="close_twice_auth_step_3">3. Auf \"Zwei-Faktor-Authentisierung deaktivieren\" tippen. Zum Bestätigen erneut tippen.</string>
+    <string name="close_twice_auth_steps">Führen Sie folgende Schritte aus, um die Zwei-Faktor-Authentisierung für Apple-ID zu deaktivieren:</string>
+    <string name="close_twice_auth_tutor">Apple-ID Zwei-Faktor-Authentisierung ausschalten</string>
     <string name="close_vpn_summary">Anscheinend ist Ihr Gerät jetzt mit VPN verbunden. VPN ausschalten, um eine Verbindung mit anderen Geräten herzustellen.</string>
     <string name="close_vpn_title">VPN einschalten</string>
     <string name="cloud_service_check_dialog_message">Anscheinend ist die Synchronisation für Galerieinhalte und Kontakte ausgeschaltet. Synchronisation einschalten, damit diese Elemente auf diesem Gerät angezeigt werden.</string>
@@ -296,16 +296,16 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="host_verify_lock_summary">Dies wird die Bildschirmsperre Ihres neuen Geräts sein</string>
     <string name="host_verify_lock_title">Geben Sie die Bildschirmsperre Ihres alten Geräts ein</string>
     <string name="hsa_code_null">Verifizierungscode darf nicht leer sein</string>
-    <string name="hsa_input_tip">Ihre Apple-ID verwendet eine Zwei-Faktor-Authentifizierung. Verifizierungscode eingeben.</string>
+    <string name="hsa_input_tip">Ihre Apple-ID verwendet eine Zwei-Faktor-Authentisierung. Verifizierungscode eingeben.</string>
     <string name="hsa_send_again">Erneut senden</string>
     <string name="hsa_send_again_countdown">Erneut senden (%ds)</string>
     <string name="hsa_send_failed">Verifizierungscode senden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="hsa_sending">Senden…</string>
     <string name="hsa_tip_message">Wenn Sie den Verifizierungscode nicht erhalten, stellen Sie sicher, dass Sie sich bereits mit Ihrem Apple-Gerät bei iCloud angemeldet haben.</string>
-    <string name="hsa_tip_message_shutdown_hsa">So deaktivieren Sie die Zwei-Faktor-Authentifizierung</string>
+    <string name="hsa_tip_message_shutdown_hsa">So deaktivieren Sie die Zwei-Faktor-Authentisierung</string>
     <string name="hsa_tip_title">Hilfe</string>
-    <string name="hsa_verify_failed">Zwei-Faktor-Authentifizierung fehlgeschlagen</string>
-    <string name="hsa_verify_failed_message">Zwei-Faktor-Authentifizierung fehlgeschlagen. Sie können es erneut versuchen oder die Zwei-Faktor-Authentifizierung deaktivieren.</string>
+    <string name="hsa_verify_failed">Zwei-Faktor-Authentisierung fehlgeschlagen</string>
+    <string name="hsa_verify_failed_message">Zwei-Faktor-Authentisierung fehlgeschlagen. Sie können es erneut versuchen oder die Zwei-Faktor-Authentisierung deaktivieren.</string>
     <string name="hsa_verify_retry">Erneut versuchen</string>
     <string name="hsa_verify_shutdown">Ausschalten</string>
     <string name="hybrid_provider">Zur Verfügung gestellt von %1$s</string>

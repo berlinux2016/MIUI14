@@ -279,8 +279,8 @@
     <string name="audio_mode_earpiece">Hörmuschel</string>
     <string name="audio_mode_speaker">Lautsprecher</string>
     <string name="audio_mode_wired_headset">Kabelgebundene Headset</string>
-    <string name="auth_username_summary">Benutzername für Authentifizierung</string>
-    <string name="auth_username_title">Authentifizierung Benutzername</string>
+    <string name="auth_username_summary">Benutzername für Authentisierung</string>
+    <string name="auth_username_title">Authentisierung Benutzername</string>
     <string name="auto_answer_delay_entries_delay_10s">%d Sekunden</string>
     <string name="auto_answer_delay_entries_delay_3s">%d Sekunden</string>
     <string name="auto_answer_delay_entries_delay_5s">%d Sekunden</string>
@@ -3036,7 +3036,7 @@
     <string name="wifi_disabled_by_recommendation_provider">Nicht verbunden wegen schlechter Netzwerkqualität</string>
     <string name="wifi_disabled_generic">Deaktiviert</string>
     <string name="wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
-    <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
+    <string name="wifi_disabled_password_failure">Authentisierungsproblem</string>
     <string name="wifi_disabled_wifi_failure">WLAN-Verbindungsfehler</string>
     <string name="wifi_disconnected">Getrennt</string>
     <string name="wifi_display_certification">Wireless-Display-Zertifizierung</string>
@@ -3073,7 +3073,7 @@
     <string name="wifi_wapi_as_certificate">AS-Zertifikat</string>
     <string name="wifi_wapi_cert_mode_hand_text">Zertifikat von Hand auswählen</string>
     <string name="wifi_wapi_certification_dont_exist">WAPI-Zertifikate sind nicht vorhanden. Bitte installieren Sie sie.</string>
-    <string name="wifi_wapi_fail_to_auth">WAPI-Authentifizierung fehlgeschlagen.\nBitte Gültigkeit der Zertifikate prüfen.</string>
+    <string name="wifi_wapi_fail_to_auth">WAPI-Authentisierung fehlgeschlagen.\nBitte Gültigkeit der Zertifikate prüfen.</string>
     <string name="wifi_wapi_fail_to_init">WAPI-Zertifikate können nicht geöffnet werden.\nSpeicherung von Anmeldedaten ist möglicherweise nicht möglich.</string>
     <string name="wifi_wapi_psk_type">Passworttyp</string>
     <string name="wifi_wapi_user_certificate">Benutzerzertifikat</string>
@@ -3105,7 +3105,7 @@
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Mit Gerät verbunden. Internet nicht verfügbar.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Deaktiviert</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentifizierungsproblem</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentisierungsproblem</string>
     <string name="wifitrackerlib_wifi_disconnected">Getrennt</string>
     <string name="wifitrackerlib_wifi_limited_connection">Eingeschränkte Verbindung</string>
     <string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">Verbinden nicht möglich. Später erneut versuchen.</string>

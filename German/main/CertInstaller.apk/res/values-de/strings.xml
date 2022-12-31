@@ -63,7 +63,7 @@
     FQDN: %2$s
     Roaming-Konsortium: %3$s
     Bereich: %4$s
-    Authentifizierungsmethode: EAP-%5$s
+    Authentisierungsmethode: EAP-%5$s
     "
     </string>
     <string name="wifi_detail_label">Details</string>

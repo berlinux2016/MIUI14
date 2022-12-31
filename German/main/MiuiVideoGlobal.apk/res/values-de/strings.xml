@@ -1371,7 +1371,7 @@ Aktualisieren Sie Mi Video erst auf die neueste Version."</string>
     <string name="passport_vcode_notification_title">Ihre Anmeldebestätigung ist unvollständig</string>
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Code wurde an %s gesendet</string>
-    <string name="passport_verification_failed">Authentifizierung fehlgeschlagen</string>
+    <string name="passport_verification_failed">Authentisierung fehlgeschlagen</string>
     <string name="passport_verify">Bestätigen</string>
     <string name="passport_wechat_not_install">Erst WeChat installieren</string>
     <string name="passport_wrong_captcha">Eingegebener Code ist falsch</string>
