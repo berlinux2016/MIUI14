@@ -7,7 +7,7 @@
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE erfordert eine LTE-Verbindung für beide SIM-Steckplätze. Jetzt zu Dual-LTE wechseln?</string>
     <string name="opened_dual_4g_confirm_prompt">Anscheinend haben Sie nur eine LTE SIM-Karte. Dual-LTE wurde automatisch eingeschaltet.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s unterstützt nur LTE. Um sicherzustellen, dass Ihre SIM-Karte ordnungsgemäß funktioniert, wurde Dual-LTE eingeschaltet.</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred">LTE bevorzugen</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">4G bevorzugt</string>
     <string name="turn_off_dual_4g_failed">Dual-LTE ausschalten fehlgeschlagen</string>
     <string name="turn_on_dual_4g_failed">Dual-LTE einschalten fehlgeschlagen</string>
 </resources>
