@@ -53,9 +53,8 @@
     <string name="account_secure_info_pref_title">Kontodaten</string>
     <string name="account_security">Kontosicherheit</string>
     <string name="account_security_info_pref_title">Sicherheitsinfos</string>
-    <string name="account_token_expired_msg">"Verifizierungscode abgelaufen, erneut versuchen oder abmelden.
-Ihre Konto ID: %s"</string>
-    <string name="account_token_expired_title">Authentifikation fehlgeschlagen</string>
+    <string name="account_token_expired_msg">Verifizierungscode abgelaufen, erneut versuchen oder abmelden.\nIhre Konto-ID: %s</string>
+    <string name="account_token_expired_title">Authentifizierung fehlgeschlagen</string>
     <string name="account_user_avatar">Profilfoto</string>
     <string name="account_user_avatar_activity_not_found">Galerie wurde nicht geöffnet</string>
     <string name="account_user_avatar_from_album">Foto wählen</string>
@@ -181,6 +180,8 @@ Ihre Konto ID: %s"</string>
     <string name="common_signin_button_text_long">Mit Google anmelden</string>
     <string name="completed">Fertig</string>
     <string name="confirm_activate_email">Geprüft</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Bestätigen</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Bestätigen (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Zugeordnete Rufnummer bestätigen</string>
     <string name="confirm_delete_app_message">Wenn Sie diese App entfernen, müssen Sie Ihre Rufnummer verifizieren, wenn Sie sich das nächste Mal an Ihrem Xiaomi-Konto anmelden</string>
     <string name="confirm_delete_browser_message">Wenn Sie diesen Browser entfernen, müssen Sie Ihre Rufnummer verifizieren, wenn Sie sich das nächste Mal an Ihrem Xiaomi-Konto anmelden</string>
@@ -215,9 +216,7 @@ Ihre Konto ID: %s"</string>
     <string name="device_name">Gerätename</string>
     <string name="device_trust_info">Vertrauenswürdiges Gerät</string>
     <string name="diagnosis_log_send_failed">Protokolle nicht gesendet. Erneut versuchen.</string>
-    <string name="diagnosis_log_sent_format">"Protokolle erfolgreich gesendet.
-ID:%s
-Senden Sie diesen Code an den Supervisor."</string>
+    <string name="diagnosis_log_sent_format">Protokolle erfolgreich gesendet.\nID:%s\nSenden Sie diesen Code an den Supervisor.</string>
     <string name="dind_device_service_not_open">Aus</string>
     <string name="dind_device_service_opened">An</string>
     <string name="download_file">%s herunterladen…</string>
@@ -899,7 +898,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="unbind_sns_description">Wenn Sie dieses Konto trennen, können Sie Ihr %s-Konto nicht mehr verwenden, um sich am Xiaomi-Konto anzumelden</string>
     <string name="unknown_error_info">Unbekannter Fehler</string>
     <string name="unlock_help_notice">"Hilfe:
-1. Wenn Sie Ihr Passwort vergessen haben, können Sie es auf id.mi.com zurücksetzen
+1. Wenn Sie Ihr Passwort vergessen haben, können Sie es auf id.mi.com zurücksetzen.
 2. Wenn Sie Ihr Passwort nicht zurücksetzen können oder jemand Ihr Gerät gesperrt hat, können Sie es auf i.mi.com entsperren.
 3. Ihre Entsperrnummer: %s"</string>
     <string name="update_apk_version_later">Jetzt nicht</string>

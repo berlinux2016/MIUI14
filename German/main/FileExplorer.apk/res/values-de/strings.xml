@@ -142,6 +142,7 @@
     <string name="clockin_success">Erfolgreich angemeldet</string>
     <string name="clockin_use">Preis erhalten</string>
     <string name="close">Schließen</string>
+    <string name="cloud_copy_to_local_title">Speichern unter…</string>
     <string name="cloud_drive_files">Mi Drive-Dateien</string>
     <string name="cloud_drive_not_login_summary">Nicht angemeldet</string>
     <string name="cloud_drive_settings">Mi Drive-Einstellungen</string>
@@ -403,6 +404,7 @@
     <string name="guide_three_title">Verknüpfungen neu anordnen</string>
     <string name="guide_two_summary">Fotos und Screenshots sind standardmäßig in der Galerie ausgeblendet.</string>
     <string name="guide_two_title">Nur wesentliche Elemente sehen</string>
+    <string name="h5_ppt_to_pdf_introduce_title">Über das Erstellen von PDFs</string>
     <string name="handsome_boy">Männlich</string>
     <string name="has_installed">Installiert</string>
     <string name="hint_switch_to_grid_mode">Auf Rasteransicht umschalten</string>
@@ -430,6 +432,9 @@
     <string name="install_btn_not_download_not_install_text">\"Want to Watch Video\" installieren, um das Video zu öffnen und mehr zu sehen</string>
     <string name="install_btn_not_downloading_text">\"Want to Watch Video\" wird geöffnet</string>
     <string name="install_fail">Installation fehlgeschlagen</string>
+    <string name="install_media_editor_button_text">Herunterladen</string>
+    <string name="install_media_editor_message">Um Elemente bearbeiten zu können, laden Sie zunächst das Plugin herunter. Jetzt herunterladen?</string>
+    <string name="install_media_editor_title">Plugin erforderlich</string>
     <string name="install_text">Jetzt installieren</string>
     <string name="install_xk_app">\"Want to Watch Video\" installieren, um das Video anzusehen</string>
     <string name="install_xk_data_check_message">Sie nutzen gerade Mobile Daten. Wenn Sie \"Want to Watch Video\" ansehen installieren wollen, benötigt das etwa 7 MB. Trotzdem fortsetzen?</string>
@@ -504,6 +509,7 @@
     <string name="message_reply_prefix">Antworten</string>
     <string name="message_request_manage_external_storage_perm">Dateimanager benötigt die Berechtigung zum Dateizugriff, um Dateien auf Ihrem Gerät zu verwalten. Sie können diese Berechtigung in den Einstellungen gewähren.</string>
     <string name="midnight">Nacht</string>
+    <string name="midrive_display_related">Bildschirm</string>
     <string name="midrive_get_cloudvideo_file">Einen Moment…</string>
     <string name="midrive_hide_recent_cloud_files">Mi Drive-Dateien nicht unter Aktuelle anzeigen</string>
     <string name="midrive_not_found">Auf dieses Element wurde nicht zugegriffen</string>
