@@ -11,12 +11,14 @@
     <string name="widget_num_warn">Erfolgreich hinzugefügt. Beachten Sie, dass zu viele Widgets auf Ihrem Startbildschirm Ihr Gerät verlangsamen können.</string>
     <!-- Categories -->
     <string name="theme_clock">Eigene Uhren</string>
+    <string name="theme_pals">Haustiere</string>
     <!-- App names -->
     <string name="app_appvault">Infoassistent</string>
     <string name="app_calculator">Rechner</string>
     <string name="app_calendar">Kalender</string>
     <string name="app_camera">Kamera</string>
     <string name="app_clock">Uhr</string>
+    <string name="app_files">Dateien</string>
     <string name="app_gallery">Galerie</string>
     <string name="app_health">Gesundheit</string>
     <string name="app_notes">Notizen</string>
@@ -76,6 +78,8 @@
     <string name="widget_clock_weather_desc">Uhrzeit, Datum und Wetter am aktuellen Standort</string>
     <string name="widget_clock_world">Weltzeituhr</string>
     <string name="widget_clock_world_desc">Zeit an einem anderen Ort</string>
+    <string name="widget_files_pin">Häufige Dateien</string>
+    <string name="widget_files_pin_desc">Häufige Dateien für schnellen Zugriff anheften</string>
     <string name="widget_gallery_custom">Ausgewählte Bilder</string>
     <string name="widget_gallery_custom_desc">Widget hinzufügen und dann tippen, um Fotos auszuwählen</string>
     <string name="widget_gallery_recommend">Erinnerungen</string>
@@ -83,7 +87,7 @@
     <string name="widget_health_sleep">Schlaf</string>
     <string name="widget_health_sleep_desc">Schlafdaten anzeigen</string>
     <string name="widget_health_stats">Statistik</string>
-    <string name="widget_health_stats_desc">Aktivitätsstatistiken anzeigen</string>
+    <string name="widget_health_stats_desc">Aktivitätsstatistik anzeigen</string>
     <string name="widget_health_steps">Schritte</string>
     <string name="widget_health_steps_desc">Schritte und Zielfortschritt anzeigen</string>
     <string name="widget_notes_quick">Verknüpfungen</string>
@@ -96,8 +100,12 @@
     <string name="widget_notes_tasks_desc">Aufgaben anzeigen und öffnen</string>
     <string name="widget_notes_view">Notizen</string>
     <string name="widget_notes_view_desc">Notizen anzeigen und öffnen</string>
+    <string name="widget_pals_cat">Kätzchen</string>
+    <string name="widget_pals_cat_desc">Miau ~ stör mich nicht, wenn ich schlafe…</string>
+    <string name="widget_pals_dog">Hündchen</string>
+    <string name="widget_pals_dog_desc">Wuff ~ spiel mit mir!</string>
     <string name="widget_security_app_behavior">Datenschutz</string>
-    <string name="widget_security_app_behavior_desc">App-Verhaltensstatistiken anzeigen</string>
+    <string name="widget_security_app_behavior_desc">App-Verhaltensstatistik anzeigen</string>
     <string name="widget_security_app_predict">App-Vorschläge</string>
     <string name="widget_security_app_predict_desc">Schnellstart-Apps mit KI-Empfehlung</string>
     <string name="widget_security_battery">Akku</string>
@@ -111,7 +119,7 @@
     <string name="widget_security_optimize">Sicherheit</string>
     <string name="widget_security_optimize_desc">Sicherheitsinfos anzeigen und Gerät optimieren</string>
     <string name="widget_settings_usage_stats">Bildschirmzeit</string>
-    <string name="widget_settings_usage_stats_desc">App-Nutzungsstatistiken anzeigen</string>
+    <string name="widget_settings_usage_stats_desc">App-Nutzungsstatistik anzeigen</string>
     <string name="widget_smarthome_batch">Stapelsteuerung mit einem Klick</string>
     <string name="widget_smarthome_batch_desc">Mehrere smarte Geräte schnell steuern</string>
     <string name="widget_smarthome_control">Geräteverknüpfungen</string>
