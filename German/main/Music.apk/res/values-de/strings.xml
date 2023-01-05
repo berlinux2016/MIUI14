@@ -398,6 +398,7 @@
     <string name="continue_backup">Fortsetzen</string>
     <string name="copy">Kopieren</string>
     <string name="copy_success">Erfolgreich kopiert!</string>
+    <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="cp_info_first">Streamingdienst wird von Ultimate Inc. bereitgestellt</string>
     <string name="cr_activity">Aktivität</string>
     <string name="cr_activity_error">Fehler beim Öffnen eines Termins</string>
@@ -847,6 +848,9 @@
     <string name="failed_obtain_permissions">Berechtigung nicht erhalten</string>
     <string name="failed_to_connect_hint">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="failed_to_connect_text">Netzwerkverbindung nicht möglich</string>
+    <string name="fallback_menu_item_copy_link">Link kopieren</string>
+    <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
+    <string name="fallback_menu_item_share_link">Link teilen</string>
     <string name="family_apply_count">%s Benutzer beantragen Beitritt</string>
     <string name="family_apply_faile">Beitritt nicht möglich. Später erneut versuchen.</string>
     <string name="family_apply_join">Kommen Sie und werden Sie Teil meiner Familie</string>
@@ -1500,11 +1504,13 @@
     <string name="modify_progress_helper">Auf oder ab wischen, um den Fortschritt des Songtextes anzupassen</string>
     <string name="modify_song_info">Musikinformationen bearbeiten</string>
     <string name="modify_song_info_success">Titelinfo wurde aktualisiert</string>
+    <string name="moe_core_rich_landing_title">Reichhaltige Landung</string>
     <string name="moe_inbox_name">Benachrichtigungszentrale</string>
     <string name="moe_message_to_register">Auf die Schaltfläche "Registrieren" tippen, um sich für die Integrationsvalidierung zu registrieren</string>
     <string name="moe_message_to_unregister">Gerät ist für die Integrationsprüfung registriert. Auf die Schaltfläche tippen, um die Registrierung aufzuheben.</string>
     <string name="moe_notification_center_empty">Benachrichtigungszentrale leer</string>
     <string name="moe_register">REGISTRIEREN</string>
+    <string name="moe_rich_push_dismiss_button">Verwerfen</string>
     <string name="moe_unregister">ABMELDEN</string>
     <string name="monday">Montag</string>
     <string name="monday_short">Mo</string>

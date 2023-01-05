@@ -189,7 +189,7 @@
     <string name="album_share_subtitle_not_ready">Keine Albuminformationen</string>
     <string name="album_share_subtitle_quitting">Beenden…</string>
     <string name="album_share_subtitle_requesting">Albuminfos werden geladen…</string>
-    <string name="album_share_title_new_album">Neues Album teilen</string>
+    <string name="album_share_title_new_album">Neues Album freigeben</string>
     <string name="album_show_local_only">Nur lokale Alben anzeigen</string>
     <string name="album_show_local_only_summary">Löschoption von nur lokalen Alben wird verfügbar, wenn diese Funktion an ist</string>
     <string name="album_sort_type">Sortierreihenfolge</string>
@@ -265,7 +265,7 @@
     <string name="auto_update_face_summary">Automatisch abgleichen und Foto zum Kinderalbum hinzufügen</string>
     <string name="auto_update_off">Aus</string>
     <string name="auto_update_on">An</string>
-    <string name="auto_upload_before_share_message">Dieses Album mit Xiaomi Cloud synchronisieren, bevor Sie es teilen</string>
+    <string name="auto_upload_before_share_message">Dieses Album mit Xiaomi Cloud synchronisieren, bevor Sie es freigeben</string>
     <string name="auto_upload_before_share_title">Hinweis</string>
     <string name="auto_upload_disable_tip">Synchronisation mit der Cloud ist aus</string>
     <string name="auto_upload_disable_toast">Fotos und Videos in diesem Album werden nicht automatisch gesichert</string>
@@ -304,7 +304,7 @@
     <string name="back_up_gp_msg_migrating">Elemente aus der Cloud werden jetzt an Google Fotos übertragen. Richten Sie eine Sicherung in Google Fotos ein, um die Synchronisierung neuer Elemente fortzusetzen.</string>
     <string name="back_up_gp_title">Mit Google Fotos sichern</string>
     <string name="background_picture">Hintergrund %1$d</string>
-    <string name="backup_automatically_summary">Synchronisation von Fotos und Videos aller Geräte mit der Xiaomi Cloud. Sie können auf allen Geräten bequem Fotos und Videos durchstöbern, sortieren, bearbeiten und teilen.</string>
+    <string name="backup_automatically_summary">Synchronisation von Fotos und Videos aller Geräte mit der Xiaomi Cloud. Sie können auf allen Geräten bequem Fotos und Videos durchstöbern, sortieren, bearbeiten und freigeben.</string>
     <string name="backup_automatically_title">Automatisch synchronisieren</string>
     <string name="backup_battery_low_desc">Sie können nach wie vor Inhalte zur Synchronisation auswählen</string>
     <string name="backup_battery_low_title">Sicherung wegen niedrigem Ladestand angehalten</string>
@@ -374,7 +374,7 @@
     <string name="beauty_face_talkback_size_selecter_level_three">Größe 3</string>
     <string name="beauty_face_talkback_size_selecter_level_two">Größe 2</string>
     <string name="begin_share">Erstellen Sie ein Kinderalbum \"%s\" und teilen Sie es sofort</string>
-    <string name="begin_share_toast">Vor dem Teilen ein eigenes Album für dieses Kind erstellen?</string>
+    <string name="begin_share_toast">Vor dem Freigeben ein eigenes Album für dieses Kind erstellen?</string>
     <string name="browse_category">Anzeigen</string>
     <string name="browse_category_title">Durchsuchen</string>
     <string name="btn_cancel">Abbrechen</string>
@@ -382,6 +382,7 @@
     <string name="btn_exit_send">Beenden</string>
     <string name="btn_sure">Bestätigen</string>
     <string name="burst_image_download_item_title" formatted="false">Original herunterladen (%s|%s)</string>
+    <string name="burst_photo_enter">Serienbild</string>
     <string name="burst_preview_title">Serienfoto</string>
     <string name="burst_save_all">Alle Serienfotos speichern</string>
     <string name="burst_save_choice_title">%1$d aus %2$d ausgewählt</string>
@@ -643,7 +644,7 @@
     <string name="cta_network_declare">Um Fotos und Videos mit der Xiaomi Cloud zu synchronisieren, benötigt diese App eine Internetverbindung.</string>
     <string name="cta_screenthrow_declare">Um den Bildschirm dieses Geräts auf externe Monitore zu übertragen, muss diese App mit dem Internet verbunden sein.</string>
     <string name="custom_select_title_deselect_all">Keine auswählen</string>
-    <string name="custom_select_title_quickly_share">Teilen</string>
+    <string name="custom_select_title_quickly_share">Freigeben</string>
     <string name="custom_select_title_select_all">Alle auswählen</string>
     <string name="custom_select_title_select_item">Elemente auswählen</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
@@ -676,6 +677,7 @@
     <string name="delete_in_album">Gewählte Elemente werden aus der Cloud und von allen verbundenen Geräten gelöscht und unter den kürzlich gelöschten Elementen für %d Tage gespeichert, wenn Sie einen kostenlosen Cloud-Speichertarif haben. Trotzdem löschen?</string>
     <string name="delete_in_home_page">Gewählte Elemente werden aus der Cloud und von allen verbundenen Geräten gelöscht und unter den kürzlich gelöschten Elementen für %d Tage gespeichert, wenn Sie einen kostenlosen Cloud-Speichertarif haben. Trotzdem löschen?</string>
     <string name="delete_in_process">Löschen</string>
+    <string name="delete_media_for_cloud">Ausgewählte Elemente werden aus der Cloud und von allen synchronisierten Geräten zu Kürzlich gelöschte Elemente verschoben.</string>
     <string name="delete_origin">Fotos im Originalalbum löschen</string>
     <string name="delete_other_shared_images">Von anderen geteilte Fotos löschen nicht möglich</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d gelöscht, %2$d behalten</string>
@@ -706,6 +708,7 @@
     <string name="disconnect_migration_msg">Photos and videos that have already been transferred will remain in Google Photos.</string>
     <string name="disconnect_migration_title">Übertragung beenden?</string>
     <string name="do_not_remind_me">Nicht wieder anzeigen</string>
+    <string name="doc_photo_enter">Im Dokument bearbeiten</string>
     <string name="document_provider_guide_step_1">%d. \"Mehr\"-Taste tippen</string>
     <string name="document_provider_guide_step_2">%d. \"Internen Speicher anzeigen\" tippen</string>
     <string name="document_provider_guide_step_3">%d. Auf die Seitenmenütaste drücken</string>
@@ -760,6 +763,7 @@
     <string name="dump_db_info">Dump-Datenbankinfo</string>
     <string name="early_morning">Morgen</string>
     <string name="edit_baby_info">Kinderinformationen bearbeiten</string>
+    <string name="edit_subtitle_enter">Untertitel bearbeiten</string>
     <string name="editor_cancel">Abbrechen</string>
     <string name="editor_export">Speichern</string>
     <string name="editor_talkback_redo">Wiederholen</string>
@@ -864,7 +868,7 @@
     <string name="exceed_binded_phone_times_notice">Diese Rufnummer ist bereits mit einem anderen Xiaomi-Konto verbunden.</string>
     <string name="exif_title_smart_fusion">Bildverbesserung:</string>
     <string name="exit">Beenden</string>
-    <string name="exit_choice_mode">Teilen-Dialog beendet</string>
+    <string name="exit_choice_mode">Freigeben-Dialog beendet</string>
     <string name="exit_share">Album beenden</string>
     <string name="exit_share_failed">Beenden von %1$s fehlgeschlagen</string>
     <string name="exit_share_in_process">Beenden \"%s\"…</string>
@@ -1130,6 +1134,7 @@
     <string name="filter_texture_shadow">Abenddämmerung</string>
     <string name="finish_create_baby_album_toast">Album für \"%s\" in der Xiaomi Cloud erstellt</string>
     <string name="finish_fill_baby">Erstellen</string>
+    <string name="first_delete_media_for_cloud">Ausgewählte Elemente werden aus der Cloud und von allen synchronisierten Geräten zu Kürzlich gelöschte Elemente verschoben und nach %d Tagen endgültig gelöscht, es sei denn, Sie haben einen Cloud-Speichertarif. Trotzdem löschen?</string>
     <string name="first_time_add_video_to_secret_tips">Galerie aktualisieren, um Videos auszublenden</string>
     <string name="flash_off">Blitz aus</string>
     <string name="flash_on">Blitz an</string>
@@ -1307,14 +1312,14 @@
     <string name="invite_sharer_relation_tip">Beziehung zu %1$s</string>
     <string name="invite_sharer_title">%1$s %2$s einladen</string>
     <string name="invite_tip">Teilen Sie Ihre Kinderfotos</string>
-    <string name="invite_user_activity_title">Teilen</string>
+    <string name="invite_user_activity_title">Freigeben</string>
     <string name="invite_user_exist_toast">Diese Person wurde bereits eingeladen</string>
     <string name="invite_user_fail_toast">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="invite_user_has_joined">Dieses Album wird bereits mit dieser Person geteilt</string>
     <string name="invite_user_info_top_hint_text">Konto bestätigen</string>
     <string name="invite_user_now">Einladen</string>
     <string name="invite_user_success_toast">Einladung erfolgreich gesendet</string>
-    <string name="invite_wechat_user_title">Sie sind eingeladen, den Zugriff auf %1$s zu teilen</string>
+    <string name="invite_wechat_user_title">Sie sind eingeladen, den Zugriff auf %1$s freizugeben</string>
     <string name="invited_tip">Eingeladen</string>
     <string name="is">Ja</string>
     <string name="is_higher_definition">HD-Vorschau</string>
@@ -1670,7 +1675,7 @@
     <string name="movie_full_screen">Vollbild</string>
     <string name="movie_item_name">Film aus Fotos</string>
     <string name="movie_preview_btn">Vorschau</string>
-    <string name="movie_preview_share_title">Teilen</string>
+    <string name="movie_preview_share_title">Freigeben</string>
     <string name="movie_return">Zurück</string>
     <string name="movie_save">Speichern</string>
     <string name="movie_save_failed">Speichern nicht möglich</string>
@@ -1702,7 +1707,7 @@
     <string name="must_pick_file">Foto auswählen</string>
     <string name="name_wrong">Das ist nicht %s</string>
     <string name="national_day">Nationalfeiertag</string>
-    <string name="nearby_share">In Nähe teilen</string>
+    <string name="nearby_share">In der Nähe freigeben</string>
     <string name="need_to_turn_on_network">Sie haben keine Internetverbindung</string>
     <string name="need_to_turn_on_sync">Mit der Cloud synchronisieren einschalten</string>
     <string name="need_to_turn_on_sync_first">Zuerst mit der Cloud synchronisieren einschalten</string>
@@ -1754,7 +1759,7 @@
     <string name="ocr_revise">Überarbeiten</string>
     <string name="ocr_save_to_note">Speichern</string>
     <string name="ocr_save_to_note_new">In Notizen speichern</string>
-    <string name="ocr_send">Teilen</string>
+    <string name="ocr_send">Freigeben</string>
     <string name="ocr_switch_hint">Auf Bildern angezeigten Text erkennen, um ihn auszuwählen oder eine Aktion durchzuführen</string>
     <string name="ocr_switch_title">Text auf Bildern erkennen</string>
     <string name="ocr_text_copied">Erfolgreich kopiert</string>
@@ -1775,7 +1780,7 @@
     <string name="online_video_vip_transcoding">Gleich beginnt das VIP-Streaming…\nUmwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum ersten Mal verwenden.</string>
     <string name="open">Einschalten</string>
     <string name="open_public_message">Link erstellen und an andere senden</string>
-    <string name="open_public_title">Teilen</string>
+    <string name="open_public_title">Freigeben</string>
     <string name="open_settings">Einstellungen</string>
     <string name="operate_processing_file_error">Warten Sie, bis alle Fotos bearbeitet sind.</string>
     <string name="operate_with_metered_network_msg">Ihr Gerät ist an ein kostenpflichtiges Netzwerk angeschlossen. Trotzdem fortfahren?</string>
@@ -1825,7 +1830,7 @@
     <string name="operation_set_slide_wallpaper">Als Diashow-Hintergrund festlegen</string>
     <string name="operation_set_video_wallpaper">Als Videohintergrund festlegen</string>
     <string name="operation_set_wallpaper">Als Hintergrund festlegen</string>
-    <string name="operation_share">Teilen</string>
+    <string name="operation_share">Freigeben</string>
     <string name="operation_share_manage">Geteilte Elemente verwalten</string>
     <string name="operation_show_in_photos_tab">Auf Startseite anzeigen</string>
     <string name="operation_show_on_map">Auf Karte anzeigen</string>
@@ -1971,6 +1976,8 @@
     <string name="permission_optional_category">Optionale Berechtigungen</string>
     <string name="permission_phone_desc">Für Netzwerkanfragen basierend auf der Geräte-ID</string>
     <string name="permission_phone_name">Telefon</string>
+    <string name="permission_post_notification_desc">Zum Senden von Benachrichtigungen über freigegebene Alben und zur Aktualisierung des Synchronisierungsstatus</string>
+    <string name="permission_read_media_images_desc">Für den Zugriff auf und das Speichern von Fotos und Videos bei der Verwendung der Galerie</string>
     <string name="permission_require_category">Obligatorische Berechtigungen</string>
     <string name="permission_storage_desc">Zum Anzeigen, Bearbeiten und Speichern von Fotos</string>
     <string name="permission_storage_name">Speicher</string>
@@ -2385,7 +2392,7 @@
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
     <string name="save_error_try_a_different_template_msg">Speichern fehlgeschlagen, Bild ist zu groß</string>
-    <string name="scan_barcode_guide">Teilensymbol berühren, um den QR-Code abzufragen</string>
+    <string name="scan_barcode_guide">Freigeben-Symbol berühren, um den QR-Code abzufragen</string>
     <string name="scan_barcode_to_join">QR-Code scannen, um dem Album beizutreten</string>
     <string name="scan_qr_code">QR-Code scannen</string>
     <string name="scan_qr_code_buttom_text">QR-Code scannen, um Album anzuzeigen</string>
@@ -2522,14 +2529,14 @@
     <string name="send_dolby_vision_duration_more_than_40s">Mehr als 4 Minuten lange Dolby Vision-Videos können nur in ihrem ursprünglichen Videoformat geteilt werden, das vom empfangenden Gerät ggf. nicht unterstützt wird. Trotzdem fortfahren?</string>
     <string name="send_dolby_vision_video_continue">Fortfahren</string>
     <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich versendet</string>
-    <string name="send_file_beautify_failed">Teilen nicht möglich</string>
-    <string name="send_files_by">Dateien teilen über</string>
+    <string name="send_file_beautify_failed">Freigeben nicht möglich</string>
+    <string name="send_files_by">Dateien freigeben über</string>
     <string name="send_files_to">Elemente senden nach</string>
     <string name="send_heif_summary">HEIF-Bilder in JPEG zur Kompatibilitätgewährleistung konvertieren</string>
     <string name="send_heif_title">Vor dem Senden HEIF in JPEG konvertieren</string>
     <string name="send_multiple_files_hint_format">Senden (%s)</string>
     <string name="send_public_url">Albumlink senden</string>
-    <string name="send_secret_file_failed">Teilen nicht möglich</string>
+    <string name="send_secret_file_failed">Freigeben nicht möglich</string>
     <string name="send_secret_file_space_low">Nicht genügend Speicherplatz</string>
     <string name="send_too_many_files_error">So viele Elemente können nicht gesendet werden (maximal %d Elemente)</string>
     <string name="service_error">Serverfehler</string>
@@ -2550,30 +2557,30 @@
     <string name="set_video_wallpaper_failed">Dieses Element kann nicht als Videohintergrund verwendet werden</string>
     <string name="set_wallpaper_get_image_failed">Foto nicht heruntergeladen, versuchen Sie es später erneut</string>
     <string name="setup_network_connection">Netzwerkeinstellungen</string>
-    <string name="share">Teilen</string>
-    <string name="share_album">Album teilen</string>
+    <string name="share">Freigeben</string>
+    <string name="share_album">Album freigeben</string>
     <string name="share_album_action_mode_title">Zugriff kontrollieren</string>
     <string name="share_album_add_share_photos">Geteilte Fotos hinzufügen</string>
     <string name="share_album_auto_add_people">Wählen</string>
-    <string name="share_album_cancel_share">Teilen beenden</string>
+    <string name="share_album_cancel_share">Freigeben beenden</string>
     <string name="share_album_change_background">Hintergrundfoto ändern</string>
     <string name="share_album_create_failed">Geteiltes Album wurde nicht erstellt</string>
-    <string name="share_album_exit_button_text">Teilen beenden</string>
+    <string name="share_album_exit_button_text">Freigeben beenden</string>
     <string name="share_album_exit_confirm">Wenn Sie fortfahren, können Sie nicht mehr auf alle Elemente in diesem Album zugreifen. Speichern Sie alle wichtigen Elemente, bevor Sie gehen.</string>
     <string name="share_album_exit_confirm_title">Diese Gruppe verlassen?</string>
     <string name="share_album_family_add_sharer_dialog_title">Einladen</string>
-    <string name="share_album_family_cancel_share_dialog_message">Wenn Sie jetzt aufhören, dieses Album zu teilen, wird es zu einem normalen Album und andere Personen können es nicht mehr sehen. Trotzdem aufhören zu teilen?</string>
+    <string name="share_album_family_cancel_share_dialog_message">Wenn Sie jetzt aufhören, dieses Album freizugeben, wird es zu einem normalen Album und andere Personen können es nicht mehr sehen. Trotzdem aufhören freizugeben?</string>
     <string name="share_album_family_delete_sharer_message">Diese Person wird dieses Album nicht mehr sehen können, wenn Sie sie jetzt entfernen. Trotzdem entfernen?</string>
     <string name="share_album_family_delete_sharer_title">Zugriff beschränken</string>
     <string name="share_album_family_invite_category_title">Mitglieder zur Familiengruppe hinzufügen</string>
-    <string name="share_album_family_invite_default">Teilen</string>
+    <string name="share_album_family_invite_default">Freigeben</string>
     <string name="share_album_family_invite_family_cate_title">Familiengruppe</string>
     <string name="share_album_family_invite_miaccount">Xiaomi-Konto</string>
     <string name="share_album_family_invite_other_cate_title">Freunde</string>
     <string name="share_album_family_invite_qr">QR-Code</string>
     <string name="share_album_family_invite_resend">Erneut einladen</string>
     <string name="share_album_family_invite_sharer">Personen einladen</string>
-    <string name="share_album_family_invite_title">Teilen</string>
+    <string name="share_album_family_invite_title">Freigeben</string>
     <string name="share_album_family_invite_toomuch_tip">Zu viele Anfragen. Einen Moment warten und erneut versuchen.</string>
     <string name="share_album_family_invite_waiting">Warten</string>
     <string name="share_album_family_manage">Familienfreigabe</string>
@@ -2605,6 +2612,20 @@
     <string name="share_album_pref_auto_add_photos_summary">Personen wählen, die ihre neuen Fotos automatisch zu diesem Album hinzufügen</string>
     <string name="share_album_pref_auto_add_photos_title">Ihre Fotos automatisch hinzufügen</string>
     <string name="share_album_qr_code">Alben QR-Code</string>
+    <string name="share_album_risk_control_invalid_name">Dieser Albumname kann nicht verwendet werden. Einen anderen wählen und erneut versuchen.</string>
+    <string name="share_album_risk_control_tip_off">Melden</string>
+    <string name="share_album_risk_control_tip_off_cate">Inhaltstyp</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Anderes</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Politisch</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Sexuell</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Gewalt</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Wenn Sie den Inhalt eines freigegebenen Albums melden, kann nur die Person, die diesen Inhalt hochgeladen hat, ihn sehen. Jetzt melden?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Melden</string>
+    <string name="share_album_risk_control_tip_off_select">Inhaltstyp wählen</string>
+    <string name="share_album_risk_control_tip_off_success">Erfolgreich gemeldet</string>
+    <string name="share_album_risk_control_too_many_albums">Weitere freigegebene Alben können nicht erstellt werden</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">Weitere Mitglieder können nicht hinzugefügt werden</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">Weitere Mitglieder können nicht eingeladen werden</string>
     <string name="share_album_sync_textline_action_continue">Fortsetzen</string>
     <string name="share_album_sync_textline_action_login">Anmelden</string>
     <string name="share_album_sync_textline_action_retry">Erneut versuchen</string>
@@ -2618,8 +2639,8 @@
     <string name="share_album_sync_textline_synced">Erfolgreich synchronisiert</string>
     <string name="share_album_type_baby">Babyalbum</string>
     <string name="share_album_type_home">Familienbildschirmschoner</string>
-    <string name="share_and_delete_screenshot">Nach Teilen löschen</string>
-    <string name="share_by_email_start">%1$s im Hintergrund teilen</string>
+    <string name="share_and_delete_screenshot">Nach Freigeben löschen</string>
+    <string name="share_by_email_start">%1$s im Hintergrund freigeben</string>
     <string name="share_by_email_successfully">%1$s geteilt</string>
     <string name="share_from">Von %1$s</string>
     <string name="share_public_url_text">Ich habe das Album %1$s mit Ihnen geteilt. Betrachten Sie es unter %2$s.</string>
@@ -2681,6 +2702,7 @@
     <string name="slim_space">freigegeben</string>
     <string name="slim_stop">Optimierung anhalten</string>
     <string name="slim_success_tip">%s Speicherplatz freigegeben</string>
+    <string name="slow_motion_enter">Zeitlupe</string>
     <string name="sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="sns_bind_limit">Zu viele Versuche. Andere Art der Anmeldung probieren.</string>
     <string name="sns_sign_in">Andere Art der Anmeldung</string>
@@ -2776,7 +2798,7 @@
     <string name="storage_description_xspace">Dual App-Daten</string>
     <string name="storage_no_space">Nicht genügend Speicherplatz</string>
     <string name="story_action_remove">Entfernen</string>
-    <string name="story_action_share">Teilen</string>
+    <string name="story_action_share">Freigeben</string>
     <string name="story_back_stop_download">Erneut tippen, um Download zu stoppen</string>
     <string name="story_cancel_download">Abbrechen</string>
     <string name="story_download">Herunterladen</string>
@@ -2811,6 +2833,7 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="super_slow_motion_enter">Superzeitlupe</string>
     <string name="support_single_image">1 Bild wählen</string>
     <string name="support_single_video">1 Video wählen</string>
     <string name="switch_account_continue">Fortsetzen</string>
@@ -3064,6 +3087,7 @@
     <string name="trash_purge_all">Alle kürzlich gelöschten Elemente werden dauerhaft aus der Cloud und von allen synchronisierten Geräten gelöscht. Trotzdem löschen?</string>
     <string name="trash_purge_all_cloud">Alle kürzlich gelöschten Elemente werden dauerhaft aus der Cloud und von allen synchronisierten Geräten gelöscht. Trotzdem löschen?</string>
     <string name="trash_purge_all_local">Alle kürzlich gelöschten Elemente werden dauerhaft gelöscht. Trotzdem löschen?</string>
+    <string name="trash_purge_all_media">Alle Elemente dauerhaft aus der Cloud und von allen synchronisierten Geräten löschen? Sie können diese Aktion nicht rückgängig machen.</string>
     <string name="trash_purge_dialog_title">Papierkorb leeren</string>
     <string name="trash_purge_positive_button">Löschen</string>
     <string name="trash_size">Gelöschte Elemente (%s)</string>
@@ -3274,6 +3298,7 @@
     <string name="video_quality_720p_hd">720p (hohe Auflösung)</string>
     <string name="video_quality_720p_original">720p (unkomprimiert)</string>
     <string name="video_quality_title_sub">Aktuelle Auflösung: %1$s (≈ %2$s)</string>
+    <string name="video_tags_enter">Markierungen anzeigen</string>
     <string name="video_with_time">Video aufgenommen %s</string>
     <string name="video_with_time_and_location">Video aufgenommen %1$s | Standort: %2$s</string>
     <string name="view_by_gallery_tip">MIUI Galerie</string>
@@ -3521,5 +3546,5 @@
     <string name="you_are">Ihr Baby</string>
     <string name="yuzhitiaojie">Stärkeeinstellung</string>
     <string name="zi_ding_yi_wenben">Angepasste Größe</string>
-    <string name="zman_title">Sicheres Teilen</string>
+    <string name="zman_title">Sicheres Freigeben</string>
 </resources>
