@@ -1097,6 +1097,8 @@ Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weite
     <string name="sensor_information">Sensorinformation</string>
     <string name="set_dsi_tips">DSI festlegen</string>
     <string name="show_log">Protokoll anzeigen</string>
+    <string name="sidebottom_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO am unteren Seitenrand des Geräts</string>
+    <string name="sidetop_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO am oberen Seitenrand des Geräts</string>
     <string name="slave_battery_authentic">Zweitakku authentisch</string>
     <string name="soft_light_title">Weiches Licht</string>
     <string name="sound_file_delete">Sounddatei ist nicht beendet, Abspielen nicht möglich!</string>
@@ -1127,6 +1129,8 @@ Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weite
     <string name="test_receiver_summary">"Sie hören zwei Zufallszahlen.
 Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="test_result">TESTERGEBNIS</string>
+    <string name="test_sidebottom_mic">SeiteUnten MIKRO</string>
+    <string name="test_sidetop_mic">SeiteOben MIKRO</string>
     <string name="test_speaker">Lautsprecher</string>
     <string name="test_speaker_summary">"Sie hören zwei Zufallszahlen.
 Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>

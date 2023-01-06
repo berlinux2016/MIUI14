@@ -205,6 +205,7 @@
     <string name="public_default_sheet_lable_name">WPS-EXCEL-Viewer</string>
     <string name="public_default_writer_lable_name">WPS-WORD-Viewer</string>
     <string name="public_displayPasswd">Kennwort anzeigen</string>
+    <string name="public_display_privacy_policy">Datenschutzerklärung anzeigen</string>
     <string name="public_doc_end_preview_tip">Bereitgestellt von WPS Office</string>
     <string name="public_download_message_tip">WPS nicht installiert. Sie können die App im Play Store herunterladen.</string>
     <string name="public_edit">Bearbeiten</string>
@@ -239,6 +240,7 @@
     <string name="public_lite_update_cloud_dialog_message">WPS Office aktualisieren und den Dienst von %s genießen</string>
     <string name="public_lite_update_right_now">Jetzt aktualisieren</string>
     <string name="public_lite_use_right_now">Jetzt verwenden</string>
+    <string name="public_loadDocumentError">Datei existiert nicht oder kann nicht geöffnet werden</string>
     <string name="public_loadDocumentFormatError">Fehler beim Dateiformat, Datei kann nicht geöffnet werden.</string>
     <string name="public_loadDocumentLackOfStorageError">Nicht genügend Speicherplatz, Datei kann nicht geöffnet werden.</string>
     <string name="public_loadDocumentOutOfMemoryError">Nicht genügend Speicherplatz, Datei kann nicht geöffnet werden.</string>
@@ -283,6 +285,7 @@
     <string name="public_picture_savefail">Bild ist beschädigt und kann nicht gespeichert werden</string>
     <string name="public_play">Wiedergeben</string>
     <string name="public_ppt_label">Mi PPT-Viewer</string>
+    <string name="public_privacy_update">&lt;Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, sollten Sie die neue Version unserer &lt;a href=\"%s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren, bevor Sie fortfahren.&lt;/Data></string>
     <string name="public_re_licensing">Autorisierung erteilen</string>
     <string name="public_readOnlyMode">Schreibgeschützt</string>
     <string name="public_recory_edit_not_save_tips">Nicht gespeicherter Inhalt wurde bereits für Sie wiederhergestellt</string>
@@ -291,6 +294,10 @@
     <string name="public_refuse_jurisdiction">Berechtigungen erforderlich</string>
     <string name="public_replace">Ersetzen</string>
     <string name="public_request_senior_password">Passwort mit höchster Berechtigung eingeben</string>
+    <string name="public_revoke">%s widerrufen</string>
+    <string name="public_revoke_privacy_content">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS). Wir werden aufhören, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb eines bestimmten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Ihr Widerruf der Zustimmung wird als Ablehnung der von Mi Doc Viewer (Powered by WPS) angebotenen Dienste angesehen.</string>
+    <string name="public_revoke_privacy_desc">Widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS)</string>
+    <string name="public_revoke_privacy_title">Widerruf Zustimmung</string>
     <string name="public_ribbon_font">Schriftart</string>
     <string name="public_rotate">Bildschirm drehen</string>
     <string name="public_save">Speichern</string>
@@ -314,7 +321,7 @@
     <string name="public_sensor_ratation_land_tip">Querformat</string>
     <string name="public_sensor_ratation_port_tip">Hochformat</string>
     <string name="public_service_disable_error_tips">Diese Funktion kann nicht verwendet werden, da der damit verbundene Dienst deaktiviert wurde.</string>
-    <string name="public_share">Teilen Sie es</string>
+    <string name="public_share">Teilen</string>
     <string name="public_share_no_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="public_share_retry">Erneut versuchen</string>
     <string name="public_share_to_tv">Zum TV übertragen</string>

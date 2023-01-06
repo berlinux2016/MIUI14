@@ -1818,6 +1818,7 @@
     <string name="no_unlock_chance_hint">Sie haben keine Versuche mehr.\nKontaktieren Sie Ihren Mobilfunkanbieter.</string>
     <string name="no_vm_number">Fehlende Sprachboxnummer</string>
     <string name="no_vm_number_msg">Auf der SIM-Karte ist keine Sprachboxnummer gespeichert</string>
+    <string name="no_voice_capability">Anbieter wurde nicht erreicht. Einen Moment warten und erneut versuchen.</string>
     <string name="no_voip">SIP-Anrufe werden nicht unterstützt</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">Anrufen nicht möglich. HD-Sprachdienst ist nicht für SIM %d (China Broadnet) registriert.</string>
     <string name="no_volte_call_service_notification_content_for_cbn">Anrufen nicht möglich. HD-Sprachdienst ist nicht für China Broadnet-SIM registriert.</string>

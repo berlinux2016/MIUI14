@@ -219,6 +219,7 @@ Wenn Sie nicht zustimmen, können Sie die Xiaomi Interconnectivity Services nich
     <string name="midnight">Nacht</string>
     <string name="mint_keyboard_oobe_checkbox">Ich habe die Datenschutzerklärung von Mint Keyboard gelesen und bin damit einverstanden</string>
     <string name="mint_keyboard_oobe_terms">Datenschutzerklärung von Mint Keyboard</string>
+    <string name="miui14_start_up_slogan">Auf die Plätze. Fertig. Leben.</string>
     <string name="miui_privacy_policy_no_network">Keine Internetverbindung. Lesen Sie die Datenschutzerklärung auf %s.</string>
     <string name="miui_provision">Ersteinrichtung</string>
     <string name="miui_terms_no_network">Keine Internetverbindung. Sehen Sie sich die Nutzervereinbarung auf %s an.</string>

@@ -195,6 +195,7 @@
     <string name="copy">Kopieren</string>
     <string name="copy_link">URL kopieren</string>
     <string name="copy_to_clipboard_successful">Erfolgreich kopiert</string>
+    <string name="current_account_can_use_pwd_login">Passwort zum Anmelden eingeben</string>
     <string name="current_location_title">Aktueller Standort</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -320,6 +321,7 @@
     <string name="input_new_pwd">Neues Passwort eingeben</string>
     <string name="io_error_title">Bestätigen Sie Ihr Netzwerk</string>
     <string name="just_a_second">Einen Moment…</string>
+    <string name="keep_phone_ticket_login">Mit Verifizierungscode anmelden</string>
     <string name="kr_license_desc">Sie müssen unsere Nutzungsbedingungen und der Datenschutzerklärung akzeptieren, bevor Sie Xiaomi-Konto-Dienste und Xiaomi Cloud nutzen können.</string>
     <string name="kr_permission_contacts_desc">Für den Kontaktezugriff</string>
     <string name="kr_permission_desc">Berechtigungen erforderlich</string>
@@ -341,6 +343,7 @@
     <string name="login_with_other">Mehr Optionen</string>
     <string name="logout_account">Abmelden</string>
     <string name="logout_failed">Abmelden fehlgeschlagen</string>
+    <string name="messenger_send_button_text">Senden</string>
     <string name="mi_account">Mein Konto</string>
     <string name="mi_account_identity_title">Prüfen Sie Ihre Identität</string>
     <string name="mi_finance">Meine Finanzen</string>
@@ -713,6 +716,8 @@
     <string name="phone_activated">%s aktiviert</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_register">Rufnummer verwenden</string>
+    <string name="phone_ticket_login">Mit Verifizierungscode anmelden</string>
+    <string name="phone_ticket_register">Konto mit Rufnummer erstellen</string>
     <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_policy_reject_confirm_msg">Sie können Xiaomi-Konto nicht weiter nutzen, wenn Sie der neuen Version der Datenschutzerklärung nicht zustimmen. Der aktualisierten Xiaomi-Konto &lt;a href=%1$s>Datenschutzerklärung&lt;/a> jetzt zustimmen?"</string>
@@ -909,6 +914,7 @@
     <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>
     <string name="update_phone_number_notice_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Rufnummer aktualisieren.</string>
     <string name="updated_nothing">Aktualisiert</string>
+    <string name="use_google_account_login">Mit Google anmelden</string>
     <string name="used_cloud_storage_info">Genutzt: %s</string>
     <string name="user_agreement_device_permission_desc">Zur Gewährleistung der Sicherheit der Anmeldungsumgebung</string>
     <string name="user_agreement_device_permission_title">Zugriff auf Gerätedaten</string>
