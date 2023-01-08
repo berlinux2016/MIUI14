@@ -158,7 +158,7 @@
     <string name="login_xiaomi_account_summary_phone">Um sich mit anderen Tablets zu verbinden, verwenden Sie das gleiche Xiaomi-Konto auf beiden verbundenen Geräten. Jetzt anmelden?</string>
     <string name="login_xiaomi_account_title">Am Xiaomi-Konto anmelden</string>
     <string name="low_battery_notification_action">Einschalten</string>
-    <string name="low_battery_notification_content">Weniger als %2$d% Akku verbleiben auf %1$s. Stromsparen einschalten.</string>
+    <string name="low_battery_notification_content">Weniger als %2$d%% Akku verbleiben auf %1$s. Stromsparen einschalten.</string>
     <string name="low_battery_notification_title">Niedriger Akkustand</string>
     <string name="low_version_dialog_message">Aktualisieren Sie MIUI+ auf Ihrem Computer oder laden Sie die neueste Version von plus.miui.com herunter.</string>
     <string name="low_version_dialog_title">MIUI+ aktualisieren</string>

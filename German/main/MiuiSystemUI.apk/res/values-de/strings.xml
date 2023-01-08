@@ -1716,7 +1716,7 @@
     <string name="media_output_dialog_add_output">Ausgänge hinzufügen</string>
     <string name="media_output_dialog_button_stop_casting">Übertragen beenden</string>
     <string name="media_output_dialog_connect_failed">Verbinden nicht möglich. Erneut versuchen.</string>
-    <string name="media_output_dialog_disconnected">%1$s (getrennt)</string>
+    <string name="media_output_dialog_disconnected">(getrennt)</string>
     <string name="media_output_dialog_group">Gruppe</string>
     <string name="media_output_dialog_launch_app_text">Um diese Sitzung zu übertragen, öffnen Sie bitte diese App.</string>
     <string name="media_output_dialog_multiple_devices">%1$d Geräte gewählt</string>

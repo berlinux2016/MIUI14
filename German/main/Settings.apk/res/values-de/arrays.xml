@@ -358,7 +358,7 @@
         <item>Qualcomm® aptX™ HD Audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive Audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Qualcomm® aptX™ TWS+ Audio</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -373,7 +373,7 @@
         <item>Qualcomm® aptX™ HD Audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive Audio</item>
-        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Qualcomm® aptX™ TWS+ Audio</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -413,10 +413,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Deaktiviert</item>
-        <item>Gefiltert</item>
+        <item>Gefiltert aktiviert</item>
         <item>Aktiviert</item>
-        <item>Kopfzeilen gefiltert</item>
-        <item>Medienpakete gefiltert</item>
+        <item>Kopfzeilen gefiltert aktiviert</item>
+        <item>Media Pkts gefiltert aktiviert</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 Sekunde</item>

@@ -303,7 +303,7 @@
     <string name="edit_event_reminder_3_days_before_time">Auch %d Tage vorher erinnern</string>
     <string name="edit_event_reminder_summary">An diesem Tag um %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d Tage im Voraus und an diesem Tag um %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before_today">%2$d Tage vorher und um %1$s am Stichtag</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d Tage vorher und um %1$s am Stichtag</string>
     <string name="edit_event_reminder_text">Am %1$s um %2$s</string>
     <string name="edit_event_reminder_time">Erinnerungszeit</string>
     <string name="edit_event_reminder_with_another_day_text">Am %1$s, %2$s um %3$s</string>
