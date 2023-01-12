@@ -560,6 +560,7 @@
     <string name="contextmenu_webpage_snapshot">Seite speichern</string>
     <string name="continue_reading">Weiterlesen</string>
     <string name="copy">Kopieren</string>
+    <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="copy_url">URL kopieren</string>
     <string name="core_functions_of_browser">Die wichtigsten Funktionen auf Knopfdruck</string>
     <string name="could_not_load_data">Daten wurden nicht geladen, aktualisieren und erneut versuchen</string>
@@ -829,6 +830,9 @@
     <string name="exo_download_description">Herunterladen</string>
     <string name="exo_download_downloading">Herunterladen</string>
     <string name="exo_download_failed">Download fehlgeschlagen</string>
+    <string name="exo_download_paused">Downloads angehalten</string>
+    <string name="exo_download_paused_for_network">Downloads warten auf Netzwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads warten auf WLAN</string>
     <string name="exo_download_removing">Downloads löschen</string>
     <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -846,6 +850,9 @@
     <string name="exported">Exportiert</string>
     <string name="external_app_restricted_access_error">Mi Browser kann auf dieses Element nicht zugreifen.</string>
     <string name="failed_dup_secure_phone_number">Diese Rufnummer ist bereits mit einem anderen Mi-Account verbunden</string>
+    <string name="fallback_menu_item_copy_link">Link kopieren</string>
+    <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
+    <string name="fallback_menu_item_share_link">Link teilen</string>
     <string name="fast_search_title">Schnellsuche</string>
     <string name="fast_than">Vor %1$s%% Benutzern</string>
     <string name="fb_login_tips">Anmelden, um Videos von Facebook herunterzuladen</string>

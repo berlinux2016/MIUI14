@@ -286,6 +286,7 @@
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="day">Tag</string>
     <string name="default_filedownloader_notification_content">FileDownloader läuft gerade</string>
+    <string name="default_message_body">Nachrichtentext</string>
     <string name="default_title">Titel</string>
     <string name="default_upgrade_hint">"Hallo zusammen!
 Mi Video ist bereit für ein Update.
@@ -768,6 +769,8 @@ für Videos"</string>
     <string name="local_play_end_download_drag_up_guide">Tippen oder wischen zum Herunterladen</string>
     <string name="local_play_end_download_title">Versuchen Sie, Ihre Lieblingsvideos herunterzuladen</string>
     <string name="local_play_end_drag_up_guide">Tippen oder wischen Sie hoch, um Shorts abzuspielen</string>
+    <string name="local_play_recommend_guide_card_bottom">Mehr Videos</string>
+    <string name="local_play_recommend_guide_card_title">Empfohlen</string>
     <string name="local_play_tip">Lokales Video abspielen</string>
     <string name="local_push_setting_power_tag">Benachrichtigungen über lokale Videos</string>
     <string name="local_push_title">Heute beliebt</string>

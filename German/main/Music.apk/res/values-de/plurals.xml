@@ -165,6 +165,10 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="other">Zurückspulen %d Sek</item>
         <item quantity="one">Zurückspulen %d Sek</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s Aufrufe</item>
+        <item quantity="one">%s Aufruf</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d kostenlose Downloads übrig</item>
         <item quantity="one">%d kostenloser Download übrig</item>

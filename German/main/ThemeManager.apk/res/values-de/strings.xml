@@ -498,6 +498,7 @@ Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe i
     <string name="hide_pull_down_negative">Nicht ausblenden</string>
     <string name="hide_pull_down_positive">Ausblenden</string>
     <string name="hide_retract_button">Ausblenden</string>
+    <string name="historical_wallpaper">Zuvor verwendet</string>
     <string name="home_apply_failured">Startbildschirmhintergrund wurde nicht angewendet</string>
     <string name="home_apply_success">Startbildschirmhintergrund wurde angewendet</string>
     <string name="home_daily">Tägliche Highlights</string>

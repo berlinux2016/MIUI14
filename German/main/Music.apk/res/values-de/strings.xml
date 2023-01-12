@@ -2767,6 +2767,16 @@
     <string name="you">Sie</string>
     <string name="you_can_switch_mode_in_settings">In Einstellungen können Sie zwischen den Modi wechseln</string>
     <string name="you_may_like">Vielleicht gefällt Ihnen auch</string>
+    <string name="youtube_download_canl">Abbrechen</string>
+    <string name="youtube_download_fail_net">Verbindung zum Netzwerk nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="youtube_download_fail_source">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="youtube_download_fail_space">Herunterladen fehlgeschlagen. Nicht genug Speicherplatz.</string>
+    <string name="youtube_download_fail_unknown">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="youtube_download_hint">Der Ton dieses Videos wird auf Ihrem Gerät im MP3-Format mit dem Videotitel als Dateinamen gespeichert. Jetzt herunterladen?</string>
+    <string name="youtube_download_ing">Einen Moment…</string>
+    <string name="youtube_download_start">Herunterladen</string>
+    <string name="youtube_download_suc">Erfolgreich heruntergeladen</string>
     <string name="youtube_play_history">Wiedergabeverlauf</string>
     <string name="youtube_share_guide_tip">Sie können jetzt Videos mit Freunden teilen</string>
+    <string name="youtube_tab_explore">Entdecken</string>
 </resources>
