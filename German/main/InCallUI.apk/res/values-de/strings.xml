@@ -199,6 +199,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
+    <string name="high_temperature_toast">Beim Hochtemperaturschutz ist die Funktion vorübergehend nicht verfügbar</string>
     <string name="inCallLabel">Telefon</string>
     <string name="incall_bubble_hangup_click_hint">Erneut tippen, um zum Anruf zurückzukehren</string>
     <string name="incall_call_type_label_sip">Internetanruf</string>

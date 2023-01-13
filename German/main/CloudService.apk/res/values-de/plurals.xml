@@ -33,6 +33,10 @@
         <item quantity="other">%s Elemente synchronisieren nicht möglich</item>
         <item quantity="one">%s Element synchronisieren nicht möglich</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">Unzureichender Speicherplatz. %d Fotos wurden nicht synchronisiert.</item>
+        <item quantity="one">Unzureichender Speicherplatz. %d Foto wurde nicht synchronisiert.</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d Sperrlisteneinträge</item>
         <item quantity="one">%d Sperrlisteneintrag</item>
@@ -113,6 +117,10 @@
         <item quantity="other">In %d Sek erneut versuchen</item>
         <item quantity="one">In %d Sek erneut versuchen</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">&lt;font color=#F22424>%s Elemente&lt;/font> wurden nicht synchronisiert.</item>
+        <item quantity="one">&lt;font color=#F22424>%s Element&lt;/font> wurde nicht synchronisiert.</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">%s Elemente wurden nicht synchronisiert</item>
         <item quantity="one">%s Element wurde nicht synchronisiert</item>
@@ -167,6 +175,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">Speicher ist voll. &lt;font color=#F22424>%d Apps&lt;/font> wurden nicht synchronisiert.</item>
+        <item quantity="one">Speicher ist voll. &lt;font color=#F22424>%d Spp&lt;/font>wurde nicht synchronisiert.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>

@@ -54,18 +54,24 @@
     <string name="cloud_find_device">Gerät finden</string>
     <string name="cloud_find_device_off">Aus</string>
     <string name="cloud_find_device_on">An</string>
+    <string name="cloud_manage_storage_text">Cloud-Speicher verwalten</string>
     <string name="cloud_service_open_authorization">Willkommen bei den Xiaomi Cloud-Diensten! Sie können die Xiaomi Cloud nutzen, um Ihre Notizen, Fotos und Videos, Aufnahmen und andere Elemente aus System-Apps auf allen verbundenen Geräten zu synchronisieren. Sicherungen des Startbildschirm-Layouts werden ebenfalls in der Xiaomi Cloud gespeichert. Sie können alle synchronisierten Elemente auf i.mi.com ansehen.</string>
     <string name="cloud_space_full_gallery_notification_content_text">Tarif upgraden, um mehr Cloud-Speicherplatz zu erhalten</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Speicher ist fast voll. Eventuell können Sie keine Fotos mehr synchronisieren.</string>
     <string name="cloud_storage_already_full">Cloud-Speicher ist voll: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Belegt: %1$s/%2$s</string>
+    <string name="cloud_storage_common_functions_text">Häufig verwendet</string>
     <string name="cloud_storage_default_title">Cloud-Speicher</string>
     <string name="cloud_storage_full">Cloud-Speicher</string>
+    <string name="cloud_storage_full_upgrade_default_text">Unzureichender Speicherplatz. Fotos wurden nicht synchronisiert.</string>
     <string name="cloud_storage_info_type_family">Familie</string>
     <string name="cloud_storage_info_type_others">Andere</string>
     <string name="cloud_storage_info_type_pdc">Systemeinstellungen</string>
     <string name="cloud_storage_loading_data">Einen Moment…</string>
     <string name="cloud_storage_manage_title">Cloud-Speicher verwalten</string>
     <string name="cloud_storage_no_data">Noch keine Elemente in der Cloud</string>
+    <string name="cloud_storage_sufficient_text">Upgrade für bis zu %d TB Speicherplatz</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Kostenloses Upgrade</string>
     <string name="cloudservice_new_sync">%s mit Xiaomi Cloud synchronisieren</string>
     <string name="confirm_delete">Löschen</string>
     <string name="confirm_save">Behalten</string>
@@ -91,6 +97,7 @@
     <string name="data_protection_title">Daten schützen</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+    <string name="default_noti_quota_full_title">Cloud-Speicher ist voll</string>
     <string name="detect_sim_card">Erneut nach einer SIM-Karte suchen</string>
     <string name="device_activation_card_cannot_get_yet">Info nicht erhalten. In 3-5 Tagen erneut versuchen.</string>
     <string name="device_activation_card_description">Die erste Aktivierung wird registriert, wenn ein Gerät zum ersten Mal eine Netzwerkverbindung herstellt (inkl., aber nicht beschränkt auf WLAN und Mobilfunknetze). Es dauert gewöhnlich eine Weile, bis die erste Aktivierung registriert wird, daher ist es besser, 3-5 Tage nach der Netzwerkverbindung zu warten, bevor Sie den Aktivierungsstatus prüfen.&lt;br>&lt;br>Die Geräteaktivierung ist der Hauptfaktor bei der Bestimmung der Gültigkeitsdauer unserer erweiterten Garantie. Für mehr Details lesen Sie unsre &lt;a href=%1$s>Rückgabe-, Umtausch- und Reparaturbedingungen&lt;/a>.&lt;br>&lt;br>Bei Fragen wenden Sie sich bitte an unsere Kunden-Support-Hotline: 400-100-5678.</string>
@@ -197,6 +204,7 @@
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
     <string name="gallery_auto_sync_fail_noti_content">Nicht genügend Speicher in der Cloud. Aktualisieren Sie Ihren Speichertarif, um Fotos und Videos zu synchronisieren.</string>
+    <string name="gallery_data_transfer_ddl">Stichtag: %s</string>
     <string name="gallery_data_transfer_summary">Galerieelemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen und deren Dienste zu nutzen, um Ihre Elemente zu sichern.</string>
     <string name="gallery_data_transfer_title">Synchronisierte Fotos und Videos zu Google Fotos übertragen</string>
     <string name="gallery_service_termination_announcement">Hinweis: Galerieelemente können nicht mehr mit Xiaomi Cloud synchronisiert werden</string>
@@ -689,6 +697,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
     <string name="noti_quota_low_sum">Aktualisieren Sie Ihren Speichertarif, um die Synchronisierung von Elementen fortzusetzen.</string>
     <string name="noti_quota_low_sum_without_button">Erhöhen Sie den Speicherplatz, um die Synchronisierung von Elementen fortzusetzen.</string>
     <string name="noti_quota_low_title">Nicht genug Cloud-Speicher</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Weniger als &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> Cloud-Speicher übrig</string>
     <string name="noti_quota_low_title_without_button">Nicht genug Cloud-Speicher</string>
     <string name="notification_reinstall_key_text">Identität verifizieren und erneut versuchen</string>
     <string name="notification_sync_fail_title">Passwörter synchronisieren nicht möglich</string>

@@ -2149,6 +2149,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="captions_category_title">Untertitel</string>
     <string name="capture_system_heap_dump_title">System-Heap-Dump erfassen</string>
     <string name="capturing_system_heap_dump_message">System-Heap-Dump erfassen…</string>
+    <string name="card_holder_header_title">Geldbörse</string>
     <string name="card_main_hbassistant_title">Roter Umschlag;Rotes Paket;Geld</string>
     <string name="cards_passes_lower">Karten &amp; Pässe</string>
     <string name="cards_passes_sentence">Karten &amp; Pässe</string>
@@ -3379,6 +3380,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="effect_preview">Vorschau</string>
     <string name="eighthours">8 Stunden</string>
     <string name="elastic_text">Prompts und Dropdown-Menüs erscheinen mit einem elastischen Pop, der mehr Aufmerksamkeit auf diese Objekte lenkt</string>
+    <string name="embedded_window_guide_text">Wenn der Bildschirm horizontal angezeigt wird, werden Apps parallel zueinander angezeigt. Wenn diese Funktion deaktiviert ist, werden die Apps zentriert angezeigt.</string>
     <string name="emergency_address_summary">Adresse, die von den Rettungsdiensten als Standort verwendet wird, wenn Sie einen Notruf über WLAN tätigen</string>
     <string name="emergency_address_title">Notfalladresse aktualisieren</string>
     <string name="emergency_dashboard_summary">Notfall-SOS, medizinische Daten, Warnungen</string>
@@ -5470,7 +5472,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="magic_list_empty_text">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
     <string name="magic_list_empty_text_pad">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
     <string name="magic_window_name">Parallelfenster</string>
-    <string name="magic_window_name_pad">Querformatansicht optimieren</string>
+    <string name="magic_window_name_pad">Parallele Fenster</string>
     <string name="main_clear_accounts">\n\nSie sind derzeit bei den folgenden Konten angemeldet:\n</string>
     <string name="main_clear_button_text">Alle Daten löschen</string>
     <string name="main_clear_confirm_title">Alle Daten löschen?</string>
@@ -5982,6 +5984,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_sos_exit_emergency_title">Ausschalten</string>
     <string name="miui_sos_exit_send_location_title">Standort mit Notfallkontakten in Echtzeit teilen</string>
     <string name="miui_sos_green_guard_summary">Standortinformationen in Echtzeit teilen</string>
+    <string name="miui_sos_green_guard_title">Familienwächter</string>
     <string name="miui_sos_hospital_card">Krankenversicherungskarte</string>
     <string name="miui_sos_hospital_card_important_info">Ihre wichtigen medizinischen Daten für Ersthelfer</string>
     <string name="miui_sos_launch_error">Notfall-SOS wurde nicht aktiviert</string>
