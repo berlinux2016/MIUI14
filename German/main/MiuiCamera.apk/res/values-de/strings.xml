@@ -1283,12 +1283,12 @@
     <string name="module_name_portrait">Porträt</string>
     <string name="module_name_square">Quadrat</string>
     <string name="module_name_super_moon">Supermond</string>
-    <string name="moive_frame">Filmbild</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">Videos mit %1dfps können bis zu %2d Sek lang sein</string>
     <string name="moiton_detection_tip">Bewegung erkennen… Gerät ruhig halten.</string>
     <string name="moiton_detection_video_electric_quantity_tip">Gerät aufladen, um diese Funktion zu verwenden</string>
     <string name="moiton_detection_video_temperature_stop_tip">Ihr Gerät ist überhitzt. Die Aufnahme wird in %d Sek beendet.</string>
     <string name="moiton_detection_video_temperature_tip">Gerät abkühlen, um diese Funktion zu verwenden</string>
+    <string name="moive_frame">Filmbild</string>
     <string name="monday">Montag</string>
     <string name="monday_short">Mo</string>
     <string name="monday_shortest">M</string>
