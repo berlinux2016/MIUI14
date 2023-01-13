@@ -789,7 +789,7 @@
     <string name="connected_via_wfa">Verbunden via WLAN-Assistent</string>
     <string name="content_description_menu_button">Menü</string>
     <string name="control_center_notification_switch_guide">Kontrollzentrum/Benachrichtigungsleiste</string>
-    <string name="controls_added_tooltip">Einschalttaste gedrückt halten, um neue Steuerungen zu sehen</string>
+    <string name="controls_added_tooltip">Power-Taste gedrückt halten, um neue Steuerungen zu sehen</string>
     <string name="controls_confirmation_confirming">Bestätigen…</string>
     <string name="controls_confirmation_message">Änderung für %s bestätigen</string>
     <string name="controls_dialog_confirmation">Steuerungen aktualisiert</string>
@@ -2344,7 +2344,7 @@
     <string name="qs_traffic_message_type_remain">%1$s %2$s verbleiben</string>
     <string name="qs_traffic_message_type_used">Verbraucht: %1$s %2$s</string>
     <string name="qs_user_switch_dialog_title">Benutzer wählen</string>
-    <string name="quick_controls_setup_subtitle">Einschalttaste gedrückt halten, um auf die Steuerung zuzugreifen</string>
+    <string name="quick_controls_setup_subtitle">Power-Taste gedrückt halten, um auf die Steuerung zuzugreifen</string>
     <string name="quick_controls_setup_title">Gerätesteuerung einrichten</string>
     <string name="quick_controls_subtitle">Steuerungen für Ihre angeschlossenen Geräte hinzufügen</string>
     <string name="quick_controls_title">Gerätesteuerung</string>

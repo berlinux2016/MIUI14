@@ -814,9 +814,9 @@
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger Titel</string>
-    <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
-    <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
-    <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
+    <string name="exo_controls_repeat_all_description">Aktueller Modus: Alle wiederholen. Wiederholungsmodus umschalten.</string>
+    <string name="exo_controls_repeat_off_description">Aktueller Modus: Keinen wiederholen. Wiederholungsmodus umschalten.</string>
+    <string name="exo_controls_repeat_one_description">Aktueller Modus: Einen wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
     <string name="exo_controls_settings_description">Einstellungen</string>

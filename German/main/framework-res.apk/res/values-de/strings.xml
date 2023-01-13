@@ -204,7 +204,7 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
     <string name="accessibility_system_action_notifications_label">Benachrichtigungen</string>
     <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Auswahl Eingabehilfen-Kurzbefehl am Bildschirm</string>
     <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Eingabehilfen-Kurzbefehl am Bildschirm</string>
-    <string name="accessibility_system_action_power_dialog_label">Ein/Aus-Dialog</string>
+    <string name="accessibility_system_action_power_dialog_label">Power-Dialog</string>
     <string name="accessibility_system_action_quick_settings_label">Schnelleinstellungen</string>
     <string name="accessibility_system_action_recents_label">Letzte Apps</string>
     <string name="accessibility_uncheck_legacy_item_warning">%s wurde ausgeschaltet</string>

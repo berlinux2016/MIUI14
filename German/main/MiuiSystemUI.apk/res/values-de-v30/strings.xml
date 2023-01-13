@@ -214,7 +214,7 @@ Weiterhin anzeigen?"</string>
     <string name="profile_connect_timeout_subtext">Verbindung herstellen nicht möglich. Gerät aus- und wieder einschalten.</string>
     <string name="profile_info_settings_title">Profilinformationen</string>
     <string name="qs_status_phone_vibrate">Telefon auf Vibrieren</string>
-    <string name="quick_controls_setup_subtitle">Ein/Aus-Taste gedrückt halten, um auf Ihre Steuerelemente zuzugreifen</string>
+    <string name="quick_controls_setup_subtitle">Power-Taste gedrückt halten, um auf Ihre Steuerelemente zuzugreifen</string>
     <string name="quick_controls_setup_title">Gerätesteuerungen einrichten</string>
     <string name="quick_controls_subtitle">Steuerelemente für Ihre angeschlossenen Geräte hinzufügen</string>
     <string name="quick_settings_bluetooth_secondary_label_headset">Kopfhörer</string>

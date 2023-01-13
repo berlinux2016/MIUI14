@@ -692,7 +692,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
     <string name="not_set">Nicht festgelegt</string>
     <string name="noti_quota_full_sum">Aktualisieren Sie Ihren Speichertarif, um die Synchronisierung von Elementen fortzusetzen.</string>
     <string name="noti_quota_full_sum_without_button">Erhöhen Sie den Speicherplatz, um die Synchronisierung von Elementen fortzusetzen.</string>
-    <string name="noti_quota_full_title">Cloud-Speicher ist voll</string>
+    <string name="noti_quota_full_title">Cloud-Speicher ist &lt;font color=#F22424>voll&lt;/font></string>
     <string name="noti_quota_full_title_without_button">Cloud-Speicher ist voll</string>
     <string name="noti_quota_low_sum">Aktualisieren Sie Ihren Speichertarif, um die Synchronisierung von Elementen fortzusetzen.</string>
     <string name="noti_quota_low_sum_without_button">Erhöhen Sie den Speicherplatz, um die Synchronisierung von Elementen fortzusetzen.</string>
@@ -717,7 +717,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
     <string name="picker_list_empty">Hier keine Kontakte vorhanden</string>
     <string name="picker_search_empty">Keine Kontakte gefunden</string>
     <string name="picker_search_hint">Suchen</string>
-    <string name="power_off_locate_summary">"Standortinfos durch langes Drücken der Ein/Aus-Taste melden.
+    <string name="power_off_locate_summary">"Standortinfos durch langes Drücken der Power-Taste melden.
 Wenn die Netzwerkverbindung schlecht ist, werden Standortinfos möglicherweise nicht gemeldet."</string>
     <string name="power_off_locate_title">Standort vor dem Ausschalten melden</string>
     <string name="pre_privacy_policy">Datenschutzerklärung</string>
@@ -832,7 +832,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="privacy_runtime_perm_call_log_title">Zugriff und Bearbeitung von Anrufaufnahmen</string>
     <string name="privacy_runtime_perm_contacts_desc">Zum Synchronisieren von Kontakten</string>
     <string name="privacy_runtime_perm_contacts_title">Zugriff und Bearbeitung von Kontakten</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Zum Synchronisieren von Kontaktprofilfotos und Nachrichtenanhängen</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Zum Synchronisieren von Kontaktprofilfotos</string>
     <string name="privacy_runtime_perm_external_storage_title">Speicherzugriff</string>
     <string name="privacy_runtime_perm_phone_state_desc">Zum Abrufen von Telefonnummer und Gerätestatus</string>
     <string name="privacy_runtime_perm_phone_state_title">Zugriff auf Geräteinformationen</string>

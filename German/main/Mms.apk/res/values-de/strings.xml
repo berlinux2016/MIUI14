@@ -840,7 +840,7 @@
     <string name="pref_summary_privacy_authority">Diesen Schalter betätigen, um Ihre Berechtigung zu erteilen oder zu widerrufen.</string>
     <string name="pref_summary_send_delivery_reports">Lieferbestätigungsmeldung an den Absender senden, wenn Sie eine Multimedia-Mitteilung erhalten</string>
     <string name="pref_summary_switch_aim_card">Nachrichten, die Videos, Bilder und komplexe Formatierungen enthalten, als Karten anzeigen</string>
-    <string name="pref_summary_voice_report">Einschalten, um Nachrichten beim Empfang laut vorzulesen. Lautstärke runter-Taste oder Ein/Aus-Taste drücken, um die Wiedergabe zu stoppen.</string>
+    <string name="pref_summary_voice_report">Einschalten, um Nachrichten beim Empfang laut vorzulesen. Lautstärke runter-Taste oder Power-Taste drücken, um die Wiedergabe zu stoppen.</string>
     <string name="pref_summary_voice_report_disable">Mi KI-Sprach-Engine installieren, um diese Funktion zu nutzen</string>
     <string name="pref_summary_wake_up_screen">Bildschirm bei Eingang neuer Nachrichten einschalten</string>
     <string name="pref_switch_sdk_setting">Smart SMS-Engine ändern</string>

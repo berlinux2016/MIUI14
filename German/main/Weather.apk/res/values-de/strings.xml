@@ -644,7 +644,7 @@
     <string name="unit">Einheiten</string>
     <string name="unit_temperature">Temperatureinheit</string>
     <string name="unit_wind">Einheit Windgeschwindigkeit</string>
-    <string name="update_night_setting_summary_text">Wird zwischen %1$s und %1$s automatisch aktualisiert</string>
+    <string name="update_night_setting_summary_text">Wird zwischen %1$s und %2$s automatisch aktualisiert</string>
     <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
     <string name="update_notification_info">Daten im Hintergrund aktualisieren…</string>
     <string name="update_setting_title_text">Wetterdaten aktualisieren</string>

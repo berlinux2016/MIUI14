@@ -105,7 +105,7 @@
     <string name="circulate_card_sticker_remote_control_keyboard">Tastatur</string>
     <string name="circulate_card_sticker_remote_control_left">Links</string>
     <string name="circulate_card_sticker_remote_control_menu">Menü</string>
-    <string name="circulate_card_sticker_remote_control_power">Ein/Aus-Taste</string>
+    <string name="circulate_card_sticker_remote_control_power">Power-Taste</string>
     <string name="circulate_card_sticker_remote_control_return">Zurück</string>
     <string name="circulate_card_sticker_remote_control_right">Rechts</string>
     <string name="circulate_card_sticker_remote_control_top">Hoch</string>
@@ -304,7 +304,7 @@
     <string name="guide_page_title_2">Bildschirm spiegeln</string>
     <string name="guide_page_title_2_pad">Bildschirm spiegeln</string>
     <string name="hang_up">Übertragen bei Bildschirm aus</string>
-    <string name="hang_up_alert_dialog_content">Übertragen wird nicht unterbrochen, wenn der Bildschirm Ihres Telefons ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch. Drücken Sie die Ein-/Aus-Taste, um den Bildschirm wieder einzuschalten.</string>
+    <string name="hang_up_alert_dialog_content">Übertragen wird nicht unterbrochen, wenn der Bildschirm Ihres Telefons ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch. Drücken Sie die Power-Taste, um den Bildschirm wieder einzuschalten.</string>
     <string name="hang_up_alert_dialog_neg">Abbrechen</string>
     <string name="hang_up_alert_dialog_title">Im Begriff, bei ausgeschaltetem Bildschirm zu übertragen…</string>
     <string name="headset_circulate_connect_success">verbunden</string>
