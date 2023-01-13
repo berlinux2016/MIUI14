@@ -12,5 +12,5 @@
     <string name="status_hint_label_wifi_call">WLAN Anruf</string>
     <string name="turn_off_dual_4g_failed">Dual-LTE ausschalten fehlgeschlagen</string>
     <string name="turn_on_dual_4g_failed">Dual-LTE einschalten fehlgeschlagen</string>
-    <string name="wifi_call_setting">WLAN-Anruf</string>
+    <string name="wifi_call_setting">WLAN-Anrufeinstellungen</string>
 </resources>
