@@ -2102,7 +2102,7 @@ Möchten Sie sie schließen?"</string>
     <string name="wifi_softap_config_change_detailed">Dieses Gerät unterstützt Ihre Präferenz für nur 5 GHz nicht. Stattdessen verwendet dieses Gerät das 5-GHz-Band, wenn verfügbar.</string>
     <string name="wifi_softap_config_change_summary">Ihr Hotspot-Band hat sich geändert.</string>
     <string name="wifi_suggestion_action_allow_app">Ja</string>
-    <string name="wifi_suggestion_action_disallow_app">Nein</string>
+    <string name="wifi_suggestion_action_disallow_app">Nein danke</string>
     <string name="wifi_suggestion_content">Vorgeschlagen von %s</string>
     <string name="wifi_suggestion_title">Mit WLAN verbinden?</string>
     <string name="wifi_tether_configure_ssid_default">Android AP</string>
