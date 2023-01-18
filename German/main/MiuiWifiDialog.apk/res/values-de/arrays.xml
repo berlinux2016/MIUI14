@@ -6,9 +6,6 @@
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
         <item>:::1839:::%1$s: Es gibt ein Problem beim Verbinden mit Verizon Wi-Fi Access aufgrund Fehler 16385.</item>
     </string-array>
-    <string-array name="wifi_eap_error_message_code_32756_carrier_overrides">
-        <item>:::1839:::</item>
-    </string-array>
     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
         <item>:::1839:::%1$s: Sie können keine Verbindung zu Verizon Wi-Fi Access von außerhalb des Verizon-Versorgungsbereichs herstellen. (Fehler = 32760)</item>
     </string-array>
