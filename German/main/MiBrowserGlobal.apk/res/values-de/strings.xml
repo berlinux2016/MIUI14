@@ -821,7 +821,6 @@
     <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
     <string name="exo_controls_settings_description">Einstellungen</string>
     <string name="exo_controls_show">Player-Steuerungen anzeigen</string>
-    <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
     <string name="exo_controls_shuffle_off_description">Zufallswiedergabe aus</string>
     <string name="exo_controls_shuffle_on_description">Zufallswiedergabe an</string>
     <string name="exo_controls_stop_description">Beenden</string>

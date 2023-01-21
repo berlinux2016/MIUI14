@@ -118,8 +118,8 @@
         <item quantity="one">In %d Sek erneut versuchen</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_red_title">
-        <item quantity="other">&lt;font color=#F22424>%s Elemente&lt;/font> wurden nicht synchronisiert.</item>
-        <item quantity="one">&lt;font color=#F22424>%s Element&lt;/font> wurde nicht synchronisiert.</item>
+        <item quantity="other">&lt;font color=#F22424>%s Elemente&lt;/font> wurden nicht synchronisiert</item>
+        <item quantity="one">&lt;font color=#F22424>%s Element&lt;/font> wurde nicht synchronisiert</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">%s Elemente wurden nicht synchronisiert</item>

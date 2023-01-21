@@ -1779,7 +1779,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
     <string name="exo_controls_settings_description">Einstellungen</string>
     <string name="exo_controls_show">Player-Steuerung anzeigen</string>
-    <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
     <string name="exo_controls_shuffle_off_description">Zufallswiedergabe aus</string>
     <string name="exo_controls_shuffle_on_description">Zufallswiedergabe ein</string>
     <string name="exo_controls_vr_description">VR-Modus</string>
