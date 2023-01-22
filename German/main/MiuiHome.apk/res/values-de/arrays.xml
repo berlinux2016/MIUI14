@@ -50,10 +50,7 @@
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Standard</item>
-        <item>Classic</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>Lithium</item>
+        <item>Klassisch</item>
     </string-array>
     <string-array name="global_search_mode_entries">
         <item>Nichts</item>
@@ -69,6 +66,13 @@
         <item>Infoassistent</item>
         <item>Google</item>
     </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Standard</item>
+        <item>Blau</item>
+        <item>Grün</item>
+        <item>Violett</item>
+        <item>Braun</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Schieben</item>
         <item>Überblendung</item>
@@ -79,7 +83,7 @@
         <item>Würfel</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Theme (Standard)</item>
+        <item>Thema-Standard</item>
         <item>Zentriert</item>
         <item>Links</item>
         <item>Rechts</item>
