@@ -41,14 +41,14 @@
         <item>LOGIN Fehlernr.: 1423, Fehler Benutzerpasswort (sp return: 2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Ungültige Zugangsdaten</item>
         <item>Anmeldung fehlgeschlagen. Passwort falsch oder Dienst nicht offen</item>
-        <item>LOGIN imap4 keine Unterstützung</item>
+        <item>LOGIN IMAP4 keine Unterstützung</item>
         <item>LOGIN Fehlernr.: 1328, benutzerdefiniertes IMAP aus</item>
         <item>LOGIN Anmeldefehler Benutzer gesperrt</item>
         <item>LOGIN Benutzer auf Blacklist</item>
         <item>LOGIN fehlgeschlagen. Konto ist gesperrt. Über einen Browser beim Konto anmelden, um Ihre Identität zu verifizieren.</item>
         <item>LOGIN Benutzer auf Blacklist</item>
         <item>LOGIN Fehler: 1412 status=51 Passwort wurde schon lange nicht mehr geändert. Bitte ändern Sie das Passwort. http://mail.10086.cn</item>
-        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN IMAP4 keine Unterstützung</item>
         <item>LOGIN fehlgeschlagen. Konto ist gesperrt. Über einen Browser beim Konto anmelden, um Ihre Identität zu verifizieren.</item>
         <item>ERR Benutzeranmeldung oder Passwort ungültig</item>
         <item>Anmeldung fehlgeschlagen. Bitte App-Passwort zum Anmelden verwenden. Mehr Infos unter http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
