@@ -47,7 +47,7 @@
         <item>LOGIN Benutzer auf Blacklist</item>
         <item>LOGIN fehlgeschlagen. Konto ist gesperrt. Über einen Browser beim Konto anmelden, um Ihre Identität zu verifizieren.</item>
         <item>LOGIN Benutzer auf Blacklist</item>
-        <item>LOGIN Fehler: 1412 status=51 Passwort wurde schon lange nicht mehr geändert. Bitte ändern Sie das Passwort. http://mail.10086.cn</item>
+        <item>LOGIN Fehler: 1412 Status 51, Passwort wurde schon lange nicht mehr geändert. Bitte ändern Sie das Passwort. http://mail.10086.cn</item>
         <item>LOGIN IMAP4 keine Unterstützung</item>
         <item>LOGIN fehlgeschlagen. Konto ist gesperrt. Über einen Browser beim Konto anmelden, um Ihre Identität zu verifizieren.</item>
         <item>ERR Benutzeranmeldung oder Passwort ungültig</item>
