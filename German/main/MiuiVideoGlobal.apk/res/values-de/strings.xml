@@ -1660,6 +1660,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="share_ugc_content">Einen Blick auf %1$s werfen! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Mitmachen</string>
     <string name="share_ugc_waitting">Link generieren…</string>
+    <string name="shorts_assemble_ad_recommend">Empfohlen</string>
     <string name="show_options_label">Optionen anzeigen</string>
     <string name="show_the_location">Benachrichtigungstypen</string>
     <string name="sign_in">Anmelden</string>
@@ -1802,6 +1803,8 @@ Es zeigt nichts an."</string>
     <string name="talkback_voice_search">Sprachsuche</string>
     <string name="target_sdk_version_30_upgrade_tips">Einige Videos können hier wegen Android 11-Einschränkungen nicht angezeigt werden. Auf \"Dateien\" tippen, um andere Videos zu finden.</string>
     <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar</string>
+    <string name="text_default_ad_description">Werbung</string>
+    <string name="text_default_ad_title">Das könnte Ihnen gefallen</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
@@ -1870,6 +1873,7 @@ Es zeigt nichts an."</string>
     <string name="tip_subscribe_guide_hint_b">Updates von Ihren abonnierten YouTube-Kanälen werbefrei ansehen</string>
     <string name="tip_tap_download_button">%d. Auf \"Download\" tippen.</string>
     <string name="tip_topic_click">Tippen, um weitere Videos zu diesem Thema zu finden</string>
+    <string name="title_ab_loop">A-B-Schleife</string>
     <string name="title_bookmarks">Lesezeichen</string>
     <string name="title_continue_to_borwser">Im Browser öffnen</string>
     <string name="title_download_setting">Download-Einstellungen</string>
