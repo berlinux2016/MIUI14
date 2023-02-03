@@ -2325,7 +2325,7 @@
     <string name="user_define_watermark_cancel">abbrechen</string>
     <string name="user_define_watermark_save">speichern</string>
     <string name="user_disagree">Nicht zustimmen</string>
-    <string name="user_notice_identify_summary_format">Durch die Nutzung dieser Dienstleistung stimmen Sie \"Xiaomi's\" %1$s und %2$s zu. Sind Sie damit einverstanden, sich mit dem Internet zu verbinden?</string>
+    <string name="user_notice_identify_summary_format">Bevor Sie die Kamera benutzen, müssen Sie unserer <a href="http://www.miui.com/res/doc/eula.html?lang=de_DE">Nutzervereinbarung</a> und <a href="http://www.miui.com/res/doc/privacy.html?lang=de_DE">Datenschutzerklärung</a> zustimmen. Außerdem muss die Kamera mit dem Internet verbunden sein, um normal zu funktionieren. Zustimmen?</string>
     <string name="user_notice_title">Netzwerkverbindungsvereinbarung</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
