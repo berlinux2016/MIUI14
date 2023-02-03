@@ -1067,7 +1067,7 @@
     <string name="rcs_list_bottom_loading">Einen Moment…</string>
     <string name="rcs_list_bottom_search">Suchen…</string>
     <string name="rcs_locaiton_failed">Kein Standortzugriff möglich</string>
-    <string name="rcs_locaiton_hint_text">Lokalisieren...</string>
+    <string name="rcs_locaiton_hint_text">Lokalisieren…</string>
     <string name="rcs_login">Anmelden</string>
     <string name="rcs_main_purpose">Mit dieser Funktion können Sie RCS-Nachrichten senden und empfangen. RCS Messaging wird von China Mobile bereitgestellt.</string>
     <string name="rcs_message">5G-Nachrichten</string>
