@@ -20,6 +20,7 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="add_sound">Eigene Voreinstellungen hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="app_disable_description_title">Diese App deaktivieren?</string>
     <string name="app_name">Kopfhörer</string>
     <string name="apply_sound">Anwenden</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
@@ -255,6 +256,7 @@
     <string name="music_dirac_mode_in_ear_four_unit">Mi Vierfach-Treiber-Kopfhörer</string>
     <string name="music_dirac_mode_off">Dirac aus</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear-Kopfhörer (Typ-C)</string>
+    <string name="music_dirac_mode_redmi_earphones">Redmi Ohrhörer</string>
     <string name="music_dolby_mode_music">Musik</string>
     <string name="music_dolby_mode_off">Aus</string>
     <string name="music_equalizer_summary">Individuelle Lautstärkeanpassung für verschiedene Musiktypen</string>

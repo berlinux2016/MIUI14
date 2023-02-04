@@ -305,6 +305,7 @@
     <string name="permdesc_camera">%1$s erlauben, Fotos und Videos aufzunehmen?</string>
     <string name="permdesc_get_account">%1$s den Zugriff auf alle auf diesem Gerät gespeicherten Konten erlauben?</string>
     <string name="permdesc_in_calls">Eingehende Anrufe überwachen</string>
+    <string name="permdesc_isolate_storage">%1$s den Zugriff auf Fotos, Videos und Audiodateien erlauben, die auf diesem Gerät gespeichert sind?</string>
     <string name="permdesc_location">%1$s den Standortzugriff erlauben?</string>
     <string name="permdesc_location_background">%1$s den Standortzugriff im Hintergrund erlauben?</string>
     <string name="permdesc_microphone">%1$s erlauben, das Mikro für Audioaufnahmen zu verwenden?</string>
@@ -336,6 +337,8 @@
     <string name="permgroupdesc_location">%1$s erlauben, auf Standortinfos zuzugreifen?</string>
     <string name="permgroupdesc_microphone">%1$s erlauben, Audio aufzunehmen?</string>
     <string name="permgroupdesc_phone">%1$s erlauben, anzurufen und auf Geräteinfos zuzugreifen?</string>
+    <string name="permgroupdesc_read_media_aural">%1$s den Zugriff auf Audiodateien erlauben, die auf Ihrem Gerät gespeichert sind?</string>
+    <string name="permgroupdesc_read_media_visual">%1$s den Zugriff auf Fotos und Videos erlauben, die auf Ihrem Gerät gespeichert sind?</string>
     <string name="permgroupdesc_recognition">%1$s erlauben, auf Gesundheits- &amp; Aktivitätsdaten zuzugreifen?</string>
     <string name="permgroupdesc_sensors">%1$s erlauben, auf Körpersensordaten zuzugreifen?</string>
     <string name="permgroupdesc_sms">%1$s erlauben, SMS zu lesen oder zu senden?</string>
