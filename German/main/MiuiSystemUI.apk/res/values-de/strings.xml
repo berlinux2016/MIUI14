@@ -2518,9 +2518,9 @@
     <string name="recent_task_cleaning">Apps löschen…</string>
     <string name="recent_task_lock_text">Sperren</string>
     <string name="recent_task_unlock_text">Entsperren</string>
-    <string name="recent_used_camera">Diese App benutzte die Kamera</string>
-    <string name="recent_used_camera_and_microphone">Diese App hat Audio aufgenommen und die Kamera benutzt</string>
-    <string name="recent_used_microphone">Diese App hat Audio aufgenommen</string>
+    <string name="recent_used_camera">Diese App hat auf die Kamera zugegriffen</string>
+    <string name="recent_used_camera_and_microphone">Diese App hat auf Kamera und Mikrofon zugegriffen</string>
+    <string name="recent_used_microphone">Diese App hat auf das Mikrofon zugegriffen</string>
     <string name="recents_accessibility_split_screen_left">Bildschirm nach links teilen</string>
     <string name="recents_accessibility_split_screen_right">Bildschirm nach rechts teilen</string>
     <string name="recents_accessibility_split_screen_top">Bildschirm nach oben teilen</string>
@@ -3179,9 +3179,9 @@
     <string name="user_setup_dialog_title">Benutzer jetzt einrichten?</string>
     <string name="user_setup_profile_dialog_message">Profil jetzt einrichten?</string>
     <string name="user_switch_to_user">Wechseln zu %s</string>
-    <string name="using_camera">Diese App benutzt die Kamera</string>
-    <string name="using_camera_and_microphone">Diese App nimmt Audio auf und benutzt die Kamera</string>
-    <string name="using_microphone">Diese App nimmt Audio auf</string>
+    <string name="using_camera">Diese App greift auf die Kamera zu</string>
+    <string name="using_camera_and_microphone">Diese App greift auf Kamera und Mikrofon zu</string>
+    <string name="using_microphone">Diese App greift auf das Mikrofon zu</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="verify_apps_over_usb_summary">Über ADB/ADT installierte Apps auf Schadverhalten prüfen</string>

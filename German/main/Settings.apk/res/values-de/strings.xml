@@ -5455,7 +5455,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lost_internet_access_cancel">Auf WLAN bleiben</string>
     <string name="lost_internet_access_persist">Nicht mehr anzeigen</string>
     <string name="lost_internet_access_switch">Auf mobil umstellen</string>
-    <string name="lost_internet_access_text">Sie können auf Mobilfunknetz umschalten, wenn WLAN eine schlechte Verbindung hat. Kosten für die Datennutzung können anfallen.</string>
+    <string name="lost_internet_access_text">Sie können auf Mobilfunknetz umschalten, wenn WLAN eine schlechte Verbindung hat. Für die Datennutzung können Kosten anfallen.</string>
     <string name="lost_internet_access_title">WLAN ist nicht mit Internet verbunden</string>
     <string name="low_battery_summary">Akku schwach</string>
     <string name="low_dc_light_title">Antiflimmer-Modus bei schwachem Licht</string>
@@ -5465,13 +5465,11 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lte_4g_settings_4genable_summary">4G aktiviert</string>
     <string name="lte_4g_settings_disable">Flugmodus oder SIM-Karte ist nicht bereit</string>
     <string name="lte_4g_settings_title">4G aktivieren</string>
-    <string name="lte_4g_switch_prompt">Das Telefon wechselt von 3G/2G auf 4G, aktive Prozesse können gestoppt werden</string>
+    <string name="lte_4g_switch_prompt">Telefon wechselt von 3G/2G auf 4G, aktive Prozesse können gestoppt werden</string>
     <string name="lte_ram_dump_off">LTE-RAM-Dump ausschalten</string>
     <string name="lte_ram_dump_on">LTE-RAM-Dump einschalten</string>
     <string name="macaddr_label">MAC-Adresse:</string>
-    <string name="magic_list_empty_text">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
-    <string name="magic_list_empty_text_pad">Derzeit keine mit dieser Funktion kompatiblen Apps</string>
-    <string name="magic_window_name">Parallelfenster</string>
+    <string name="magic_list_empty_text_pad">Keine Apps gefunden, die parallele Fenster unterstützen</string>
     <string name="magic_window_name_pad">Parallele Fenster</string>
     <string name="main_clear_accounts">\n\nSie sind derzeit bei den folgenden Konten angemeldet:\n</string>
     <string name="main_clear_button_text">Alle Daten löschen</string>

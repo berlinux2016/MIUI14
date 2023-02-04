@@ -307,6 +307,7 @@
     <string name="pc_cooperate_guide_save">Speichern (Ctrl+S)</string>
     <string name="pc_cooperate_guide_task">Aufgaben anzeigen</string>
     <string name="pc_cooperate_guide_undo">Rückgängig (Ctrl+Z)</string>
+    <string name="pc_settings_current_device_tip">Verbinden Sie sich automatisch mit einem Computer - mit geöffnetem MIUI+ und angemeldet mit demselben Xiaomi-Konto</string>
     <string name="pcmode_not_support_multi_window">PC-Modus unterstützt nicht die Anzeige mehrerer Fenster</string>
     <string name="phone_pad_app_introduction_summary">Aufgaben in derselben App auf Ihrem Tablet fortsetzen</string>
     <string name="phone_pad_doc_introduction_summary">Dokumentenbearbeitung auf verschiedenen Geräten teilen und Änderungen am gewünschten Ort speichern</string>
@@ -394,6 +395,7 @@
     <string name="settings_log_options">Protokolle</string>
     <string name="settings_more_help">Hilfe</string>
     <string name="settings_pad_handoff_title">Automatisch verbinden</string>
+    <string name="settings_pc_handoff_title">Mit Computer verbinden</string>
     <string name="settings_pc_history_title">Verbindungsverlauf</string>
     <string name="settings_pc_trusted_title">Automatisch verbinden</string>
     <string name="settings_pc_use_tile">Über diese Funktion</string>

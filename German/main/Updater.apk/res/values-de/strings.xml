@@ -31,7 +31,7 @@
     <string name="download_fail_desc">MD5-Prüfsumme stimmt nicht überein…</string>
     <string name="downloading">Herunterladen…</string>
     <string name="downloading_desc">Download läuft, Status in Benachrichtigungsleiste prüfen</string>
-    <string name="fastboot_mode">Sie sind jetzt im Fastboot-Modus. Sie können ROMs nur mit Terminal auf dem PC flashen!</string>
+    <string name="fastboot_mode">Updater ist im Fastboot-Modus. Sie können ROMs nur mit Terminal auf dem PC flashen!</string>
     <string name="fastboot_update_warning">Dieses Update ist nur zur Fastboot-Installation gedacht!</string>
     <string name="fetch_notification_download_cancel">Abbrechen</string>
     <string name="fetch_notification_download_complete">Vollständig</string>
@@ -49,10 +49,10 @@
     <string name="install_title">Wollen Sie wirklich fortfahren?</string>
     <string name="later_download">Später herunterladen</string>
     <string name="menu_title_current_version_log">Was ist neu?</string>
-    <string name="menu_title_fastboot_mode">Zum Fastboot-Modus wechseln</string>
+    <string name="menu_title_fastboot_mode">Im Fastboot-Modus aktualisieren</string>
     <string name="menu_title_pick_rom_file">Update-Paket wählen</string>
     <string name="menu_title_recovery">Neustart in Recovery-Modus</string>
-    <string name="menu_title_recovery_mode">Zum Recovery-Modus wechseln</string>
+    <string name="menu_title_recovery_mode">Im Recovery-Modus aktualisieren</string>
     <string name="menu_title_show_notifications">Benachrichtigungen anzeigen</string>
     <string name="message_checkbox">Zukünftige Nachrichten vom Xiaomi.eu-Team ausblenden</string>
     <string name="message_checkbox_device">Nicht mehr anzeigen</string>
@@ -80,7 +80,7 @@
     <string name="pick_not_found">Kein geeigneter Dateimanager gefunden</string>
     <string name="pick_title">Wählen Sie mit:</string>
     <string name="recovery_desc">Gerät startet jetzt neu in den Recovery-Modus. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie den Vorgang ab. Fortsetzen?</string>
-    <string name="recovery_mode">Sie sind jetzt im Recovery-Modus. Sie können ROMs im Updater flashen!</string>
+    <string name="recovery_mode">Updater ist im Recovery-Modus. Sie können ROMs im Updater flashen!</string>
     <string name="security_space_button_neg">Neu starten und aktualisieren…</string>
     <string name="server_error">Server reagiert nicht, App funktioniert ggf. nicht richtig!</string>
     <string name="share_desc">Ihre MIUI-Version wurde auf %1$s aktualisiert, siehe letztes Changelog unter: %2$s</string>
