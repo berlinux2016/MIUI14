@@ -345,6 +345,7 @@
     <string name="branch_grant_permission">Berechtigungen erforderlich</string>
     <string name="branch_local_search_settings">Lokale Sucheinstellungen</string>
     <string name="branch_new_function">Neue Funktion</string>
+    <string name="branch_search_bar_tips">Apps und Spiele suchen</string>
     <string name="branch_search_guide_privacy">Diese Funktion wird von Branch Metrics Inc. bereitgestellt. Wir geben Ihren Standort, Ihre Suchanfragen und Ihre Google Ads ID an sie weiter. Lesen und akzeptieren Sie Ihre <font color="#B3000000"><a href="http://url1">Geschäftsbedingungen</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzerklärung</a></font>, bevor Sie fortfahren.</string>
     <string name="branch_search_in_browser">\"%1$s\" im Browser suchen</string>
     <string name="branch_setting">Einstellungen</string>
@@ -352,6 +353,8 @@
     <string name="branch_shortcuts">Verknüpfungen</string>
     <string name="branch_show_more">Mehr</string>
     <string name="branch_terms_condition">Geschäftsbedingungen</string>
+    <string name="branch_viewpage_title_app_recommend">Empfohlen</string>
+    <string name="branch_viewpage_title_local">Installiert</string>
     <string name="browserFrameFileErrorLabel">Dateifehler</string>
     <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z. B. Suchen oder Einkäufe).</string>
     <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
@@ -2870,6 +2873,10 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="snapshot">Lokal</string>
     <string name="snapshot_failed">Seite wurde nicht gespeichert</string>
     <string name="snapshot_successed">Lesezeichen/Verlauf -&gt; LOKAL öffnen, um die Seite anzuzeigen</string>
+    <string name="sniff_ask_every_times">Jedes Mal fragen</string>
+    <string name="sniff_detect_resource">Wir haben auf dieser Seite herunterladbare Inhalte entdeckt. Jetzt anzeigen?</string>
+    <string name="sniff_dialog">Herunterladbare Inhalte</string>
+    <string name="sniff_no_resource">Keine herunterladbaren Inhalte gefunden</string>
     <string name="sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="sns_bind_limit">Zu viele Versuche. Versuchen Sie, sich auf andere Weise anzumelden.</string>
     <string name="sns_sign_in">Andere Arten, sich anzumelden</string>

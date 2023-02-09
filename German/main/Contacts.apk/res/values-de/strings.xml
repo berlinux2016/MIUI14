@@ -152,6 +152,7 @@
     <string name="bh_funtion_desc">Willkommen bei Mi Carrier-Dienste! Mit dieser App können Sie Ihr Telefonguthaben abfragen, Gesprächsminuten und mobile Daten kaufen und vieles mehr. Diese App benötigt eine Netzwerkverbindung, um normal zu funktionieren.</string>
     <string name="bh_get_balance_success">Erfolgreich geprüft. Die Informationen werden hier evtl. verzögert aktualisiert.</string>
     <string name="bh_get_charge_phone_number">Aus Kontakten wählen</string>
+    <string name="bh_goto_granted">Berechtigungen gewähren</string>
     <string name="bh_goto_open">Nicht gewährt</string>
     <string name="bh_goto_set">Einstellen</string>
     <string name="bh_hi2">Hi %1$s-Benutzer!</string>
@@ -327,6 +328,8 @@
     <string name="call_home">Anruf (Privat)</string>
     <string name="call_isdn">ISDN-Nummer anrufen</string>
     <string name="call_left">Guthaben</string>
+    <string name="call_limit">Anrufbeschränkungen</string>
+    <string name="call_limit_content">\"%s\" wurde nicht angerufen. Sie können nur Rufnummern anrufen, die in Ihrer Liste der zulässigen Kontakte stehen.</string>
     <string name="call_log_empty_gecode">-</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_new_header">Neu</string>
@@ -935,6 +938,7 @@ Grund: \"%s\""</string>
     <string name="item_offical">Offiziell</string>
     <string name="keep_local">Lokal speichern</string>
     <string name="keep_local_btn">Internen Telefonspeicher verwenden</string>
+    <string name="know">Verstanden</string>
     <string name="label_custom_type">Benutzerdefiniert</string>
     <string name="label_no_duplicate_contacts">Keine Duplikate gefunden</string>
     <string name="label_notes">Notizen</string>
