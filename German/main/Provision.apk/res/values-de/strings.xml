@@ -306,6 +306,10 @@ Wenn Sie nicht zustimmen, können Sie die Xiaomi Interconnectivity Services nich
     <string name="other_settings_ad_disable_summary">Persönliche Werbung einschalten</string>
     <string name="other_settings_ad_enable">Personalisierte Werbung vorschlagen</string>
     <string name="other_settings_ad_enable_summary">Erhalten Sie personalisierte Werbung basierend auf Ihren Verhaltensdaten</string>
+    <string name="other_settings_alarm_assistance">Notfallstandort</string>
+    <string name="other_settings_alarm_assistance_privacy">Datenschutzerklärung</string>
+    <string name="other_settings_alarm_assistance_summary">Sie können Ihre Standortdaten über SMS oder mobile Daten automatisch an die Polizei senden, während Sie die 110, 120, 119 oder 122 anrufen. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor Sie diese Funktion nutzen.</string>
+    <string name="other_settings_alarm_assistance_user">Nutzervereinbarung</string>
     <string name="other_settings_auto_update">Automatisch aktualisieren</string>
     <string name="other_settings_auto_update_summary">MIUI wählt den besten Zeitpunkt für die Installation von Updates aus</string>
     <string name="other_settings_auto_update_summary_v1">MIUI erlauben, den besten Zeitpunkt für den Download und die Installation von Updates zu wählen. Ihr Gerät wird automatisch neu gestartet, um die Änderungen anzuwenden.</string>

@@ -165,7 +165,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="loading_order_list">Einen Moment…</string>
     <string name="loading_order_list_empty">leer</string>
     <string name="loading_recording">Aufnahmen werden geladen</string>
-    <string name="low_battery_error">Akku hat weniger als 5%. Aufnahme stoppen und speichern, damit sie nicht verloren geht.</string>
+    <string name="low_battery_error">Akku hat weniger als %s. Aufnahme stoppen und speichern, damit sie nicht verloren geht.</string>
     <string name="low_battery_error_for_pad">Akku hat weniger als %s. Aufnahme stoppen und speichern, damit sie nicht verloren geht.</string>
     <string name="low_battery_error_title">Niedriger Akkustand</string>
     <string name="lyric_item_point_count">%1$d bis %2$d</string>
@@ -347,6 +347,9 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="permission_desc">Berechtigungsdetails</string>
     <string name="permission_dialog_cancel">Abbrechen</string>
     <string name="permission_dialog_ok">Einstellungen</string>
+    <string name="permission_notification_description">Zum Senden von Warnungen bei Aufnahme, Wiedergabe und Herunterladen von Inhalten</string>
+    <string name="permission_notification_dialog_description">Zum Senden von Benachrichtigungen über den aktuellen App-Status</string>
+    <string name="permission_notification_title">Berechtigungen erforderlich</string>
     <string name="permission_read_phone_state">Zugriff auf Gerätedaten</string>
     <string name="permission_read_phone_state_description">Für den Zugriff auf den Anrufstatus, um die Aufnahme bei eingehenden Anrufen automatisch zu beenden</string>
     <string name="permission_record">Audio aufnehmen</string>
@@ -387,7 +390,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="recognition_error_cancel">Abgebrochen</string>
     <string name="recognition_error_code">Fehlercode: %d</string>
     <string name="recognition_error_download_cancel">Später</string>
-    <string name="recognition_error_download_data_msg">Laden Sie das Erkennungprogramm herunter, um diesen Dienst zur Verfügung zu stellen, der bei der aktuellen mobilen Datenverbindung etwa 20 MB verbraucht.</string>
+    <string name="recognition_error_download_data_msg">Laden Sie das Erkennungprogramm herunter, um diesen Dienst zur Verfügung zu stellen, der bei der aktuellen mobilen Datenverbindung etwa %d MB verbraucht.</string>
     <string name="recognition_error_download_fail">Download nicht gefunden. Prüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
     <string name="recognition_error_download_msg">Laden Sie die Spracherkennungssoftware herunter, um diesen Dienst zu verwenden.</string>
     <string name="recognition_error_download_ok">Herunterladen</string>
@@ -468,6 +471,14 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="record_quliaty_preference_title">Aufnahmequalität</string>
     <string name="record_resotre">Datensätze wiederherstellen</string>
     <string name="record_saving">Aufnahme speichern…</string>
+    <string name="record_scenes_summaries_HD">HDR-Technologie erlaubt es, detaillierteren Sound über das Mikrofon aufzunehmen</string>
+    <string name="record_scenes_summaries_interview">Platzieren Sie Ihr Telefon zwischen %d Personen, um deren Unterhaltung deutlich aufzunehmen</string>
+    <string name="record_scenes_summaries_music">Musik in besserer Qualität aufnehmen</string>
+    <string name="record_scenes_summaries_stereo_HD">HDR-Technologie erlaubt es, detaillierteren Sound über das Mikrofon aufzunehmen</string>
+    <string name="record_scenes_summaries_stereo_interview">Platzieren Sie Ihr Telefon zwischen %d Personen, um deren Unterhaltung deutlich aufzunehmen</string>
+    <string name="record_scenes_summaries_stereo_music">Über %d Kanäle aufnehmen, Stereoton über Ohrhörer anhören</string>
+    <string name="record_scenes_summaries_stereo_voice">Halten Sie das Mikro näher an die Tonquelle, um die Qualität zu verbessern</string>
+    <string name="record_scenes_summaries_voice">Halten Sie das Mikro näher an die Tonquelle, um die Qualität zu verbessern</string>
     <string name="recording">Aufnahme</string>
     <string name="recording_quality_high">Hohe Qualität</string>
     <string name="recording_quality_low">Niedrige Qualität</string>
@@ -569,9 +580,9 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="tab_all">Alles</string>
     <string name="tab_call">Anrufe</string>
     <string name="tap_to_record">Taste drücken, um die Aufnahme zu starten</string>
-    <string name="text_btn_backward_3_seconds">3 Sekunden zurück</string>
+    <string name="text_btn_backward_3_seconds">%d Sekunden zurück</string>
     <string name="text_btn_complete">Beenden</string>
-    <string name="text_btn_forward_3_seconds">3 Sekunden vorwärts</string>
+    <string name="text_btn_forward_3_seconds">%d Sekunden vorwärts</string>
     <string name="text_btn_list">Aufnahmen</string>
     <string name="text_btn_mark">Markieren</string>
     <string name="text_btn_pause">Pause</string>
