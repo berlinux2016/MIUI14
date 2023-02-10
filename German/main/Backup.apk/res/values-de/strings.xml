@@ -63,6 +63,7 @@
     <string name="backup_failed">Sicherung fehlgeschlagen</string>
     <string name="backup_file_error">Sicherung fehlgeschlagen</string>
     <string name="backup_finished">Sicherung erfolgreich beendet</string>
+    <string name="backup_for_broken_screen">Sicherungen mit defektem Bildschirm</string>
     <string name="backup_hint">Gerät bitte nicht ausschalten</string>
     <string name="backup_hint_onpad">Gerät bitte nicht ausschalten</string>
     <string name="backup_hint_pad">Gerät an lassen</string>

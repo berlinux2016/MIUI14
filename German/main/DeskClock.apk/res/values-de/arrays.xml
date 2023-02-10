@@ -10,6 +10,15 @@
         <item>klingelt in %2$s %3$s</item>
         <item>klingelt in %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Wecker in %1$s</item>
+        <item>Wecker in %2$s</item>
+        <item>Wecker in %1$s %2$s</item>
+        <item>Wecker in %3$s</item>
+        <item>Wecker in %1$s %3$s</item>
+        <item>Wecker in %2$s %3$s</item>
+        <item>Wecker in %1$s %2$s %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Einmalig</item>
         <item>Täglich</item>
@@ -33,6 +42,15 @@
         <item>Wecker klingelt in %1$s %3$s</item>
         <item>Wecker klingelt in %2$s %3$s</item>
         <item>Wecker klingelt in %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Wecker klingelt in %1$s.</item>
+        <item>Wecker klingelt in %2$s.</item>
+        <item>Wecker klingelt in %1$s und %2$s.</item>
+        <item>Wecker klingelt in %3$s.</item>
+        <item>Wecker klingelt in %1$s und %3$s.</item>
+        <item>Wecker klingelt in %2$s und %3$s.</item>
+        <item>Wecker klingelt in %1$s %2$s und %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Gut</item>

@@ -41,6 +41,7 @@
     <string name="alarm_ascending_mode_title">Ansteigende Lautstärke</string>
     <string name="alarm_clock_more_setting">Weitere Einstellungen</string>
     <string name="alarm_disabled">Aus</string>
+    <string name="alarm_in_furture_new">Wecker in weniger als %d Minute</string>
     <string name="alarm_in_silent_mode_title">Wecker im Lautlosmodus</string>
     <string name="alarm_klaxon_service_desc">Tonwiedergabedienst für eingestellte Wecker</string>
     <string name="alarm_label_hint">Weckername</string>
@@ -50,6 +51,7 @@
     <string name="alarm_repeat">Wiederholen</string>
     <string name="alarm_ringtone">Wecktöne</string>
     <string name="alarm_ringtone_picker">Alarme</string>
+    <string name="alarm_set_new">Wecker klingelt in weniger als %d Minute.</string>
     <string name="alarm_settings">Weckereinstellungen</string>
     <string name="alarm_settings_category_title">Weckereinstellungen</string>
     <string name="alarm_vibrate">Vibrieren</string>
@@ -68,6 +70,14 @@
     <string name="analog_gadget">Analoguhr</string>
     <string name="app_label">Uhr</string>
     <string name="app_name">Einstellung</string>
+    <string name="auto_silence_entries1">Nie</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> Minute</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> Minuten</string>
     <string name="auto_silence_never">Nie</string>
     <string name="auto_silence_summary">Zeit einstellen, nach der Wecker und Timer stummgeschaltet werden</string>
     <string name="auto_silence_title">Automatische Stummschaltung</string>
@@ -92,6 +102,7 @@
     <string name="bedtime_setting_repeat_type_desc">Tage wählen, an denen Sie Erinnerungen erhalten möchten</string>
     <string name="bedtime_settings">Einstellungen Schlafenszeit</string>
     <string name="bedtime_sleep_time_remind">Sie werden daran erinnert, 15 Minuten vor diesem Zeitpunkt ins Bett zu gehen</string>
+    <string name="bedtime_sleep_time_remind_new">Sie werden %d Minuten vor dieser Zeit daran erinnert, ins Bett zu gehen</string>
     <string name="bedtime_sleep_time_setting">Wann gehen Sie ins Bett?</string>
     <string name="bedtime_wake_up_time_remind">Ein Wecker läutet um diese Zeit</string>
     <string name="bedtime_wake_up_time_setting">Wann stehen Sie auf?</string>
@@ -100,6 +111,7 @@
     <string name="birthday_alarm">Geburtstagswecker</string>
     <string name="birthday_alarm_summary">\"Happy Birthday\" an Ihrem Geburtstag spielen anstelle des Standardwecktons</string>
     <string name="cancel">Abbrechen</string>
+    <string name="channel_name_alarm">Wecker</string>
     <string name="channel_name_sleep">Schlaf</string>
     <string name="channel_name_stopwatch">Stoppuhr</string>
     <string name="check_theme_app_install">Stellen Sie sicher, dass die Themen-App auf Ihrem Gerät installiert ist.</string>
@@ -248,6 +260,7 @@
     <string name="life_post_setting_open_listen_news_title">Morgens die neuesten Nachrichten anhören</string>
     <string name="life_post_setting_open_subtitle">Aktuelles Wetter nach dem Ausschalten des Weckers zwischen 4:00 und 9:00 Uhr erhalten</string>
     <string name="life_post_setting_open_summary">Wetterdaten in den ersten Wecker einfügen, der zwischen 4:00 und 10:00 Uhr ausgeschaltet wird</string>
+    <string name="life_post_setting_open_summary_new">Wetterdaten in den ersten ausgeschalteten Wecker zwischen %1$s und %2$s übernehmen</string>
     <string name="life_post_setting_open_title">Morgenreport einschalten</string>
     <string name="life_post_setting_video_news_remind">Bitte die neueste Version von Mi Musik installieren, um den morgendlichen Nachrichtendienst zu nutzen</string>
     <string name="life_post_setting_wake_up_list_title">Weckerverlauf</string>
@@ -329,22 +342,30 @@
     <string name="module_update_success">Aktualisiertes Audio für MIUI-Smart-Wecker wurde erfolgreich heruntergeladen. Sie können MIUI-Smart-Wecker in den Uhreinstellungen festlegen.</string>
     <string name="module_update_success_control">Verstanden</string>
     <string name="module_weather_ringtone_download_data">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr muss ≈30 MB an Audiodateien herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
+    <string name="module_weather_ringtone_download_data_new">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Uhr muss ≈%d MB Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr muss &amp;#8776;30 MB an Audiodateien herunterladen. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
     <string name="module_weather_ringtone_download_wifi">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr muss Audiodateien herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr braucht eine Internetverbindung, um Audiodateien herunterzuladen. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_introduce">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Außerdem können Sie sich am Morgen die aktuellen Wetterdaten anhören.</string>
     <string name="module_weather_ringtone_introduce_global">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus.</string>
     <string name="module_weather_ringtone_update_data">Wetterwecker beinhaltet jetzt Hintergrundmusik und besseren Sprachansagen. Die Uhr muss ≈30 MB an Audiodateien herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
+    <string name="module_weather_ringtone_update_data_new">Wetterwecker verfügt jetzt über Hintergrundmusik und bessere Sprachansagen. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_weather_ringtone_update_success">Wetterwecker beinhaltet jetzt Hintergrundmusik und bessere Sprachansagen. Erstellen Sie einen neuen Wecker, um diese Funktion zu testen.</string>
     <string name="module_week_ringtone_download_data">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
+    <string name="module_week_ringtone_download_data_new">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Verbindung zum Internet herstellen, um &amp;#8776;30 MB Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
     <string name="module_week_ringtone_download_wifi">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Verbindung zum Internet herstellen, um Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">Naturwecker spielt je nach Datum unterschiedliche Töne ab.</string>
     <string name="module_week_ringtone_update_data">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
+    <string name="module_week_ringtone_update_data_new">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_update_success">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Sie können einen neuen Wecker erstellen, um diese Funktion auszuprobieren.</string>
     <string name="module_white_noise_download_data">Uhr muss Audiodateien für Umgebungsgeräusch-Timer herunterladen. ≈30 MB Ihrer mobilen Daten werden für diesen Download benötigt. Jetzt herunterladen?</string>
+    <string name="module_white_noise_download_data_new">Uhr muss Audiodateien für Umgebungsgeräusch-Timer herunterladen. ≈%d MB Ihrer mobilen Daten werden für diesen Download benötigt. Jetzt herunterladen?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Um Audiodateien für Umgebungsgeräusch-Timer (&amp;#8776;30 MB) herunterladen und personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Sie nutzen jetzt mobile Daten. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Um Audiodateien für Umgebungsgeräusch-Timer (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) herunterzuladen und personalisierte Dienste anzubieten, muss Uhr eine Internetverbindung herstellen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Sie verwenden jetzt mobile Daten. Einverstanden?</Data></string>
     <string name="module_white_noise_download_wifi">Die Uhr muss Audiodateien für Umgebungsgeräusch-Timer herunterladen. Jetzt herunterladen?</string>
     <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Um Audiodateien für Umgebungsgeräusch-Timer herunterladen und personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="monday">Montag</string>
@@ -394,6 +415,11 @@
     <string name="not_set">Nicht festgelegt</string>
     <string name="not_set_temporarily">Nein danke</string>
     <string name="not_update">Jetzt nicht</string>
+    <string name="notification_adv_time_entries1">Zur festgelegten Zeit</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> Minuten im Voraus</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> Minuten im Voraus</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> Stunde im Voraus</string>
+    <string name="notification_adv_time_entries5">Keine</string>
     <string name="oneshot_alarm">Löschen, sobald der Wecker klingelt</string>
     <string name="open_keep_screen">Bildschirm bleibt eingeschaltet</string>
     <string name="open_sleep_record">Einschalten</string>
@@ -476,6 +502,7 @@
     <string name="sleep_duration_desc">Geschlafen für %1$s %2$s</string>
     <string name="sleep_duration_no_data">Noch nicht genug Daten</string>
     <string name="sleep_duration_recommendation">Die meisten Menschen brauchen\n7 bis 9 Stunden Schlaf pro Nacht.</string>
+    <string name="sleep_duration_recommendation_new" formatted="false">Die meisten Menschen brauchen %d bis %d Stunden Schlaf pro Nacht</string>
     <string name="sleep_no_disturbance">DND-Modus</string>
     <string name="sleep_no_disturbance_desc">Zum DND-Modus wechseln, bis Sie aufwachen</string>
     <string name="sleep_no_record_text">Anfangen, Ihren Schlaf zu verfolgen, um Statistiken anzuzeigen</string>
@@ -669,6 +696,7 @@
     <string name="volume_button_setting_desc">Funktionen für die Tasten Power und Lautstärke +/- zuweisen</string>
     <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>
     <string name="volume_button_setting_title">Lautstärketasten</string>
+    <string name="wake_up_alert">Wecker</string>
     <string name="wake_up_alert_desc">Alarmton abspielen zum Wecken</string>
     <string name="wake_up_ringtone">Weckton</string>
     <string name="wake_up_time">Aufwachen</string>
