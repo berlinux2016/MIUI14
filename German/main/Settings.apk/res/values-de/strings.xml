@@ -2096,7 +2096,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="camera_gesture_desc">Kamera durch 2x Drehen des Handgelenkes öffnen</string>
     <string name="camera_gesture_title">Doppeldrehung, um Kamera zu starten</string>
     <string name="camera_key_action_app_title">App öffnen</string>
-    <string name="camera_key_action_category_title">Kamera kann nicht verwendet werden ist</string>
+    <string name="camera_key_action_category_title">Kamera kann nicht verwendet werden</string>
     <string name="camera_key_action_none_title">Keine Aktion</string>
     <string name="camera_key_action_setting_title">Mi Taste</string>
     <string name="camera_key_action_shortcut_call">Anruf</string>
