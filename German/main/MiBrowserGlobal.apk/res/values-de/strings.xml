@@ -675,7 +675,7 @@
     <string name="download_dialog_content_rcmd_get_apps">GetApps - offizieller Mi-App-Markt</string>
     <string name="download_dialog_content_rcmd_text">Millionen kostenloser Apps &amp; Spiele. Installieren, ohne sich anzumelden.</string>
     <string name="download_dialog_content_security_download">Sicherer Download (empfohlen)</string>
-    <string name="download_dialog_default_path_invalid">"Der von Ihnen gewählte Download-Ort ist ungültig. Am Standardort speichern…</string>
+    <string name="download_dialog_default_path_invalid">Der von Ihnen gewählte Download-Ort ist ungültig. Am Standardort speichern…</string>
     <string name="download_dialog_failed_body">Später erneut versuchen oder diese Datei aus der Download-Warteschlange entfernen?</string>
     <string name="download_dialog_file_already_exists">Sie haben diese Datei bereits heruntergeladen</string>
     <string name="download_dialog_file_length_hint_txt">"Dateigröße: "</string>
@@ -1545,7 +1545,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="mw_miuichromium_error_page_homepage">Startseite</string>
     <string name="mw_miuichromium_error_page_mobile">Mobile Daten</string>
     <string name="mw_miuichromium_error_page_network_hijack">Aktuelles Netzwerk ist nicht sicher</string>
-    <string name="mw_miuichromium_error_page_network_off">WLAN oder mobile Daten einschschalten</string>
+    <string name="mw_miuichromium_error_page_network_off">WLAN oder mobile Daten einschalten</string>
     <string name="mw_miuichromium_error_page_no_network">Netzwerkverbindung nicht möglich</string>
     <string name="mw_miuichromium_error_page_problem_access_denied">Zugang zu %s0 wurde verweigert</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Zwischengespeicherte Version dieser Seite kann nicht geladen werden</string>
