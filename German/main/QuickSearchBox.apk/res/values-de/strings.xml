@@ -15,8 +15,7 @@
     <string name="clear_shortcuts">Verlauf löschen</string>
     <string name="clear_shortcuts_agree">Verlauf löschen</string>
     <string name="clear_shortcuts_disagree">Verlauf nicht löschen</string>
-    <string name="clear_shortcuts_prompt">"Möchten Sie den ganzen Verlauf zu den zuletzt gewählten Suchvorschlägen löschen?
-Browsereinstellungen verwenden, um den Browserverlauf zu löschen."</string>
+    <string name="clear_shortcuts_prompt">Möchten Sie den ganzen Verlauf zu den zuletzt gewählten Suchvorschlägen löschen?\nBrowsereinstellungen verwenden, um den Browserverlauf zu löschen.</string>
     <string name="clear_shortcuts_summary">Verlauf der letzten Suchvorschläge löschen</string>
     <string name="common_setting">Allgemeine Einstellungen</string>
     <string name="connect_and_retry">Verbinden Sie sich mit dem Internet und versuchen Sie es erneut</string>
@@ -32,7 +31,6 @@ Browsereinstellungen verwenden, um den Browserverlauf zu löschen."</string>
     <string name="cta_declaration_positive_text">Erlauben</string>
     <string name="cta_declaration_title">Nutzungsbedingungen</string>
     <string name="default_hint">Suchen…</string>
-    <string name="device_settings_category_title">Abkürzungen löschen</string>
     <string name="entrance_setting">Suche öffnen</string>
     <string name="google_app_label">Google-Suche</string>
     <string name="google_search_description">Google-Suchvorschläge</string>
@@ -52,11 +50,9 @@ Browsereinstellungen verwenden, um den Browserverlauf zu löschen."</string>
     <string name="pull_to_input">Nach unten ziehen, um die Suchleiste anzuzeigen</string>
     <string name="recent_apps">Zuletzt verwendete Apps</string>
     <string name="recent_apps_filter">Blenden Sie Apps aus, die Sie nicht verwenden</string>
-    <string name="recent_close_content">"Diese Funktion jetzt ausschalten?
-Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>
+    <string name="recent_close_content">Diese Funktion jetzt ausschalten?\nSie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern.</string>
     <string name="recent_close_title">Diese Funktion ausschalten</string>
-    <string name="recent_delete_content">"Diese Apps jetzt ausblenden?
-Sie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern."</string>
+    <string name="recent_delete_content">Diese Apps jetzt ausblenden?\nSie können dies unter Einstellungen &gt; Alle Apps &gt; Suche ändern.</string>
     <string name="recent_delete_negative">Abbrechen</string>
     <string name="recent_delete_title">Apps ausblenden</string>
     <string name="recent_edit">Bearbeiten</string>

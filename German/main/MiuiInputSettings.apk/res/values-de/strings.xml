@@ -215,7 +215,7 @@
     <string name="long_press_buttom_key">Home-Taste lange drücken</string>
     <string name="long_press_home_key">Home-Taste lange drücken</string>
     <string name="long_press_menu_key">Menütaste lange drücken</string>
-    <string name="long_press_menu_key_when_lock">Menütaste auf dem Sperrbildschirm lange drücken</string>
+    <string name="long_press_menu_key_when_lock">Menütaste am Sperrbildschirm lange drücken</string>
     <string name="long_press_power_key">Lange die Power-Taste drücken</string>
     <string name="long_press_power_key_half_of_second">Power-Taste 0,5 Sek gedrückt halten, um Google Assistant einzuschalten</string>
     <string name="long_press_power_key_half_second">Power-Taste 0,5 Sek gedrückt halten</string>

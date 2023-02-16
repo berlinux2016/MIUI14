@@ -714,7 +714,7 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="setting_no_download_path">Erst Standard-Download-Ort wählen</string>
     <string name="setting_title">Einstellungen</string>
     <string name="shortcut_dialog_confirm">Erstellen</string>
-    <string name="shortcut_dialog_content">Mi Drive-Verknüpfung auf dem Startbildschirm erstellen?</string>
+    <string name="shortcut_dialog_content">Mi Drive-Verknüpfung am Startbildschirm erstellen?</string>
     <string name="sign_in">Anmelden</string>
     <string name="sign_in_progress">Anmelden…</string>
     <string name="sign_in_title">Mit Xiaomi-Konto anmelden</string>

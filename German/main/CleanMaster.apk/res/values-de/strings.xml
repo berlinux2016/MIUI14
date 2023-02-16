@@ -1134,7 +1134,7 @@
     <string name="widget_back_guide_apppredict_title">App-Ratschlag</string>
     <string name="widget_back_guide_cleaner_summary">Telefonmüll mit nur einer Berührung entfernen</string>
     <string name="widget_back_guide_cleaner_title">Müllbeseitigung</string>
-    <string name="widget_back_guide_health_summary">Telefon Gesundheitsverwaltung auf dem Desktop</string>
+    <string name="widget_back_guide_health_summary">Telefon Gesundheitsverwaltung am Desktop</string>
     <string name="widget_back_guide_health_title">Telefongesundheit</string>
     <string name="widget_back_guide_power_summary">Akkuleistung aller Geräte anzeigen</string>
     <string name="widget_back_guide_power_title">Akku</string>

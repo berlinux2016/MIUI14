@@ -254,7 +254,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
 1. Tippen Sie auf die Schaltfläche Kamera unten, um die Frontkamera-Oberfläche aufzurufen.
 2. Tippen Sie auf die Auslösetaste.
 3. Das System speichert das Foto nach der Aufnahme automatisch.
-4. Das aufgenommene Foto muss auf dem Bildschirm angezeigt werden. Tippen Sie auf \"Bestanden\", um den Test abzuschließen."</string>
+4. Das aufgenommene Foto muss am Bildschirm angezeigt werden. Tippen Sie auf \"Bestanden\", um den Test abzuschließen."</string>
     <string name="cit_camera_deleted">Foto gelöscht</string>
     <string name="cit_camera_deleted_failed">Foto löschen fehlgeschlagen</string>
     <string name="cit_camera_fast_check_title">Kameraschnelltest</string>
@@ -400,7 +400,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_hardware_info_title">Hardwareinfo</string>
     <string name="cit_hd_full">CIT kompletter Test</string>
     <string name="cit_hd_partial">CIT Teiltest</string>
-    <string name="cit_headset_button_check_summary">Wenn Kopfhörer angeschlossen sind, drücken Sie die Tasten auf der Kopfhörer-Fernbedienung (oft am Kabel). Der entsprechende Text auf dem Bildschirm sollte grün werden.</string>
+    <string name="cit_headset_button_check_summary">Wenn Kopfhörer angeschlossen sind, drücken Sie die Tasten auf der Kopfhörer-Fernbedienung (oft am Kabel). Der entsprechende Text am Bildschirm sollte grün werden.</string>
     <string name="cit_headset_button_check_title">Kopfhörertasten</string>
     <string name="cit_headset_button_click">Drücken Sie die Tasten am Kopfhörer</string>
     <string name="cit_headset_button_current">Aktuelle Taste: %s</string>
@@ -437,7 +437,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_keyboard_current">Aktuelle Tastatur: %s</string>
     <string name="cit_keyboard_current_def">Aktuelle Tastatur:</string>
     <string name="cit_keyboard_menu">Taste: MENÜ</string>
-    <string name="cit_keyboard_test_summary">Wenn Sie die Tasten drücken, sollte der entsprechende Text auf dem Bildschirm grün werden (Hinweis: Die Home- und Power-Taste sind nicht im Test enthalten).</string>
+    <string name="cit_keyboard_test_summary">Wenn Sie die Tasten drücken, sollte der entsprechende Text am Bildschirm grün werden (Hinweis: Die Home- und Power-Taste sind nicht im Test enthalten).</string>
     <string name="cit_keyboard_test_title">Tasten</string>
     <string name="cit_label">Hardwaretests</string>
     <string name="cit_lcdlight_brightness">Hintergrundbeleuchtung</string>
@@ -507,7 +507,7 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
 1. Auf die Kamerataste tippen, um die hintere untere Kamera aufzurufen.
 2. Auf den Auslöser tippen.
 3. Das System speichert das Foto automatisch nach der Aufnahme.
-4. Das aufgenommene Foto muss auf dem Bildschirm angezeigt werden. Auf Bestanden tippen, um den Test abzuschließen."</string>
+4. Das aufgenommene Foto muss am Bildschirm angezeigt werden. Auf Bestanden tippen, um den Test abzuschließen."</string>
     <string name="cit_rear_sub_camera_check_title">Nebenkameratest hinten</string>
     <string name="cit_rear_sub_second_camera_check_title">Hintere zweite untere Kamera</string>
     <string name="cit_recovery_signature_failed">Wiederherstellungssignatur FEHLGESCHLAGEN</string>
@@ -826,7 +826,7 @@ Test fehlgeschlagen!"</string>
     <string name="cit_vibrator_short">Kurze Vibration</string>
     <string name="cit_vibrator_show_advanced">Erweiterte Optionen anzeigen</string>
     <string name="cit_vice_display_check_summary">"Nach Einschalten des kleinen Bildschirms und einem Doppeltipp zum Aufhellen des Bildschirms:
-Bestätigen Sie, dass die Farben auf dem gesamten Bildschirm einheitlich dargestellt werden. Prüfen Sie, ob es keine unregelmäßigen hellen und dunklen Flecken gibt."</string>
+Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt werden. Prüfen Sie, ob es keine unregelmäßigen hellen und dunklen Flecken gibt."</string>
     <string name="cit_vice_display_check_title">Stellvertreter-Anzeige</string>
     <string name="cit_vice_touch_panel_test_summary">Nach Einschalten des kleinen Bildschirms und einem Doppeltipp zum Aufhellen des Bildschirms müssen Sie den Bildschirm umdrehen und auf den hinteren kleinen Bildschirm doppelt tippen, um den Bildschirm aufzuhellen, und auf dem kleinen Bildschirm ein Kreuz entlang des Rasters zeichnen.</string>
     <string name="cit_vice_touch_panel_test_tips">Bitte bestätigen Sie, dass der kleine Bildschirm und der Doppeltipp zum Einschalten des Bildschirms am kleinen Bildschirm auf der Rückseite eingeschaltet sind, dann tippen Sie.</string>
@@ -949,7 +949,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
 1. Auf die Kamerataste tippen, um die IR-Kameras aufzurufen.
 2. Tippen, um Fotos aufzunehmen.
 3. Das System speichert das Foto automatisch nach der Aufnahme.
-4. Wenn das auf dem aktuellen Bildschirm angezeigte Foto angesehen wurde, weiter tippen."</string>
+4. Wenn das am aktuellen Bildschirm angezeigte Foto angesehen wurde, weiter tippen."</string>
     <string name="ir_camera_test_summary_preview">"Testanleitung:
 1. Auf die Vorschautaste tippen, um die Kamera aufzurufen.
 2. Warten, bis die Vorschau beendet ist und automatisch zurückkehren."</string>

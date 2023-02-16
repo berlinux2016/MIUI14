@@ -2248,7 +2248,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_msg_transparent_dispaly">Benachrichtigungen mit transparentem Hintergrund</string>
     <string name="gb_network_status_bad">Ein Verbindungsfehler ist aufgetreten.</string>
     <string name="gb_new_feature">Neue Funktion</string>
-    <string name="gb_not_support_on_device">App kann auf dem äußeren Bildschirm nicht verwendet werden</string>
+    <string name="gb_not_support_on_device">App kann am äußeren Bildschirm nicht verwendet werden</string>
     <string name="gb_operat_frequently">Nicht so schnell!</string>
     <string name="gb_performace_switch_toast">In den Leistungsmodus gewechselt. Ihr Gerät könnte sich erhitzen und mehr Strom verbrauchen.</string>
     <string name="gb_performace_tips_button">Umschalten</string>
@@ -2319,9 +2319,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="gd_sidebar_long_press_tips">Indikator gedrückt halten, um ihn zu bewegen, während Sie das Gerät senkrecht halten.</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s bleiben</string>
     <string name="gb_sound_audition">Probieren</string>
-    <string name="gb_storage_game_dialog_message">Sie können Spiele automatisch in Game Turbo speichern. Sie werden nicht auf dem Startbildschirm angezeigt, wenn Sie diese Funktion einschalten. Jetzt einschalten?</string>
+    <string name="gb_storage_game_dialog_message">Sie können Spiele automatisch in Game Turbo speichern. Sie werden nicht am Startbildschirm angezeigt, wenn Sie diese Funktion einschalten. Jetzt einschalten?</string>
     <string name="gb_storage_game_uninstall">Spiele deinstallieren</string>
-    <string name="gb_storage_summary">Der Gamebox hinzugefügte Spiele auf dem Startbildschirm nicht anzeigen</string>
+    <string name="gb_storage_summary">Der Gamebox hinzugefügte Spiele am Startbildschirm nicht anzeigen</string>
     <string name="gb_storage_title">Hinzugefügte Spiele vom Startbildschirm entfernen</string>
     <string name="gb_turbo_collimator_subtitle">Zielgerät verwenden</string>
     <string name="gb_turbo_macro_subtitle">Hochrangige Aktionen durchführen</string>
@@ -3521,7 +3521,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_external_storage">Diese Berechtigung erlaubt Apps den Zugriff auf Fotos, Medien und Dateien auf Ihrem Gerät. Seien Sie vorsichtig mit dieser Berechtigung, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_gallery">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_get_accounts">Diese Berechtigung erlaubt Apps den Zugriff auf die Liste der auf Ihrem Gerät gespeicherten Konten. Diese Liste könnte alle Ihre persönlichen Konten enthalten, die durch installierte Apps erstellt wurden, sowie die Konten von Social Media-Plattformen und Kommunikationstools.</string>
-    <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen auf dem Startbildschirm zu erstellen.</string>
+    <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen am Startbildschirm zu erstellen.</string>
     <string name="permission_instruction_install_unknown_source">Diese Berechtigung erlaubt Apps, andere Apps auf Ihrem Gerät zu installieren. Bösartige Apps nutzen diese Berechtigung, um Apps ohne Ihre Bestätigung zu installieren.</string>
     <string name="permission_instruction_media_audio">Wenn Sie diese Berechtigung erteilen, kann die App auf Musik und andere Audiodaten auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_media_files">Wenn Sie diese Berechtigung erteilen, kann die App auf die Dateien und Dokumente auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
@@ -4085,12 +4085,12 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_apps_shield_message_summary">Keine Benachrichtigungen für geschützte Apps anzeigen</string>
     <string name="privacy_apps_shield_message_title">Benachrichtigungen ausblenden</string>
     <string name="privacy_apps_tutorial">Gesten</string>
-    <string name="privacy_apps_tutorial_dlg_message_1">Zwei Finger auf dem Startbildschirm spreizen, um versteckte Apps anzuzeigen</string>
-    <string name="privacy_apps_tutorial_dlg_message_2">Hinweis: Wenn Sie eine App ausblenden, wird nur ihre Verknüpfung auf dem Startbildschirm ausgeblendet.</string>
+    <string name="privacy_apps_tutorial_dlg_message_1">Zwei Finger am Startbildschirm spreizen, um versteckte Apps anzuzeigen</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Hinweis: Wenn Sie eine App ausblenden, wird nur ihre Verknüpfung am Startbildschirm ausgeblendet.</string>
     <string name="privacy_apps_tutorial_dlg_title">Wie man versteckte Apps findet</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Wenn Sie eine App ausblenden, wird sie in einen versteckten Ordner verschoben. Die Startbildschirmverknüpfung ist auch versteckt.\nDiese Funktion wird bei System-Apps nicht unterstützt.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Wenn Sie Ihr Passwort eingegeben haben, erscheint der Ordner mit den versteckten Apps.</string>
-    <string name="privacy_apps_tutorial_prompt_pagetwo">Spreizen Sie zwei Finger auf dem Bildschirm. Eine Meldung wird angezeigt, in der Sie aufgefordert werden, Ihr App-Sperrepasswort einzugeben.</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">Spreizen Sie zwei Finger am Bildschirm. Eine Meldung wird angezeigt, in der Sie aufgefordert werden, Ihr App-Sperrepasswort einzugeben.</string>
     <string name="privacy_danger_permission_status_summary">Verwalten von Apps, die sensible Berechtigungen anfordern</string>
     <string name="privacy_danger_permission_status_title">Sensible Aktionen</string>
     <string name="privacy_danger_permission_summary">Überwachen, wie Apps Ihre Berechtigungen verwenden</string>
@@ -4485,7 +4485,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="screen_share_protection_warning_icon_title">Schutz vor Betrug</string>
     <string name="screen_share_protection_warning_positive_button">Teilen</string>
     <string name="screen_share_warning_button">Verstanden</string>
-    <string name="screen_share_warning_summary">Ihre eingehenden Benachrichtigungen werden nicht auf dem freigegebenen Bildschirm angezeigt.</string>
+    <string name="screen_share_warning_summary">Ihre eingehenden Benachrichtigungen werden nicht am freigegebenen Bildschirm angezeigt.</string>
     <string name="screen_share_warning_title">Benachrichtigungen werden nicht angezeigt</string>
     <string name="screenrecord_not_find">Neueste Version von Bildschirmaufnahme installieren und erneut versuchen</string>
     <string name="sd_eject">SD-Karte aushängen</string>
@@ -4854,7 +4854,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="special_perm_intercept_risk_app_msg">Einige Drittanbieter-Apps könnten Ihr Gerät angreifen und Ihre Daten und Ihre Privatsphäre gefährden</string>
     <string name="special_perm_intercept_risk_app_risk_title">Gefährliche Apps installieren</string>
     <string name="special_perm_intercept_risk_app_title">Gefährliche Apps installieren</string>
-    <string name="special_perm_intercept_screen_msg">Alle auf dem Bildschirm angezeigten Inhalte überwachen und aufnehmen</string>
+    <string name="special_perm_intercept_screen_msg">Alle am Bildschirm angezeigten Inhalte überwachen und aufnehmen</string>
     <string name="special_perm_intercept_screen_title"> Bildschirminhalt überwachen und aufnehmen</string>
     <string name="special_perm_intercept_setting_msg">Inkl. Anbieter, Sprache und andere Einstellungen</string>
     <string name="special_perm_intercept_setting_title">Geräteeinstellungen lesen</string>

@@ -845,7 +845,7 @@
     <string name="controls_settings_dialog_neutral_button">Nein danke</string>
     <string name="controls_settings_dialog_positive_button">Ja</string>
     <string name="controls_settings_show_controls_dialog_message">Sie können dem Sperrbildschirm Bedienelemente für Ihre externen Geräte hinzufügen. \n\nMit Ihrer Geräte-App können Sie ggf. einige Geräte steuern, ohne Ihr Telefon oder Tablet zu entsperren. \n\nSie können jederzeit Änderungen in den Einstellungen vornehmen.</string>
-    <string name="controls_settings_show_controls_dialog_title">Geräte auf dem Sperrbildschirm anzeigen und steuern?</string>
+    <string name="controls_settings_show_controls_dialog_title">Geräte am Sperrbildschirm anzeigen und steuern?</string>
     <string name="controls_settings_trivial_controls_dialog_message">Sie können einige Geräte steuern, ohne Ihr Telefon oder Tablet zu entsperren. \n\nIhre Geräte-App bestimmt, welche Geräte auf diese Weise gesteuert werden können.</string>
     <string name="controls_settings_trivial_controls_dialog_title">Geräte am Sperrbildschirm steuern?</string>
     <string name="controls_structure_tooltip">Wischen, um mehr zu sehen</string>
@@ -965,7 +965,7 @@
     <string name="dock_alignment_not_charging">Telefon neu ausrichten, um kabellos zu laden</string>
     <string name="dock_alignment_slow_charging">Telefon neu ausrichten für schnelleres Laden</string>
     <string name="dock_forced_resizable">App funktioniert eventuell im geteilten Bildschirm nicht.</string>
-    <string name="dock_keyguard_locked_failed_to_dock_text">Geteilter Bildschirm wird auf dem Sperrbildschirm nicht unterstützt</string>
+    <string name="dock_keyguard_locked_failed_to_dock_text">Geteilter Bildschirm wird am Sperrbildschirm nicht unterstützt</string>
     <string name="dock_non_resizeble_failed_to_dock_text">App unterstützt geteilten Bildschirm nicht</string>
     <string name="done">Fertig</string>
     <string name="download_lock_wallpaper">2x tippen zum Herunterladen von Musik</string>
@@ -1636,7 +1636,7 @@
     <string name="lock_screen_no_sim_card">Keine SIM-Karte</string>
     <string name="lock_screen_no_sim_card_emergency_only">Nur Notrufe</string>
     <string name="lock_screen_no_sim_card_no_service">Kein Service</string>
-    <string name="lock_screen_signature_msg">Signatur auf dem Sperrbildschirm anzeigen</string>
+    <string name="lock_screen_signature_msg">Signatur am Sperrbildschirm anzeigen</string>
     <string name="lock_screen_signature_title">Sperrbildschirm Eigentümerinfo</string>
     <string name="lock_wallpaper_enter">Anmelden</string>
     <string name="lock_wallpaper_learn_more">Mehr</string>
@@ -2041,10 +2041,10 @@
     <string name="notification_channel_summary_default_with_bubbles">Kann je nach Telefoneinstellung klingeln oder vibrieren. Unterhaltungen von %1$s standardmäßig als Sprechblase.</string>
     <string name="notification_channel_summary_low">Kein Ton oder Vibration</string>
     <string name="notification_channel_summary_priority">Wird oben im Unterhaltungsbereich angezeigt, erscheint als schwebende Sprechblase, zeigt Profilbild auf Sperrbildschirm an</string>
-    <string name="notification_channel_summary_priority_all">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild auf dem Sperrbildschirm angezeigt, erscheint als Sprechblase und unterbricht die Nicht Stören-Funktion</string>
-    <string name="notification_channel_summary_priority_baseline">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild auf dem Sperrbildschirm angezeigt</string>
-    <string name="notification_channel_summary_priority_bubble">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild auf dem Sperrbildschirm angezeigt, erscheint als Sprechblase</string>
-    <string name="notification_channel_summary_priority_dnd">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild auf dem Sperrbildschirm angezeigt, unterbricht die Nicht stören-Funktion</string>
+    <string name="notification_channel_summary_priority_all">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild am Sperrbildschirm angezeigt, erscheint als Sprechblase und unterbricht die Nicht Stören-Funktion</string>
+    <string name="notification_channel_summary_priority_baseline">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild am Sperrbildschirm angezeigt</string>
+    <string name="notification_channel_summary_priority_bubble">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild am Sperrbildschirm angezeigt, erscheint als Sprechblase</string>
+    <string name="notification_channel_summary_priority_dnd">Wird oben in den Gesprächsbenachrichtigungen und als Profilbild am Sperrbildschirm angezeigt, unterbricht die Nicht stören-Funktion</string>
     <string name="notification_channel_switch_accessibility">Benachrichtigungen dieses Kanals zulassen</string>
     <string name="notification_channel_tv_pip">Bild-im-Bild</string>
     <string name="notification_channel_unsilenced">Diese Benachrichtigungen werden Sie alarmieren</string>
@@ -2271,7 +2271,7 @@
     <string name="power_save_ps_limit">Aktivität von System-Apps einschränken</string>
     <string name="power_suggestion_battery_run_out">Akku ist voraussichtlich um %1$s leer</string>
     <string name="power_suggestion_extend_battery">Akkulaufzeit auf über %1$s verlängern</string>
-    <string name="pref_show_lunar_calendar_title">Traditionellen chinesischen Kalender auf dem Sperrbildschirm anzeigen</string>
+    <string name="pref_show_lunar_calendar_title">Traditionellen chinesischen Kalender am Sperrbildschirm anzeigen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="priority_conversations">Vorrangige Gespräche</string>
     <string name="priority_onboarding_appear_as_bubble_text">Erscheint als Sprechblase oberhalb von Apps</string>
@@ -2280,7 +2280,7 @@
     <string name="priority_onboarding_ignores_dnd_text">Nicht stören unterbrechen</string>
     <string name="priority_onboarding_settings_button_title">Einstellungen</string>
     <string name="priority_onboarding_show_at_top_text">Oben im Unterhaltungsbereich anzeigen</string>
-    <string name="priority_onboarding_show_avatar_text">Profilbild auf dem Sperrbildschirm anzeigen</string>
+    <string name="priority_onboarding_show_avatar_text">Profilbild am Sperrbildschirm anzeigen</string>
     <string name="priority_onboarding_title">Unterhaltung auf Vorrang gesetzt</string>
     <string name="privacy_dialog_title">Benachrichtigungen über sensible Aktionen</string>
     <string name="privacy_recent_used_title">Zuletzt</string>
@@ -2630,7 +2630,7 @@
     <string name="screenrecord_start_error">Fehler beim Starten der Bildschirmaufnahme</string>
     <string name="screenrecord_start_label">Aufnahme starten?</string>
     <string name="screenrecord_stop_text">Zum Stoppen tippen</string>
-    <string name="screenrecord_taps_label">Berührungen auf dem Bildschirm anzeigen</string>
+    <string name="screenrecord_taps_label">Berührungen am Bildschirm anzeigen</string>
     <string name="screenshot_blocked_by_admin">Aufnahme von Screenshots ist von Ihrem IT-Admin gesperrt</string>
     <string name="screenshot_bottom_boundary_pct">Rand unten %1$d Prozent</string>
     <string name="screenshot_delete">Löschen</string>

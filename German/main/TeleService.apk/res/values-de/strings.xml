@@ -2432,7 +2432,7 @@
     <string name="show_hw_screen_updates_summary">Innerhalb des Fensters blitzen, wenn Darstellung über GPU erfolgt</string>
     <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
     <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
-    <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung auf dem Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
+    <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung am Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
     <string name="show_screen_updates">Bildschirmaktualisierungen anzeigen</string>
     <string name="show_screen_updates_summary">In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird</string>
     <string name="show_touches">Berührungen anzeigen</string>

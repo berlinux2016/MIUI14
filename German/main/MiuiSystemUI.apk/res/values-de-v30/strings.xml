@@ -186,7 +186,7 @@ Weiterhin anzeigen?"</string>
     <string name="notification_channel_summary_bubble">Hält Ihre Aufmerksamkeit mit einer schwebenden Verknüpfung zu diesem Inhalt</string>
     <string name="notification_channel_summary_default">Kann je nach Telefoneinstellung klingeln oder vibrieren</string>
     <string name="notification_channel_summary_default_with_bubbles">Kann je nach Telefoneinstellung klingeln oder vibrieren. Unterhalungen aus %1$s-Sprechblase standardmäßig.</string>
-    <string name="notification_channel_summary_priority">Wird oben im Unterhaltungsbereich angezeigt, erscheint als schwebende Sprechblase, zeigt das Profilbild auf dem Sperrbildschirm</string>
+    <string name="notification_channel_summary_priority">Wird oben im Unterhaltungsbereich angezeigt, erscheint als schwebende Sprechblase, zeigt das Profilbild am Sperrbildschirm</string>
     <string name="notification_conversation_mute">Lautlos machen</string>
     <string name="notification_conversation_summary_low">Kein Ton oder Vibration und erscheint im Unterhaltungsabschnitt weiter unten</string>
     <string name="notification_conversation_unmute">Warnungen</string>

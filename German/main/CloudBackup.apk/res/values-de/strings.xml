@@ -141,7 +141,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="cloud_backup_detail_state_summary_china">Gerät muss mit WLAN verbunden, geladen und gesperrt sein</string>
     <string name="cloud_backup_detail_time">Letzte Sicherung: %1$s</string>
     <string name="cloud_backup_detail_title">Elemente sichern</string>
-    <string name="cloud_backup_get_installed_apps_summary">Zum Sichern und Wiederherstellen von Apps auf dem Startbildschirm</string>
+    <string name="cloud_backup_get_installed_apps_summary">Zum Sichern und Wiederherstellen von Apps am Startbildschirm</string>
     <string name="cloud_backup_get_installed_apps_title">Zugriff auf die Liste der auf diesem Gerät installierten Apps</string>
     <string name="cloud_backup_have_data">Sicherung in Xiaomi Cloud gefunden</string>
     <string name="cloud_backup_in_cancel">Abbrechen</string>
@@ -381,7 +381,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="provision_next">Weiter</string>
     <string name="provision_restore_data">Elemente wiederherstellen</string>
     <string name="provision_skip_underline">Überspringen</string>
-    <string name="query_restore_description">Wenn Sie das Startbildschirm-Layout und die Einstellungen wiederherstellen, werden die bereits installierten Apps an ihrem ursprünglichen Platz auf dem Startbildschirm wiederhergestellt. Apps, die nicht Teil dieser Sicherung sind, werden auf die letzte Seite des Startbildschirms verschoben.</string>
+    <string name="query_restore_description">Wenn Sie das Startbildschirm-Layout und die Einstellungen wiederherstellen, werden die bereits installierten Apps an ihrem ursprünglichen Platz am Startbildschirm wiederhergestellt. Apps, die nicht Teil dieser Sicherung sind, werden auf die letzte Seite des Startbildschirms verschoben.</string>
     <string name="query_restore_summary">Xiaomi Cloud-Sicherung für dieses Gerät gefunden. Startbildschirm-Apps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als neu behandeln und ältere Sicherungen löschen?</string>
     <string name="recover_from_micloud">Wiederherstellen aus Xiaomi Cloud</string>
     <string name="recover_home_settings">Startbildschirmeinstellungen wiederherstellen</string>

@@ -137,7 +137,7 @@ Wenn Sie Ihre Meinung ändern, müssen Sie vor der Nutzung unserer Dienste unser
     <string name="access_thirdparty_alipay_unbind">Trennen</string>
     <string name="access_thirdparty_alipay_unbind_alert">Ihre Schrittdaten werden nicht mit Alipay synchronisiert.</string>
     <string name="access_thirdparty_alipay_unbind_error">Trennen nicht möglich. Erneut versuchen.</string>
-    <string name="access_thirdparty_aplipay_thirdparty_desc">Um Schrittdaten mit Alipay zu teilen, tippen Sie auf \"Verbinden\" und folgen Sie den Anweisungen auf dem Bildschirm.</string>
+    <string name="access_thirdparty_aplipay_thirdparty_desc">Um Schrittdaten mit Alipay zu teilen, tippen Sie auf \"Verbinden\" und folgen Sie den Anweisungen am Bildschirm.</string>
     <string name="access_thirdparty_authentication_failed">Verbinden nbicht möglich. Erneut versuchen.</string>
     <string name="access_thirdparty_bind_failed">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="access_thirdparty_explain">Wenn Sie Mi Fitness mit %1$s verbinden, werden Ihre Trainingsdaten (z. B. Kalorien, Entfernung, Zeit, Herzfrequenz) mit %2$s geteilt.</string>
@@ -2314,7 +2314,7 @@ Beginnen Sie von vorn."</string>
     <string name="keep_alive_notification_content_connected">Verbunden</string>
     <string name="keep_alive_notification_content_connecting">Verbinden…</string>
     <string name="loading">Einen Moment…</string>
-    <string name="lock_support_description2">Finden Sie Ihre Krankenversicherungskarte nicht auf dem Sperrbildschirm?</string>
+    <string name="lock_support_description2">Sie finden Ihre Krankenversicherungskarte nicht am Sperrbildschirm?</string>
     <string name="logIn_failed">Anmeldung fehlgeschlagen</string>
     <string name="logIn_success">Anmeldung erfolgreich</string>
     <string name="log_off_account_failure">Konto wurde nicht gelöscht</string>
@@ -2765,7 +2765,7 @@ Verdienen Sie sich diese Auszeichnung."</string>
     <string name="nfc_device_status_connected">Verbunden</string>
     <string name="nfc_door_card">Schlüsselkarten</string>
     <string name="nfc_door_card_battery_not_enough">Akku unter 20%%. Karte auf dem Telefon hinzufügen.</string>
-    <string name="nfc_door_card_battery_sync_error">Karte auf dem Telefon hinzufügen.</string>
+    <string name="nfc_door_card_battery_sync_error">Karte zum Telefon hinzufügen.</string>
     <string name="nfc_door_card_protocol_dialog_content_contain">"&lt;Data>Ich akzeptiere, für alle Schäden oder Verluste zu haften, die aus der illegalen oder unangemessenen Nutzung des Schlüsselkartendienstes entstehen.&lt;br>Ich habe die &lt;a href=\"%1$s\">Schlüsselkarten-Nutzervereinbarung&lt;/a> gelesen und akzeptiert.&lt;br>&lt;/Data>"</string>
     <string name="nfc_door_card_protocol_dialog_title">Achtung</string>
     <string name="nfc_email_receive_code">E-Mail</string>
@@ -3446,9 +3446,9 @@ Dieser Schritt ist erforderlich, um mit Ihrem Gerät zu bezahlen."</string>
     <string name="sport_location_fail_info">Dieser App Standortzugriff erlauben, um diese Funktion zu verwenden.</string>
     <string name="sport_location_permission">Berechtigungen erforderlich</string>
     <string name="sport_lock_screen_guide">App-Benachrichtigungen verwalten</string>
-    <string name="sport_lock_screen_not_show_data">Um Live-Daten auf dem Sperrbildschirm anzuzeigen, müssen Sie erst die App-Berechtigungen ändern.</string>
+    <string name="sport_lock_screen_not_show_data">Um Live-Daten am Sperrbildschirm anzuzeigen, müssen Sie erst die App-Berechtigungen ändern.</string>
     <string name="sport_lock_screen_swipe_unlcok">Zum Entsperren hochwischen</string>
-    <string name="sport_lock_screen_switch">Auf dem Sperrbildschirm anzeigen</string>
+    <string name="sport_lock_screen_switch">Am Sperrbildschirm anzeigen</string>
     <string name="sport_main_request_location_msg">Dieser App Standortzugriff erlauben, damit Ihre Workoutroute auf einer Karte aufgenommen werden kann.</string>
     <string name="sport_manager_disconnect">Gerät getrennt</string>
     <string name="sport_metronome">Metronom</string>
@@ -3468,7 +3468,7 @@ Dieser Schritt ist erforderlich, um mit Ihrem Gerät zu bezahlen."</string>
     <string name="sport_pace_reminder_info">Benachrichtigen, wenn Sie unter dem eingestellten Tempo sind</string>
     <string name="sport_permission_location_sportpath">Dieser App Standortzugriff erlauben, um Ihre Workouts zu verfolgen.</string>
     <string name="sport_permission_not_agree_tips">Sie können diesen Dienst nicht nutzen, wenn Sie die dafür erforderlichen Berechtigungen nicht erteilen. Die Nutzung anderer Dienste wird dadurch nicht beeinträchtigt. Sie haben jederzeit die Möglichkeit, die Berechtigungen in den Einstellungen einzuschränken.</string>
-    <string name="sport_permission_tip">Dieser App erlauben, Pop-up-Nachrichten zu senden, Infos auf dem Sperrbildschirm anzuzeigen und Pop-up-Fenster anzuzeigen, während sie im Hintergrund läuft.</string>
+    <string name="sport_permission_tip">Dieser App erlauben, Pop-up-Nachrichten zu senden, Infos am Sperrbildschirm anzuzeigen und Pop-up-Fenster anzuzeigen, während sie im Hintergrund läuft.</string>
     <string name="sport_phone_plaec">Wo sollte sich Ihr Telefon befinden?</string>
     <string name="sport_placement_suggestions">Wo sollte sich Ihr Telefon befinden?</string>
     <string name="sport_position_fun">Standort ist deaktiviert</string>
@@ -4036,7 +4036,7 @@ Dieser Schritt ist erforderlich, um mit Ihrem Gerät zu bezahlen."</string>
     <string name="userinfo_lock_screen_show_description">Finden Sie Ihre Karte, indem Sie bei gesperrtem Bildschirm auf \"Notfall\" und \"Krankenversicherungskarte\" tippen.</string>
     <string name="userinfo_lock_screen_show_not_on_guide">Damit Ihre Krankenversicherungskarte am Sperrbildschirm verfügbar ist, tippen Sie auf auf \"Mehr\", wählen Sie \"Bearbeiten\" und aktivieren Sie \"Bei Sperrung anzeigen\".</string>
     <string name="userinfo_lock_screen_show_solve_title">Krankenversicherungskarte auf Sperrbildschirm anzeigen</string>
-    <string name="userinfo_lock_show_solve_description">Damit die Krankenversicherungskarte auf dem Sperrbildschirm erscheinen kann, erlauben Sie dieser App, darauf angezeigt zu werden.</string>
+    <string name="userinfo_lock_show_solve_description">Damit die Krankenversicherungskarte am Sperrbildschirm erscheinen kann, erlauben Sie dieser App, darauf angezeigt zu werden.</string>
     <string name="userinfo_lock_show_solve_go">Einstellungen</string>
     <string name="userinfo_lock_show_solve_path">Tippen Sie unten auf Einstellungen, wählen Sie \"Auf Sperrbildschirm anzeigen\"und dann \"Immer erlauben\"aus.</string>
     <string name="userinfo_max_heart_rate">Max. Puls</string>

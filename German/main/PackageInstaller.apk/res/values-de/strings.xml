@@ -464,7 +464,7 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
     <string name="show_hw_screen_updates_summary">Ansichten innerhalb von Fenstern blitzen lassen beim Zeichnen mit der GPU</string>
     <string name="show_non_rect_clip">Nicht-rechtwinklige Clipoperationen debuggen</string>
     <string name="show_notification_channel_warnings">Benachrichtigungskanalwarnungen anzeigen</string>
-    <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung auf dem Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
+    <string name="show_notification_channel_warnings_summary">Zeigt eine Warnung am Bildschirm an, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
     <string name="show_password">Passwort anzeigen</string>
     <string name="show_screen_updates">Bildschirmaktualisierungen anzeigen</string>
     <string name="show_screen_updates_summary">In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird</string>

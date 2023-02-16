@@ -173,7 +173,7 @@
     <string name="accessibility_select_shortcut_menu_title">Eine Funktion antippen, um sie zu verwenden:</string>
     <string name="accessibility_service_action_perform_description">Ihre Interaktionen mit einer App oder einem Hardwaresensor können verfolgt und in Ihrem Namen mit Apps interagiert werden.</string>
     <string name="accessibility_service_action_perform_title">Anzeigen und Ausführen von Aktionen</string>
-    <string name="accessibility_service_screen_control_description">Es kann alle Inhalte auf dem Bildschirm lesen und Inhalte über andere Apps anzeigen.</string>
+    <string name="accessibility_service_screen_control_description">Es kann alle Inhalte am Bildschirm lesen und Inhalte über andere Apps anzeigen.</string>
     <string name="accessibility_service_screen_control_title">Bildschirm anzeigen und steuern</string>
     <string name="accessibility_service_warning_description">Volle Kontrolle ist für Apps geeignet, die Sie als Eingabehilfen unterstützen, aber nicht für die meisten Apps.</string>
     <string name="accessibility_shortcut_disabling_service">Eingabehilfenverküpfung hat %1$s ausgeschaltet</string>
@@ -1162,7 +1162,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
     <string name="notification_app_name_settings">Einstellungen</string>
     <string name="notification_appops_camera_active">Kamera</string>
     <string name="notification_appops_microphone_active">Microfon</string>
-    <string name="notification_appops_overlay_active">Anzeige über andere Apps auf dem Bildschirm</string>
+    <string name="notification_appops_overlay_active">Anzeige über andere Apps am Bildschirm</string>
     <string name="notification_channel_abusive_bg_apps">Hintergrundaktivität</string>
     <string name="notification_channel_accessibility_magnification">Vergrößerung</string>
     <string name="notification_channel_accessibility_security_policy">Verwendung Eingabehilfen</string>
@@ -1830,7 +1830,7 @@ Lang andauerndes Anhören mit hoher Lautstärke kann Ihr Gehör schädigen."</st
     <string name="shortcut_restore_signature_mismatch">Verknüpfung wiederherstellen nicht möglich, da die App-Signatur nicht übereinstimmt</string>
     <string name="shortcut_restore_unknown_issue">Verknüpfung nicht wiederhergestellt</string>
     <string name="shortcut_restored_on_lower_version">App-Version heruntergestuft oder nicht kompatibel mit dieser Verknüpfung</string>
-    <string name="show_ime">Auf dem Bildschirm halten, während die physische Tastatur aktiv ist.</string>
+    <string name="show_ime">Am Bildschirm halten, während die physische Tastatur aktiv ist.</string>
     <string name="shutdown_confirm">Telefon wird heruntergefahren.</string>
     <string name="shutdown_confirm_question">Möchten Sie das Gerät herunterfahren?</string>
     <string name="shutdown_progress">Herunterfahren…</string>

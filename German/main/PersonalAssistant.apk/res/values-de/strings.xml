@@ -400,7 +400,7 @@
     <string name="pa_olympic_label">Medaillen</string>
     <string name="pa_olympic_medal_count">Medaillen insgesamt</string>
     <string name="pa_olympic_medals_description">Olympischen Medaillenspiegel prüfen</string>
-    <string name="pa_open_personal_assistant_dialog_desc">Wenn Sie Infoassistent deaktivieren, können Sie keine Widgets verwenden oder durch Rechtswischen auf dem Startbildschirm auf sie zugreifen. Trotzdem ausschalten?</string>
+    <string name="pa_open_personal_assistant_dialog_desc">Wenn Sie Infoassistent deaktivieren, können Sie keine Widgets verwenden oder durch Rechtswischen am Startbildschirm auf sie zugreifen. Trotzdem ausschalten?</string>
     <string name="pa_open_personal_assistant_dialog_title">Infoassistent ausschalten?</string>
     <string name="pa_operation_switch_summary">Neueste beliebte Widgets anzeigen</string>
     <string name="pa_operation_switch_title">Beliebte Angebote</string>
@@ -487,7 +487,7 @@
     <string name="pa_picker_toast_add_successfully">Erfolgreich hinzugefügt</string>
     <string name="pa_picker_toast_count_limit_forbidden">Weitere Widgets hinzuzufügen nicht möglich</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Keine weiteren Widgets dieses Typs hinzufügen möglich</string>
-    <string name="pa_picker_toast_count_limit_warning">Erfolgreich hinzugefügt. Beachten Sie, dass zu viele Widgets auf dem Startbildschirm Ihr Gerät verlangsamen können.</string>
+    <string name="pa_picker_toast_count_limit_warning">Erfolgreich hinzugefügt. Beachten Sie, dass zu viele Widgets am Startbildschirm Ihr Gerät verlangsamen können.</string>
     <string name="pa_picker_toast_screen_cell_locked">Startbildschirm-Layout ist gesperrt. Widgets können nicht hinzugefügt werden.</string>
     <string name="pa_privacy_text">Datenschutz</string>
     <string name="pa_read_storage_permission_description">Zur Anzeige des Hintergrunds Ihres Startbildschirms als Hintergrund für die App</string>
@@ -505,7 +505,7 @@
     <string name="pa_rtk_more_text">Nicht interessiert</string>
     <string name="pa_rtk_place_holder_text">Dieses Widget wurde vorerst in Ihr Dashboard verschoben</string>
     <string name="pa_rtk_unlike_text">Abkoppeln</string>
-    <string name="pa_rts_summary">Am häufigsten verwendete Widgets auf dem Dashboard platzieren</string>
+    <string name="pa_rts_summary">Am häufigsten verwendete Widgets am Dashboard platzieren</string>
     <string name="pa_scan">Scannen</string>
     <string name="pa_search_hint">Suchen</string>
     <string name="pa_search_summary">Suchleiste anzeigen</string>

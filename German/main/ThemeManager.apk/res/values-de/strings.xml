@@ -537,7 +537,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="large_icon_apply_fail_for_in_dock">Supersymbole können nicht für Apps im App-Dock verwendet werden</string>
     <string name="large_icon_apply_fail_for_in_folder">Supersymbole können nicht für Apps in Ordnern verwendet werden</string>
     <string name="large_icon_apply_fail_for_in_oldmode">Supersymbole werden im Lite-Modus nicht unterstützt</string>
-    <string name="large_icon_apply_fail_for_not_in_launcher">Supersymbole können nicht für Apps verwendet werden, die sich nicht auf dem Startbildschirm befinden</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">Supersymbole können nicht für Apps verwendet werden, die sich nicht am Startbildschirm befinden</string>
     <string name="large_icon_detail_title">%s Supersymbole</string>
     <string name="large_icon_detail_warning_dialog_btn_keep">Supersymbole</string>
     <string name="large_icon_detail_warning_dialog_btn_not_keep">Standardsymbole</string>
@@ -1706,7 +1706,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_settings_page_title">Hintergründe</string>
     <string name="wallpaper_share_alert">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="wallpaper_static">Statisch</string>
-    <string name="warning_subscribe_wallpaper_group_content">Sie haben die Diashow auf dem Startbildschirm eingeschaltet. %1$s wird auf Ihren Startbildschirm angewendet.</string>
+    <string name="warning_subscribe_wallpaper_group_content">Sie haben Diashow am Startbildschirm eingeschaltet. %1$s wird am Startbildschirm angewendet.</string>
     <string name="wechat_not_found">Erst WeChat installieren</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>

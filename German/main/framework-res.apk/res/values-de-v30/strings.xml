@@ -125,7 +125,7 @@
   <string name="accessibility_select_shortcut_menu_title">Zum Auswählen der gewünschten Funktion tippen:</string>
   <string name="accessibility_service_action_perform_description">Die Funktion kann Ihre Interaktionen mit einer App oder einem Hardwaresensor verfolgen und in Ihrem Namen mit Apps interagieren.</string>
   <string name="accessibility_service_action_perform_title">Aktionen aufrufen und durchführen</string>
-  <string name="accessibility_service_screen_control_description">Die Funktion kann alle Inhalte auf dem Bildschirm lesen und diese Inhalte über andere Apps anzeigen.</string>
+  <string name="accessibility_service_screen_control_description">Die Funktion kann alle Inhalte am Bildschirm lesen und diese Inhalte über andere Apps anzeigen.</string>
   <string name="accessibility_service_screen_control_title">Bildschirm aufrufen und steuern</string>
   <string name="accessibility_service_warning_description">Die vollständige Kontrolle sollte nur für die Apps aktiviert werden, die Ihnen den Zugang zu den App-Funktionen erleichtern. Das ist in der Regel nur ein kleiner Teil der Apps.</string>
   <string name="accessibility_shortcut_disabling_service">Lautstärketasten wurden gedrückt gehalten. %1$s ist deaktiviert.</string>

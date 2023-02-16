@@ -72,7 +72,7 @@
     <string name="downloading">Herunterladen…</string>
     <string name="early_morning">Vormittag</string>
     <string name="enable_power_save_mode_notification_fail_action">Erneut versuchen</string>
-    <string name="enable_power_save_mode_notification_fail_content">Erneut versuchen oder Stromsparen auf dem Telefon einschalten</string>
+    <string name="enable_power_save_mode_notification_fail_content">Erneut versuchen oder Stromsparen am Telefon einschalten</string>
     <string name="enable_power_save_mode_notification_fail_title">Einschalten nicht möglich</string>
     <string name="enable_power_save_mode_notification_success_content">Stromsparen erfolgreich aktiviert</string>
     <string name="enable_power_save_mode_notification_success_title">Stromsparen ist an</string>
@@ -266,13 +266,13 @@
     <string name="pad_settings_connect_pc_group">Mit Ihrem PC arbeiten</string>
     <string name="pad_settings_connect_phone_group">Mit Ihrem Telefon arbeiten</string>
     <string name="pad_settings_connect_summary1">MIUI+ herunterladen und auf Ihrem Computer installieren: www.miui.com</string>
-    <string name="pad_settings_connect_summary2">QR-Code auf dem Computerbildschirm mit Ihrem Mobilgerät scannen. Sie können dazu mehrere System-Apps verwenden (z. B. Scanner, Kamera, Mi Browser).</string>
+    <string name="pad_settings_connect_summary2">QR-Code am Computerbildschirm mit Ihrem Mobilgerät scannen. Sie können dazu mehrere System-Apps verwenden (z. B. Scanner, Kamera, Mi Browser).</string>
     <string name="pad_settings_current_device_tip">Verbinden Sie sich automatisch mit anderen Tablets, die mit Ihrem Xiaomi-Konto verbunden sind</string>
     <string name="pad_settings_feature_characteristics_summary_1">Text auf Ihrem Mobilgerät kopieren und ihn auf Ihrem Computer einfügen, Bilder hinzufügen und Bearbeitungen in Ihren Dokumenten synchronisieren.</string>
     <string name="pad_settings_feature_characteristics_summary_2">Elemente per Drag &amp; Drop ziehen, um sie auf Ihr Gerät zu übertragen oder von dort abzuholen.</string>
     <string name="pad_settings_feature_characteristics_summary_3">Ihr Gerät einfach in die Nähe eines zuvor verbundenen Computers bringen, um die Verbindung automatisch wiederherzustellen.</string>
-    <string name="pad_settings_feature_dnd_summary">Benachrichtigungen des Mobilgeräts auf dem Computer anzeigen</string>
-    <string name="pad_settings_feature_dnd_summary_phone">Benachrichtigungen des Mobilgeräts auf dem Computer anzeigen</string>
+    <string name="pad_settings_feature_dnd_summary">Benachrichtigungen des Mobilgeräts am Computer anzeigen</string>
+    <string name="pad_settings_feature_dnd_summary_phone">Benachrichtigungen des Mobilgeräts am Computer anzeigen</string>
     <string name="pad_settings_feature_intro">Über diese Funktion</string>
     <string name="pad_settings_handoff_app_summary">Aufgaben in der gleichen App auf dem anderen Gerät fortsetzen</string>
     <string name="pad_settings_handoff_category_title">Lernen Sie, wie man die Weiterleitung nutzt</string>
@@ -317,7 +317,7 @@
     <string name="phone_pad_video_introduction_summary">Videowiedergabe an der Stelle fortsetzen, an der Sie auf einem anderen Bildschirm aufgehört haben</string>
     <string name="phone_pad_wifi_introduction_summary">Mit dem persönlichen Hotspot Ihres Telefons verbinden, ohne Passwörter einzugeben</string>
     <string name="phone_pad_wifi_introduction_title">Automatisch verbinden</string>
-    <string name="phone_pc_app_introduction_summary">Telefon-Apps auf dem Computer verwenden</string>
+    <string name="phone_pc_app_introduction_summary">Telefon-Apps am Computer verwenden</string>
     <string name="phone_pc_connect_introduction_summary">Nach der ersten Verbindung wird ein Telefon, das mit demselben Konto verbunden ist, automatisch verbunden, wenn sich die beiden Geräte nahe beieinander befinden</string>
     <string name="phone_pc_connect_introduction_title">Automatisch verbinden</string>
     <string name="phone_pc_doc_introduction_summary">Dateien einfach durch Ziehen auf die verbundenen Geräte übertragen</string>
@@ -345,7 +345,7 @@
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
     <string name="save_failed">Speichern nicht möglich</string>
-    <string name="scanner_lower_version_toast">MIUI+ auf dem Computer aktualisieren, um zu verbinden</string>
+    <string name="scanner_lower_version_toast">MIUI+ am Computer aktualisieren, um zu verbinden</string>
     <string name="scanner_uninstalled_text">Anscheinend ist der Scanner nicht auf Ihrem Gerät installiert. Installieren Sie zuerst den Scanner.</string>
     <string name="scanner_uninstalled_title">Scanner installieren</string>
     <string name="screen_num_over_limit">Weitere Popups öffnen nicht möglich</string>
@@ -356,7 +356,7 @@
     <string name="settings_connect_more_help"><u>Hilfe</u></string>
     <string name="settings_connect_pc_group">Mit Ihrem Computer arbeiten</string>
     <string name="settings_connect_summary1">MIUI+ herunterladen und auf Ihrem Computer installieren: https://plus.miui.com.</string>
-    <string name="settings_connect_summary2">Scannen Sie den QR-Code auf dem PC-Bildschirm mit Ihrem Mobilgerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
+    <string name="settings_connect_summary2">Scannen Sie den QR-Code am PC-Bildschirm mit Ihrem Mobilgerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
     <string name="settings_connect_title1">Schritt 1</string>
     <string name="settings_connect_title2">Schritt 2</string>
     <string name="settings_current_device">Verbundenes Gerät</string>

@@ -236,7 +236,7 @@
     <string name="error_send_empty_note_to_weibo">Leere Notiz kann nicht nach Weibo verschickt werden</string>
     <string name="error_unsupport_content">Diese Notiz enthält nicht unterstützte Inhalte</string>
     <string name="error_unsupport_content_format">Diese Notiz enthält nicht unterstützte Inhalte. Auf Version %1$s oder höher aktualisieren.</string>
-    <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits auf dem Desktop vorhanden</string>
+    <string name="error_widget_exist_for_send_to_desktop">Diese Notiz ist bereits am Desktop vorhanden</string>
     <string name="evening">Nachmittag</string>
     <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
     <string name="excerpt">Auszug erstellen</string>
@@ -655,7 +655,7 @@
     <string name="pref_title_font_size">Schriftgröße</string>
     <string name="pref_title_note_style">Stil</string>
     <string name="pref_title_quick_note">Kurznotizen</string>
-    <string name="pref_title_show_root_folder_in_homepage">Schnellnotizen auf dem Hauptbildschirm anzeigen</string>
+    <string name="pref_title_show_root_folder_in_homepage">Schnellnotizen am Hauptbildschirm anzeigen</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Mit einer Geste löschen</string>
     <string name="pref_title_todo_float_mode">Aufgaben-Toolbox verwenden</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>

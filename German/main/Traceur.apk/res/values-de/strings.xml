@@ -626,7 +626,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
     <string name="show_hw_screen_updates_summary">Flash-Ansicht im Fenster, wenn mit GPU dargestellt</string>
     <string name="show_non_rect_clip">Nicht rechteckige Clip-Operationen debuggen</string>
     <string name="show_notification_channel_warnings">Warnungen für Benachrichtigungskanäle einblenden</string>
-    <string name="show_notification_channel_warnings_summary">Blendet Warnungen auf dem Bildschirm ein, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
+    <string name="show_notification_channel_warnings_summary">Blendet Warnungen am Bildschirm ein, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>
     <string name="show_quick_settings_tile">Kachel in \"Schnelleinstellungen\" anzeigen</string>
     <string name="show_screen_updates">Bildschirmaktualisierungen anzeigen</string>
     <string name="show_screen_updates_summary">In ganzer Fensterfläche blitzen, wenn sie aktualisiert wird</string>

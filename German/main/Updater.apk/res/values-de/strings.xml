@@ -31,7 +31,7 @@
     <string name="download_fail_desc">MD5-Prüfsumme stimmt nicht überein…</string>
     <string name="downloading">Herunterladen…</string>
     <string name="downloading_desc">Download läuft, Status in Benachrichtigungsleiste prüfen</string>
-    <string name="fastboot_mode">Updater ist im Fastboot-Modus. Sie können ROMs nur mit Terminal auf dem PC flashen!</string>
+    <string name="fastboot_mode">Updater ist im Fastboot-Modus. Sie können ROMs nur mit Terminal am PC flashen!</string>
     <string name="fastboot_update_warning">Dieses Update ist nur zur Fastboot-Installation gedacht!</string>
     <string name="fetch_notification_download_cancel">Abbrechen</string>
     <string name="fetch_notification_download_complete">Vollständig</string>

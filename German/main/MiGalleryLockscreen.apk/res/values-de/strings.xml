@@ -98,7 +98,7 @@
     <string name="apply_to_wallpaper">Als Startbildschirm einstellen</string>
     <string name="apply_warning_content">Sie verwenden einen Superhintergrund. Wenn Sie Ihren Hintergrund ändern, wird er sowohl auf den Start- als auch auf den Sperrbildschirm angewendet. Jetzt anwenden?</string>
     <string name="apply_warning_content_with_aod">Sie verwenden einen Superhintergrund. Wenn Sie Ihren Hintergund ändern, wird er sowohl auf den Start- als auch auf den Sperrbildschirm angewendet, und das Always-on-Display kann auf Standard zurückgesetzt werden. Jetzt anwenden?</string>
-    <string name="apply_warning_content_with_maml">Sie verwenden ein Drittanbieterthema. Wenn Sie Ihren Hintergrund ändern, wird die Uhr auf dem Sperrbildschirm evtl. auf Standard zurückgesetzt. Jetzt anwenden?</string>
+    <string name="apply_warning_content_with_maml">Sie verwenden ein Drittanbieterthema. Wenn Sie Ihren Hintergrund ändern, wird die Uhr am Sperrbildschirm evtl. auf Standard zurückgesetzt. Jetzt anwenden?</string>
     <string name="apply_warning_title">Hintergrund anwenden</string>
     <string name="article_item_hot">Sehen Sie sich %s+ beliebte Elemente an</string>
     <string name="at_least_one">Mindestens eine Kategorie wählen</string>
@@ -393,7 +393,7 @@ Dies kann zu Zusatzkosten führen."</string>
     <string name="llks_add_cate">%s abonnieren</string>
     <string name="llks_auto_switch_wp">Gewünschte Kategorien abonnieren</string>
     <string name="llks_display_error">Berechtigungen erforderlich</string>
-    <string name="llks_display_error_des">Hintergrundkarussell darf auf dem Sperrbildschirm in den Einstellungen angezeigt werden</string>
+    <string name="llks_display_error_des">Hintergrundkarussell darf am Sperrbildschirm in den Einstellungen angezeigt werden</string>
     <string name="llks_learn_more_cate">Weitere Kategorien</string>
     <string name="llks_pop_btm_des">Starten Sie den Tag mit einem Lächeln</string>
     <string name="llks_pop_btm_des_backup">Machen Sie sich einen guten Start in den Tag</string>
@@ -418,7 +418,7 @@ Dies kann zu Zusatzkosten führen."</string>
     <string name="loading"><CDATA>Einen Moment…</CDATA></string>
     <string name="lock_screen_date">EEEE, d. MMMM</string>
     <string name="lock_screen_date_12">EEEE, d. MMMM</string>
-    <string name="lock_show_permission_exception">Zulassen, dass das Hintergrundkarussell Elemente auf dem Sperrbildschirm anzeigt</string>
+    <string name="lock_show_permission_exception">Zulassen, dass das Hintergrundkarussell Elemente am Sperrbildschirm anzeigt</string>
     <string name="lockscreen_h5_back_tv">Zurück</string>
     <string name="lockscreen_h5_close_tv">Aus</string>
     <string name="lockscreen_h5_refresh_btn_tv">Aktualisieren</string>
@@ -1090,7 +1090,7 @@ dd.MM."</string>
     <string name="sst_selected_tip">Aktuell</string>
     <string name="sst_shield_tag_desc">Blockierte Kategorien verwalten</string>
     <string name="sst_shield_tag_title">Blockierte Elemente</string>
-    <string name="sst_show_lockscreen_entry_desc">Verknüpfung auf dem Sperrbildschirm anzeigen</string>
+    <string name="sst_show_lockscreen_entry_desc">Verknüpfung am Sperrbildschirm anzeigen</string>
     <string name="sst_show_lockscreen_entry_title">Verknüpfung Sperrbildschirm</string>
     <string name="sst_sliding_checkbox_checked">An</string>
     <string name="sst_sliding_checkbox_unchecked">Aus</string>

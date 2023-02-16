@@ -147,7 +147,7 @@
     <string name="apply">Anwenden</string>
     <string name="apply_action">Anwenden</string>
     <string name="apply_as_lock_screen">Sperrbildschirm</string>
-    <string name="apply_as_lock_wallpaper_message">Hintergrund auch auf dem Sperrbildschirm anwenden?</string>
+    <string name="apply_as_lock_wallpaper_message">Hintergrund auch am Sperrbildschirm anwenden?</string>
     <string name="apply_as_lockwallpaper_action">Sperrbildschirm</string>
     <string name="apply_as_wallpaper">Startbildschirm</string>
     <string name="apply_both">Für beide anwenden</string>
@@ -337,7 +337,7 @@
     <string name="exit_overview_because_task_stack_changed">Zuletzt geschlossene aufgrund von Änderungen, die im Hintergrund aufgetreten sind</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
-    <string name="external_not_support_split_screen_j18">Geteilter Bildschirm wird auf dem äußeren Bildschirm nicht unterstützt</string>
+    <string name="external_not_support_split_screen_j18">Geteilter Bildschirm wird am äußeren Bildschirm nicht unterstützt</string>
     <string name="failed_to_delete_temporary">Löschen nicht möglich</string>
     <string name="failed_to_drop">Verschieben nicht möglich</string>
     <string name="failed_to_drop_widget_invalid">Widget fehlerhaft</string>
@@ -847,11 +847,11 @@
     <string name="recommend_refresh">Aktualisieren</string>
     <string name="recommend_xout">Nicht anzeigen</string>
     <string name="refresh">Aktualisieren</string>
-    <string name="remove_dialog_message">Ausgewählte Apps enthalten wesentliche Systemfunktionen. Sie können nur ihre Verknüfungen auf dem Startbildschirm entfernen.</string>
+    <string name="remove_dialog_message">Ausgewählte Apps enthalten wesentliche Systemfunktionen. Sie können nur ihre Verknüfungen am Startbildschirm entfernen.</string>
     <string name="remove_dialog_title_format">\"%s\" vom Startbildschirm entfernen?</string>
     <string name="remove_invalidate_gadget_tips">Eins der von Ihnen verwendeten Widgets ist nicht mehr verfügbar. Sie können ein anderes hinzufügen.</string>
     <string name="remove_sys_app_content">Sie können die Startbildschirm-Verknüpfung unter Einstellungen &gt; Apps &gt; Startbildschirm-Verknüpfungen verwalten wieder hinzufügen. Jetzt entfernen?</string>
-    <string name="remove_sys_app_title">Verknüpfung auf dem Startbildschirm entfernen?</string>
+    <string name="remove_sys_app_title">Verknüpfung am Startbildschirm entfernen?</string>
     <string name="request_permission_msg">POCO Launcher benötigt einige Berechtigungen, um Ihnen den vollen Funktionsumfang zur Verfügung zu stellen.</string>
     <string name="request_permission_title">Berechtigungen erforderlich</string>
     <string name="reset_cate_tip_content">Wenn Sie fortfahren, werden die Standard-App-Gruppen wiederhergestellt. Trotzdem fortfahren?</string>

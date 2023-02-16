@@ -357,8 +357,8 @@
     <string name="quick_settings_pcmode_dialog_remember_text">Nicht mehr anzeigen</string>
     <string name="quick_settings_pcmode_error">Keine App gefunden, bitte installieren und erneut versuchen.</string>
     <string name="quick_settings_pcmode_label">PC-Modus</string>
-    <string name="quick_settings_pcmode_turn_off_description">Nach dem Beenden des PC-Modus verwenden Sie Mi-Desktop auf dem größeren Bildschirm. Sind Sie sicher, dass Sie beenden wollen?</string>
-    <string name="quick_settings_pcmode_turn_on_description">Nach dem Aufrufen des PC-Modus verwenden Sie PC-Desktop auf dem größeren Bildschirm. Sind Sie sicher, dass Sie teilnehmen wollen?</string>
+    <string name="quick_settings_pcmode_turn_off_description">Nach dem Beenden des PC-Modus verwenden Sie Mi-Desktop am größeren Bildschirm. Sicher, dass Sie beenden wollen?</string>
+    <string name="quick_settings_pcmode_turn_on_description">Nach dem Aufrufen des PC-Modus verwenden Sie PC-Desktop am größeren Bildschirm. Sicher, dass Sie teilnehmen wollen?</string>
     <string name="quick_settings_powermode_label">Leistungsmodus</string>
     <string name="quick_settings_rotationlock_label">Drehen aus</string>
     <string name="quick_settings_screenbutton_label">Tasten</string>

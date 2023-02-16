@@ -1293,7 +1293,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="permission_dailog_title">Berechtigung erforderlich</string>
     <string name="permission_notice_desc_access_fine_location">Zum Importieren von Kontakten von anderen Geräten über Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Für die Verwendung von Voicemail- und Audionachrichtenfunktionen</string>
-    <string name="permission_notice_desc_call_phone">Für Anrufe über Verknüpfungen auf dem Startbildschirm</string>
+    <string name="permission_notice_desc_call_phone">Für Anrufe über Verknüpfungen am Startbildschirm</string>
     <string name="permission_notice_desc_call_phone_for_pad">Für Anrufe in Drittanbieter-Apps</string>
     <string name="permission_notice_desc_camera">Für die Aufnahme von Profilfotos</string>
     <string name="permission_notice_desc_read_call_logs">Zur Anzeige der Anrufliste</string>
@@ -1422,7 +1422,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="privacy_policy_and_user_agreement">Datenschutzerklärung und Nutzervereinbarung</string>
     <string name="privacy_settings_blue_scan_connect">Mit Geräten in der Nähe verbinden</string>
     <string name="privacy_settings_call_phone">Anrufen</string>
-    <string name="privacy_settings_call_phone_description">Für Anrufe über Verknüpfungen auf dem Startbildschirm</string>
+    <string name="privacy_settings_call_phone_description">Für Anrufe über Verknüpfungen am Startbildschirm</string>
     <string name="privacy_settings_call_phone_description_for_pad">Für Anrufe in Drittanbieter-Apps</string>
     <string name="privacy_settings_call_phone_for_pad">Anrufen</string>
     <string name="privacy_settings_contacts">Kontakte und Telefon</string>
@@ -1589,8 +1589,8 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
     <string name="select_vcard_title">vCard-Datei auswählen</string>
     <string name="send">Senden</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Diese Verknüpfung existiert bereits</string>
-    <string name="send_contact_shortcut_todesktop_failed">Verknüpfung auf dem Startbildschirm nicht möglich</string>
-    <string name="send_contact_shortcut_todesktop_overflow">Keine weiteren Verknüpfungen auf dem Startbildschirm möglich</string>
+    <string name="send_contact_shortcut_todesktop_failed">Verknüpfung am Startbildschirm nicht möglich</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Weitere Verknüpfungen am Startbildschirm nicht möglich</string>
     <string name="send_contact_shortcut_todesktop_success">Auf Startbildschirm hinzugefügt</string>
     <string name="send_to_voicemail_checkbox">Anrufe direkt an die Mailbox weiterleiten</string>
     <string name="separatorJoinAggregateAll">Alle Kontakte</string>

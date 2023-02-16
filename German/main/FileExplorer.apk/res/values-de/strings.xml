@@ -604,7 +604,7 @@
     <string name="morning">Morgen</string>
     <string name="most_quick_category_hint">Sie können bis zu %d Verknüpfungen hinzufügen</string>
     <string name="move_failed">Verschieben fehlgeschlagen</string>
-    <string name="move_icon_to_desktop_hint">Erstellen Sie eine Verknüpfung auf dem Startbildschirm, um Explorerdateien effizienter zu verwalten</string>
+    <string name="move_icon_to_desktop_hint">Erstellen Sie eine Verknüpfung am Startbildschirm, um Explorerdateien effizienter zu verwalten</string>
     <string name="move_icon_to_desktop_success">Verknüpfung erfolgreich erstellt</string>
     <string name="move_to">Verschieben nach…</string>
     <string name="msg_notify_setting">Benachrichtigunseinstellungen</string>
@@ -1332,7 +1332,7 @@
     <string name="weibo_share_success">Erfolgreich geteilt</string>
     <string name="weixin_not_installed">WeChat nicht installiert</string>
     <string name="widget_add_files">Datei hinzufügen</string>
-    <string name="widget_added_fail_content">%1$s ist bereits auf dem Startbildschirm</string>
+    <string name="widget_added_fail_content">%1$s ist bereits am Startbildschirm</string>
     <string name="widget_added_fail_tips">Hinzufügen nicht möglich</string>
     <string name="widget_added_success_content">%1$s zum Startbildschirm hinzugefügt</string>
     <string name="widget_added_success_tips">Erfolgreich hinzugefügt</string>

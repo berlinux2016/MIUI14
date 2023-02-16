@@ -949,7 +949,7 @@
     <string name="promo_install_title_xiaomi">Xiaomi empfiehlt ein Upgrade auf Messages von Google</string>
     <string name="promo_launch_messages_btn_text">Nachrichten öffnen</string>
     <string name="promo_no_thanks_btn_text_xiaomi">Nein danke</string>
-    <string name="promo_post_install_animation_alt_text_xiaomi">Messages von Google ist jetzt Ihre Standard-SMS-App. Um Google Messages als Favorit auf dem Startbildschirm zu platzieren, drücken Sie lange auf Mi Message und verschieben es aus den Favoriten, dann drücken Sie lange auf Messages und verschieben es in die Favoriten.</string>
+    <string name="promo_post_install_animation_alt_text_xiaomi">Messages von Google ist jetzt Ihre Standard-SMS-App. Um Google Messages als Favorit am Startbildschirm zu platzieren, drücken Sie lange auf Mi Message und verschieben es aus den Favoriten, dann drücken Sie lange auf Messages und verschieben es in die Favoriten.</string>
     <string name="promo_post_install_title_no_default_xiaomi">Nachrichten durch hochwertigeres Messages von Google ersetzen</string>
     <string name="promo_post_install_title_with_default_xiaomi">Jetzt Messages von Google mit einer besseren Textqualität starten</string>
     <string name="promo_use_messages_btn_text">Messages verwenden</string>

@@ -238,7 +238,7 @@
     <string name="korea_permission_storage">Speicher</string>
     <string name="korea_permission_storage_desc">Zum Speichern von Weckern</string>
     <string name="label">Bezeichnung</string>
-    <string name="label_input_desc">Diese Bezeichnung wird auf dem Bildschirm angezeigt, wenn der Wecker klingelt.</string>
+    <string name="label_input_desc">Diese Bezeichnung wird am Bildschirm angezeigt, wenn der Wecker klingelt.</string>
     <string name="label_input_hint">Bezeichnung eingeben</string>
     <string name="label_pref_summary">Bezeichnung</string>
     <string name="lap">Runde</string>
@@ -671,7 +671,7 @@
     <string name="turn_off_this_repeat_alarm">Diesen wiederkehrenden Wecker ausschalten</string>
     <string name="tv_blank_list_other_text">Hier ist noch nichts</string>
     <string name="tv_blank_list_show_text">Hier ist noch nichts. Nach einem Ort suchen, um ihn zu Ihrer Weltuhr hinzuzufügen.</string>
-    <string name="tv_world_clock_edit_title1">Auf dem Startbildschirm angezeigte Orte</string>
+    <string name="tv_world_clock_edit_title1">Am Startbildschirm angezeigte Orte</string>
     <string name="tv_world_clock_edit_title2">Andere gespeicherte Orte</string>
     <string name="unknown_ringtone_title">Unbekannt</string>
     <string name="unselect_all">Alle abwählen</string>

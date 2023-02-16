@@ -337,7 +337,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren".</string>
     <string name="emergency_action_title">Notfall-SOS</string>
     <string name="emergency_contacts_title">Notfallkontakte</string>
     <string name="emergency_info_continue">Weiter</string>
-    <string name="emergency_info_footer">Das Hinzufügen von medizinischen Daten und Notfallkontakten kann den Ersthelfern in einem Notfall helfen.\n\nJeder kann diese Daten auf dem Sperrbildschirm lesen und Ihre Kontakte anwählen, indem er auf deren Namen tippt, ohne Ihr Telefon zu entsperren.</string>
+    <string name="emergency_info_footer">Das Hinzufügen von medizinischen Daten und Notfallkontakten kann den Ersthelfern in einem Notfall helfen.\n\nJeder kann diese Daten am Sperrbildschirm lesen und Ihre Kontakte anwählen, indem er auf deren Namen tippt, ohne Ihr Telefon zu entsperren.</string>
     <string name="enable_adb">USB-Debugging</string>
     <string name="enable_adb_summary">Debug-Modus, wenn USB angeschlossen ist</string>
     <string name="enable_adb_wireless">Kabelloses Debugging</string>
@@ -519,7 +519,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren".</string>
     <string name="picture_color_mode">Bildfarbmodus</string>
     <string name="picture_color_mode_desc">sRGB nutzen</string>
     <string name="pointer_location">Zeigerposition</string>
-    <string name="pointer_location_summary">Zeigt den Berührungspunkt auf dem Bildschirm</string>
+    <string name="pointer_location_summary">Zeigt den Berührungspunkt am Bildschirm</string>
     <string name="power_charging_duration">%1$s - %2$s bis voll</string>
     <string name="power_charging_duration_ac">%1$s - %2$s bis voll mit Netzteil</string>
     <string name="power_charging_duration_usb">%1$s - %2$s bis voll über USB</string>

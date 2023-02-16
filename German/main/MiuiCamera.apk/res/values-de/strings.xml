@@ -1635,7 +1635,7 @@
     <string name="pref_camera_long_pressing_burst_shooting_title">Auslöser lange drücken</string>
     <string name="pref_camera_long_pressing_shutter_title">Auslöser drücken &amp; halten für AF/AE/AWB</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF-Sperre</string>
-    <string name="pref_camera_lying_summary">Wenn das Mobiltelefon parallel zur Grundplatte ist, wird die Kamera-Richtungsabfrage in Echtzeit auf dem Kamera-Interface ausgegeben.</string>
+    <string name="pref_camera_lying_summary">Wenn das Mobiltelefon parallel zur Grundplatte ist, wird die Kamera-Richtungsabfrage in Echtzeit am Kamera-Interface ausgegeben.</string>
     <string name="pref_camera_lying_title">Tipps zur horizontalen und vertikalen Bildschirmführung</string>
     <string name="pref_camera_magic_mirror_title">Magischer Spiegel</string>
     <string name="pref_camera_manual_description_title">Über Pro-Funktionen</string>
@@ -1707,7 +1707,7 @@
     <string name="pref_retain_beauty">Schönheitseffekt</string>
     <string name="pref_retain_beauty_description">Jedes Mal, wenn Sie die Kamera wieder einschalten, wird die letzte Einstellung von Schönheitsparametern verwendet</string>
     <string name="pref_retain_camera_mode">Kameramodus</string>
-    <string name="pref_retain_camera_mode_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird der vorherige Aufnahmemodus und der vordere und hintere Status auf dem ersten Bildschirm beibehalten</string>
+    <string name="pref_retain_camera_mode_description">Jedes Mal, wenn Sie die Kamera wieder eingeschalten, wird der vorherige Aufnahmemodus und der vordere und hintere Status am ersten Bildschirm beibehalten</string>
     <string name="pref_retain_camera_status_description">Beim Starten der Kamera die letzte Funktionseinstellung verwenden, anstatt jedes Mal in den Ausgangszustand zurückzusetzen</string>
     <string name="pref_retain_camera_status_title">Kamerastatus beibehalten</string>
     <string name="pref_retain_live_shot">Dynamisches Foto</string>

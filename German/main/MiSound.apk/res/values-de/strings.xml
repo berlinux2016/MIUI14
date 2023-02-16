@@ -267,7 +267,7 @@
     <string name="music_headset_audio_visual_mute">Vorschau ohne Ton</string>
     <string name="music_headset_audio_visual_style">Visueller Effektstil</string>
     <string name="music_headset_audio_visual_style_summary">Visuellen Effektstil auswählen</string>
-    <string name="music_headset_audio_visual_summary">Ton mit visuellen Effekten begleiten, die auf dem Sperrbildschirm angezeigt werden</string>
+    <string name="music_headset_audio_visual_summary">Ton mit visuellen Effekten begleiten, die am Sperrbildschirm angezeigt werden</string>
     <string name="music_headset_audio_visual_toast">Erfolgreich angewendet</string>
     <string name="music_headset_audio_visual_unmute">Vorschau mit Ton</string>
     <string name="music_headset_button_settings">Fernbedienungstasten zuweisen</string>

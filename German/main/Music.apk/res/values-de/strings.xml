@@ -2226,8 +2226,8 @@
     <string name="selected_count">%1$d von %2$d ausgewählt</string>
     <string name="send">Senden</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Diese Verknüpfung existiert bereits</string>
-    <string name="send_contact_shortcut_todesktop_failed">Abkürzung auf dem Startbildschirm platzieren nicht möglich</string>
-    <string name="send_contact_shortcut_todesktop_overflow">Weitere Verknüpfungen auf dem Startbildschirm platzieren nicht möglich</string>
+    <string name="send_contact_shortcut_todesktop_failed">Verknüpfung am Startbildschirm platzieren nicht möglich</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Weitere Verknüpfungen am Startbildschirm platzieren nicht möglich</string>
     <string name="send_diagnosis_log">Protokolle senden</string>
     <string name="send_email_activate_message">Bestätigungs-E-Mail erfolgreich gesendet</string>
     <string name="send_to_title">Senden an (%1$s)</string>

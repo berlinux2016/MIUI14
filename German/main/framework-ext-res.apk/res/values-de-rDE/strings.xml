@@ -159,7 +159,7 @@
     <string name="flip_screen_camera_tip">Gerät umdrehen, um die Kamera zu verwenden</string>
     <string name="flute">Flöte</string>
     <string name="fm_record_smaple_prefix_miui">FM-Aufnahme</string>
-    <string name="fold_small_not_split">Geteilter Bildschirm wird auf dem äußeren Bildschirm nicht unterstützt</string>
+    <string name="fold_small_not_split">Geteilter Bildschirm wird am äußeren Bildschirm nicht unterstützt</string>
     <string name="force_exit_message">\"%1$s\" wurde beendet</string>
     <string name="force_exit_skip_message">Systemkomponente \"%1$s\" kann nicht beendet werden</string>
     <string name="fourhours">2 Std</string>
@@ -288,10 +288,10 @@
     <string name="lockscreen_carrier_customized">Eingeschränkter Dienst</string>
     <string name="lollipop">Lutscher</string>
     <string name="long_press_back_key">Zurück-Taste gedrückt halten</string>
-    <string name="long_press_buttom_key">Home-Taste auf dem Sperrbildschirm gedrückt halten</string>
+    <string name="long_press_buttom_key">Home-Taste am Sperrbildschirm gedrückt halten</string>
     <string name="long_press_home_key">Home-Taste gedrückt halten</string>
     <string name="long_press_menu_key">Menütaste gedrückt halten</string>
-    <string name="long_press_menu_key_when_lock">Menütaste auf dem Sperrbildschirm gedrückt halten</string>
+    <string name="long_press_menu_key_when_lock">Menütaste am Sperrbildschirm gedrückt halten</string>
     <string name="long_press_power_key">Power-Taste gedrückt halten</string>
     <string name="long_press_power_key_half_second">Power-Taste für %ss gedrückt halten</string>
     <string name="long_press_volume_down">Lautstärke runter gedrückt halten</string>
@@ -301,7 +301,7 @@
     <string name="memory_clear_nothing_result">Nichts zum Löschen im Cache vorhanden</string>
     <string name="memory_clear_result">%1$sB gelöscht</string>
     <string name="messagesent">Nachricht gesendet</string>
-    <string name="miaudiovisual_notification_summary">Einschalten, um Effekte auf dem Sperrbildschirm anzuzeigen</string>
+    <string name="miaudiovisual_notification_summary">Einschalten, um Effekte am Sperrbildschirm anzuzeigen</string>
     <string name="miaudiovisual_notification_title">Audio- und visuelle Effekte</string>
     <string name="miui_forbid_poweroff_when_device_locked">Ausschalten nicht möglich, Gerät ist gesperrt</string>
     <string name="miui_landscape_compat_toast">App eignet sich nicht zum Einklappen des Geräts, während Sie sie Querformat verwenden. Es wird empfohlen, sie im Hochformat zu verwenden</string>
