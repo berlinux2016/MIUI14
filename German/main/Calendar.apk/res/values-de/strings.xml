@@ -894,6 +894,7 @@ Netzwerkeinstellungen prüfen und erneut versuchen."</string>
     <string name="path_calendar_settings">Einstellungen/System-Apps/Kalender</string>
     <string name="permission_accounts">Für die Anmeldung und Verwaltung Ihres Systemkontos und die Zuordnung von Elementen zu diesem</string>
     <string name="permission_contacts">Für die Synchronisation der Geburtstage Ihrer Kontakte und das Versenden von Erinnerungen</string>
+    <string name="permission_denial">Berechtigungen erteilen, um diese Funktion nutzen zu können</string>
     <string name="permission_description">Rechtedetails</string>
     <string name="permission_main_purpose">Anzeigen und Verwalten von Kalenderteinträgen, Planen von Reisen, Empfangen von Erinnerungen und Abonnieren von Diensten</string>
     <string name="permission_storage">Zum Speichern von Erinnerungen und Klingeltönen</string>
@@ -947,6 +948,7 @@ Netzwerkeinstellungen prüfen und erneut versuchen."</string>
     <string name="premission_description_calendar">Zum Hinzufügen und Anzeigen Ihrer Termine</string>
     <string name="premission_description_contact">Zur Anzeige der Geburtstage Ihrer Kontakte</string>
     <string name="premission_description_log">Zum Speichern von Protokollen</string>
+    <string name="premission_description_notice">Zum Senden von Benachrichtigungen über Termine und Feiertage</string>
     <string name="premission_description_phone_state">Zur Identifizierung Ihres Geräts anhand der Geräte-ID</string>
     <string name="premission_description_ringtone">Zum Einstellen von Klingeltönen</string>
     <string name="premission_description_title">Anzeigen und Verwalten geplanter Termine</string>

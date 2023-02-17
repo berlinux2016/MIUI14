@@ -868,6 +868,7 @@ dd.MM."</string>
     <string name="passport_user_reg_region_warning">Sie können Ihr Land/Ihre Region nicht mehr ändern, sobald das Konto erstellt wurde</string>
     <string name="passport_v_code_error">Verifizierungscode ist falsch</string>
     <string name="passport_vcode_notification_title">Ihre Anmeldebestätigung ist unvollständig</string>
+    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Code an %s senden</string>
     <string name="passport_verification_failed">Authentisierung fehlgeschlagen</string>

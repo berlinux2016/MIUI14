@@ -1039,6 +1039,7 @@
     <string name="verify_account_default_title">Identität verifizieren</string>
     <string name="verify_account_title">Identität prüfen, um die Installation zu bestätigen</string>
     <string name="verify_and_install">Installieren</string>
+    <string name="verify_failed">Verifizierung fehlgeschlagen</string>
     <string name="verify_to_sure_close">Ausschalten</string>
     <string name="virus_install_authorize_dialog_msg">Diese App ist riskant und kann Ihr persönliches Eigentum beschädigen. Sie müssen Ihre Identität verifizieren, bevor Sie sie installieren</string>
     <string name="virus_install_authorize_dialog_negative">Identität verifizieren</string>
