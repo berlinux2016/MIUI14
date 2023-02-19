@@ -1714,9 +1714,9 @@
     <string name="msim_setting_no_sim_indicator">Keine SIM-Karte</string>
     <string name="msim_setting_no_sim_number">Nicht festgelegt</string>
     <string name="msim_setting_no_sim_package_info">Keine Guthabeninfo</string>
-    <string name="msim_setting_operator_network_title">Mobilfunknetz</string>
+    <string name="msim_setting_operator_network_title">Mobilfunk</string>
     <string name="msim_setting_pop_text">SIM-Karte zum Anrufen wählen</string>
-    <string name="msim_setting_screen_title">SIM-Karten &amp; Mobilfunknetze</string>
+    <string name="msim_setting_screen_title">SIM-Karten &amp; Mobilfunk</string>
     <string name="msim_setting_set_package">Tarif wählen</string>
     <string name="msim_setting_sim_info_editor_title">SIM-Info ändern</string>
     <string name="msim_sim_lock">Gesperrt</string>

@@ -8923,8 +8923,8 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="sim_lock_settings_summary_off">Aus</string>
     <string name="sim_lock_settings_summary_on">Gesperrt</string>
     <string name="sim_lock_settings_title">SIM-Kartensperre</string>
-    <string name="sim_management_title">SIM-Karten &amp; Mobilfunknetze</string>
-    <string name="sim_management_title_singlesim">Mobilfunknetze</string>
+    <string name="sim_management_title">SIM-Karten &amp; Mobilfunk</string>
+    <string name="sim_management_title_singlesim">Mobilfunk</string>
     <string name="sim_multi_sims_summary">Wählen Sie die SIM-Karte, die Sie für mobile Daten bevorzugen</string>
     <string name="sim_multi_sims_title">Mehrere SIM-Karten gefunden</string>
     <string name="sim_name_hint">SIM-Namen eingeben</string>
