@@ -33,6 +33,7 @@
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Zustimmen</string>
     <string name="alarm_alert_alert_silenced">Wecker verstummt nach %1$s</string>
+    <string name="alarm_alert_close_entrance">Ausschalten</string>
     <string name="alarm_alert_disabled">Aus</string>
     <string name="alarm_alert_now">Wecker %s</string>
     <string name="alarm_alert_snooze_button">Schlummern</string>
@@ -48,9 +49,10 @@
     <string name="alarm_list_title">Wecker</string>
     <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
     <string name="alarm_notify_text">Schlummern oder beenden</string>
+    <string name="alarm_permanent_alert">Klingeln</string>
     <string name="alarm_repeat">Wiederholen</string>
     <string name="alarm_ringtone">Wecktöne</string>
-    <string name="alarm_ringtone_picker">Alarme</string>
+    <string name="alarm_ringtone_picker">Wecker</string>
     <string name="alarm_set_new">Wecker klingelt in weniger als %d Minute.</string>
     <string name="alarm_settings">Weckereinstellungen</string>
     <string name="alarm_settings_category_title">Weckereinstellungen</string>
@@ -60,7 +62,7 @@
     <string name="alarmclock_empty_text">Kein Wecker</string>
     <string name="alarmclock_silent_hint">Wecker ist stumm</string>
     <string name="alert">Weckton</string>
-    <string name="alert_page_desc">Gedrückt halten, dann hochwischen, um den Alarm auszuschalten</string>
+    <string name="alert_page_desc">Gedrückt halten, dann hochwischen, um den Wecker auszuschalten</string>
     <string name="alert_ringtone">Alarmklingelton</string>
     <string name="alert_vibrate_enable_summary">Vibrieren beim Ausschalten des Weckers</string>
     <string name="alert_volume">Klingeltonlautstärke</string>
@@ -86,7 +88,7 @@
     <string name="bedtime_analysis_more">Mehr Daten</string>
     <string name="bedtime_banner_desc">Gleichmäßiger Schlaf ist wichtig</string>
     <string name="bedtime_banner_guide_desc">Schlafenszeit planen</string>
-    <string name="bedtime_guide_back_desc">Sie werden keine Schlafenszeit-Alarme mehr erhalten, wenn Sie jetzt beenden. Trotzdem beenden?</string>
+    <string name="bedtime_guide_back_desc">Sie werden keine Schlafenszeit-Wecker mehr erhalten, wenn Sie jetzt beenden. Trotzdem beenden?</string>
     <string name="bedtime_manage">Schlafenszeit verwalten</string>
     <string name="bedtime_manage_desc">Schlafenszeit-Erinnerungen planen und Ihren Schlaf verfolgen</string>
     <string name="bedtime_manage_open">Schlafenszeit planen</string>
@@ -130,7 +132,7 @@
     <string name="common_timer_selector">Timer wählen</string>
     <string name="confirm">Bestätigen</string>
     <string name="confirm_abort">Verwerfen</string>
-    <string name="confirm_remove_custom_ringtone">Wenn Sie diesen Klingelton löschen, werden Alarme und Timer, die ihn verwenden, stattdessen den Standardklingelton abspielen. Jetzt löschen?</string>
+    <string name="confirm_remove_custom_ringtone">Wenn Sie diesen Klingelton löschen, werden Wecker und Timer, die ihn verwenden, stattdessen den Standardklingelton abspielen. Jetzt löschen?</string>
     <string name="content_desc_keep_screen">\"Bildschirm ein\"-Taste</string>
     <string name="continue_operation">Fortfahren</string>
     <string name="continue_step">Weiter</string>
@@ -209,7 +211,7 @@
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="force_start_permission_desc">Erlauben, dass Alarme normal funktionieren, auch wenn Sie die App geschlossen haben</string>
+    <string name="force_start_permission_desc">Erlauben, dass Wecker normal funktionieren, auch wenn Sie die App geschlossen haben</string>
     <string name="force_touch_add_alarm">Wecker hinzufügen</string>
     <string name="force_touch_enter_stopwatch">Stoppuhr</string>
     <string name="friday">Freitag</string>
@@ -420,8 +422,10 @@
     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> Minuten im Voraus</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> Stunde im Voraus</string>
     <string name="notification_adv_time_entries5">Keine</string>
+    <string name="notification_permission_desc">Wenn Sie die Berechtigung für Benachrichtigungen nicht erteilen, können Sie Wecker nicht ausschalten, wenn sie klingeln. Berechtigung jetzt erteilen?</string>
     <string name="oneshot_alarm">Löschen, sobald der Wecker klingelt</string>
     <string name="open_keep_screen">Bildschirm bleibt eingeschaltet</string>
+    <string name="open_notification_permission_remind">Benachrichtigungen erlauben, um Wecker auszuschalten</string>
     <string name="open_sleep_record">Einschalten</string>
     <string name="other_category_title">Weiteres</string>
     <string name="other_settings">Weitere Einstellungen</string>
@@ -440,8 +444,8 @@
     <string name="read_external_storage_permission_desc">Zum Einstellen eigener Klingeltöne</string>
     <string name="read_internal_storage">Speicherzugriff</string>
     <string name="read_phone_state">Zugriff auf Geräteinfo</string>
-    <string name="read_phone_state_desc">Zugriff auf Anrufstatus, wenn der Alarm läutet</string>
-    <string name="read_phone_state_desc_when_request">Zugriff auf Anrufstatus, um die Alarme bei eingehenden Anrufen automatisch anzuhalten</string>
+    <string name="read_phone_state_desc">Zugriff auf Anrufstatus, wenn der Wecker läutet</string>
+    <string name="read_phone_state_desc_when_request">Zugriff auf Anrufstatus, um die Wecker bei eingehenden Anrufen automatisch anzuhalten</string>
     <string name="remark_hint">Beschriftung eingeben</string>
     <string name="remind_ringtone">Klingelton</string>
     <string name="repeat_count">Anzahl</string>
@@ -563,7 +567,7 @@
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="system_permission_agree_desc">Dieser App eine Internetverbindung erlauben, um auf alle ihre Funktionen zuzugreifen</string>
-    <string name="system_permission_main_purpose">Zeit anzeigen, Alarme und Timer einstellen, Stoppuhr verwenden</string>
+    <string name="system_permission_main_purpose">Zeit anzeigen, Wecker und Timer einstellen, Stoppuhr verwenden</string>
     <string name="system_permission_phone_desc">Zur Identifizierung verschiedener Geräte</string>
     <string name="system_permission_purpose">Wochentagsalarme und benutzerdefinierte Klingeltöne erstellen</string>
     <string name="system_permission_storage_desc">Für den Zugriff auf Wecker-Klingeltöne</string>
@@ -623,7 +627,7 @@
     <string name="timer_alert_mute_off">Wecker ertönt, wenn der Timer stoppt</string>
     <string name="timer_alert_mute_on">Wecker ertönt nicht, wenn der Timer stoppt</string>
     <string name="timer_alert_mute_remind">Tippen, um Wecker stumm zu schalten</string>
-    <string name="timer_alert_mute_switch">Schalter zum Stummschalten von Timer-Alarmen</string>
+    <string name="timer_alert_mute_switch">Schalter zum Stummschalten von Timer-Weckern</string>
     <string name="timer_alert_type_beach">Strand</string>
     <string name="timer_alert_type_forest">Wald</string>
     <string name="timer_alert_type_mute">Standard</string>
@@ -728,7 +732,7 @@
     <string name="worldcolock_timezone_gap">%s Stunde/n</string>
     <string name="worldcolock_timezone_local">- wie Ortszeit</string>
     <string name="xiaoai_ringtone_title">Mi KI Klingeltöne</string>
-    <string name="xiaomi_deskclock_uninstall_description_content">Uhr ist eine System-App. Wenn Sie sie deinstallieren, können Sie die Uhrzeit nicht mehr prüfen, keine Alarme einstellen und keine anderen Funktionen der Uhr nutzen.</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">Uhr ist eine System-App. Wenn Sie sie deinstallieren, können Sie die Uhrzeit nicht mehr prüfen, keine Wecker einstellen und keine anderen Funktionen der Uhr nutzen.</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Uhr deinstallieren?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>

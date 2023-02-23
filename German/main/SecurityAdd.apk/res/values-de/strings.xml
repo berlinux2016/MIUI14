@@ -64,7 +64,7 @@
     <string name="ew_detail_earthquake_feel_title">Geschätzte Stärke</string>
     <string name="ew_detail_earthquake_level_title">Geschätztes Ausmaß</string>
     <string name="ew_detail_receive_alert_from">Daten bereitgestellt vom Chengdu Hi-tech Disaster Reduction Institute</string>
-    <string name="ew_detail_receive_distance_message2">%s km (Epizentrum ist weit entfernt von Ihnen. Vielleicht spüren Sie das Erdbeben nicht.)</string>
+    <string name="ew_detail_receive_distance_message2">%s km (Epizentrum ist weit von Ihnen entfernt. Vielleicht spüren Sie das Erdbeben nicht.)</string>
     <string name="ew_detail_receive_distance_title">Entfernung zum Epizentrum</string>
     <string name="ew_detail_receive_location_title">Standort</string>
     <string name="ew_detail_receive_time_title">Startzeit</string>

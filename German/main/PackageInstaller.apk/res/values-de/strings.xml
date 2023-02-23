@@ -597,8 +597,8 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
     <string name="wifi_verbose_logging">Ausführliche Protokollierung für WLAN aktivieren</string>
     <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
     <string name="window_animation_scale_title">Fensteranimation</string>
-    <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
-    <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
+    <string name="zen_alarm_warning">Sie werden Ihren nächsten Wecker %1$s nicht hören</string>
+    <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Wecker %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
     <string name="zen_interruption_level_priority">Nur mit Vorrang</string>
     <string name="zen_mode_duration_always_prompt_title">Jedes Mal fragen</string>
     <string name="zen_mode_duration_settings_title">Dauer</string>

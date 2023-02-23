@@ -379,7 +379,7 @@
     <string name="quick_settings_wifi_detail_empty_text">Kein WLAN verfügbar</string>
     <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wireless_label">Kabelloses Umkehrladen</string>
-    <string name="reboot_info_auto_boot">Kommender Alarm: %s</string>
+    <string name="reboot_info_auto_boot">Kommender Wecker: %s</string>
     <string name="reboot_info_shutdown_alarm">Abschaltalarm: %s</string>
     <string name="reset">Zurücksetzen</string>
     <string name="restart">Neustart</string>

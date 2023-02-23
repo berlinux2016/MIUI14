@@ -763,11 +763,11 @@ Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin.
         <item quantity="one">%d weitere</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Änderung der Alarme nur für %1$d Stunden bis %2$s</item>
-        <item quantity="one">Änderung der Alarme nur für %1$d Stunde bis %2$s</item>
+        <item quantity="other">Änderung der Wecker nur für %1$d Stunden bis %2$s</item>
+        <item quantity="one">Änderung der Wecker nur für %1$d Stunde bis %2$s</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Änderung der Alarme nur für %1$d Minuten bis %2$s</item>
-        <item quantity="one">Änderung der Alarme nur für %1$d Minute bis %2$s</item>
+        <item quantity="other">Änderung der Wecker nur für %1$d Minuten bis %2$s</item>
+        <item quantity="one">Änderung der Wecker nur für %1$d Minute bis %2$s</item>
     </plurals>
 </resources>

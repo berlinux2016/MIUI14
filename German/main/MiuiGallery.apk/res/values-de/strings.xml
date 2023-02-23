@@ -540,6 +540,7 @@
     <string name="cloud_bacup_disable_processing">Bearbeiten läuft…</string>
     <string name="cloud_camera_display_name">Kamerafotos</string>
     <string name="cloud_cancel_authorizing_to_device">Autorisierung abbrechen…</string>
+    <string name="cloud_data_size">Fotos und Videos in der Cloud: %1$s</string>
     <string name="cloud_full_space_tip_message">Cloud-Speichertarif upgraden, um alle Ihre Fotos und Videos mit der Cloud zu synchronisieren.</string>
     <string name="cloud_full_space_tip_negative">Jetzt nicht</string>
     <string name="cloud_full_space_tip_positive">Upgrade</string>
@@ -1276,6 +1277,7 @@
     <string name="id_photo_module_finish">\"ID\"-Plugin erfolgreich heruntergeladen</string>
     <string name="id_photo_module_loading">\"ID\"-Plugin herunterladen…</string>
     <string name="ignore_album">Nicht anzeigen</string>
+    <string name="ignore_alert_dialog_title">Diese Person ignorieren?</string>
     <string name="ignore_alert_title">Dieses Album nicht anzeigen?</string>
     <string name="ignore_face">Diese Person ignorieren</string>
     <string name="ignore_faces_title">Ignoriert</string>

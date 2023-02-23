@@ -82,12 +82,12 @@
         <item quantity="one">Zuletzt geladen vor %1$d Tag</item>
     </plurals>
     <plurals name="device_settings_alarm_add_max_expression_plurals">
-        <item quantity="other">Sie können bis zu %1$s Alarme hinzufügen</item>
-        <item quantity="one">Sie können bis zu %1$s Alarm hinzufügen</item>
+        <item quantity="other">Sie können bis zu %1$s Wecker hinzufügen</item>
+        <item quantity="one">Sie können bis zu %1$s Wecker hinzufügen</item>
     </plurals>
     <plurals name="device_settings_alarm_clocks">
-        <item quantity="other">%1$d Alarme</item>
-        <item quantity="one">%1$d Alarm</item>
+        <item quantity="other">%1$d Wecker</item>
+        <item quantity="one">%1$d Wecker</item>
     </plurals>
     <plurals name="device_settings_common_items">
         <item quantity="other">%1$d Termine</item>

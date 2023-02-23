@@ -1366,7 +1366,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
     <string name="permdesc_sdcardRead">Erlaubt der App, den USB-Speicher zu lesen</string>
     <string name="permdesc_sdcardWrite">Erlaubt der App, auf den USB-Speicher zu schreiben</string>
     <string name="permdesc_sendSms">Erlaubt der App, SMS zu senden. Dies kann zu unerwarteten Kosten führen. Schädliche Apps können Kosten verursachen, indem diese Nachrichten ohne Ihre Bestätigung senden.</string>
-    <string name="permdesc_setAlarm">Erlaubt der App, einen Alarm in einer installierten Wecker-App einzurichten. Einige Wecker-Apps implementieren diese Funktion möglicherweise nicht.</string>
+    <string name="permdesc_setAlarm">Erlaubt der App, einen Wecker in einer installierten Wecker-App einzurichten. Einige Wecker-Apps implementieren diese Funktion möglicherweise nicht.</string>
     <string name="permdesc_setInputCalibration">Erlaubt der App, die Kalibrierungsparameter des Touchscreens zu ändern. Für normale Apps sollte dies nie erforderlich sein.</string>
     <string name="permdesc_setTimeZone">Erlaubt der App, die Zeitzone des Telefons zu ändern</string>
     <string name="permdesc_setWallpaper">Erlaubt der App, den Hintergrund des Systems festzulegen</string>
@@ -2128,7 +2128,7 @@ Möchten Sie sie schließen?"</string>
     <string name="write_fail_reason_cannot_write">Fehler beim Schreiben von Inhalten</string>
     <string name="year">Jahr</string>
     <string name="years">Jahre</string>
-    <string name="zen_mode_alarm">Bis %1$s (nächster Alarm)</string>
+    <string name="zen_mode_alarm">Bis %1$s (nächster Wecker)</string>
     <string name="zen_mode_default_events_name">Termin</string>
     <string name="zen_mode_default_every_night_name">Schlafen</string>
     <string name="zen_mode_default_weekends_name">Wochenende</string>

@@ -863,7 +863,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_show_notification_before_exit">Benachrichtigungen vor Abschluss</string>
     <string name="auto_task_temp_no_exit">Abbrechen</string>
     <string name="auto_task_temp_no_need">Abbrechen</string>
-    <string name="auto_task_voice_dialog_alarm_title">Alarme</string>
+    <string name="auto_task_voice_dialog_alarm_title">Wecker</string>
     <string name="auto_task_voice_dialog_call_title">Anrufe, Benachrichtigungen, Erinnerungen</string>
     <string name="auto_task_voice_dialog_media_title">Musik, Spiele, Medien</string>
     <string name="back_app_name">Zurück zur App-Sperre</string>
@@ -5927,7 +5927,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="warningcenter_mijia_open_desc">Sie erhalten Warnmeldungen auf diesem Telefon und anderen gemeinsam genutzten Geräten, wenn von den Geräten, die Sie in Mi Home hinzugefügt haben, Warnmeldungen ausgegeben werden.</string>
     <string name="warningcenter_mijia_open_title">Warnmeldungsempfang von smarten Geräten</string>
     <string name="warningcenter_mijia_page_title">Warnungen</string>
-    <string name="warningcenter_mijia_search_keywords">Mi Home-Alarme</string>
+    <string name="warningcenter_mijia_search_keywords">Mi Home-Wecker</string>
     <string name="warningcenter_mijia_title">Warnungen von Smart Home-Geräten</string>
     <string name="warningcenter_policeassist_charge_tips">*Für ausgehende Textnachrichten fallen evtl. Kosten an. Wenden Sie sich an Ihren Anbieter, um die Tarife zu erfahren.</string>
     <string name="warningcenter_policeassist_close_btn">Ausschalten</string>

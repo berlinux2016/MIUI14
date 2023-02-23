@@ -527,7 +527,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="install_gallery_content">Sie haben Galerie noch nicht installiert. Jetzt herunterladen?</string>
     <string name="install_gallery_title">Galerie installieren</string>
     <string name="is_setting_wallpaper_message">Hintergrund einstellen…</string>
-    <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
+    <string name="item_resource_audio_optional_alarm_ring">Wecker</string>
     <string name="item_resource_audio_optional_color_ring">Rückrufton</string>
     <string name="item_resource_audio_optional_notification_ring">Benachrichtigungen</string>
     <string name="item_resource_audio_optional_phone_ring">Klingelton</string>
@@ -802,7 +802,7 @@ Anzeigen und Verwenden der Elemente, die Sie gekauft oder zu den Favoriten hinzu
     <string name="paying">Kaufen…</string>
     <string name="permission_desc">Berechtigungsdetails</string>
     <string name="personalize">Personalisierung</string>
-    <string name="personalize_alarm_ringtone_title">Alarme</string>
+    <string name="personalize_alarm_ringtone_title">Wecker</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Klingeltöne</string>
     <string name="personalize_charge_style_title">Aufladen</string>

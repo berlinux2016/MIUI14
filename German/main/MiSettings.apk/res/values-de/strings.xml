@@ -831,8 +831,8 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
     <string name="usage_state_open_focus_mode">Fokusmodus einschalten</string>
     <string name="usage_state_over_p">Besser als</string>
     <string name="usage_state_remind_new_summary">Benachrichtigung erhalten, wenn die Bildschirmzeit das eingestellte Limit erreicht</string>
-    <string name="usage_state_remind_summary">Einschalten, um Bildschirmzeit-Alarme zu erhalten.</string>
-    <string name="usage_state_remind_title">Bildschirmzeit-Alarm</string>
+    <string name="usage_state_remind_summary">Einschalten, um Bildschirmzeit-Wecker zu erhalten.</string>
+    <string name="usage_state_remind_title">Bildschirmzeit-Wecker</string>
     <string name="usage_state_rest_day">An Wochenenden</string>
     <string name="usage_state_running_days">Serie (Tage)</string>
     <string name="usage_state_saturday">Sa</string>
@@ -852,10 +852,10 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
     <string name="usage_state_unlock_mourth_day">Entsperrt am %s</string>
     <string name="usage_state_unusage">Heute nicht verwendet</string>
     <string name="usage_state_usage_time">Bildschirmzeit</string>
-    <string name="usage_state_usage_time_remind">Bildschirmzeit-Alarm</string>
+    <string name="usage_state_usage_time_remind">Bildschirmzeit-Wecker</string>
     <string name="usage_state_usage_time_weekday_title">Wochentags</string>
     <string name="usage_state_usage_time_weekend_title">Am Wochenende</string>
-    <string name="usage_state_use_time_remind_title">Bildschirmzeit-Alarm</string>
+    <string name="usage_state_use_time_remind_title">Bildschirmzeit-Wecker</string>
     <string name="usage_state_wakeups_title">Bildschirm eingeschaltet</string>
     <string name="usage_state_wednesday">Mi</string>
     <string name="usage_state_week_day_hour_minute">An Wochenenden: %1$d Std %2$d Min</string>
@@ -905,11 +905,11 @@ Diese App muss eine Internetverbindung herstellen und benötigt folgende Berecht
     <string name="usagestats_device_notification_des">Bildschirmzeit-Limit heute: %s</string>
     <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmzeit-Limit erreicht.</string>
     <string name="usagestats_device_notification_des_reset">Limit heute: %1$s | %2$s übrig</string>
-    <string name="usagestats_device_notification_title">Bildschirmzeit-Alarm</string>
+    <string name="usagestats_device_notification_title">Bildschirmzeit-Wecker</string>
     <string name="usagestats_device_timeout_des">Sie haben Ihr Gerät heute für %1$d Std %2$d Min verwendet. Ruhen Sie Sich aus!</string>
     <string name="usagestats_device_timeout_negative">In 1 Std erinnern</string>
     <string name="usagestats_device_timeout_positive">Verstanden</string>
-    <string name="usagestats_device_timeout_title">Bildschirmzeit-Alarm</string>
+    <string name="usagestats_device_timeout_title">Bildschirmzeit-Wecker</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="vampire_finch">Vampirgrundfink</string>

@@ -987,6 +987,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="message_decode_error">Nachricht wurde nicht entschlüsselt</string>
     <string name="message_details_title">Nachrichtendetails</string>
     <string name="message_discarded">Entwurf verworfen</string>
+    <string name="message_forward_has_signature_pdf">Leiten Sie signierte PDF-Anhänge weiter?</string>
     <string name="message_invite_accept">Ja</string>
     <string name="message_invite_calendar_download_prompt">Kalender herunterladen, um diese Funktion zu verwenden</string>
     <string name="message_invite_calendar_view">Im Kalender anzeigen</string>

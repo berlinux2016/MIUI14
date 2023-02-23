@@ -230,7 +230,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="exception_move_file_exist">Das zu verschiebende Element befindet sich bereits im Zielordner</string>
     <string name="exception_move_sub_path">Elemente können nicht innerhalb desselben Ordners verschoben werden</string>
     <string name="exception_net_not_available">Netzwerkverbindung nicht möglich</string>
-    <string name="exception_not_support_modify_for_overseas_user">Diese Funktion ist außerhalb Chinas nicht verfügbar</string>
+    <string name="exception_not_support_modify_for_overseas_user">Diese Funktion ist außerhalb des chinesischen Festlandes nicht verfügbar</string>
     <string name="exception_param_error">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="exception_rename_conflict">Umbenennen nicht möglich. Ein Element mit diesem Namen existiert bereits.</string>
     <string name="exception_rename_illegal_char">Dateinamen dürfen keine Sonderzeichen enthalten</string>
@@ -338,6 +338,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="login_reg_content">Speichern Sie Dateien und synchronisieren Sie diese über mehrere Geräte</string>
     <string name="login_reg_title">Nutzen Sie Mi Drive von überall her</string>
     <string name="logout_account">Abmelden</string>
+    <string name="member_menu_vipname_extend_package">Cloud-Speicher hinzufügen</string>
     <string name="micloud_space_applist_detail">Sie können Sicherungen des Startbildschirm-Layouts auf Ihrem Mobilgerät anzeigen.</string>
     <string name="micloud_space_duokan_detail">"Öffnen Sie Duokan auf Ihrem Telefon und gehen Sie zum Bücherregal &gt; Cloud-Speicherplatz, um Speicherplatz zu verwalten.
 Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto verwenden."</string>
@@ -445,7 +446,7 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="no_tasks">Keine Aufgaben</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="not_support_upload_file_for_overseas_users">Hochladen ist außerhalb Chinas nicht möglich</string>
+    <string name="not_support_upload_file_for_overseas_users">Hochladen ist außerhalb des chinesischen Festlandes nicht möglich</string>
     <string name="notification_channel_remind">Benachrichtigungen</string>
     <string name="notification_channel_service">Dienste</string>
     <string name="open_changed_file_message">"Die Datei, die Sie versuchen zu öffnen, wurde geändert.
@@ -752,7 +753,7 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="start_upload">Hochladen beginnen…</string>
     <string name="start_use_xiaomi_account">Beginnen Sie, Mi Drive zu verwenden</string>
     <string name="stay_tuned">Bleiben Sie dran</string>
-    <string name="stay_tuned_sub_desc">Dieser Dienst ist derzeit nur in China verfügbar</string>
+    <string name="stay_tuned_sub_desc">Dieser Dienst ist derzeit nur auf dem chinesischen Festland verfügbar</string>
     <string name="storage_internal">Interner Speicher</string>
     <string name="storage_manage_list_title_action">Mehr</string>
     <string name="storage_manage_renewal">Aktualisieren</string>

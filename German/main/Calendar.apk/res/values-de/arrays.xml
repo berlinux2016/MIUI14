@@ -190,7 +190,7 @@
         <item>Benachrichtigung</item>
         <item>E-Mail</item>
         <item>SMS</item>
-        <item>Alarm</item>
+        <item>Wecker</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0 Minuten</item>

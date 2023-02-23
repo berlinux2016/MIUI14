@@ -1100,6 +1100,9 @@
     <string name="headset_and_audio_effect_category">Kopfhörer &amp; Audioeffekte</string>
     <string name="headset_and_audio_effect_summary">Kopfhörer &amp; Equalizer</string>
     <string name="headset_and_audio_effect_title">Kopfhörer &amp; Audioeffekte</string>
+    <string name="hgm_vip_btn_desc">Kostenlose Testversion starten</string>
+    <string name="hgm_vip_high_quality">Downloads in hoher Qualität</string>
+    <string name="hgm_vip_no_ads">Keine Werbung oder Beschränkungen</string>
     <string name="hide_album">Albumcover verstecken</string>
     <string name="hide_lyric">Songtext verstecken</string>
     <string name="hifi_quality">Hi-Fi-Qualität</string>

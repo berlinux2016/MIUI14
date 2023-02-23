@@ -224,9 +224,9 @@
     <string name="accessibility_quick_settings_airplane_changed_on">Flugmodus an</string>
     <string name="accessibility_quick_settings_airplane_off">Flugmodus aus</string>
     <string name="accessibility_quick_settings_airplane_on">Flugmodus an</string>
-    <string name="accessibility_quick_settings_alarm">Alarm eingestellt für %s</string>
-    <string name="accessibility_quick_settings_alarm_on">Alarm an</string>
-    <string name="accessibility_quick_settings_alarm_set">Alarm eingestellt</string>
+    <string name="accessibility_quick_settings_alarm">Wecker eingestellt für %s</string>
+    <string name="accessibility_quick_settings_alarm_on">Wecker an</string>
+    <string name="accessibility_quick_settings_alarm_set">Wecker eingestellt</string>
     <string name="accessibility_quick_settings_battery">Akku %s</string>
     <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth aus</string>
     <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth an</string>
@@ -244,7 +244,7 @@
     <string name="accessibility_quick_settings_data_saver_changed_on">Datensparen an</string>
     <string name="accessibility_quick_settings_detail">Schnelleinstellungen, %s</string>
     <string name="accessibility_quick_settings_dnd">Nicht stören</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">Nicht stören an, nur Alarm</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Nicht stören an, nur Wecker</string>
     <string name="accessibility_quick_settings_dnd_changed_off">Nicht stören aus</string>
     <string name="accessibility_quick_settings_dnd_changed_on">Nicht stören an</string>
     <string name="accessibility_quick_settings_dnd_none_on">Nicht stören an, totale Ruhe</string>
@@ -400,10 +400,10 @@
     <string name="airplane_mode">Flugmodus</string>
     <string name="alarm_template">um %1$s</string>
     <string name="alarm_template_far">um %1$s</string>
-    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Alarme zu setzen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Alarme und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
-    <string name="alarms_and_reminders_label">Alarme und Erinnerungen</string>
-    <string name="alarms_and_reminders_switch_title">Einstellen von Alarmen und Erinnerungen zulassen</string>
-    <string name="alarms_and_reminders_title">Alarme &amp; Erinnerungen</string>
+    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Wecker einzustellen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Wecker und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
+    <string name="alarms_and_reminders_label">Wecker &amp; Erinnerungen</string>
+    <string name="alarms_and_reminders_switch_title">Einstellen von Weckern und Erinnerungen zulassen</string>
+    <string name="alarms_and_reminders_title">Wecker &amp; Erinnerungen</string>
     <string name="all_network_unavailable">Kein Netzwerk verfügbar</string>
     <string name="allow_mock_location">Scheinstandorte zulassen</string>
     <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
@@ -980,7 +980,7 @@
     <string name="dream_complication_title_date">Datum</string>
     <string name="dream_complication_title_time">Zeit</string>
     <string name="dream_complication_title_weather">Wetter</string>
-    <string name="dream_overlay_status_bar_alarm_set">Alarm eingestellt</string>
+    <string name="dream_overlay_status_bar_alarm_set">Wecker eingestellt</string>
     <string name="dream_overlay_status_bar_camera_mic_off">Kamera und Mikro sind aus</string>
     <string name="dream_overlay_status_bar_notification_indicator">{count, plural, =1 {# Benachrichtigung} other {# Benachrichtigungen} }</string>
     <string name="dream_overlay_status_bar_priority_mode">Prioritätsmodus</string>
@@ -1377,7 +1377,7 @@
     <string name="instant_apps_message">Instant Apps werden nicht installiert</string>
     <string name="instant_apps_message_with_help">App wurde geöffnet, ohne installiert zu sein. Hier tippen, um mehr zu erfahren.</string>
     <string name="instant_apps_title">%1$s läuft</string>
-    <string name="interruption_level_alarms">Nur Alarme</string>
+    <string name="interruption_level_alarms">Nur Wecker</string>
     <string name="interruption_level_alarms_twoline">Nur\nAlarme</string>
     <string name="interruption_level_none">Totale Stille</string>
     <string name="interruption_level_none_twoline">Totale\nStille</string>
@@ -1431,7 +1431,7 @@
     <string name="keyboard_shortcut_group_system_switch_input">Eingabemethode wechseln</string>
     <string name="keyboardview_keycode_delete">Löschen</string>
     <string name="keyboardview_keycode_enter">Eingabetaste</string>
-    <string name="keyguard_accessibility_next_alarm">Nächster Alarm für %1$s eingestellt</string>
+    <string name="keyguard_accessibility_next_alarm">Nächster Wecker für %1$s eingestellt</string>
     <string name="keyguard_accessibility_password">Gerätepasswort</string>
     <string name="keyguard_accessibility_pin_area">PIN Zone</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN Zone</string>
@@ -1512,7 +1512,7 @@
     <string name="keyguard_try_fingerprint">Zum Öffnen Fingerabdruck verwenden</string>
     <string name="keyguard_unlock">Zum Entsperren hochwischen</string>
     <string name="keyguard_unlock_press">Zum Öffnen drücken</string>
-    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
+    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Wecker, Erinnerung, Uhr</string>
     <string name="kg_enter_confirm_pin_hint">Gewünschten PIN-Code bestätigen</string>
     <string name="kg_face_not_recognized">Nicht erkannt</string>
     <string name="kg_face_sensor_privacy_enabled">Um Gesichtsentsperrung zu verwenden, <b>Kamerazugriff</b> unter Einstellungen > Datenschutz einschalten</string>
@@ -2305,7 +2305,7 @@
     <string name="prompt_safe">Sicher</string>
     <string name="prompt_unknown">Ungenau</string>
     <string name="qr_code_scanner_title">QR-Code scannen</string>
-    <string name="qs_alarm_tile_no_alarm">Kein Alarm eingestellt</string>
+    <string name="qs_alarm_tile_no_alarm">Kein Wecker eingestellt</string>
     <string name="qs_bill_message_balance">%1$s %2$s verbleiben</string>
     <string name="qs_control_big_tile_state_closed">AUS</string>
     <string name="qs_control_big_tile_state_closing">Ausschalten…</string>
@@ -2415,7 +2415,7 @@
     <string name="quick_settings_disclosure_parental_controls">Dieses Gerät wird von Ihren Eltern verwaltet</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">Persönliches Profil ist verbunden mit %1$s</string>
     <string name="quick_settings_disclosure_vpns">Telefon ist verbunden mit VPNs</string>
-    <string name="quick_settings_dnd_alarms_label">Nur Alarm</string>
+    <string name="quick_settings_dnd_alarms_label">Nur Wecker</string>
     <string name="quick_settings_dnd_label">Nicht stören</string>
     <string name="quick_settings_dnd_none_label">Totale Stille</string>
     <string name="quick_settings_dnd_priority_label">Nur Dringendes</string>
@@ -2504,7 +2504,7 @@
     <string name="quick_settings_work_mode_label">Arbeitsmodus</string>
     <string name="quick_step_accessibility_toggle_overview">Toggle-Übersicht</string>
     <string name="rapid_charge_mode_tip">Schnellladung</string>
-    <string name="reboot_info_auto_boot_global">Bevorstehender Alarm: %s</string>
+    <string name="reboot_info_auto_boot_global">Bevorstehender Wecker: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Abschaltalarm: %s</string>
     <string name="reboot_to_bootloader_title">Fastboot-Modus</string>
     <string name="reboot_to_recovery_title">Recovery-Modus</string>
@@ -2797,7 +2797,7 @@
     <string name="status_bar">Statusleiste</string>
     <string name="status_bar_accessibility_dismiss_recents">Letzte Apps entfernen</string>
     <string name="status_bar_airplane">Flugmodus</string>
-    <string name="status_bar_alarm">Alarm</string>
+    <string name="status_bar_alarm">Wecker</string>
     <string name="status_bar_clear_all_button">Löschen</string>
     <string name="status_bar_clock_date_format">E, d. MMM</string>
     <string name="status_bar_clock_date_format_12">E, d. MMM</string>
@@ -3092,8 +3092,8 @@
     <string name="usb_accessory_uri_prompt">Keine App für dieses USB-Zubehör gefunden. Erfahren Sie mehr über dieses Zubehör auf %1$s</string>
     <string name="usb_audio_device_confirm_prompt_title">%1$s öffnen, um %2$s zu bearbeiten?</string>
     <string name="usb_audio_device_permission_prompt_title">%1$s den Zugriff auf %2$s erlauben?</string>
-    <string name="usb_audio_device_prompt">Die Verwendung von %1$s mit diesem Gerät kann das Hören von Anrufen, Benachrichtigungen und Alarmen verhindern.</string>
-    <string name="usb_audio_device_prompt_warn">Dieser App wurde keine Aufnahmeerlaubnis erteilt, aber sie könnte über dieses USB-Gerät Audio aufnehmen. Die Verwendung von %1$s mit diesem Gerät könnte das Hören von Anrufen, Benachrichtigungen und Alarmen verhindern.</string>
+    <string name="usb_audio_device_prompt">Die Verwendung von %1$s mit diesem Gerät kann das Hören von Anrufen, Benachrichtigungen und Weckern verhindern.</string>
+    <string name="usb_audio_device_prompt_warn">Dieser App wurde keine Aufnahmeerlaubnis erteilt, aber sie könnte über dieses USB-Gerät Audio aufnehmen. Die Verwendung von %1$s mit diesem Gerät könnte das Hören von Anrufen, Benachrichtigungen und Weckern verhindern.</string>
     <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
     <string name="usb_audio_disable_routing_summary">Automatisches Routing auf USB-Audio-Peripheriegeräte deaktivieren</string>
     <string name="usb_contaminant_message">Um Ihr Gerät vor Flüssigkeiten oder Schmutz zu schützen, ist der USB-Port deaktiviert und erkennt kein Zubehör.\n\nSie werden benachrichtigt, wenn Sie den USB-Port wieder verwenden können.</string>
@@ -3403,9 +3403,9 @@
     <string name="wrong_password">Ungültiges Passwort</string>
     <string name="yes_bubbles">Erlauben</string>
     <string name="yesterday">Gestern</string>
-    <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
-    <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
-    <string name="zen_alarms_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme. Sie hören immer noch alles, was Sie spielen möchten, inkl. Musik, Videos und Spiele.</string>
+    <string name="zen_alarm_warning">Sie werden Ihren nächsten Wecker %1$s nicht hören</string>
+    <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Wecker %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
+    <string name="zen_alarms_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Wecker. Sie hören immer noch alles, was Sie spielen möchten, inkl. Musik, Videos und Spiele.</string>
     <string name="zen_interruption_level_priority">Nur mit Vorrang</string>
     <string name="zen_mode_duration_always_prompt_title">Jedes Mal fragen</string>
     <string name="zen_mode_duration_settings_title">Dauer</string>
@@ -3418,7 +3418,7 @@
     <string name="zen_mode_warnings_quit_immediately">Ausschalten</string>
     <string name="zen_mode_warnings_title">DND ist an</string>
     <string name="zen_priority_customize_button">Anpassen</string>
-    <string name="zen_priority_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Alarme, Erinnerungen, Termine und Anrufer, die Sie angeben. Sie hören immer noch alles was Sie spielen möchten, inkl. Musik, Videos und Spiele.</string>
-    <string name="zen_silence_introduction">Dies blockiert ALLE Töne und Vibrationen, inkl. von Alarmen, Musik, Videos und Spielen.</string>
-    <string name="zen_silence_introduction_voice">Dies blockiert ALLE Töne und Vibrationen, inkl. von Alarmen, Musik, Videos und Spielen. Sie werden immer noch in der Lage sein, zu telefonieren.</string>
+    <string name="zen_priority_introduction">Sie werden nicht durch Töne und Vibrationen gestört, außer durch Wecker, Erinnerungen, Termine und Anrufer, die Sie angeben. Sie hören immer noch alles was Sie spielen möchten, inkl. Musik, Videos und Spiele.</string>
+    <string name="zen_silence_introduction">Dies blockiert ALLE Töne und Vibrationen, inkl. von Weckern, Musik, Videos und Spielen.</string>
+    <string name="zen_silence_introduction_voice">Dies blockiert ALLE Töne und Vibrationen, inkl. von Weckern, Musik, Videos und Spielen. Sie werden immer noch in der Lage sein, zu telefonieren.</string>
 </resources>

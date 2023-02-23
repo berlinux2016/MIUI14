@@ -223,7 +223,7 @@ Falls das Gerät mehrere Benutzer hat, werden die Eingabehilfen durch Verwendung
     <string name="accessibility_no_service_selected">Kein Dienst gewählt</string>
     <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
     <string name="accessibility_no_wifi">WLAN getrennt</string>
-    <string name="accessibility_notification_alarm_vibration_category_title">Benachrichtigungen und Alarme</string>
+    <string name="accessibility_notification_alarm_vibration_category_title">Benachrichtigungen &amp; Wecker</string>
     <string name="accessibility_notification_vibration_title">"Klingeln &amp; vibrieren\nbei Benachrichtigung"</string>
     <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Einhandmodus zu den Schnelleinstellungen hinzugefügt. Runterwischen, um ihn jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_one_handed_mode_qs_tooltip_content">Sie können Einhandmodus auch über die Schnelleinstellungen am oberen Bildschirmrand hinzufügen</string>
@@ -620,10 +620,10 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="alarm_template_far">um %1$s</string>
     <string name="alarm_volume_option_title">Wecker</string>
     <string name="alarm_volume_title">Wecker</string>
-    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Alarme zu setzen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Alarme und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
-    <string name="alarms_and_reminders_label">Alarme und Erinnerungen</string>
-    <string name="alarms_and_reminders_switch_title">Einstellen von Alarmen und Erinnerungen zulassen</string>
-    <string name="alarms_and_reminders_title">Alarme &amp; Erinnerungen</string>
+    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Wecker einzustellen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Wecker und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
+    <string name="alarms_and_reminders_label">Wecker &amp; Erinnerungen</string>
+    <string name="alarms_and_reminders_switch_title">Einstellen von Weckern und Erinnerungen zulassen</string>
+    <string name="alarms_and_reminders_title">Wecker &amp; Erinnerungen</string>
     <string name="alert_button_agree_and_continue">Erlauben</string>
     <string name="alert_button_deny">Ablehnen</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite bittet um Erlaubnis, eine Sicherung auf einem Computer zu erstellen. Erlauben?</string>
@@ -3395,7 +3395,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="emergency_gesture_screen_summary">Drücken Sie die Power-Taste schnell 5-mal oder öfter, um die folgenden Aktionen zu starten</string>
     <string name="emergency_gesture_screen_title">Notfall-SOS</string>
     <string name="emergency_gesture_sound_setting_summary">Einen lauten Ton abspielen, wenn Notfall-SOS startet</string>
-    <string name="emergency_gesture_sound_setting_title">Countdown-Alarm abspielen</string>
+    <string name="emergency_gesture_sound_setting_title">Countdown-Wecker abspielen</string>
     <string name="emergency_gesture_switchbar_title">Notfall-SOS verwenden</string>
     <string name="emergency_info_contextual_card_summary">Medizinische Daten, Notfallkontakte</string>
     <string name="emergency_info_summary">Info &amp; Kontakte für %1$s</string>
@@ -3500,18 +3500,18 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="encryption_and_credential_settings_title">Verschlüsselung &amp; Anmeldedaten</string>
     <string name="encryption_continue_button">Weiter</string>
     <string name="encryption_interstitial_header">Sicherer Start</string>
-    <string name="encryption_interstitial_message_password">Sie können dieses Gerät zusätzlich durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?</string>
-    <string name="encryption_interstitial_message_password_for_biometrics">Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort anfordern zum Starten des Geräts?</string>
-    <string name="encryption_interstitial_message_password_for_face">Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?</string>
+    <string name="encryption_interstitial_message_password">Sie können dieses Gerät zusätzlich durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?</string>
+    <string name="encryption_interstitial_message_password_for_biometrics">Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort anfordern zum Starten des Geräts?</string>
+    <string name="encryption_interstitial_message_password_for_face">Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?</string>
     <string name="encryption_interstitial_message_password_for_fingerprint">Zusätzlich zur Fingerabdrucksperre können Sie dieses Gerät noch durch Passwortabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Passwort zum Gerätestart anfordern?</string>
     <string name="encryption_interstitial_message_pattern">Sie können dieses Gerät zusätzlich durch Musterabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster zum Gerätestart anfordern?</string>
-    <string name="encryption_interstitial_message_pattern_for_biometrics">Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster anfordern zum Starten des Geräts?</string>
-    <string name="encryption_interstitial_message_pattern_for_face">Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch Musterabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster zum Gerätestart anfordern?</string>
+    <string name="encryption_interstitial_message_pattern_for_biometrics">Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster anfordern zum Starten des Geräts?</string>
+    <string name="encryption_interstitial_message_pattern_for_face">Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch Musterabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster zum Gerätestart anfordern?</string>
     <string name="encryption_interstitial_message_pattern_for_fingerprint">Zusätzlich zur Fingerabdrucksperre können Sie dieses Gerät noch durch Musterabfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. Muster zum Gerätestart anfordern?</string>
     <string name="encryption_interstitial_message_pin">Sie können dieses Gerät zusätzlich durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Mitteilungen oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN zum Gerätestart anfordern?</string>
-    <string name="encryption_interstitial_message_pin_for_biometrics">Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN anfordern zum Starten des Geräts?</string>
-    <string name="encryption_interstitial_message_pin_for_face">Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN zum Gerätestart anfordern?</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">Zusätzlich zur Fingerabdrucksperre können Sie dieses Gerät noch durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Alarme, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN zum Gerätestart anfordern?</string>
+    <string name="encryption_interstitial_message_pin_for_biometrics">Neben der Verwendung Ihrer biometrischen Daten zum Entsperren Ihres Geräts können Sie das Gerät zusätzlich schützen, indem Sie vor dem Einschalten Ihr Passwort anfordern. Solange das Gerät nicht gestartet ist, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN anfordern zum Starten des Geräts?</string>
+    <string name="encryption_interstitial_message_pin_for_face">Zusätzlich zur Gesichtsentsperrung können Sie dieses Gerät noch durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN zum Gerätestart anfordern?</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">Zusätzlich zur Fingerabdrucksperre können Sie dieses Gerät noch durch PIN-Abfrage beim Start schützen. Bis das Gerät hochfährt, kann es keine Anrufe, Nachrichten oder Benachrichtigungen, inkl. Wecker, empfangen.\n\nDas hilft, Daten auf verlorenen oder gestohlenen Geräten zu schützen. PIN zum Gerätestart anfordern?</string>
     <string name="encryption_interstitial_no">Nein</string>
     <string name="encryption_interstitial_yes">Ja</string>
     <string name="encryption_progress_summary">Verschlüsselung, starten Sie Ihr Gerät nicht neu</string>
@@ -4373,7 +4373,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="headset_find_cancel">Abbrechen</string>
     <string name="headset_find_connected">Verbunden</string>
     <string name="headset_find_disconnect">Nicht verbunden</string>
-    <string name="headset_find_handle_tip">Tippen, um Alarm abzuspielen</string>
+    <string name="headset_find_handle_tip">Tippen, um Wecker abzuspielen</string>
     <string name="headset_find_left">Links</string>
     <string name="headset_find_left_tip">Anscheinend ist der linke Ohrhörer in der Hülle oder in Ihrem Ohr</string>
     <string name="headset_find_notify_connected">Verbunden</string>
@@ -4383,7 +4383,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="headset_find_query_play">Abspielen</string>
     <string name="headset_find_right">Rechts</string>
     <string name="headset_find_right_tip">Anscheinend ist der rechte Ohrhörer in der Hülle oder in Ihrem Ohr</string>
-    <string name="headset_find_tip">Ihre Ohrhörer sollten sich in der Nähe befinden und mit diesem Gerät verbunden sein, damit Sie sie finden können. Alarm abspielen, während sich mindestens einer der Ohrhörer in Ihrem Ohr befindet, kann Ihr Gehör schädigen.</string>
+    <string name="headset_find_tip">Ihre Ohrhörer sollten sich in der Nähe befinden und mit diesem Gerät verbunden sein, damit Sie sie finden können. Wecker abspielen, während sich mindestens einer der Ohrhörer in Ihrem Ohr befindet, kann Ihr Gehör schädigen.</string>
     <string name="headset_find_tip_title">Achtung</string>
     <string name="headset_find_title">Ihre Ohrhörer finden</string>
     <string name="headset_find_voice_warning">Bei hoher Lautstärke warnen</string>
@@ -4749,8 +4749,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_add_language">Sprache hinzufügen, eine Sprache hinzufügen</string>
     <string name="keywords_airplane">Flugzeug;Flugmodus;Flugzeugmodus;Flug;Flug-Modus</string>
     <string name="keywords_airplane_safe_networks">Flugzeug, flugzeugsicher, flugsicher</string>
-    <string name="keywords_alarm_vibration">Haptik, Vibrieren, Empfindlichkeit, Alarm</string>
-    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
+    <string name="keywords_alarm_vibration">Haptik, Vibrieren, Empfindlichkeit, Alarm, Wecker</string>
+    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Wecker, Erinnerung, Uhr</string>
     <string name="keywords_all_apps">Apps;Download;Anwendungen;System;App</string>
     <string name="keywords_ambient_display">ankommende benachrichtigung</string>
     <string name="keywords_ambient_display_screen">Always-On-Display;Sperrbildschirm</string>
@@ -4807,7 +4807,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_display_size">Bildschirmgröße, großer Bildschirm</string>
     <string name="keywords_display_wallpaper">Hintergrund</string>
     <string name="keywords_do_not_disturb">DND;DND Modus;Nicht stören;Schlafen;Nacht;Beschäftigt</string>
-    <string name="keywords_draw_overlay">Chat-Kopf, System, Alarm, Fenster, Dialog, Anzeige, über anderen Apps, zeichnen</string>
+    <string name="keywords_draw_overlay">Chat-Kopf, System, Alarm, Wecker, Fenster, Dialog, Anzeige, über anderen Apps, zeichnen</string>
     <string name="keywords_emergency_app">Notfall;Ice;App;Standard</string>
     <string name="keywords_enhance_4g_lte">volte, erweitertes Anrufen, 4g-Anrufe</string>
     <string name="keywords_face_settings">Gesicht</string>
@@ -10450,8 +10450,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usage_state_noti_mourth_day">Benachrichtigungen am %s</string>
     <string name="usage_state_notification">Benachrichtigungen verwalten</string>
     <string name="usage_state_notification_manager">App-Benachrichtigungen verwalten</string>
-    <string name="usage_state_remind_summary">Einschalten, um Bildschirmzeit-Alarme zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
-    <string name="usage_state_remind_title">Bildschirmzeit-Alarm</string>
+    <string name="usage_state_remind_summary">Einschalten, um Bildschirmzeit-Wecker zu erhalten. Sie können verschiedene Zeitlimits für Wochentage und Wochenenden festlegen.</string>
+    <string name="usage_state_remind_title">Bildschirmzeit-Wecker</string>
     <string name="usage_state_rest_day">An Wochenenden</string>
     <string name="usage_state_saturday">Sa</string>
     <string name="usage_state_set_invalid_time_toast">Limits &lt; 1 Minute nicht möglich</string>
@@ -10462,8 +10462,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usage_state_tuesday">Di</string>
     <string name="usage_state_unlock_mourth_day">Entsperrt am %s</string>
     <string name="usage_state_usage_time">Bildschirmzeit</string>
-    <string name="usage_state_usage_time_remind">Bildschirmzeit-Alarm</string>
-    <string name="usage_state_use_time_remind_title">Bildschirmzeit-Alarm</string>
+    <string name="usage_state_usage_time_remind">Bildschirmzeit-Wecker</string>
+    <string name="usage_state_use_time_remind_title">Bildschirmzeit-Wecker</string>
     <string name="usage_state_wednesday">Mi</string>
     <string name="usage_state_week_day_hour_minute" formatted="false">An Wochenenden: %d Std %d Min</string>
     <string name="usage_state_week_total_text">Bildschirmzeit (letzte 7 Tage)</string>
@@ -10502,11 +10502,11 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usagestats_device_notification_des">Bildschirmzeit-Limit heute: %s</string>
     <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmzeit-Limit erreicht.</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">Limit heute: %s | %s übrig</string>
-    <string name="usagestats_device_notification_title">Bildschirmzeit-Alarm</string>
+    <string name="usagestats_device_notification_title">Bildschirmzeit-Wecker</string>
     <string name="usagestats_device_timeout_des" formatted="false">Sie haben Ihr Gerät heute für %d Std %d Min verwendet. Ruhen Sie Sich aus!</string>
     <string name="usagestats_device_timeout_negative">In 1 Stunde erinnern</string>
     <string name="usagestats_device_timeout_positive">Verstanden</string>
-    <string name="usagestats_device_timeout_title">Bildschirmzeit-Alarm</string>
+    <string name="usagestats_device_timeout_title">Bildschirmzeit-Wecker</string>
     <string name="usb_adb_input">USB-Debugging (Sicherheitseinstellungen)</string>
     <string name="usb_adb_input_desc">Berechtigungen erteilen und Eingabesimulation über USB-Debugging erlauben</string>
     <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
@@ -11843,9 +11843,9 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_mode_add_time_rule">Zeitregel hinzufügen</string>
     <string name="zen_mode_alarm_use">Töne</string>
     <string name="zen_mode_alarms">Wecker</string>
-    <string name="zen_mode_alarms_list">Alarme</string>
-    <string name="zen_mode_alarms_list_first">Alarme</string>
-    <string name="zen_mode_alarms_summary">Von Timern, Alarmen, Sicherheitssystemen und anderen Apps</string>
+    <string name="zen_mode_alarms_list">Wecker</string>
+    <string name="zen_mode_alarms_list_first">Wecker</string>
+    <string name="zen_mode_alarms_summary">Von Timern, Weckern, Sicherheitssystemen und anderen Apps</string>
     <string name="zen_mode_all_callers">Jeder</string>
     <string name="zen_mode_all_calls_summary">Alle Anrufe können Sie erreichen</string>
     <string name="zen_mode_all_messages">Nachrichten</string>

@@ -87,10 +87,10 @@
     <string name="add_user_failed">Neuen Benutzer erstellen fehlgeschlagen</string>
     <string name="alarm_template">um %1$s</string>
     <string name="alarm_template_far">um %1$s</string>
-    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Alarme zu setzen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Alarme und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
-    <string name="alarms_and_reminders_label">Alarme und Erinnerungen</string>
-    <string name="alarms_and_reminders_switch_title">Einstellen von Alarmen und Erinnerungen zulassen</string>
-    <string name="alarms_and_reminders_title">Alarme &amp; Erinnerungen</string>
+    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Wecker einzustellen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Wecker und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
+    <string name="alarms_and_reminders_label">Wecker &amp; Erinnerungen</string>
+    <string name="alarms_and_reminders_switch_title">Einstellen von Weckern und Erinnerungen zulassen</string>
+    <string name="alarms_and_reminders_title">Wecker &amp; Erinnerungen</string>
     <string name="all_traces_will_be_deleted">Alle Traces werden aus /data/local/traces gelöscht</string>
     <string name="allow_mock_location">Scheinstandorte zulassen</string>
     <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
@@ -399,7 +399,7 @@ Diese Funktion wird gerade entwickelt und funktioniert eventuell nicht richtig.
     <string name="keyboard_layout_default_label">Standard</string>
     <string name="keyboard_layout_dialog_title">Tastaturlayout ändern</string>
     <string name="keywords">systrace, trace, leistung</string>
-    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Erinnerung, Uhr</string>
+    <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Wecker, Erinnerung, Uhr</string>
     <string name="launch_defaults_none">Keine Standardeinstellungen festgelegt</string>
     <string name="launch_defaults_some">Einige Standardeinstellungen festgelegt</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
@@ -873,8 +873,8 @@ Jeder Benutzer kann aktualisierte App-Berechtigungen für alle anderen Benutzer 
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">WLAN wird vorerst nicht automatisch verbunden</string>
     <string name="window_animation_scale_title">Fensteranimation</string>
     <string name="window_blurs">Unschärfen auf Fensterebene zulassen</string>
-    <string name="zen_alarm_warning">Sie werden Ihren nächsten Alarm %1$s nicht hören</string>
-    <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Alarm %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
+    <string name="zen_alarm_warning">Sie werden Ihren nächsten Wecker %1$s nicht hören</string>
+    <string name="zen_alarm_warning_indef">Sie werden Ihren nächsten Wecker %1$s nicht hören, es sei denn, Sie schalten dies vorher ab.</string>
     <string name="zen_interruption_level_priority">Nur mit Vorrang</string>
     <string name="zen_mode_duration_always_prompt_title">Jedes Mal fragen</string>
     <string name="zen_mode_duration_settings_title">Dauer</string>
