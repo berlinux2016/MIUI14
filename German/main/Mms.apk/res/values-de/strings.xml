@@ -872,8 +872,11 @@
     <string name="pref_title_perm_call">Anrufen</string>
     <string name="pref_title_perm_camera">Kamera verwenden</string>
     <string name="pref_title_perm_location">Standort</string>
+    <string name="pref_title_perm_read_audio">Zugriff auf Audiodateien</string>
     <string name="pref_title_perm_read_call_log">Zugriff auf die Anrufliste</string>
     <string name="pref_title_perm_read_contacts">Zugriff auf Kontakte</string>
+    <string name="pref_title_perm_read_files">Zugriff auf Dateien und Dokumente</string>
+    <string name="pref_title_perm_read_images_video">Zugriff auf Fotos und Videos</string>
     <string name="pref_title_perm_read_mms">SMS lesen</string>
     <string name="pref_title_perm_send_mms">SMS senden</string>
     <string name="pref_title_perm_storage">Speicherzugriff</string>
@@ -1454,7 +1457,7 @@
     <string name="system_permission_perm_send_mms">MMS senden</string>
     <string name="system_permission_perm_send_sms">Zum Senden von Textnachrichten</string>
     <string name="system_permission_perm_sms">Zum Anzeigen und Senden von Nachrichten</string>
-    <string name="system_permission_perm_storage">Zum Anzeigen, Senden und Speichern von Dateien</string>
+    <string name="system_permission_perm_storage">Zum Speichern und Hochladen von SMS-Anhängen</string>
     <string name="system_permission_perm_takephoto">Für die Aufnahme von Fotos und Videos</string>
     <string name="system_permission_perm_write_contact">Zum Erstellen und Bearbeiten von Kontakten</string>
     <string name="system_permission_perm_write_mms">Nachrichten das Schreiben von MMS erlauben</string>
@@ -1547,7 +1550,7 @@
     <string name="toast_not_show_microphone_perm_req">Messaging die Mikrofonnutzung erlauben, um diese Funktion zu verwenden</string>
     <string name="toast_not_show_read_mms_perm_req">Um empfangene Nachrichten anzuzeigen, müssen Sie Nachrichten die Berechtigung zum Lesen von SMS und MMS erteilen. Sie können diese Berechtigung in den Einstellungen erteilen.</string>
     <string name="toast_not_show_send_sms_perm_req">Um diese Funktion zu nutzen, erlauben Sie dieser App zuerst, Nachrichten zu senden.</string>
-    <string name="toast_not_show_storage_perm_req">Messaging den Speicherzugriff erlauben, um diese Funktion zu verwenden</string>
+    <string name="toast_not_show_storage_perm_req">Um diese Funktion zu nutzen, sind Berechtigungen erforderlich. In Einstellungen können Sie diese Berechtigung erteilen.</string>
     <string name="toast_not_show_write_contacts_perm_req">Nachrichten erlauben, Kontakte zu bearbeiten, um diese Funktion zu nutzen</string>
     <string name="toast_pending_hangup_msg">Nachricht wird nach Beendigung des Anrufs gesendet.</string>
     <string name="today">Heute</string>
