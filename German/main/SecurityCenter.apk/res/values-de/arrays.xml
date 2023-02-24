@@ -1,22 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="cache_sort_type">
-        <item>Größe</item>
-        <item>Name</item>
-    </string-array>
-    <string-array name="sort_title_new">
-        <item>Nach App-Name sortieren</item>
-        <item>Nach Nutzungshäufigkeit sortieren</item>
-        <item>Nach Speicherverwendung sortieren</item>
-        <item>Nach Installationszeit sortieren</item>
-    </string-array>
-    <string-array name="sort_type_new">
-        <item>App-Name</item>
-        <item>Nutzungshäufigkeit</item>
-        <item>Speicherverwendung</item>
-        <item>Installationzeit</item>
-    </string-array>
-
     <string-array name="alarm_repeat_type">
         <item>Einmal</item>
         <item>Täglich</item>
@@ -56,6 +39,10 @@
         <item>Groß</item>
         <item>Extra groß</item>
         <item>XXL</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Größe</item>
+        <item>Name</item>
     </string-array>
     <string-array name="cellular_package_type">
         <item>Monatstarif</item>
@@ -198,6 +185,10 @@
         <item>Einschalten</item>
         <item>Standard</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Standard</item>
+        <item>Alle</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Interner Speicher</item>
         <item>Externer Speicher</item>
@@ -222,12 +213,24 @@
         <item>Nach genutztem Speicher sortieren</item>
         <item>Nach Installationszeitpunkt sortieren</item>
     </string-array>
+    <string-array name="sort_title_new">
+        <item>Nach App-Name sortieren</item>
+        <item>Nach Nutzungshäufigkeit sortieren</item>
+        <item>Nach Speicherverwendung sortieren</item>
+        <item>Nach Installationszeit sortieren</item>
+    </string-array>
     <string-array name="sort_type">
         <item>Status</item>
         <item>App-Name</item>
         <item>Nutzungshäufigkeit</item>
         <item>Genutzter Speicher</item>
         <item>Installationszeitpunkt</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>App-Name</item>
+        <item>Nutzungshäufigkeit</item>
+        <item>Speicherverwendung</item>
+        <item>Installationszeit</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Ausschalten und benachrichtigen</item>

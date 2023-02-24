@@ -283,6 +283,7 @@
     <string name="start_scan">SCAN STARTEN</string>
     <string name="stop_advertise">WERBEN ANHALTEN</string>
     <string name="stop_scan">SCAN ANHALTEN</string>
+    <string name="sub_title_mishare_switch">Diese Funktion schaltet sich nach %d Min. automatisch ab</string>
     <string name="success_receive_much_file_from_pc">Mehr als %2$d Dateien von %1$s erhalten. Zum Anzeigen tippen.</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
@@ -342,6 +343,8 @@
     <string name="tips_p2p_support_use5g">Für beste Ergebnisse sollten Sie ein 5-GHz-WLAN verwenden.</string>
     <string name="tips_p2p_support_use5g_china">Für beste Ergebnisse sollten Sie ein 5-GHz-WLAN verwenden.</string>
     <string name="to_feedback">Melden</string>
+    <string name="toast_auto_close_in_minutes">Mi Share schaltet sich nach %d Min. ab</string>
+    <string name="toast_transfering">Elemente werden übertragen. Später erneut versuchen.</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="transfer_intercept_to_remote">Senden fehlgeschlagen: %1$s</string>
@@ -349,8 +352,10 @@
     <string name="transfer_to_pc_summary_new"><Data>Die auf Mi Notebooks installierte neueste Version von MIUI+ ist mit Mi Share kompatibel. Sie können die Liste der unterstützten Laptop-Modelle auf der MIUI+-Website (&lt;a href=%1$s>%2$s&lt;/a>) prüfen. Wenn Ihr Laptop auf der Liste steht, aber MIUI+ nicht darauf installiert ist, aktualisieren Sie das BIOS und den Netzwerkkartentreiber Ihres Laptops und laden Sie MIUI+ herunter.</Data></string>
     <string name="transfer_to_pc_title">Dateien an Computer senden</string>
     <string name="transfer_to_phone_summary">Aktivieren Sie Mi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie ein Foto oder eine Datei teilen. Tippen Sie auf das Gerät des Empfängers, um das Element zu senden, das Sie teilen</string>
+    <string name="transfer_to_phone_summary_new">Aktivieren Sie Mi Share im Kontrollzentrum, um Elemente einfach senden und empfangen zu können. Nach dem Einschalten können Sie Objekte für %d Minuten mit Geräten in der Nähe teilen, bevor es automatisch ausgeschaltet wird.</string>
     <string name="transfer_to_phone_title">Dateien an Telefone senden</string>
     <string name="transfer_to_summary">Aktivieren Sie Mi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie ein Foto oder eine Datei teilen. Tippen Sie auf das Gerät des Empfängers, um das Element zu senden, das Sie teilen</string>
+    <string name="transfer_to_summary_new">Aktivieren Sie Mi Share im Kontrollzentrum, um Elemente einfach senden und empfangen zu können. Nach dem Einschalten können Sie Objekte für %d Minuten mit Geräten in der Nähe teilen, bevor es automatisch ausgeschaltet wird.</string>
     <string name="transfer_to_title">Dateien an Mobilgeräte senden</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>

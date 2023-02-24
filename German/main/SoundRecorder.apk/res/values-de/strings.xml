@@ -479,6 +479,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="record_scenes_summaries_stereo_music">Über %d Kanäle aufnehmen, Stereoton über Ohrhörer anhören</string>
     <string name="record_scenes_summaries_stereo_voice">Halten Sie das Mikro näher an die Tonquelle, um die Qualität zu verbessern</string>
     <string name="record_scenes_summaries_voice">Halten Sie das Mikro näher an die Tonquelle, um die Qualität zu verbessern</string>
+    <string name="record_while_in_call_tip">Aufnahme während eines Anrufs nicht möglich</string>
     <string name="recording">Aufnahme</string>
     <string name="recording_quality_high">Hohe Qualität</string>
     <string name="recording_quality_low">Niedrige Qualität</string>

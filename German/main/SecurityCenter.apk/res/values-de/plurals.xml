@@ -33,6 +33,10 @@
         <item quantity="other">%d Spiele hinzugefügt</item>
         <item quantity="one">%d Spiel hinzugefügt</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d Apps hinzugefügt</item>
+        <item quantity="one">%d App hinzugefügt</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d Apps</item>
         <item quantity="one">%d App</item>
@@ -216,6 +220,14 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">%d Sekunden zurückspulen</item>
         <item quantity="one">%d Sekunde zurückspulen</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s Std</item>
+        <item quantity="one">%s Std</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s Min</item>
+        <item quantity="one">%s Min</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">%d Apps durchsuchen</item>
@@ -530,6 +542,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="other">"Netzwerkzugang beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
         <item quantity="one">"Netzwerkzugang beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d Apps nicht hinzugefügt</item>
+        <item quantity="one">%d App nicht hinzugefügt</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d Tage ohne Sicherheitsscan</item>
         <item quantity="one">%d Tag ohne Sicherheitsscan</item>
@@ -618,13 +634,17 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="other">" Min"</item>
         <item quantity="one">" Min"</item>
     </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Der Akku Ihres Geräts ist leer. Eintritt in den Ruhezustand in %1$d Sek.</item>
+        <item quantity="one">Your device is out of battery. Entering Hibernation mode in %1$d second.</item>
+    </plurals>
     <plurals name="pc_main_power_center_battery_day">
-        <item quantity="other">"%s Tage "</item>
-        <item quantity="one">"%s Tag "</item>
+        <item quantity="other">%s Tage</item>
+        <item quantity="one">%s Tag</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_hour">
-        <item quantity="other">"%s Std "</item>
-        <item quantity="one">"%s Std "</item>
+        <item quantity="other">%s Std</item>
+        <item quantity="one">%s Std</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%s Min</item>

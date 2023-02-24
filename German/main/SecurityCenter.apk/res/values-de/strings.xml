@@ -144,8 +144,8 @@
     <string name="add_done">Erfolgreich hinzugefügt</string>
     <string name="add_game">Spiel hinzufügen</string>
     <string name="add_game_notification_summary">Tippen zum Starten &amp; Geschwindigkeit erhöhen</string>
-    <string name="add_miservice_dialog_content">%s erfordert, dass Sie das MIUI Serviceframework zu den Ausnahmen hinzufügen. Sie könnten Benachrichtigungen von MIUI System- oder Drittanbieter-Apps erhalten.</string>
-    <string name="add_miservice_dialog_title">MIUI Serviceframework</string>
+    <string name="add_miservice_dialog_content">%s erfordert, dass Sie das Xiaomi Serviceframework zu den Ausnahmen hinzufügen. Sie könnten Benachrichtigungen von MIUI System- oder Drittanbieter-Apps erhalten.</string>
+    <string name="add_miservice_dialog_title">Xiaomi Serviceframework</string>
     <string name="add_to_whitelist_button">Datenroamingausnahmen</string>
     <string name="add_whitelist">Zu Ausnahmen hinzufügen</string>
     <string name="added_game_notification_summary">Spiel jetzt starten</string>
@@ -1257,6 +1257,10 @@ Sie verlieren keine App-Daten."</string>
     <string name="continue_set">Einstellung fortsetzen</string>
     <string name="convenient_mode">Alle Apps auf einmal entsperren</string>
     <string name="convenient_summary">Passwort einmal eingeben, um alle Apps zu entsperren</string>
+    <string name="conversation_settings_top">· Schieben Sie bei Audio- und Videoanrufen im Vollbildmodus die Leiste für die Konferenztools auf, um auf deren Funktionen zuzugreifen.\n· Art und Anzahl der Funktionen hängt vom Gerätemodell ab.</string>
+    <string name="conversation_sider_tips">Nutzen Sie die neuen Konferenztools für ein optimales Anruferlebnis</string>
+    <string name="conversation_summary">Verschönerung, Untertitel-Transkription und andere Funktionen bei Audio- und Videoanrufen</string>
+    <string name="conversation_title">Konferenztools</string>
     <string name="copy">Kopieren</string>
     <string name="correction_attention_dialog_message">Einstellungen werden angepasst. Warten, bis der Vorgang abgeschlossen ist und erneut versuchen.</string>
     <string name="cpu_usage_android_system">Android System</string>
@@ -1274,6 +1278,19 @@ Sie verlieren keine App-Daten."</string>
     <string name="cpu_usage_view_action_btn_text">Anzeigen</string>
     <string name="create_gamebooster_destop">Verknüpfung auf Startbildschirm erfolgreich erstellt</string>
     <string name="create_shortcut">Startbildschirm-Verknüpfung für Game Turbo erstellen</string>
+    <string name="cs_color_sense">Farbtemperatur</string>
+    <string name="cs_func_toast_headset">Trennen Sie Ihr Headset, um diese Funktion nutzen zu können</string>
+    <string name="cs_func_toast_light">Wechseln Sie zur Frontkamera, um diese Funktion nutzen zu können</string>
+    <string name="cs_func_toast_pickup">Wechseln Sie zu einem Videoanruf, um diese Funktion nutzen zu können</string>
+    <string name="cs_pickup_multi_desc">%d Grad Tonaufnahme</string>
+    <string name="cs_pickup_multi_title">Mehrere Teilnehmer</string>
+    <string name="cs_pickup_single_desc">Nur Ton vor dem Bildschirm aufnehmen</string>
+    <string name="cs_pickup_single_title">Einzelner Teilnehmer</string>
+    <string name="cs_pickup_surround_desc">Verwendet AI zur Rauschunterdrückung für einen klaren und deutlichen Klang</string>
+    <string name="cs_pickup_surround_title">Mikrofon-Rauschunterdrückung</string>
+    <string name="cs_title_pickup">Rauschunterdrückung</string>
+    <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
+    <string name="cs_title_ultraclear">Ultra HD-Modus</string>
     <string name="cta_HIPS_Perm_Location_Desc">Für die Verwendung Ihrer Standortdaten in der MIUI-Warnzentrale, dem Notfall-SOS, dem App-Stromsparen und dem Zahlungssicherheitsscanner sowie für die Aktivierung des ungefähren Standorts</string>
     <string name="cta_agree_desc">Dieser App die Internetverbindung erlauben und die optionalen Berechtigungen erteilen, um alle ihre Funktionen zu verwenden.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
@@ -1284,7 +1301,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="cta_dialog_negative">Ablehnen</string>
     <string name="cta_dialog_positive">Zustimmen</string>
     <string name="cta_dialog_title">Internetverbindung</string>
-    <string name="cta_main_purpose">Willkommen bei Sicherheit! Mit Sicherheit und seinen Modulen (inkl. MIUI-Sicherheitskomponenten und Systemdiensten) können Sie Speicherplatz freigeben, Ihr Gerät auf Viren scannen, den Akkuverbrauch kontrollieren, Ihr Gerät für Spiele optimieren, Apps verwalten, Frühwarnungen bei Erdbeben erhalten und vieles mehr. MIUI-Sicherheitskomponenten stellen eine Verbindung zum Internet her und führen Sicherheitsscans durch, während Sie Apps installieren und Zahlungen vornehmen.</string>
+    <string name="cta_main_purpose">Willkommen bei Sicherheit! Mit Sicherheit und seinen Modulen (inkl. MIUI-Sicherheitskomponenten, Systemdienste und Joyose) können Sie Speicherplatz freigeben, Ihr Gerät auf Viren scannen, den Akkuverbrauch kontrollieren, Ihr Gerät für Spiele optimieren, Apps verwalten, Frühwarnungen bei Erdbeben erhalten und vieles mehr. MIUI-Sicherheitskomponenten stellen eine Verbindung zum Internet her und führen Sicherheitsscans durch, während Sie Apps installieren und Zahlungen vornehmen.</string>
     <string name="cta_settings">Internetverbindung und Standortzugriff erlauben</string>
     <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Für die Verwendung der Sperrliste und Anrufe an Notfallkontakte bei Erdbebenwarnungen</string>
@@ -1749,7 +1766,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="exit_dialog_garbage_clean_title">Speicherplatz freigeben</string>
     <string name="exit_dialog_homepage_optimise_message">Ihre Geräteleistung liegt unter 80 Punkten. Jetzt optimieren?</string>
     <string name="exit_dialog_release_memory_positive_button">Schließen</string>
-    <string name="exit_dialog_release_memory_title"><Data>Beschleunigen Sie Ihr Gerät um &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_memory_title_new"><Data>Beschleunigen Sie Ihr Gerät um &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mehr als 80% Ihres Gerätespeichers ist belegt. Geben Sie Speicherplatz frei, indem Sie nie verwendete Apps deinstallieren.</string>
     <string name="exit_dialog_release_storage_message_new">Mehr als %s Ihres Gerätespeichers ist belegt. Geben Sie Speicherplatz frei, indem Sie nie verwendete Apps deinstallieren.</string>
@@ -2131,6 +2147,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_advance_settings_vibration_4d">4D-Vibration</string>
     <string name="gb_advance_settings_vibration_4d_summary">Bei Schüssen im Spiel vibrieren</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Bei Abschüssen im Spiel vibrieren</string>
+    <string name="gb_already_in_game_list_tips">Dieses Element ist bereits unter den hinzugefügten Spielen. Kann hier nicht hinzugefügt werden.</string>
+    <string name="gb_already_in_video_list_tips">Dieses Element ist bereits unter den hinzugefügten Video-Apps. Kann hier nicht hinzugefügt werden.</string>
+    <string name="gb_application_not_find">Noch nichts da</string>
     <string name="gb_audition_instruction">Gedrückt halten zum Aufnehmen (%1$s-%2$s Sek)</string>
     <string name="gb_audition_play_instruction">Kopfhörer verwenden für den besten Effekt</string>
     <string name="gb_award_noti_message">Aktivieren Sie die Hintergrundaktualisierung von Game for Peace in Game Turbo, um Belohnungen zu erhalten</string>
@@ -2250,12 +2269,12 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_new_feature">Neue Funktion</string>
     <string name="gb_not_support_on_device">App kann am äußeren Bildschirm nicht verwendet werden</string>
     <string name="gb_operat_frequently">Nicht so schnell!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>Im Game Turbo kann nicht in den ausgewogenen Modus gewechselt werden, wenn der systemweite Leistungsmodus aktiviert ist. Sie können die Akku-Einstellungen unter Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a></Data></string>
     <string name="gb_performace_switch_toast">In den Leistungsmodus gewechselt. Ihr Gerät könnte sich erhitzen und mehr Strom verbrauchen.</string>
     <string name="gb_performace_tips_button">Umschalten</string>
     <string name="gb_performace_tips_title">Für ein besseres Erlebnis in den Leistungsmodus wechseln</string>
     <string name="gb_performance_balance">Ausgeglichen</string>
     <string name="gb_performance_balance_tips">Ausgeglichener Modus spart Strom\nbei gleichzeitiger Senkung der Aktualisierungsrate und Temperaturgrenzen</string>
-    <string name="gb_performace_guide_disable_desc"><Data>Im Game Turbo kann nicht in den ausgewogenen Modus gewechselt werden, wenn der systemweite Leistungsmodus aktiviert ist. Sie können die Akku-Einstellungen unter Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a></Data></string>
     <string name="gb_performance_high">Leistung</string>
     <string name="gb_performance_mode">Spielmodus</string>
     <string name="gb_performance_tips">Leistungsmodus verbessert die Grafikleistung,\nerhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Geräts</string>
@@ -2316,7 +2335,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_signed_gift_loading_fail">Laden nicht möglich</string>
     <string name="gb_signed_gift_loading_summary">Einen Moment…</string>
     <string name="gb_signed_title">In diesem Monat angemeldet</string>
-    <string name="gd_sidebar_long_press_tips">Indikator gedrückt halten, um ihn zu bewegen, während Sie das Gerät senkrecht halten.</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s bleiben</string>
     <string name="gb_sound_audition">Probieren</string>
     <string name="gb_storage_game_dialog_message">Sie können Spiele automatisch in Game Turbo speichern. Sie werden nicht am Startbildschirm angezeigt, wenn Sie diese Funktion einschalten. Jetzt einschalten?</string>
@@ -2386,6 +2404,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gd_app_edit_done">Fertig</string>
     <string name="gd_app_edit_title">Apps hinzufügen</string>
     <string name="gd_app_edit_title_new">Popup-Verknüpf. bearbeiten</string>
+    <string name="gd_setting_conversation">Konferenztools</string>
+    <string name="gd_setting_conversation_desc">Bietet eine Vielzahl von Funktionen für die Verwendung in Audio- und Videoanrufen im Vollbildmodus</string>
     <string name="gd_setting_desc_action1">Popup öffnen</string>
     <string name="gd_setting_desc_action2">Verknüpfung verwenden</string>
     <string name="gd_setting_group_custom_gtb_apps">Spiele</string>
@@ -2405,6 +2425,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gd_setting_vtb">Beim Abspielen von Videos anzeigen</string>
     <string name="gd_setting_vtb_desc">Besondere Funktionen für die Videowiedergabe</string>
     <string name="gd_sidebar_edit_all_title">Alle Apps</string>
+    <string name="gd_sidebar_long_press_tips">Indikator gedrückt halten, um ihn zu bewegen, während Sie das Gerät senkrecht halten.</string>
     <string name="gd_sidebar_edit_btn_close">Ausblenden</string>
     <string name="gd_sidebar_edit_btn_expand">Mehr</string>
     <string name="gd_sidebar_edit_quick_title">Verknüpfungen</string>
@@ -2824,7 +2845,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="memory_clean_cleaning_title">Cache bereinigen</string>
     <string name="memory_clean_click_tip">Geschwindigkeit erhöhen</string>
     <string name="memory_clean_no_need_clean">Alles sieht gut aus</string>
-    <string name="memory_clean_no_need_clean_1" formatted="false">%s freigegeben.\nIhr Gerät ist jetzt %d%% schneller.</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">%s freigegeben.\nIhr Gerät ist jetzt %s schneller.</string>
     <string name="memory_clean_no_running_process">Keine Prozesse zum Bereinigen</string>
     <string name="memory_clean_running_process_title">Überwachte Apps (%d)</string>
@@ -2848,7 +2868,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="menu_item_install_debug_package">Debug-Paket installieren</string>
     <string name="menu_item_notification_antispam_text_avail">Sperrliste</string>
     <string name="menu_item_notification_antispam_text_normal">Sperrliste</string>
-    <string name="menu_item_notification_optimize_text">%d%% belegt</string>
     <string name="menu_item_notification_optimize_text_new">%s belegt</string>
     <string name="menu_item_notification_power_text">Akku-Optimierung</string>
     <string name="menu_item_notification_title">In Benachrichtigungsleiste anzeigen</string>
@@ -2882,7 +2901,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="menu_summary_networkassistants_3">Ausreichend Daten vorhanden</string>
     <string name="menu_summary_networkassistants_4">Keine Daten mehr vorhanden</string>
     <string name="menu_summary_optimize_manage">RAM freigeben</string>
-    <string name="menu_summary_optimize_manage_1">Machen Sie Ihr Gerät %d%% schneller</string>
     <string name="menu_summary_optimize_manage_1_new">Machen Sie Ihr Gerät %s schneller</string>
     <string name="menu_summary_power_manager">Stromsparen gibt Ihnen mehr Zeit zwischen den Ladevorgängen</string>
     <string name="menu_summary_power_manager_1">Akku ist voll geladen</string>
@@ -3172,7 +3190,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="notification_link_cleaner_3001">WeChat-Papierkorb leeren, um Ihr Gerät zu beschleunigen</string>
     <string name="notification_link_cleaner_3002">WeChat-Papierkorb leeren</string>
     <string name="notification_link_cleaner_4000">QQ-Papierkorb leeren</string>
-    <string name="notification_link_optimizemanage_1011">%d%% Speicher belegt. Jetzt bereinigen.</string>
     <string name="notification_link_optimizemanage_1011_new">%s Speicher belegt. Jetzt bereinigen.</string>
     <string name="notification_low_battery_action_btn">Einschalten</string>
     <string name="notification_low_battery_need_charge">Ladegerät anschließen</string>
@@ -3191,7 +3208,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="notification_open_extreme_mode_text">Extrem-Stromsparmodus eingeschaltet</string>
     <string name="notification_optimize_button_text">Bereinigen</string>
     <string name="notification_optimize_message">Speicher leeren, um die Geschwindigkeit zu erhöhen</string>
-    <string name="notification_optimize_title">%d%% Speicher belegt</string>
     <string name="notification_optimize_title_new">%s Speicher belegt</string>
     <string name="notification_power_consume_issue_summary">Hoher Stromverbrauch</string>
     <string name="notification_power_consume_suggest_summary">Probleme beheben, um den Akku zu schonen</string>
@@ -3211,6 +3227,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="notify_channel_name_behavior">Verhaltensaufzeichnung</string>
     <string name="notify_channel_name_security">Systemsicherheit</string>
     <string name="notify_channel_optimize">Sicherheitsmeldungen</string>
+    <string name="notify_channel_resident_hide">Benachrichtigungen des Sicherheitsassistenten</string>
     <string name="notify_daily_data_usage_body">Um die Datennutzung automatisch zu begrenzen, stellen Sie Ihr monatl. Datenvolumen ein.</string>
     <string name="notify_daily_limit_body">Tippen, um Limit festzulegen</string>
     <string name="notify_daily_limit_title">Heute %s genutzt</string>
@@ -3414,6 +3431,17 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_emergency_call">Notfall</string>
     <string name="pc_endurance_calculation">Berechnen…</string>
+    <string name="pc_entered_extreme_mode">Ruhezustand ist an</string>
+    <string name="pc_entered_extreme_mode_summary">Der Akku Ihres Geräts ist leer und es ist im Ruhezustand. Apps werden im Hintergrund ausgeführt und senden keine Benachrichtigungen.</string>
+    <string name="pc_extreme_exit_and_power_off">Beenden</string>
+    <string name="pc_extreme_mode_bg_toast">Im Ruhezustand werden Apps im Hintergrund ausgeführt und senden keine Benachrichtigungen</string>
+    <string name="pc_extreme_mode_entering">In den Ruhezustand wechseln…</string>
+    <string name="pc_extreme_mode_exit_risk_title">Achtung</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Der Akku Ihres Geräts ist leer. Wenn Sie den Ruhezustand beenden, schaltet sich Ihr Gerät aus.</string>
+    <string name="pc_extreme_mode_exiting">Ruhezustand beenden…</string>
+    <string name="pc_extreme_mode_find_charger">Laden Sie Ihr Gerät so schnell wie möglich auf.</string>
+    <string name="pc_extreme_mode_runtime">Ruhezustand ist seit %1$s %2$s aktiviert.</string>
+    <string name="pc_extreme_mode_title">Ruhezustand</string>
     <string name="pc_fast_charge_notifi_action_text_on">Erhöhen</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Akkustand für Erinnerungen einstellen</string>
     <string name="pc_fast_charge_notifi_summary">Bis zu %s schneller als üblich aufladen…</string>
@@ -3427,6 +3455,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_fast_charge_switch_title">Ladegeschwindigkeit erhöhen</string>
     <string name="pc_fast_charge_switch_toast_message">Änderungen werden beim nächsten Laden des Geräts übernommen</string>
     <string name="pc_fast_charge_title">Ladegeschwindigkeit erhöhen</string>
+    <string name="pc_going_to_exit_extreme_mode">Ruhezustand beenden</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Ihr Gerät wird geladen. Ruhezustand ist aus.</string>
+    <string name="pc_going_to_extreme_mode">In den Ruhezustand wechseln</string>
     <string name="pc_hidemode_normal">Ausgeglichen</string>
     <string name="pc_hidemode_normal_title">Ausgeglichen</string>
     <string name="pc_hidemode_performance">Leistung</string>
@@ -3484,6 +3515,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permgroupdesc_location">Auf Standortinfomation zugreifen</string>
     <string name="permgroupdesc_microphone">Audio aufnehmen</string>
     <string name="permgroupdesc_phone">Anrufe tätigen und Gespräche verwalten</string>
+    <string name="permgroupdesc_readmediaimages">Zugriff auf Fotos und Videos</string>
+    <string name="permgroupdesc_readmediavideo">Zugriff auf Musik und Audio</string>
     <string name="permgroupdesc_recognition">Auf Gesundheits- &amp; Aktivitätsdaten zugreifen</string>
     <string name="permgroupdesc_sensors">Auf Körpersensordaten zugreifen</string>
     <string name="permgroupdesc_sms">SMS lesen oder senden</string>
@@ -3523,6 +3556,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_get_accounts">Diese Berechtigung erlaubt Apps den Zugriff auf die Liste der auf Ihrem Gerät gespeicherten Konten. Diese Liste könnte alle Ihre persönlichen Konten enthalten, die durch installierte Apps erstellt wurden, sowie die Konten von Social Media-Plattformen und Kommunikationstools.</string>
     <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen am Startbildschirm zu erstellen.</string>
     <string name="permission_instruction_install_unknown_source">Diese Berechtigung erlaubt Apps, andere Apps auf Ihrem Gerät zu installieren. Bösartige Apps nutzen diese Berechtigung, um Apps ohne Ihre Bestätigung zu installieren.</string>
+    <string name="permission_instruction_location">Wenn Sie diese Berechtigung erteilen, verwenden Apps Netzwerke oder Satellitenortung, um auf Ihren Standort zuzugreifen. Sie können Apps, die diese Funktion unterstützen, erlauben, nur auf Ihren ungefähren Standort zuzugreifen.</string>
     <string name="permission_instruction_media_audio">Wenn Sie diese Berechtigung erteilen, kann die App auf Musik und andere Audiodaten auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_media_files">Wenn Sie diese Berechtigung erteilen, kann die App auf die Dateien und Dokumente auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_modify_audio_settings">Diese Berechtigung erlaubt Apps, Audio-Einstellungen zu ändern (z. B. die Lautstärke ohne Ihre Bestätigung anzupassen). Evtl. können Sie die Lautstärke in einigen Apps nicht regeln, wenn Sie ihnen diese Berechtigung nicht erteilen.</string>
@@ -3556,6 +3590,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_touch_pay">Diese Berechtigung erlaubt Apps, kontaktlose Zahlungen durchzuführen.</string>
     <string name="permission_instruction_use_sip">Diese Berechtigung erlaubt Apps die Verwendung von SIP-Videodiensten.</string>
     <string name="permission_instruction_vr_assistant">Diese Berechtiung erlaubt Apps, VR-Assistentendienste zu nutzen.</string>
+    <string name="permission_instruction_wall_paper">Erteilen Sie diese Berechtigung, damit Apps die Standarddienste für dynamische Hintergründe ändern und im Hintergrund weiterlaufen können.</string>
     <string name="permission_instruction_write_calllog">Diese Berechtigung erlaubt Apps, den Anrufverlauf zu bearbeiten, der detaillierte Informationen über Ihre ein- und ausgehenden Anrufe enthalten kann. Bösartige Apps können diese Berechtigung nutzen, um Ihren Anrufverlauf zu löschen oder zu bearbeiten.</string>
     <string name="permission_instruction_write_clipboard">Diese Berechtigung erlaubt Apps, Elemente in der Zwischenablage zu speichern. Spam-Nachrichten können Ihre normale Nutzung der Zwischenablage beeinträchtigen.</string>
     <string name="permission_instruction_write_contacts">Diese Berechtigung erlaubt Apps, die auf Ihrem Gerät gespeicherten Kontaktinformationen zu bearbeiten, hinzuzufügen und zu löschen. Diese Informationen können die Häufigkeit Ihrer Kommunikation mit bestimmten Kontakten über Anrufe, E-Mails und andere Methoden enthalten. Diese Berechtigung erlaubt Apps auch, Ihre Kontakte zu löschen.</string>
@@ -3927,6 +3962,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pp_identifier_protection">Persönliche Identifikatoren schützen</string>
     <string name="pp_interception_net_visit_content_manager">Schützen von Galerie- und Social Media-App-Dateien</string>
     <string name="pp_interception_net_visit_content_manager_detail">Auswählen, welche Apps auf die Galerie und die Dateien aus Ihren Social Media-Apps zugreifen dürfen</string>
+    <string name="pp_lab_compact_blur_location">Apps, die auf den ungefähren Standort zugreifen</string>
+    <string name="pp_lab_compact_blur_location_summary">Wählen Sie \"Standard\", um die ungefähre Standortfunktion von Android zu verwenden, oder \"Alle\", um zu MIUI zu wechseln.</string>
     <string name="pp_local_msg">Standortinfo</string>
     <string name="pp_manage_apps_location_information">Apps den Zugriff auf Ihren Standort erlauben</string>
     <string name="pp_manage_track">Tracker überwachen</string>
@@ -4137,6 +4174,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_flares_current_detail_mic">App benutzt Mikrofon</string>
     <string name="privacy_flares_current_detail_mic_loc">App benutzt Mikrofon und greift auf Ihren Standort zu</string>
     <string name="privacy_flares_current_detail_more">App benutzt eine sensible Berechtigung</string>
+    <string name="privacy_flares_current_multiple">%s und andere</string>
     <string name="privacy_flares_recent">Jüngste Aktion</string>
     <string name="privacy_flares_recent_detail_cam">App nutzte Kamera</string>
     <string name="privacy_flares_recent_detail_cam_loc">App nutzte Kamera und hat auf Ihren Standort zugegriffen</string>
@@ -5054,7 +5092,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="storage_clear_more_tools">Weitere Bereinigungstools</string>
     <string name="storage_clear_video">Video-Cache bereinigen</string>
     <string name="storage_compact_warning">Status Mehrfachberechtigung muss angepasst werden</string>
-    <string name="storage_compact_warning_desc">App unterstützt nur die gleichzeitige Anpassung des Zugriffs auf Fotos und Videos, Audiodateien, Dateien und Dokumente, nicht aber deren getrennten Zugriff.</string>
+    <string name="storage_compact_warning_desc">Foto-, Video- und Audio-Berechtigungen für diese App müssen gleichzeitig geändert werden. Wenn Sie eine dieser Berechtigungen ändern, werden alle geändert.</string>
     <string name="storage_deepclean_entry">Tiefenreinigung</string>
     <string name="storage_dialog_unmountable">^1 ist fehlerhaft.\n\nUm ^1 zu verwenden, bitte zuerst einrichten.</string>
     <string name="storage_dialog_unmounted">^1 wurde sicher entfernt, ist aber immer noch verfügbar.\n\nUm ^1 zu verwenden, bitte zuerst einhängen.</string>
@@ -5181,7 +5219,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="superpower_dialog_massage">Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen ein und verringert die Leistung Ihres Geräts, um Grundfunktionen (z. B. Anrufe, SMS und Netzwerkverbindungen) so lange wie möglich verfügbar zu halten. Ultra-Stromsparen einschalten?</string>
     <string name="superpower_dialog_title">Ultra-Stromsparen</string>
     <string name="superpower_notification_hint_enter">Einschalten</string>
-    <string name="superpower_notification_new_title">Weniger als %d%% Akku bleiben</string>
     <string name="superpower_notification_new_title_new">Weniger als %s Akku bleiben</string>
     <string name="superpower_notification_summary">Laden Sie Ihr Gerät oder schalten Sie Ultra-Stromsparen ein</string>
     <string name="superpower_notification_time_12">EEEE, d. MMMM </string>
