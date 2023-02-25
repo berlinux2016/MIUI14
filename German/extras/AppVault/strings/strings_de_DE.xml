@@ -90,6 +90,8 @@
     <string name="widget_health_stats_desc">Aktivitätsstatistik anzeigen</string>
     <string name="widget_health_steps">Schritte</string>
     <string name="widget_health_steps_desc">Schritte und Zielfortschritt anzeigen</string>
+    <string name="widget_mivideo_local">Lokale Videos</string>
+    <string name="widget_mivideo_local_desc">Schnellzugriff auf lokale Audio- und Videodateien</string>
     <string name="widget_notes_quick">Verknüpfungen</string>
     <string name="widget_notes_quick_desc">Notizen und Aufgaben schnell erstellen und abrufen</string>
     <string name="widget_notes_quick_note">Notizen erstellen</string>

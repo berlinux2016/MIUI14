@@ -308,7 +308,6 @@
     <string name="hint_foler_name">Name</string>
     <string name="hover_camera">Foto machen</string>
     <string name="hover_gallery">Galerie</string>
-    <string name="hover_hightlight">Hervorheben</string>
     <string name="hybrid_provider">Bereitgestellt durch %1$s</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="image_action_annotate">Bildbeschreibung hinzufügen</string>
@@ -965,8 +964,7 @@
     <string name="toolbar_undo_description">Rückgängig</string>
     <string name="toolbar_voice_description">Stimme</string>
     <string name="trash_folder_name">Papierkorb</string>
-    <string name="trash_folder_reminder">Gelöschte Notizen werden nach %1$d Tagen dauerhaft gelöscht.</string>
-    <string name="trash_folder_reminder_new">Notizen werden %d Tage lang im Papierkorb aufbewahrt, bevor sie endgültig gelöscht werden</string>
+    <string name="trash_folder_reminder_new">Notizen werden %d Tage im Papierkorb aufbewahrt, bevor sie endgültig gelöscht werden</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
