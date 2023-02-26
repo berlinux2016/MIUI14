@@ -134,6 +134,10 @@
     <string name="allow">Erlauben</string>
     <string name="allow_current">Einmal erlauben</string>
     <string name="already_add">%s zu Ihrem Startbildschirm hinzugefügt</string>
+    <string name="app_category_tag_daily_recommendation">Heutige Auswahl</string>
+    <string name="app_category_tag_editor_recommendation">Auswahl des Herausgebers</string>
+    <string name="app_category_tag_free">Kostenlos</string>
+    <string name="app_category_tag_hot">Beliebt</string>
     <string name="app_id">Firebase App-ID (Zum Exportieren tippen)</string>
     <string name="app_library_category_financial_management">Finanzen</string>
     <string name="app_library_category_games">Spiele</string>
@@ -176,6 +180,7 @@
     <string name="avatar">Profilfoto</string>
     <string name="back_description">Zurück</string>
     <string name="back_home">Freigabe für Startseite</string>
+    <string name="batch_download">Herunterladen</string>
     <string name="batch_download_tip">Anscheinend werden mehrere Elemente gleichzeitig heruntergeladen. Diese Downloads blockieren?</string>
     <string name="billing_unavailable_message">- Stellen Sie sicher, dass Sie im Play Store angemeldet sind.\n- Aktualisieren Sie Google Services Framework auf die neueste Version.\n- Prüfen Sie, ob Google Pay in Ihrer Region funktioniert.</string>
     <string name="billing_unavailable_title">Zahlung wurde nicht abgeschlossen. Versuchen Sie Folgendes:</string>
@@ -2771,8 +2776,10 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="search">Suchen</string>
     <string name="search_bar_hint_content">Apps und Inhalt suchen</string>
     <string name="search_button_text">Los</string>
+    <string name="search_card_more">Weitere</string>
     <string name="search_card_online_rec_app">App-Märkte</string>
     <string name="search_card_online_rec_app_install">Installieren</string>
+    <string name="search_card_online_rec_app_installed">Installiert</string>
     <string name="search_card_online_rec_app_open">Öffnen</string>
     <string name="search_empty_view_hint">Nichts gefunden</string>
     <string name="search_engine_title">Standardsuche</string>
@@ -3086,6 +3093,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="tab_refresh_description">Seite aktualisieren</string>
     <string name="tab_search_description">Suchen</string>
     <string name="tab_share_description">Diese Seite teilen</string>
+    <string name="tab_shorts">Kurzvideos</string>
     <string name="tab_stop_loading_description">Laden der Seite stoppen</string>
     <string name="tag_undo">Rückgängig</string>
     <string name="tag_undo_title">%s beendet</string>
