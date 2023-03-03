@@ -646,6 +646,7 @@
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Einen Moment…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Loslassen zum Aktualisieren</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Wiederholen</string>
+    <string name="doc_viewer_label">Lesegerät (Mi Browser)</string>
     <string name="doc_viewer_open_out_file_prompt">Um eine aus externen Quellen empfangene Datei zu öffnen und anzuzeigen, muss diese App zunächst eine Kopie der Datei erstellen. Fortfahren?</string>
     <string name="doc_viewer_user_guide_profile">Sehen Sie sich das Element an, das Sie hier gesucht haben</string>
     <string name="document_download_background_btn">Herunterladen im Hintergrund</string>

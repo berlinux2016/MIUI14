@@ -448,7 +448,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="fallback_menu_item_share_link">Link teilen</string>
     <string name="fast_channel_popular">Beliebte Kanäle</string>
     <string name="favor_movie">Filme</string>
-    <string name="favor_playlist">Playlisten</string>
+    <string name="favor_playlist">Wiedergabelisten</string>
     <string name="favorite">Favoriten</string>
     <string name="favorite_cancel_fail">Aus Favoriten entfernen nicht möglich </string>
     <string name="favorite_cancel_success">Erfolgreich aus Favoriten entfernt</string>
@@ -1413,7 +1413,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="play_list_sign_in_dialog_message">Mit Ihrem Google-Konto anmelden, um alle Ihre Wiedergabelisten anzuzeigen.</string>
     <string name="play_list_user_local">Lokal</string>
     <string name="playlist_create">Erstelen</string>
-    <string name="playlist_detail_recomm_title">Empfohlene Playlisten</string>
+    <string name="playlist_detail_recomm_title">Empfohlene Wiedergabelisten</string>
     <string name="playlist_finish">Fertig</string>
     <string name="playlist_hot">Beliebt</string>
     <string name="playlist_name">Playlist-Titel eingeben</string>

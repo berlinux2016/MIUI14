@@ -10,6 +10,10 @@
         <item>Weiblich</item>
         <item>Gruppe</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Männlich</item>
+        <item>Weiblich</item>
+    </string-array>
     <string-array name="recommendation_desc_week">
         <item>Empfehlungen für Sonntag</item>
         <item>Empfehlungen für Montag</item>

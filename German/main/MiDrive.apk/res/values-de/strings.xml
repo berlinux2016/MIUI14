@@ -157,7 +157,7 @@
     <string name="delete_file_success">Erfolgreich gelöscht</string>
     <string name="delete_operation_record">Diesen Datensatz löschen?</string>
     <string name="delete_operation_record_timeout">Datensatz wurde nicht gelöscht. Etwas warten und erneut versuchen.</string>
-    <string name="delete_record_only">Elemente, auf die sich ausgewählte Aufnahmen beziehen, werden nicht gelöscht.</string>
+    <string name="delete_record_only">Bei dieser Aktion werden nur die ausgewählten Datensätze gelöscht. Dateien werden nicht gelöscht.</string>
     <string name="delete_success">Erfolgreich gelöscht</string>
     <string name="detail_download_path">"Ort: "</string>
     <string name="detail_download_time">"Heruntergeladen: "</string>
@@ -493,7 +493,7 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="operation_resume">Start</string>
     <string name="operation_resume_all">Alle fortsetzen</string>
     <string name="operation_save">Speichern</string>
-    <string name="operation_sure_to_delete">Jetzt löschen?</string>
+    <string name="operation_sure_to_delete">Verlauf löschen?</string>
     <string name="operation_task_manage">Transfers anschauen</string>
     <string name="operation_transport_success">Erfolgreich zu Transfers hinzugefügt</string>
     <string name="operation_upload">Hochladen</string>

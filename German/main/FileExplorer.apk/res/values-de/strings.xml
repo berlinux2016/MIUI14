@@ -147,6 +147,7 @@
     <string name="cloud_drive_not_login_summary">Nicht angemeldet</string>
     <string name="cloud_drive_settings">Mi Drive-Einstellungen</string>
     <string name="cloud_empty_hint_text">Hier ist noch nichts.\nVersuchen Sie, Dateien von Ihrem Gerät auf Mi Drive zu verschieben.</string>
+    <string name="cloud_empty_hint_text_pad">Hier ist noch nichts.\nVersuchen Sie, Dateien von Ihrem Gerät auf Mi Drive zu verschieben.</string>
     <string name="cloud_guide_summary_text">Synchronisieren Sie Ihre Elemente automatisch mit allen Ihren Geräten</string>
     <string name="cloud_guide_title_text">Mit Mi Drive synchronisieren</string>
     <string name="cloud_permission_storage_desc">Zum Speichern von Fotos und Dokumenten auf Ihrem Gerät</string>
@@ -311,6 +312,9 @@
     <string name="exo_controls_rewind_description">Rücklauf</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
+    <string name="extend_service_setting">Zusätzliche Dienste</string>
+    <string name="extend_service_summary">Wenn Sie diesen Dienst ausschalten, können Sie die mit Mi Drive verbundenen Funktionen nicht nutzen</string>
+    <string name="extend_service_title">Mi Drive-Dateien verwalten</string>
     <string name="extended_storage_file_can_not_open">Datei kann nicht geöffnet werden. Kopieren Sie sie auf den internen Speicher.</string>
     <string name="extract">Entpacken</string>
     <string name="fab_menu_ball">Schnellaktionen</string>
@@ -1067,6 +1071,9 @@
     <string name="stay_awake_summary">Bildschirm während Verwendung von FTP nie ausschalten</string>
     <string name="stay_awake_title">Bildschirm nicht abschalten</string>
     <string name="sticker_btn_str_explore_tab">Entecken Sie haufenweise lustige Inhalte!</string>
+    <string name="stop_extend_service_dialog_confirm">Ausschalten</string>
+    <string name="stop_extend_service_dialog_summary">Wenn Sie diese Funktion ausschalten, können Sie Ihre in Mi Drive gespeicherten Dateien nicht mehr verwalten. Trotzdem ausschalten?</string>
+    <string name="stop_extend_service_dialog_tilte">Zusätzliche Dienste</string>
     <string name="stop_server">Stoppen</string>
     <string name="storage_cloned_app">Speicher für Dual Apps</string>
     <string name="storage_info_detail">Verfügbar: %1$s Gesamt: %1$s</string>

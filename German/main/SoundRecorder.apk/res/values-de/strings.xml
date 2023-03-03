@@ -386,12 +386,12 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="recognition_button_add_to_queue">Zur Warteschlange hinzufügen</string>
     <string name="recognition_button_cancel">Nicht jetzt</string>
     <string name="recognition_button_start">Umwandeln</string>
-    <string name="recognition_confirm_dialog_body">Das Umwandeln kann einige Zeit dauern. Sie erhalten eine Benachrichtigung, wenn diese Aufgabe abgeschlossen ist. Jetzt umwandeln?</string>
+    <string name="recognition_confirm_dialog_body">Umwandeln kann einige Zeit dauern. Sie erhalten eine Benachrichtigung, wenn diese Aufgabe abgeschlossen ist. Jetzt umwandeln?</string>
     <string name="recognition_error_cancel">Abgebrochen</string>
     <string name="recognition_error_code">Fehlercode: %d</string>
     <string name="recognition_error_download_cancel">Später</string>
     <string name="recognition_error_download_data_msg">Laden Sie das Erkennungprogramm herunter, um diesen Dienst zur Verfügung zu stellen, der bei der aktuellen mobilen Datenverbindung etwa %d MB verbraucht.</string>
-    <string name="recognition_error_download_fail">Download nicht gefunden. Prüfen Sie die Netzwerkeinstellungen und versuchen Sie es erneut.</string>
+    <string name="recognition_error_download_fail">Download fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="recognition_error_download_msg">Laden Sie die Spracherkennungssoftware herunter, um diesen Dienst zu verwenden.</string>
     <string name="recognition_error_download_ok">Herunterladen</string>
     <string name="recognition_error_download_title">Spracherkennungs-SW fehlt</string>
@@ -492,8 +492,8 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="reg_error_audio_large">Audiodateien dürfen nicht größer als 500 MB sein.</string>
     <string name="reg_error_audio_short">Audiodatei ist zu klein.</string>
     <string name="reg_error_business">Datei wurde nicht übertragen. Fehler an uns melden und erneut versuchen.</string>
-    <string name="reg_error_client">Ein App-Datenfehler ist aufgetreten. Fehler an uns melden und erneut versuchen.</string>
-    <string name="reg_error_create_order">Bestellung wurde nicht erstellt, erneut versuchen.</string>
+    <string name="reg_error_client">App-Datenfehler. Fehler an uns melden und erneut versuchen.</string>
+    <string name="reg_error_create_order">Bestellung wurde nicht erstellt. Erneut versuchen.</string>
     <string name="reg_error_ifly_account">Kontofehler. Erneut versuchen.</string>
     <string name="reg_error_price">Fehler Kostenvoranschlag. Fehler an uns melden und erneut versuchen.</string>
     <string name="reg_error_server">Serverfehler. Fehler an uns melden und erneut versuchen.</string>
