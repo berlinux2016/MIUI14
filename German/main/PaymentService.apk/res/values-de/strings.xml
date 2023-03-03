@@ -810,7 +810,7 @@ Da die Erbringung der Mi Coin-Dienste auf der Erhebung der erforderlichen person
     <string name="passport_wrong_voice">Eingegebener Code ist falsch</string>
     <string name="passport_yes">Ja</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi-Konten in Verbindung gebracht. Versuchen Sie eine andere Rufnummer.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten in Verbindung gebracht. Versuchen Sie eine andere Rufnummer.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

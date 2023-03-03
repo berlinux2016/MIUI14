@@ -825,7 +825,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="permission_granted">%1$s Berechtigung erteilt</string>
     <string name="phone_auto_login_register_with_local_number">Konto erstellen</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi-Konten verknüpft. Versuchen Sie eine andere Rufnummer.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten verknüpft. Versuchen Sie eine andere Rufnummer.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

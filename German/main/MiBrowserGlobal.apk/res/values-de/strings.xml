@@ -1133,7 +1133,7 @@
     <string name="geolocation_settings_page_title">Lokalen Zugang löschen</string>
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_ph_ticket">Code abrufen</string>
-    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
+    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Xiaomi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="go_me">Profil</string>
     <string name="go_supermarket_button">Gehen</string>
@@ -2079,7 +2079,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="pf_move_out_dialog_title">Aus privatem Ordner entfernen</string>
     <string name="pf_toast_add_success">Erfolgreich in privaten Ordner verschoben</string>
     <string name="phone">Speicher</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi-Konten verknüpft. Versuchen Sie, eine andere Rufnummer zu verwenden.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten verknüpft. Versuchen Sie, eine andere Rufnummer zu verwenden.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

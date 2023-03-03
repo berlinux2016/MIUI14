@@ -1397,7 +1397,7 @@ Sicherheit Ihres Kontos erhöhen"</string>
     <string name="permission_storage_desc">Für den Zugriff auf Elemente, das Speichern von Dateien, das Anzeigen und Abspielen lokaler Videos</string>
     <string name="permission_title">Erforderliche Rechte</string>
     <string name="pgc_push_title">Abonnements</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi-Konten verknüpft. Versuchen Sie eine andere Rufnummer.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten verknüpft. Versuchen Sie eine andere Rufnummer.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

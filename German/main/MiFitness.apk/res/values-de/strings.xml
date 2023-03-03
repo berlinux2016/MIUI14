@@ -1550,7 +1550,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_permission_failed">Berechtigung erhalten fehlgeschlagen, zu Einstellungen - Berechtigungen gehen zum Öffnen</string>
     <string name="get_ph_ticket">Code erhalten</string>
-    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
+    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Xiaomi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="get_test_key_duplicate_access_data">Doppelte Zugangsdaten</string>
     <string name="get_test_key_error_default">Standardfehler</string>

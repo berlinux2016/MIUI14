@@ -484,7 +484,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="garbage_cleanup">Bereinigung</string>
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_ph_ticket">Code erhalten</string>
-    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
+    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Xiaomi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_phone_verifycode_exceed_limit">An diese Nummer wurden zu viele Verifizierungscodes gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="global_app_description_content">FM Radio ist eine System-App. Sie können keine Radiosendungen mehr hören, wenn Sie die App deinstallieren.</string>
     <string name="global_app_description_title">FM Radio deinstallieren?</string>

@@ -303,7 +303,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="friday_shortest">F</string>
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_ph_ticket">Code erhalten</string>
-    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Mi-Konten mit einer Rufnummer verknüpfen. Sie können keine neuen Konten hinzufügen.</string>
+    <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Xiaomi-Konten mit einer Rufnummer verknüpfen. Sie können keine neuen Konten hinzufügen.</string>
     <string name="get_phone_verifycode_exceed_limit">An diese Nummer wurden zu viele Verifizierungscodes gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="goto_sign_up">Konto erstellen</string>
     <string name="h5_ppt_to_pdf_introduce_title">Über die Konvertierung von PPT in PDF</string>
