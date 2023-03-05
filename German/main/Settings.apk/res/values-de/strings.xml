@@ -1632,6 +1632,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bluetooth_hearingaid_right_pairing_message">Rechtes Hörgerät koppeln…</string>
     <string name="bluetooth_hid_profile_summary_connected">Mit Eingabegerät verbunden</string>
     <string name="bluetooth_hid_profile_summary_use_for">Für Eingabe verwenden</string>
+    <string name="bluetooth_inband_ringing">In-Band-Klingeltöne zulassen</string>
+    <string name="bluetooth_inband_ringing_summary">Wiedergabe von Telefonklingeltönen über Bluetooth-Kopfhörer zulassen. Diese Funktion kann nur verwendet werden, wenn ein einzelnes Gerät angeschlossen ist, und ist ggf. mit einigen Geräten nicht kompatibel.</string>
     <string name="bluetooth_incoming_pairing_msg">Von: %1$s. Koppeln mit diesem Gerät durchführen?</string>
     <string name="bluetooth_inform_messgae">"Verbindung mit %1$s nicht möglich.\nDas hier könnte schief gelaufen sein:
 1. Bluetooth auf diesem Gerät ist aus oder außerhalb der Reichweite.
@@ -7119,7 +7121,6 @@ Xiaomi Cloud öffnen und Elemente von dort wiederherstellen."</string>
     <string name="picture_in_picture_title">Bild-im-Bild</string>
     <string name="pin_failed">Fehler beim Entsperren mit der SIM-Karten-PIN</string>
     <string name="ping_test_label">Pingtest ausführen</string>
-    <string name="placeholder_activity">*Dies ist ein temporärer Platzhalter für eine Ersatzaktivität.</string>
     <string name="platform_chooser_item_android_mi">Mi Telefon</string>
     <string name="platform_chooser_item_android_others">Andere Marken</string>
     <string name="platform_chooser_item_ios">Von einem iOS-Gerät importieren</string>
@@ -11592,6 +11593,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_tether_enabled_summary">%1$s ist aktiv</string>
     <string name="wifi_tether_failed_subtext">Fehler beim mobilen WLAN-Hotspot</string>
     <string name="wifi_tether_first_use_message">Mobilen Hotspot bei der ersten Verwendung einrichten</string>
+    <string name="wifi_tether_high_temperature_toast">Beim Hochtemperaturschutz ist die Funktion vorübergehend nicht verfügbar</string>
     <string name="wifi_tether_setting_title">Einstellungen</string>
     <string name="wifi_tether_settings_title">Mobiler Hotspot</string>
     <string name="wifi_tether_starting">Hotspot einschalten…</string>

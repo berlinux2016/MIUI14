@@ -394,6 +394,10 @@
         <item quantity="other">~%d Benachrichtigungen pro Woche</item>
         <item quantity="one">~%d Benachrichtigung pro Woche</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Änderungen werden in %d Sek übernommen</item>
+        <item quantity="one">Änderungen werden in %d Sek übernommen</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>

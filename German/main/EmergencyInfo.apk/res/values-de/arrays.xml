@@ -57,6 +57,7 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Systemauswahl nutzen (Standard)</item>
@@ -64,6 +65,7 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
+        <item>192.0 kHz</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Systemauswahl nutzen (Standard)</item>
@@ -74,7 +76,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive Audio</item>
         <item>Qualcomm® aptX™ TWS+ Audio</item>
-        <item>LC3</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>Optionale Codecs aktivieren</item>
+        <item>Optionale Codecs deaktivieren</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Systemauswahl nutzen (Standard)</item>
@@ -85,7 +92,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive Audio</item>
         <item>Qualcomm® aptX™ TWS+ Audio</item>
-        <item>LC3</item>
+        <item>LHDC V5</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>Optionale Codecs aktivieren</item>
+        <item>Optionale Codecs deaktivieren</item>
       </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
