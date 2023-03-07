@@ -4332,8 +4332,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="haptic_index_bar_10_content_description">Bildlaufleiste</string>
     <string name="haptic_lock_screen_11_content_description">Gerät sperren</string>
     <string name="haptic_multitasking_card_long_press_03_content_description">Langes Drücken einer App-Vorschau</string>
-    <string name="haptic_multitasking_gestures_04_content_description">Aktuelle öffnen</string>
-    <string name="haptic_preview">Demos</string>
+    <string name="haptic_multitasking_gestures_04_content_description">Zuletzt verwendet öffnen</string>
     <string name="haptic_return_gesture_05_content_description">Zurückgehen</string>
     <string name="haptic_shutdown_menu_06_content_description">Power-Menü</string>
     <string name="haptic_single_selection_02_content_description">Ausgewähltes Element</string>
@@ -8206,7 +8205,7 @@ UT Interface: %5$s"</string>
     <string name="search_ambient_display_screen_title">Ambient Display;Always-on Display;Always on Display</string>
     <string name="search_apn_settings">APN;Zugangspunktnamen</string>
     <string name="search_app_invisible">App unsichbar;unsichtbare Apps</string>
-    <string name="search_app_switch_key">kürzliche;kürzlich;zuletzt;Menü;Menütaste;Taskmanager</string>
+    <string name="search_app_switch_key">kürzliche;kürzlich;zuletzt;zuletzt verwendet;Menü;Menütaste;Taskmanager</string>
     <string name="search_application_count">Apps suchen</string>
     <string name="search_application_lock_name">App-Sperre</string>
     <string name="search_applications_settings">Installierte Apps</string>

@@ -2226,7 +2226,7 @@ Ernst: 81-100."</string>
     <string name="health_vo2max_unit">ml/kg/Min</string>
     <string name="health_vo2max_week_index_change">Ändern</string>
     <string name="health_wakeup_time_before_bed_time">Ihre Endzeit sollte nicht vor Ihrer Startzeit liegen.</string>
-    <string name="health_weight_data_title_day">Aktuelle</string>
+    <string name="health_weight_data_title_day">Aktuelles</string>
     <string name="health_weight_indicator_change">Änderungen</string>
     <string name="health_weight_measure_time">Zeit</string>
     <string name="health_weight_please_choose">Wählen</string>

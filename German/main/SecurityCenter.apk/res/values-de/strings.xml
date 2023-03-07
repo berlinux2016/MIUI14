@@ -1632,7 +1632,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_emergency_medicine">Aktive Medikamente</string>
     <string name="ew_emergency_organ_donation">Sind Sie ein freiwilliger Organspender?</string>
     <string name="ew_emergency_privacy">Datenschutzerklärung: Die hier angegebenen Daten werden nur für Notfälle verwendet und auf Ihrem Gerät gespeichert. Wir werden diese Daten nicht auf unsere Server hochladen.</string>
-    <string name="ew_emergency_recent_medicine">Aktuelle aktive Medikamente</string>
+    <string name="ew_emergency_recent_medicine">Aktuell aktive Medikamente</string>
     <string name="ew_emergency_title">Krankenversicherungskarte</string>
     <string name="ew_first_start_network_title">Allgemeine Geschäftsbedingungen</string>
     <string name="ew_get_location">Lokalisieren</string>

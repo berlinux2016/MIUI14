@@ -285,7 +285,7 @@
     <string name="accessibility_quick_settings_work_mode_off">Arbeitsmodus aus</string>
     <string name="accessibility_quick_settings_work_mode_on">Arbeitsmodus an</string>
     <string name="accessibility_recent">Übersicht</string>
-    <string name="accessibility_recent_task_exit">Aktuelle geschlossen</string>
+    <string name="accessibility_recent_task_exit">Zuletzt verwendet geschlossen</string>
     <string name="accessibility_recent_task_locked">Gesperrt. Runterwischen zum Entsperren.</string>
     <string name="accessibility_recent_task_locked_state">Gesperrt</string>
     <string name="accessibility_recent_task_memory_info">Gesamt RAM: %2$s | Verfügbarer RAM: %1$s. 2x tippen zum Freigeben.</string>

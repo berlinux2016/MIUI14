@@ -515,7 +515,7 @@
     <string name="midnight">Nacht</string>
     <string name="midrive_display_related">Bildschirm</string>
     <string name="midrive_get_cloudvideo_file">Einen Moment…</string>
-    <string name="midrive_hide_recent_cloud_files">Mi Drive-Dateien nicht unter Aktuelle anzeigen</string>
+    <string name="midrive_hide_recent_cloud_files">Mi Drive-Dateien nicht unter Zuletzt verwendet anzeigen</string>
     <string name="midrive_not_found">Auf dieses Element wurde nicht zugegriffen</string>
     <string name="midrive_overseas_unavailable">Diese Funktion ist nur auf dem chinesischen Festland verfügbar.</string>
     <string name="midrive_reset_privacy_and_check_availability_retry">Mi Drive wurde nicht eingeschaltet. Erneut versuchen.</string>
@@ -897,7 +897,7 @@
     <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="query_quota_searching">Einen Moment…</string>
     <string name="recent_hide_camera_and_screenshots">Galerieelemente und Screenshots nicht unter den letzten Dateien anzeigen</string>
-    <string name="recent_hide_cloud_drive_files">Mi Drive-Dateien nicht unter Aktuelle anzeigen</string>
+    <string name="recent_hide_cloud_drive_files">Mi Drive-Dateien nicht unter Zuletzt verwendet anzeigen</string>
     <string name="recent_show">Zuletzt</string>
     <string name="recommend">Empfohlen</string>
     <string name="recommend_popup_title">Vorschläge</string>
