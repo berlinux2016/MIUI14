@@ -269,9 +269,9 @@
     <string name="life_post_wake_up_acumu_day_title">Tageszähler</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s Tage</string>
     <string name="life_post_wake_up_item_acumu_day_title">Tageszähler</string>
-    <string name="life_post_wake_up_item_percentage_title">Früher wach als</string>
+    <string name="life_post_wake_up_item_percentage_title">Xiaomi-Fans hinter Ihnen</string>
     <string name="life_post_wake_up_item_time_title">Aufwachzeit</string>
-    <string name="life_post_wake_up_percentage_title">Früher wach als</string>
+    <string name="life_post_wake_up_percentage_title">Xiaomi-Fans hinter Ihnen</string>
     <string name="life_post_wake_up_time_title">Weckzeit</string>
     <string name="life_post_weather_invalid">Tippen, um Wetterdaten zu erhalten</string>
     <string name="life_post_weather_no_network">Mit Netzwerk verbinden, um Wetterdaten zu aktualisieren</string>

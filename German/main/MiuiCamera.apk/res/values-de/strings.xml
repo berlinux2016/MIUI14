@@ -377,6 +377,8 @@
     <string name="beauty_fragment_tab_name_beauty">Verschönern</string>
     <string name="beauty_fragment_tab_name_makeup">Fortgeschritten</string>
     <string name="beauty_fragment_tab_name_makeups">Make-up</string>
+    <string name="beauty_fx_makeup">Nachbessern</string>
+    <string name="beauty_fx_makeup_cv">Retuschieren</string>
     <string name="beauty_lens">Große Blende</string>
     <string name="beauty_lens_1">Menschen</string>
     <string name="beauty_lens_1_description">Professionelles Bokeh erzeugen und Aufnahmen in bemerkenswerte Porträts verwandeln</string>
@@ -393,6 +395,7 @@
     <string name="beauty_makeups_gentleman">Silber</string>
     <string name="beauty_makeups_nude">Nackt</string>
     <string name="beauty_makeups_pinkfemale">Blütenblatt</string>
+    <string name="beauty_makeups_qianjin">Rotbraun</string>
     <string name="beauty_makeups_solid">Kontur</string>
     <string name="beauty_makeups_subeffect_filter">Filter</string>
     <string name="beauty_makeups_subeffect_makeup">Make-up</string>
@@ -472,6 +475,7 @@
     <string name="camera_newcta_message">"Willkommen bei Kamera! Mit dieser App können Sie Fotos und Videos aufnehmen. "</string>
     <string name="camera_newcta_other_message">Um Ihnen während der Nutzung der App zusätzliche Dienste anzubieten, benötigen wir ggf. die Erlaubnis, auf Ihren Standort zuzugreifen.</string>
     <string name="camera_newcta_storage_message">Zum Speichern und Anzeigen von Fotos und Videos</string>
+    <string name="camera_newcta_storage_message_1">Zum Speichern und Anzeigen von Bildern, Videos und Dateien</string>
     <string name="camera_preview_area_long_press_label">Google Lens</string>
     <string name="camera_setting">Kameraeinstellungen</string>
     <string name="camera_settings_category_development">Experimentelle Funktionen</string>
@@ -720,6 +724,10 @@
     <string name="download_cancel_hint">Herunterladen von %1$s abbrechen?</string>
     <string name="download_confirm">Herunterladen</string>
     <string name="download_hint">%1$s MB mobile Daten werden zum Herunterladen verwendet. Trotzdem herunterladen?</string>
+    <string name="download_hint_check_on_wifi">Sie sind mit WLAN verbunden. Diese %1$s MB-Datei jetzt herunterladen?</string>
+    <string name="download_hint_check_on_wifi_cn">Sie sind mit WLAN verbunden. Diese %1$s MB-Datei jetzt herunterladen?</string>
+    <string name="download_hint_check_on_wifi_remind">Nicht mehr erinnern</string>
+    <string name="download_hint_check_on_wifi_remind_cn">Nicht mehr erinnern</string>
     <string name="download_hint_cn">Anscheinend ist Ihr Gerät nicht mit WLAN verbunden. Jetzt %1$s MB an mobilen Daten verwenden, um Elemente herunterzuladen?</string>
     <string name="download_hint_wifi">Anscheinend ist Ihr Gerät nicht mit WLAN verbunden. Jetzt %1$s MB an mobilen Daten verwenden, um Elemente herunterzuladen?</string>
     <string name="download_in_progress">Herunterladen…</string>
