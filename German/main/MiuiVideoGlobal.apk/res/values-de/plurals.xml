@@ -160,10 +160,6 @@
         <item quantity="other">Größe: %.2fKB</item>
         <item quantity="one">Größe: %.2fKB</item>
     </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d Videos</item>
-        <item quantity="one">%d Video</item>
-    </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d von %2$2d Episoden verfügbar</item>
         <item quantity="one">%1$1d von %2$2d Episode verfügbar</item>
@@ -192,14 +188,6 @@
         <item quantity="other">%d Titel</item>
         <item quantity="one">%d Titel</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">Erfolgreich geteilt. Sie haben %d Punkte gesammelt. Holen Sie sie sich im Punktecenter.</item>
-        <item quantity="one">Erfolgreich geteilt. Sie haben %d Punkt gesammelt. Holen Sie ihn sich im Punktecenter.</item>
-   </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">Erfolgreich abonniert. Holen Sie sie sich im Punktecenter.</item>
-        <item quantity="one">Erfolgreich abonniert.Holen Sie sie sich im Punktecenter.</item>
-   </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Ihr Inhalt enthält Elemente (%1$s), die gegen unsere Community-Standards verstoßen. Ihr Konto wird für %2$d Tage bis %3$s gesperrt.</item>
         <item quantity="one">Ihr Inhalt enthält Elemente (%1$s), die gegen unsere Community-Standards verstoßen. Ihr Konto wird für %2$d Tag bis %3$s gesperrt.</item>
@@ -211,14 +199,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d Videos</item>
-        <item quantity="one">%d Video</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d Videos</item>
-        <item quantity="one">%d Video</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">%s Elemente jetzt löschen?</item>
@@ -287,10 +267,6 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Bis zu %d Lesezeichen hinzufügen</item>
         <item quantity="one">Bis zu %d Lesezeichen hinzufügen</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">%d ausgewählte Dateien ausblenden?</item>
-        <item quantity="one">%d ausgewählte Datei ausblenden?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s mögen es</item>
