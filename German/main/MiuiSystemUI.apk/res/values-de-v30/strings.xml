@@ -145,11 +145,11 @@ Weiterhin anzeigen?"</string>
     <string name="lb_onboarding_get_started">STARTEN…</string>
     <string name="lb_playback_controls_closed_captioning_disable">Untertitel schließen deaktivieren</string>
     <string name="lb_playback_controls_closed_captioning_enable">Untertitel schließen aktivieren</string>
-    <string name="lb_playback_controls_fast_forward">Schneller Vorlauf</string>
-    <string name="lb_playback_controls_fast_forward_multiplier">Schneller Vorlauf %1$dx</string>
+    <string name="lb_playback_controls_fast_forward">Schnellvorlauf</string>
+    <string name="lb_playback_controls_fast_forward_multiplier">Schnellvorlauf %1$dx</string>
     <string name="lb_playback_controls_hidden">Mediensteuerungen ausgeblendet, zum Anzeigen Taste d-pad drücken</string>
     <string name="lb_playback_controls_pause">Anhalten</string>
-    <string name="lb_playback_controls_picture_in_picture">Bild-In-Bild-Modus eingeben</string>
+    <string name="lb_playback_controls_picture_in_picture">Bild-im-Bild-Modus eingeben</string>
     <string name="lb_playback_controls_repeat_none">Keine wiederholen</string>
     <string name="lb_playback_controls_repeat_one">Einmal wiederholen</string>
     <string name="lb_playback_controls_rewind_multiplier">Zurückspulen %1$dx</string>

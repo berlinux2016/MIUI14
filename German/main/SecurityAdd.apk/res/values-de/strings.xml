@@ -309,6 +309,7 @@
     <string name="net_booster_expire_notification">Netzwerkoptimierung endet bald</string>
     <string name="net_booster_overdue_notification">Netzwerkoptimierung endet bald</string>
     <string name="net_booster_overdue_notification_tip">Netzwerkoptimierung wurde beendet. Vielleicht treten jetzt Netzwerkverzögerungen auf. Sitzung jetzt verlängern?</string>
+    <string name="network_error">Ein Netzwerkfehler ist aufgetreten.</string>
     <string name="network_not_available">Netzwerkverbindung fehlgeschlagen</string>
     <string name="night">Abend</string>
     <string name="no_network">Netzwerkverbindung herstellen nicht möglich</string>
@@ -316,8 +317,20 @@
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht eingestellt</string>
     <string name="open_browser">Im Browser öffnen</string>
+    <string name="page_load_failed">Seite kann nicht geöffnet werden</string>
     <string name="password_toggle_content_description">Passwortsichtbarkeit umschalten</string>
     <string name="pc_activity_title">Akku optimieren</string>
+    <string name="pc_entered_extreme_mode">Ruhezustand ist an</string>
+    <string name="pc_entered_extreme_mode_summary">Der Akku Ihres Geräts ist leer und es befindet sich im Ruhezustand. Apps werden im Hintergrund ausgeführt und senden keine Benachrichtigungen.</string>
+    <string name="pc_extreme_exit_and_power_off">Beenden</string>
+    <string name="pc_extreme_mode_bg_toast">Im Ruhezustand werden Apps im Hintergrund ausgeführt und senden keine Benachrichtigungen</string>
+    <string name="pc_extreme_mode_exit_risk_title">Achtung</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Der Akku Ihres Geräts ist leer. Wenn Sie den Ruhezustand beenden, schaltet sich Ihr Gerät aus.</string>
+    <string name="pc_extreme_mode_find_charger">Laden Sie Ihr Gerät so schnell wie möglich auf.</string>
+    <string name="pc_extreme_mode_runtime">Ruhezustand ist seit %1$s %2$s aktiviert.</string>
+    <string name="pc_extreme_mode_title">Ruhezustand</string>
+    <string name="pc_going_to_exit_extreme_mode">Ruhezustand beenden</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Ihr Gerät wird geladen. Ruhezustand ist aus.</string>
     <string name="pm_lable_name">Über Root-Zugriff</string>
     <string name="power_center_battery_duration_screen_on">Verbleibende Bildschirmzeit</string>
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s Bildschirmzeit übrig</string>
@@ -334,6 +347,7 @@
     <string name="recall_kid_mode_summary">Zustimmung zur Datenschutzerklärung des Kinderprofils widerrufen</string>
     <string name="recall_kid_mode_tips">Wenn Sie Ihre Zustimmung zur Datenschutzerklärung des Kinderprofils widerrufen, werden wir die von der App gesammelten Daten in Übereinstimmung mit dem Gesetz löschen. Alle Daten im Profil gehen verloren und können nicht wiederhergestellt werden. Wenn Sie Ihre Zustimmung widerrufen, wird davon ausgegangen, dass Sie nicht damit einverstanden sind, dass wir Ihnen weiterhin die Dienste des Kinderprofils zur Verfügung stellen. Zustimmung widerrufen?</string>
     <string name="renew_now">Erneuern</string>
+    <string name="retry_action">Erneut versuchen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

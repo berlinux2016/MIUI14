@@ -23,6 +23,7 @@
     <string name="ai_button_title">Mi KI-Taste</string>
     <string name="ai_button_title_global">KI-Taste</string>
     <string name="app_switch_key">Zuletzt verwendet</string>
+    <string name="application_label">Eingabeeinstellungen</string>
     <string name="auto_disable_screenbuttons_ask">Auf Nachfrage deaktivieren</string>
     <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
     <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
@@ -184,6 +185,7 @@
     <string name="ks_dialog_conflict">Verknüpfung wird bereits für \"%s\" verwendet</string>
     <string name="ks_dialog_modify_text">Tastenkombination eingeben, um diesen Verknüpfung zu bearbeiten.</string>
     <string name="ks_dialog_reset_btn">Wiederherstellen</string>
+    <string name="ks_dialog_reset_conflict_text">Zurücksetzen nicht möglich. Diese Kombination ist bereits belegt.</string>
     <string name="ks_dialog_reset_text_app">Standard-Verknüpfungseinstellungen zum App-Öffnen werden wiederhergestellt. Ihre eigenen Verknüpfungen werden gelöscht. Trotzdem wiederherstellen?</string>
     <string name="ks_dialog_reset_text_system">Standardeinstellungen für Systemverknüpfungen jetzt wiederherstellen?</string>
     <string name="ks_dialog_title">%s öffnen</string>

@@ -430,6 +430,7 @@
     <string name="gadget_weather_title_14">Wetter</string>
     <string name="gadget_weather_title_24">Wetter</string>
     <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
+    <string name="global_search">Suchen</string>
     <string name="global_search_hint">Suchen</string>
     <string name="got_it_botton">Verstanden</string>
     <string name="group_folder">Neuer Ordner</string>
@@ -444,8 +445,11 @@
     <string name="home_gesture_content_center">Inhaltscenter</string>
     <string name="home_gesture_global_search">Suchen</string>
     <string name="home_gesture_no_action">Keine</string>
+    <string name="home_gesture_notification_and_control_center">Benachrichtigungsleiste und Kontrollzentrum</string>
     <string name="home_gesture_notification_bar">Benachrichtigungen</string>
     <string name="home_pull_down_action">Am Startbildschirm runterwischen</string>
+    <string name="home_pull_down_know">Verstanden</string>
+    <string name="home_pull_up_content">Sie können die Suche jetzt öffnen, indem Sie auf Ihrem Startbildschirm nach unten wischen.</string>
     <string name="home_screen">Startbildschirm</string>
     <string name="home_screen_settings">Startbildschirm</string>
     <string name="home_slide_up_action">Am Startbildschirm hochwischen</string>
@@ -864,6 +868,7 @@
     <string name="resource_canary_leak_tip">Es gibt einen Leak!</string>
     <string name="resource_canary_wait_for_heapdump_message">Dumping Heap-Schnappschuss…</string>
     <string name="restore_icon_successful">Erfolgreich hinzugefügt</string>
+    <string name="risk_app_report">Diese App melden</string>
     <string name="russia_preinstall_folder_name">Russisch</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>

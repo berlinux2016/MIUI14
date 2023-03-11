@@ -174,7 +174,7 @@
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="pa_accessibility_home_search">Suchen, Doppeltipp zum Starten</string>
+    <string name="pa_accessibility_home_search">Suchen.\nDoppeltipp zum Starten</string>
     <string name="pa_accessibility_home_widget_drag">Element ziehen</string>
     <string name="pa_accessibility_home_widget_drag_move">In Zeile %1$d, Position %2$d verschieben</string>
     <string name="pa_accessibility_home_widget_drop_workspace">In Zeile %1$d, Position %2$d verschoben</string>
@@ -189,16 +189,18 @@
     <string name="pa_accessibility_picker_back">Zurück</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Widget-Sammlungen</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Liste unterstützter Widgets anzeigen</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s, Zeile %2$d, Nr. %3$d ausgewählt. Doppeltipp zum Starten.</string>
-    <string name="pa_accessibility_picker_home_maml_slected">Ausgewählt: %1$s. Größe: %2$s. Doppeltipp, um die Detailseite anzuzeigen. Zum Ziehen Doppeltipp und halten.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s.\nDoppeltipp zum Starten.</string>
+    <string name="pa_accessibility_picker_home_maml_slected">%1$s. %2$s.\nDoppeltipp, um die Detailseite anzuzeigen.\nDoppeltipp und halten zum Ziehen</string>
     <string name="pa_accessibility_picker_home_search">Widgets suchen</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">%1$s, Zeile %2$d, Nr. %3$d ausgewählt. Doppeltipp zum Starten.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">%1$s.\nDoppeltipp zum Starten.</string>
     <string name="pa_accessibility_picker_home_title">Widget hinzufügen</string>
     <string name="pa_accessibility_picker_home_widget_replace">%s ausgewählt. Widgets umschalten.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Doppeltipp auf die Schaltfläche unten, um es durch ein anderes Widget zu ersetzen.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Installationsstatus: %3$s. Die Schaltfläche \"Wechseln\" befindet sich unten. Doppeltipp zum Wechseln.</string>
-    <string name="pa_accessibility_picker_home_widget_slected">%1$s, Größe: %2$s, Installationsstatus: %3$s ausgewählt. Zweimal tippen für Details, zweimal tippen und halten zum Verschieben.</string>
-    <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s, Zeile %2$d, Nr. %3$d ausgewählt. Doppeltipp, um Details anzuzeigen.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">%s.\nDoppeltipp auf die Taste unten, um es durch ein anderes Widget zu ersetzen.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Installationsstatus: %3$s. Die Taste \"Wechseln\" ist unten.\nDoppeltipp zum Wechseln.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">%1$s, %2$s, Installationsstatus: %3$s\nDoppeltipp für Details.\nDoppeltipp und halten zum Verschieben.</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">%1$s, %2$s, Installationsstatus: %3$s.\nDoppeltipp, um Details anzuzeigen.</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s, Zeile %2$d, Nr. %3$d.\nDoppeltipp, um Details anzuzeigen.</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Themen öffnen</string>
     <string name="pa_accessibility_picker_search_cancel">Widget-Suchleiste. Doppeltipp zum Abbrechen.</string>
     <string name="pa_accessibility_picker_search_clear">Text löschen</string>
     <string name="pa_accessibility_picker_search_tips">Widget-Suchleiste. Doppeltipp zum Suchen.</string>
@@ -224,7 +226,7 @@
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Widget Store. %s gewählt. Doppeltipp, um %s zu öffnen</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">Widget Store. %s gewählt. Ziehen, um dieses Element zu Infoassistent hinzuzufügen. Doppeltipp, um Widget-Details anzuzeigen.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Doppeltipp zum Bearbeiten</string>
-    <string name="pa_accessibility_widget_slected_status">Ausgewählt: %1$s. Installationsstatus: %2$s.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Installationsstatus: %2$s.</string>
     <string name="pa_app_label">Infoassistent</string>
     <string name="pa_base_time_just_now">Gerade eben</string>
     <string name="pa_base_time_month">dd.MM.</string>
@@ -233,6 +235,7 @@
     <string name="pa_base_yesterday">Gestern</string>
     <string name="pa_cancel">Abbrechen</string>
     <string name="pa_clear">Bereinigen</string>
+    <string name="pa_covid_card_title">Tägliche Tools</string>
     <string name="pa_cta_dialog_all_purpose">Willkommen bei Infoassistent! Diese App ist eine Komplettlösung für die Bereiche Arbeit, Lifestyle und Reisen.</string>
     <string name="pa_cta_dialog_desc_location">Für Vorschläge zum Pendeln</string>
     <string name="pa_cta_dialog_desc_phone_state">Zur Identifizierung Ihres Geräts anhand der IMEI</string>
@@ -344,8 +347,8 @@
     <string name="pa_express_widget_logout">Anmelden, um Ihre Express-Pakete anzuzeigen</string>
     <string name="pa_express_widget_order_42">Tracking-Nummer eingeben</string>
     <string name="pa_express_widget_post">Paket senden</string>
-    <string name="pa_express_widget_search">Suche</string>
-    <string name="pa_filter_accessibility_filter_item">%s. gewählt. Doppeltipp, um andere Auswahlen zu filtern.</string>
+    <string name="pa_express_widget_search">Suchen</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Doppeltipp, um eine andere Auswahl zu filtern.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">Doppeltipp, um %s zu wählen.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Doppeltipp zum Auswählen.</string>
     <string name="pa_filter_replace_bt">Anwenden</string>
@@ -365,7 +368,8 @@
     <string name="pa_lite_setting_private_auth">App-Nutzungsanalyse zulassen</string>
     <string name="pa_lite_setting_private_auth_summary">App-Vorschläge basieren auf Ihren Nutzungsdaten</string>
     <string name="pa_lite_setting_private_policy">Datenschutzerklärung</string>
-    <string name="pa_lite_setting_service_covid_summry">Pandemiebezogene Informationen und Dienste</string>
+    <string name="pa_lite_setting_service_covid">Tägliche Tools</string>
+    <string name="pa_lite_setting_service_covid_summry">Funktionen, die Sie täglich nutzen, alle an einem Ort</string>
     <string name="pa_lite_setting_service_express">Expresslieferung</string>
     <string name="pa_lite_setting_service_express_summry">Expresspakete verfolgen</string>
     <string name="pa_lite_setting_service_management">Dienste verwalten</string>
@@ -466,6 +470,7 @@
     <string name="pa_picker_maml_list_activity_title">Widgets hinzufügen</string>
     <string name="pa_picker_no_relevant_content">Keine Ergebnisse gefunden</string>
     <string name="pa_picker_permission_denied">Infoassistent muss auf den Installationsstatus zugreifen,\num Widgets anzuzeigen.</string>
+    <string name="pa_picker_purchase_order">Gekauft</string>
     <string name="pa_picker_request">Einstellungen</string>
     <string name="pa_picker_retry">Erneut versuchen</string>
     <string name="pa_picker_search">Suchen</string>
@@ -481,8 +486,8 @@
     <string name="pa_picker_search_result_type_suit">Widget-Sets</string>
     <string name="pa_picker_suit_list_activity_title">Personalisierungspakete</string>
     <string name="pa_picker_tab_title_category">Kategorien</string>
-    <string name="pa_picker_tab_title_recommend">Empfohlen</string>
-    <string name="pa_picker_theme_app_version_error">App-Version des Themenhintergrunds ist abnormal</string>
+    <string name="pa_picker_tab_title_fun">Entdecken</string>
+    <string name="pa_picker_tab_title_recommend">Vorgestellt</string>
     <string name="pa_picker_tips_count_limit_forbidden">Zu Infoassistent können keine weiteren Widgets hinzugefügt werden. Ältere Widgets löschen, um neue hinzuzufügen.</string>
     <string name="pa_picker_toast_add_successfully">Erfolgreich hinzugefügt</string>
     <string name="pa_picker_toast_count_limit_forbidden">Weitere Widgets hinzuzufügen nicht möglich</string>
@@ -515,6 +520,8 @@
     <string name="pa_setting_app_usage_auth_dialog_message">Sie können das Widget \"App-Vorschläge\" nicht mehr verwenden, wenn Sie diese Funktion deaktivieren. Trotzdem ausschalten?</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Vorsicht</string>
     <string name="pa_setting_perm_empty">Noch nichts da</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Erhalten Sie Widget-Empfehlungen basierend auf Ihren Interessen</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Personalisierte Empfehlungen</string>
     <string name="pa_setting_privacy_auth">App-Nutzungsanalyse zulassen</string>
     <string name="pa_setting_privacy_auth_summary">Sie erhalten Vorschläge basierend auf Ihren Nutzungsgewohnheiten</string>
     <string name="pa_setting_privacy_category_perm">Rechte</string>
@@ -622,6 +629,7 @@
     <string name="pa_sports_fav_league">Meine Termine</string>
     <string name="pa_sports_fav_title">Meine Teams</string>
     <string name="pa_sports_followed">Folgen</string>
+    <string name="pa_sports_jump_error">Seite wurde wegen eines Fehlers nicht geöffnet</string>
     <string name="pa_sports_league_detail_download_douyu">Douyu zum Anzeigen herunterladen</string>
     <string name="pa_sports_league_detail_download_hupu">Hupu zum Anzeigen herunterladen</string>
     <string name="pa_sports_league_detail_view">Anzeigen</string>

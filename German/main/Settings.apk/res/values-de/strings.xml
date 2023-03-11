@@ -8787,11 +8787,13 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Aus</string>
     <string name="shoulder_key_switch_status_open">An</string>
+    <string name="show_alarm_icon_title">Alarmsymbol anzeigen</string>
     <string name="show_all_anrs">Alle ANRs anzeigen</string>
     <string name="show_all_anrs_summary">Dialog \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
     <string name="show_all_apps">Vollständige Gerätenutzung anzeigen</string>
     <string name="show_background_processes">Prozesse im Cache anzeigen</string>
     <string name="show_badge_notifications_short">Plaketten</string>
+    <string name="show_bt_icon_title">Bluetooth-Symbol anzeigen</string>
     <string name="show_carrier_under_keyguard_title">Mobilfunkanbieter bei gesperrtem Gerät anzeigen</string>
     <string name="show_charging_in_non_lockscreen_animation">Ladeanimation anzeigen, wenn das Gerät entsperrt wurde</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Ladeanimation nach dem Entsperren des Geräts weiterhin anzeigen und nur für Videowiedergabe und andere ähnliche Vollbildszenen ausblenden</string>
@@ -8815,7 +8817,9 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="show_ime_summary">Am Bildschirm halten, wenn die physische Tastatur aktiv ist</string>
     <string name="show_magnifier_when_input">Lupe anzeigen</string>
     <string name="show_menu">Menü anzeigen</string>
+    <string name="show_mute_icon_title">Symbol Lautlosmodus anzeigen</string>
     <string name="show_network_speed_title">Verbindungsgeschwindigkeit anzeigen</string>
+    <string name="show_nfc_icon_title">NFC -Symbol anzeigen</string>
     <string name="show_non_rect_clip">Nicht rechteckige Clipoperationen debuggen</string>
     <string name="show_notification_channel_warnings">Benachr.-Kanalwarnung anzeigen</string>
     <string name="show_notification_channel_warnings_summary">Bildschirmwarnung anzeigen, wenn eine App eine Benachrichtigung ohne gültigen Kanal sendet</string>

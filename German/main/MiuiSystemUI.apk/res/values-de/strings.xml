@@ -5,7 +5,7 @@
     <string name="a11y_action_pip_move_left">Nach links bewegen</string>
     <string name="a11y_action_pip_move_right">Nach rechts bewegen</string>
     <string name="a11y_action_pip_move_up">Nach oben bewegen</string>
-    <string name="a11y_pip_menu_entered">Bild-in-Bild-Menü</string>
+    <string name="a11y_pip_menu_entered">Bild-im-Bild-Menü</string>
     <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
@@ -1404,7 +1404,7 @@
     <string name="keyboard_key_forward_del">Löschen</string>
     <string name="keyboard_key_home">Pos 1</string>
     <string name="keyboard_key_insert">Einfügen</string>
-    <string name="keyboard_key_media_fast_forward">Schneller Vorlauf</string>
+    <string name="keyboard_key_media_fast_forward">Schnellvorlauf</string>
     <string name="keyboard_key_media_next">Nächster</string>
     <string name="keyboard_key_media_previous">Vorherige</string>
     <string name="keyboard_key_media_rewind">Zurück</string>

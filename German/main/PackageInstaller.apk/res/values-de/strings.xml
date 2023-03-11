@@ -319,13 +319,13 @@ Alternativ können Sie den Lite-Modus ausschalten und es erneut versuchen."</str
     <string name="lb_onboarding_get_started">ANFANGEN</string>
     <string name="lb_playback_controls_closed_captioning_disable">Untertitel deaktivieren</string>
     <string name="lb_playback_controls_closed_captioning_enable">Untertitel aktivieren</string>
-    <string name="lb_playback_controls_fast_forward">Schneller Vorlauf</string>
+    <string name="lb_playback_controls_fast_forward">Schnellvorlauf</string>
     <string name="lb_playback_controls_fast_forward_multiplier">Schnellvorlauf %1$dX</string>
     <string name="lb_playback_controls_hidden">Mediensteuerung versteckt, d-pad drücken zum Anzeigen</string>
     <string name="lb_playback_controls_high_quality_disable">Hohe Qualität deaktivieren</string>
     <string name="lb_playback_controls_high_quality_enable">Hohe Qualität aktivieren</string>
     <string name="lb_playback_controls_more_actions">Weitere Aktionen</string>
-    <string name="lb_playback_controls_picture_in_picture">Bild-in-Bild-Modus eingeben</string>
+    <string name="lb_playback_controls_picture_in_picture">Bild-im-Bild-Modus eingeben</string>
     <string name="lb_playback_controls_repeat_all">Alle wiederholen</string>
     <string name="lb_playback_controls_repeat_none">Keine wiederholen</string>
     <string name="lb_playback_controls_repeat_one">Einmal wiederholen</string>

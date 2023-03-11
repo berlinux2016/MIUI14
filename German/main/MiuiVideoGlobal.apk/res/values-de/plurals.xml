@@ -45,10 +45,6 @@
         <item quantity="other">%d Sek zurückspulen</item>
         <item quantity="one">%d Sek zurückspulen</item>
     </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">%s mehr Sek eines Videos ansehen, um Punkte zu sammeln und Prämien einzulösen</item>
-        <item quantity="one">%s mehr Sek eines Videos ansehen, um Punkte zu sammeln und Prämien einzulösen</item>
-    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Zurück zur Startseite in %1$d Sekunden…</item>
         <item quantity="one">Zurück zur Startseite in %1$d Sekunde…</item>
@@ -132,14 +128,6 @@
     <plurals name="incentive_task_watchvideo_tip2">
         <item quantity="other">%1$1d Sekunden eines Videos anschauen, um %2$2d Punkte zu sammeln</item>
         <item quantity="one">%1$1d Sekunden eines Videos anschauen, um %2$2d Punkt zu sammeln</item>
-   </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">%d Punkte gesammelt. Weiter teilen, um mehr zu sammeln.</item>
-        <item quantity="one">%d Punkt gesammelt. Weiter teilen, um mehr zu sammeln.</item>
-   </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">%d Punkte gesammelt. Weiter abonnieren, um mehr zu sammeln.</item>
-        <item quantity="one">%d Punkt gesammelt. Weiter abonnieren, um mehr zu sammeln.</item>
    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
