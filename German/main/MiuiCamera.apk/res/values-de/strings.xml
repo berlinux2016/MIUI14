@@ -372,7 +372,7 @@
     <string name="audio_map_summary_tip">Lautstärke des linken und rechten Kanals in Echtzeit überwachen und mit dem Schieberegler einstellen</string>
     <string name="auto">Auto</string>
     <string name="auto_hibernation_enter_tip">Bildschirm wird gerade ausgeschaltet…</string>
-    <string name="auto_recommend_switch_lens">Mehrere Personen erkannt. Auf 0,6X schalten für beste Wirkung.</string>
+    <string name="auto_recommend_switch_lens">Mehrere Personen erkannt. Auf 0.6X schalten für beste Wirkung.</string>
     <string name="autozoom_click_hint">Tippen Sie auf ein Objekt, um es während der Bewegung scharf zu halten. Bleiben Sie mindestens %d Meter entfernt, um den besten Effekt zu erzielen.</string>
     <string name="autozoom_disabled_hint">Stoppt die Verfolgung eines sich bewegenden Motivs</string>
     <string name="autozoom_hint">Bewegliches Motiv verfolgen</string>
@@ -2408,7 +2408,7 @@
     <string name="ultra_wide_close_tip">Ultraweitwinkelmodus ist aus</string>
     <string name="ultra_wide_mode">Ultraweitwinkel</string>
     <string name="ultra_wide_mode_use_hint_text">Verwenden Sie diesen Modus, um mehr von der Szene in Ihr Foto aufzunehmen. \nUltraweitwinkelmodus hilft, wenn man sich nicht weiter von der Szene entfernen kann.</string>
-    <string name="ultra_wide_mode_use_hint_text_sat">Testen Sie den 0,6X Ultraweitwinkelmodus, um mehr von der Szene in Ihr Foto aufzunehmen. \nDer Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfernen können.</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">Testen Sie den 0.6X Ultraweitwinkelmodus, um mehr von der Szene in Ihr Foto aufzunehmen. \nDer Ultraweitwinkelmodus hilft, wenn Sie sich nicht weiter von der Szene entfernen können.</string>
     <string name="ultra_wide_open_tip">Ultraweitwinkelmodus</string>
     <string name="ultra_wide_open_tip_sat">0.6X Ultraweitwinkel</string>
     <string name="ultra_wide_recommend_tip_hint">Ultraweitwinkelmodus testen</string>
