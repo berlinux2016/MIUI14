@@ -110,6 +110,8 @@
     <string name="frequent_phrases_size_exceeded">Sie können %1$d Sätze hinzufügen. Löschen Sie unnötige, um weitere hinzuzufügen.</string>
     <string name="fresh">Frisch</string>
     <string name="friday">Freitag</string>
+    <string name="friday_short">Fr</string>
+    <string name="friday_shortest">F</string>
     <string name="frog">Frosch</string>
     <string name="future">Zukunft</string>
     <string name="game">Spiel</string>

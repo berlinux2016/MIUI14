@@ -2700,6 +2700,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="dark_mode_day_night_mode_summary">Nach Sonnenuntergang automatisch in den Dark Mode wechseln</string>
     <string name="dark_mode_day_night_mode_title">Gute Nacht mit Dark Mode</string>
     <string name="dark_mode_font_background_title">Text und Hintergründe automatisch anpassen</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Verstanden</string>
+    <string name="dark_mode_power_save_alert_dialog_message">Wenn Sie die MIUI-Optimierung deaktivieren und Stromsparen einschalten, wird der Dark Mode automatisch aktiviert.\nUm den Dark Mode zu deaktivieren, deaktivieren Sie Stromsparen oder aktivieren Sie die MIUI-Optimierung unter Einstellungen > Entwickleroptionen > MIUI-Optimierung.</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Dark Mode</string>
     <string name="dark_mode_sunrise_sunset_notify_summary">Dark Mode Sonnenauf-/-untergang Benachrichtigungsübersicht</string>
     <string name="dark_mode_sunrise_sunset_notify_title">Dark Mode Sonnenauf-/-untergang Benachrichtigungstitel</string>
     <string name="dark_mode_time_settings">Dark Mode Zeitplan</string>
@@ -3427,6 +3430,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="enable_blurs_on_windows_summary">Aktiviert die Fensterunschärfe auf Compositor-Ebene. Erfordert einen Neustart des Geräts.</string>
     <string name="enable_blurs_on_windows_title">Unschärfe aktivieren</string>
     <string name="enable_compatibility">App skalieren</string>
+    <string name="enable_crbt_pref_summary">Beim Testen keine Profilvideos für eingehende Anrufe anzeigen</string>
+    <string name="enable_crbt_pref_title">Profilvideos für eingehende Anrufe ausschalten</string>
     <string name="enable_encrypt">Verschlüsselung einschalten</string>
     <string name="enable_encrypt_description">Verschlüsseln</string>
     <string name="enable_encrypt_fail">Verschlüsselungsfehler</string>
@@ -4753,8 +4758,9 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_alarm_vibration">Haptik, Vibrieren, Empfindlichkeit, Alarm, Wecker</string>
     <string name="keywords_alarms_and_reminders">Zeitplan, Alarm, Wecker, Erinnerung, Uhr</string>
     <string name="keywords_all_apps">Apps;Download;Anwendungen;System;App</string>
+    <string name="keywords_always_show_time_info">always on display, immer an Bildschirm</string>
     <string name="keywords_ambient_display">ankommende benachrichtigung</string>
-    <string name="keywords_ambient_display_screen">Always-On-Display;Sperrbildschirm</string>
+    <string name="keywords_ambient_display_screen">Always-On-Display;immer an Bildschirm;Sperrbildschirm</string>
     <string name="keywords_android_version">android sicherheitspatch level;baseband version;kernel version</string>
     <string name="keywords_app">RAM</string>
     <string name="keywords_app_default">Öffnen mit</string>
@@ -9227,6 +9233,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="status_bar_app_enable_message">Plaketten</string>
     <string name="status_bar_app_enable_on_notificationBar">Anzeigen</string>
     <string name="status_bar_carrier_settings_no_sim_card">Keine SIM-Karte</string>
+    <string name="status_bar_icons_title">Statusleistensymbole</string>
     <string name="status_bar_key_position_custom">Benutzerdefinierte Tastenposition</string>
     <string name="status_bar_screen_button_desc">Runterwischen, um Bildschirmtasten zu verbergen</string>
     <string name="status_bar_screen_button_force_immersive_desc">Wischen Sie von unten nach oben am Bildschirm, um Softtasten anzuzeigen</string>

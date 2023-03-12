@@ -864,6 +864,9 @@
     <string name="daltonizer_mode_protanomaly">Protanomalie (Rotsehschwäche)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (Blausehschwäche)</string>
     <string name="daltonizer_type_overridden">Überschrieben von %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Verstanden</string>
+    <string name="dark_mode_power_save_alert_dialog_message">Wenn Sie die MIUI-Optimierung deaktivieren und Stromsparen einschalten, wird der Dark Mode automatisch aktiviert.\nUm den Dark Mode zu deaktivieren, deaktivieren Sie Stromsparen oder aktivieren Sie die MIUI-Optimierung unter Einstellungen > Entwickleroptionen > MIUI-Optimierung.</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Dark Mode</string>
     <string name="data_connection_no_internet">Kein Internet</string>
     <string name="data_saver">Datensparen</string>
     <string name="data_saver_description">Um Datenverbrauch zu reduzieren, verhindert Datensparen, dass einige Apps Daten im Hintergrund senden oder empfangen. Eine App, die Sie gerade verwenden, kann auf Daten zugreifen, kann dies aber seltener tun. Dies kann z. B. bedeuten, dass Bilder erst angezeigt werden, wenn Sie auf sie tippen.</string>
