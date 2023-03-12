@@ -38,7 +38,7 @@
     <string name="edge_mode_custom_title">Eigene</string>
     <string name="edge_mode_default_title">Standard</string>
     <string name="enable_touch_assistant">Berührungsassistent einschalten</string>
-    <string name="enabled_for_pad_hint">Arbeiten, wenn \"Navigationsschaltflächen im Querformat blockieren\" eingeschaltet ist</string>
+    <string name="enabled_for_pad_hint">Arbeiten, wenn \"Navigationstasten im Querformat blockieren\" eingeschaltet ist</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="evening">Nachmittag</string>

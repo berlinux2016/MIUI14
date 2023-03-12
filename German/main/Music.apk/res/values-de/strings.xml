@@ -88,11 +88,11 @@
     <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
     <string name="always_use_metered">Immer mobile Daten nutzen</string>
     <string name="anchor_invite_family">Wählen Sie die Familie, in die Sie einladen möchten</string>
-    <string name="anchor_invite_family_error">Bitte wählen Sie die Familie und klicken Sie dann auf OK</string>
-    <string name="anchor_invite_member_error">Bitte wählen Sie das Mitglied und klicken Sie dann auf OK</string>
+    <string name="anchor_invite_family_error">Bitte wählen Sie die Familie und tippen Sie dann auf OK</string>
+    <string name="anchor_invite_member_error">Bitte wählen Sie das Mitglied und tippen Sie dann auf OK</string>
     <string name="anchor_invite_members">Wählen Sie die Mitglieder des Raumes, die Sie einladen</string>
     <string name="anchor_invite_title">Zum Eintritt in die Familie einladen</string>
-    <string name="anchor_matched_notify">Sie wurden erfolgreich mit %1$s zusammengebracht, klicken Sie auf JA, um den Raum zu betreten und den Chat zu beginnen</string>
+    <string name="anchor_matched_notify">Sie wurden erfolgreich mit %1$s zusammengebracht, tippen Sie auf JA, um den Raum zu betreten und den Chat zu beginnen</string>
     <string name="anchor_roomedit_hint">Rauminformationen bearbeiten</string>
     <string name="anchor_roomedit_picture">Cover ändern</string>
     <string name="anchor_roomedit_roomname">Raumnamen eingeben</string>
@@ -270,7 +270,7 @@
     <string name="chat_setting_hint_member">Gruppenmitglieder</string>
     <string name="chatsetting_title_setting">Einstellungen</string>
     <string name="cheap_gift_send">Geben</string>
-    <string name="cheap_gift_tip">Klicken Sie auf die Rose neben dem Benutzerprofil, um ein schnelles Geschenk zu machen～</string>
+    <string name="cheap_gift_tip">Tippen Sie auf die Rose neben dem Benutzerprofil, um ein schnelles Geschenk zu machen～</string>
     <string name="checking_new_version">Nach Updates suchen…</string>
     <string name="chip_text">Chiptext</string>
     <string name="choose_download_quality">Downloadqualität einstellen</string>
@@ -937,7 +937,7 @@
     <string name="game_det_option_template">[nickname] in diesem Raum [option] [coins] wählen</string>
     <string name="game_det_template">[nickname] in diesen Raum [coins] legen</string>
     <string name="game_gift_sendfail_giftless">Nicht genügend Geschenke, bitte kaufen~</string>
-    <string name="game_no_money">[icon] [nickname] im Raum geklickt, aber das Guthaben reicht nicht aus</string>
+    <string name="game_no_money">[icon] [nickname] im Raum angetippt, aber das Guthaben reicht nicht aus</string>
     <string name="game_popup_permission_prompt">Berechtigung erforderlich</string>
     <string name="game_popup_permission_prompt_microphone">Zugriff auf das Mikro erlauben, um mit anderen Spielern zu chatten</string>
     <string name="game_popup_question_one">Zu lange gewartet, bevor das Spiel beginnt</string>
@@ -1041,7 +1041,7 @@
     <string name="group_member">Gruppenmitglied</string>
     <string name="group_name">Gruppenname</string>
     <string name="group_name_edit_desc">Nur der Kapitän und der Co-Kapitän können den Gruppennamen ändern</string>
-    <string name="guide_match_desc">Klicken Sie für einen 1V1-Sprachchat!</string>
+    <string name="guide_match_desc">Tippen Sie für einen 1V1-Sprachchat!</string>
     <string name="h5_newer_title">$22.9-Geschenk ist kostenlos</string>
     <string name="handle_later">Jetzt nicht</string>
     <string name="has_to_bottom">Das ist das Ende</string>
@@ -1064,7 +1064,7 @@
     <string name="home_game_play">ABSPIELEN</string>
     <string name="home_game_rec_title">Empfehlen</string>
     <string name="home_newer_guidance_button">Betreten</string>
-    <string name="home_newer_guidance_text">Klicken und betreten Sie den offiziellen Raum, um einen kostenlosen Avatarrahmen und ein dynamisches Geschenk zu erhalten</string>
+    <string name="home_newer_guidance_text">Tippen und betreten Sie den offiziellen Raum, um einen kostenlosen Avatarrahmen und ein dynamisches Geschenk zu erhalten</string>
     <string name="home_popup_signin_achieve">Glückwunsch!</string>
     <string name="home_popup_signin_seven">Sonderprämie</string>
     <string name="home_quickchat">Sprachraum</string>
@@ -1383,7 +1383,7 @@
     <string name="menu_title_pause_all">Alle anhalten</string>
     <string name="menu_title_resume_all">Alle starten</string>
     <string name="message_delete_playlist">Wiedergabeliste %s löschen?</string>
-    <string name="message_no_coins">Benutzer %1$s hat die Wettentaste von %2$s in Ihrem Raum %3$d angeklickt, aber das Guthaben ist nicht ausreichend</string>
+    <string name="message_no_coins">Benutzer %1$s hat die Wettentaste von %2$s in Ihrem Raum %3$d angetippt, aber das Guthaben ist nicht ausreichend</string>
     <string name="message_ws_response_error">Es gab ein Problem mit der Bearbeitung Ihrer Anfrage und/oder Serverantwort</string>
     <string name="messages">Nachrichten</string>
     <string name="metered_alert">Datennutzungswarnung</string>
@@ -1449,8 +1449,8 @@
     <string name="modify_song_info_success">Titelinfo wurde aktualisiert</string>
     <string name="moe_core_rich_landing_title">Reichhaltige Landung</string>
     <string name="moe_inbox_name">Benachrichtigungszentrale</string>
-    <string name="moe_message_to_register">Auf die Schaltfläche "Registrieren" tippen, um sich für die Integrationsvalidierung zu registrieren</string>
-    <string name="moe_message_to_unregister">Gerät ist für die Integrationsprüfung registriert. Auf die Schaltfläche tippen, um die Registrierung aufzuheben.</string>
+    <string name="moe_message_to_register">Auf die Taste \"Registrieren\" tippen, um sich für die Integrationsvalidierung zu registrieren</string>
+    <string name="moe_message_to_unregister">Gerät ist für die Integrationsprüfung registriert. Auf die Taste tippen, um die Registrierung aufzuheben.</string>
     <string name="moe_notification_center_empty">Benachrichtigungszentrale leer</string>
     <string name="moe_register">REGISTRIEREN</string>
     <string name="moe_rich_push_dismiss_button">Verwerfen</string>
@@ -2622,7 +2622,7 @@
     <string name="voiceroom_giftguide_skip">Überspringen</string>
     <string name="voiceroom_giftguide_text1">Hier tippen und ein Geschenk wählen</string>
     <string name="voiceroom_giftguide_text2">Alle Ihre Geschenke sind im Rucksack</string>
-    <string name="voiceroom_giftguide_text3">Auf die Senden-Schaltfläche in der Ecke tippen, um ein Geschenk zu versenden</string>
+    <string name="voiceroom_giftguide_text3">Auf die Senden-Taste in der Ecke tippen, um ein Geschenk zu versenden</string>
     <string name="voiceroom_giftreturn_button">Gegengeschenk</string>
     <string name="voiceroom_invite_flower_button">Geschenk mit Prämie versenden</string>
     <string name="voiceroom_invite_flower_text1">Blume senden und das System wird Ihnen ein zusätzliches Geschenk machen</string>

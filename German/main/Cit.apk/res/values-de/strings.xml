@@ -86,8 +86,8 @@
     <string name="cit_DP_plug_out_err">Test fehlgeschlagen\nWert nicht ermittelt</string>
     <string name="cit_DP_plug_out_fail">Erkennung Geräteverbindungswechsel\nLesen des zugrunde liegenden Knotenwerts fehlgeschlagen\nTest fehlgeschlagen\n</string>
     <string name="cit_DP_plug_out_pass">Unterbrochene Verbindung erkannt \nTest bestanden</string>
-    <string name="cit_DP_plug_pass">Erkennung Geräteverbindungswechsel\nLesen Sie den zugrunde liegenden Knotenwert erfolgreich\nBitte prüfen Sie, ob der Bildschirm erfolgreich ist, und klicken Sie auf die entsprechende Schaltfläche</string>
-    <string name="cit_DP_plug_re_plugin">DP-Test abgeschlossen. Bitte prüfen Sie, ob der Bildschirm erfolgreich ist, und klicken Sie auf die entsprechende Schaltfläche.</string>
+    <string name="cit_DP_plug_pass">Erkennung Geräteverbindungswechsel\nLesen Sie den zugrunde liegenden Knotenwert erfolgreich\nBitte prüfen Sie, ob der Bildschirm erfolgreich ist, und tippen Sie auf die entsprechende Taste</string>
+    <string name="cit_DP_plug_re_plugin">DP-Test abgeschlossen. Bitte prüfen Sie, ob der Bildschirm erfolgreich ist, und tippen Sie auf die entsprechende Taste.</string>
     <string name="cit_OTG_plug_check_summary">Während des Tests stecken Sie bitte den Stecker ins USB OTG-Gerät ein und stecken ihn dann umgedreht wieder ein.</string>
     <string name="cit_OTG_plugin_check_summary">Wenn das OTG-Gerät angeschlossen ist, sollte der Text \"USB OTG-Gerät erkannt\" unten angezeigt werden.</string>
     <string name="cit_OTG_plugin_check_title">OTG (erkannt)</string>
@@ -196,7 +196,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
 3. Auf Fertig tippen."</string>
     <string name="cit_aux_camera_check_summary_no_zoom">"Testanleitung:
 
-1. Auf die Vorschauschaltfläche unten tippen, um die Kamera aufzurufen.
+1. Auf die Vorschautaste unten tippen, um die Kamera aufzurufen.
 2. Warten, bis die Vorschau beendet ist und automatisch zurückkehren"</string>
     <string name="cit_back_light_sensor_check_title">Hintergrundlichtsensor</string>
     <string name="cit_back_pointer_location_title">Rückwärts-Touch-Sensor</string>
@@ -250,7 +250,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
 2. Mit Kalibrierung erfolgreich wird angezeigt, dass OIS kalibriert wurde."</string>
     <string name="cit_camera_check_summary">"Testanweisungen:
 
-1. Tippen Sie auf die Schaltfläche Kamera unten, um die Frontkamera-Oberfläche aufzurufen.
+1. Tippen Sie auf die Taste Kamera unten, um die Frontkamera-Oberfläche aufzurufen.
 2. Tippen Sie auf die Auslösetaste.
 3. Das System speichert das Foto nach der Aufnahme automatisch.
 4. Das aufgenommene Foto muss am Bildschirm angezeigt werden. Tippen Sie auf \"Bestanden\", um den Test abzuschließen."</string>
@@ -307,7 +307,7 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
     <string name="cit_earpiece">Empfänger</string>
     <string name="cit_earpiece_summary">"Sie hören zwei zufällige Zahlen.
 Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören."</string>
-    <string name="cit_emergencycall_check_summary">Bitte auf Schaltfläche 112 wählen tippen, um zu prüfen, ob 112 gesetzt werden kann.</string>
+    <string name="cit_emergencycall_check_summary">Bitte auf die 112 wählen-Taste tippen, um zu prüfen, ob 112 gesetzt werden kann.</string>
     <string name="cit_emergencycall_check_title">Notruf</string>
     <string name="cit_exit_test_summary">Beim Beenden werden alle zugehörigen Textdaten gelöscht</string>
     <string name="cit_exit_test_title">Test beenden</string>
@@ -321,10 +321,10 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_f2_calibrating">Kalibrierung läuft…</string>
     <string name="cit_f2_camera_check_summary">"Testanweisungen:
 
-1. Auf Schaltfläche Kalibrierung tippen.
+1. Auf Taste Kalibrierung tippen.
 2. Es wird ein Etikett mit einem Kalibrierungspass geben, das anzeigt, dass die Kamera kalibriert wurde."</string>
     <string name="cit_f2_capture_fail">Aufnahme fehlgeschlagen, bitte wiederholen!</string>
-    <string name="cit_f2_capture_success">Schaltfläche Kalibrierung antippen!</string>
+    <string name="cit_f2_capture_success">Taste Kalibrierung antippen!</string>
     <string name="cit_fail">Fehlgeschlagen</string>
     <string name="cit_fast_screen_touch_check_title">Touchscreen-Check-Schnelltest</string>
     <string name="cit_finger_check_title">Fingerabdrucktest (FPC)</string>
@@ -658,8 +658,8 @@ Wenn Sie \"music.mp3\" in das Verzeichnis der SD-Karte gelegt haben, zum Abspiel
 1. Schritte zur Aktivierung eines MBN:
 Schritt 1: Zu aktivierenden Slot des MBN auswählen, der normalerweise mit Doppelkarten geladen wird, der Standard sind Doppelkarten.
 Schritt 2: Einen Namen für den zu aktivierende MBN auswählen. Der häufig verwendete MBN ist in der Dropdown-Liste vorgefertigt. Wenn er nicht gefunden wird, können Sie das Schlüsselwort des zu aktivierenden MBN-Namens in das Suchfeld eingeben, um den zu aktivierenden MBN zu finden.
-Schritt 3: Auf die Schaltfläche Aktivieren tippen, um den ausgewählten MBN zu laden.
-2. Der Standard-MBN des Wiederherstellungssystems kann durch Tippen auf die Schaltfläche Standard-MBN wiederherstellen aktiviert werden.
+Schritt 3: Auf die Taste Aktivieren tippen, um den ausgewählten MBN zu laden.
+2. Der Standard-MBN des Wiederherstellungssystems kann durch Tippen auf die Taste Standard-MBN wiederherstellen aktiviert werden.
 3. Nun können die Informationen der im aktuellen Modem geladenen MBN angezeigt werden.
 Die erste Zeile zeigt an, ob der vom aktuellen Modem geladene MBN der Standard-MBN des Systems ist. (Einige Produkte sind möglicherweise nicht in die entsprechende Schnittstelle integriert, wie diese Zeile zeigt: Nicht unterstützt)
 Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des Netzbetreiber-MBN, die derzeit im Modem geladen sind. Unsere benutzerdefinierte MBN ist Netzbetreiber-MBN, SUB0 ist Karte 1, SUB1 ist Karte 2."</string>
@@ -785,7 +785,7 @@ Auf die Taste tippen, um den Berührungsmodus auf THP-Modus oder FW-Modus umzusc
     <string name="cit_touch_work_mode_test_title">Berühren schaltet zum THP-Modus-Test</string>
     <string name="cit_touch_work_summary">Berühren schaltet den THP-Modus um</string>
     <string name="cit_touch_work_switch_tips">Bildschirm nicht berühren und warten, bis der Moduswechsel abgeschlossen ist</string>
-    <string name="cit_tpdump_check_summary">Bitte auf die Schaltfläche tippen, um die Touch-Anzeigefunktion zu aktivieren oder zu deaktivieren</string>
+    <string name="cit_tpdump_check_summary">Bitte auf die Taste tippen, um die Touch-Anzeigefunktion zu aktivieren oder zu deaktivieren</string>
     <string name="cit_tpdump_close">Anzeige deaktivieren</string>
     <string name="cit_tpdump_open">Anzeige aktivieren</string>
     <string name="cit_tpdump_reset">Anzeige zurücksetzen</string>
@@ -894,7 +894,7 @@ Test fehlgeschlagen!"</string>
     <string name="fod_fingerprint_input_title">FOD-Fingerabdruck-Eingabetest</string>
     <string name="fod_pressure_sensor_pressure_data_collection">Abdruckdatenerfassung…</string>
     <string name="fod_pressure_sensor_test_exception">Ausnahmefehler beim Lesen der Knoten-Datei</string>
-    <string name="fod_pressure_sensor_test_fail">Test fehlgeschlagen, bitte auf die Schaltfläche Fehlgeschlagen tippen.</string>
+    <string name="fod_pressure_sensor_test_fail">Test fehlgeschlagen, bitte auf die Taste Fehlgeschlagen tippen.</string>
     <string name="fod_pressure_sensor_test_pressure_too_big">"Sensordurchschnittsdruck zu stark: %1$d
 Test fehlgeschlagen, bitte auf die Taste Fehlgeschlagen tippen."</string>
     <string name="fod_pressure_sensor_test_pressure_too_small">"Sensordurchschnittsdruck zu gering: %1$d
@@ -1051,11 +1051,11 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="sar_sensor_collect_data">Datenerfassung starten</string>
     <string name="sar_sensor_collect_data_self_cali">Selbstkalibrierung</string>
     <string name="sar_sensor_collect_data_test_summary">"Das Gerät drehen, um sicherzustellen, dass der Echtzeitwinkel zwischen 130-140 Grad liegt.
-Andere Hand vom Gerät fernhalten, auf die Schaltfläche Datenerfassung starten tippen und die Werte von CS0 und CS1 beobachten.
+Andere Hand vom Gerät fernhalten, auf die Taste Datenerfassung starten tippen und die Werte von CS0 und CS1 beobachten.
 Der absolute Wert von CS0 ist kleiner als 200 und der Wert von CS1 ist größer als 300. Nach 5 aufeinanderfolgenden Malen befindet
 sich die andere Hand in der Nähe der Unterseite des Mobiltelefons. Der Wert von CS0 ist 3 mal nach 3000 bis 30000 und wird durch die Taste hervorgehoben."</string>
     <string name="sar_sensor_collect_test_summary">"Gerät drehen und in die Halterung legen.
-Auf die Schaltfläche Datenerfassung starten tippen.
+Auf die Taste Datenerfassung starten tippen.
 Das Gerät in die Nähe und vom Gerät weg bewegen"</string>
     <string name="sar_sensor_data_check_description">SAR-Sensordaten sammeln</string>
     <string name="sar_sensor_data_check_summary">"Halten Sie die Oberseite des Geräts mit einer Hand.

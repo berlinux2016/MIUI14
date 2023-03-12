@@ -621,7 +621,7 @@
     <string name="today_use_time">Bildschirmzeit %1$s</string>
     <string name="tomorrow">Morgen</string>
     <string name="toucan_info">Tukane haben große, bunte Schnäbel. Sie bauen ihre Nester oft in Baumhöhlen.</string>
-    <string name="touch_description">Optimierte Schaltflächen und Verknüpfungen helfen Ihnen, versehentliche Berührungen zu vermeiden</string>
+    <string name="touch_description">Optimierte Tasten und Verknüpfungen helfen Ihnen, versehentliche Berührungen zu vermeiden</string>
     <string name="touch_title">Erweiterte Berührungssteuerung</string>
     <string name="tree_hyrax">Baumschliefer</string>
     <string name="trend_from_last_several_day_equal">Heutige Nutzungsdauer entspricht dem täglichen Durchschnitt von %1$d</string>

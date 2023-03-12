@@ -1970,7 +1970,7 @@ Lang andauerndes Anhören mit hoher Lautstärke kann Ihr Gehör schädigen."</st
     <string name="usb_storage_activity_title">USB-Massenspeicher</string>
     <string name="usb_storage_button_mount">USB-Speicher aktivieren</string>
     <string name="usb_storage_error_message">Bei der Verwendung Ihres USB-Speichers als USB-Massenspeicher ist ein Problem aufgetreten</string>
-    <string name="usb_storage_message">Sie haben eine USB-Verbindung mit Ihrem Computer hergestellt. Tippen Sie auf die Schaltfläche unten, wenn Sie Dateien zwischen Ihrem Computer und dem USB-Speicher Ihres Android-Geräts transferieren möchten.</string>
+    <string name="usb_storage_message">Sie haben eine USB-Verbindung mit Ihrem Computer hergestellt. Tippen Sie auf die Taste unten, wenn Sie Dateien zwischen Ihrem Computer und dem USB-Speicher Ihres Android-Geräts transferieren möchten.</string>
     <string name="usb_storage_notification_message">Tippen zum Kopieren von Dateien zum/vom Computer</string>
     <string name="usb_storage_notification_title">USB verbunden</string>
     <string name="usb_storage_stop_button_mount">USB-Speicher deaktivieren</string>

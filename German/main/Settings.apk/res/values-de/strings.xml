@@ -210,8 +210,8 @@ Falls das Gerät mehrere Benutzer hat, werden die Eingabehilfen durch Verwendung
     <string name="accessibility_manual_zen_less_time">Weniger Zeit</string>
     <string name="accessibility_manual_zen_more_time">Mehr Zeit</string>
     <string name="accessibility_media_vibration_title">Medienvibration</string>
-    <string name="accessibility_menu_description">Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.\n\nSchalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen.</string>
-    <string name="accessibility_menu_description_pad">Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.\n\nSchalten Sie diese Funktion ein und tippen Sie auf die Schaltfläche Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen.</string>
+    <string name="accessibility_menu_description">Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.\n\nSchalten Sie diese Funktion ein und tippen Sie auf die Taste Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen.</string>
+    <string name="accessibility_menu_description_pad">Das Menü Eingabehilfen bietet praktische Tastenkombinationen, mit denen Sie Ihr Gerät steuern können.\n\nSchalten Sie diese Funktion ein und tippen Sie auf die Taste Eingabehilfen unten auf Ihrem Bildschirm, um das Menü zu öffnen.</string>
     <string name="accessibility_menu_item_settings">Einstellungen</string>
     <string name="accessibility_menu_service_name">Menü Eingabehilfen</string>
     <string name="accessibility_menu_summary">Steuern Sie Ihr Gerät über praktische Tastenkombinationen</string>
@@ -1380,7 +1380,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bcast_source_address">Rundfunkquellgerät</string>
     <string name="bcast_source_enc_status">Verschlüsselungsstatus</string>
     <string name="bcast_source_info_sid">Rundfunkquellen-ID</string>
-    <string name="bcast_update_code_summary">Fügen Sie hier den Rundfunk-Code ein und klicken Sie auf Quellenangaben aktualisieren</string>
+    <string name="bcast_update_code_summary">Fügen Sie hier den Rundfunk-Code ein und tippen Sie auf Quellenangaben aktualisieren</string>
     <string name="bcast_update_code_title">Rundfunk-Code aktualisieren</string>
     <string name="bearer">Eigentümer</string>
     <string name="beauty_camera">Videoanrufe verschönern</string>
@@ -1917,7 +1917,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bootloader_tips">%s\n\nWenn Sie bereits eines der oben genannten Dinge getan haben, fügen Sie Ihr Xiaomi-Konto erneut hinzu; andernfalls können Sie Ihr Gerät nicht entsperren.</string>
     <string name="bootloader_tips_ok">Verstanden</string>
     <string name="bootloader_tips_warning">Netzwerkverbindung nicht trennen, von Ihrem Xiaomi-Konto nicht abmelden, keinen Werksreset durchführen oder Systemdaten löschen.</string>
-    <string name="bottom_function_settings">Funktionen der zusätzlichen Schaltflächen</string>
+    <string name="bottom_function_settings">Funktionen der zusätzlichen Tasten</string>
     <string name="bottom_to_top_slide">Hochwischen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="breathing_light_color_menu_title">LED-Farbe</string>
@@ -2023,7 +2023,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bug_report_handler_title">Fehlerbericht-Verwalter</string>
     <string name="bug_report_settings">Fehlerbericht erstellen</string>
     <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
-    <string name="bugreport_in_power_summary">Schaltfläche für Fehlerberichte im Power-Menü anzeigen</string>
+    <string name="bugreport_in_power_summary">Taste für Fehlerberichte im Power-Menü anzeigen</string>
     <string name="build_number">Buildnummer</string>
     <string name="builtin_keyboard_settings_summary">Hardwaretastatureinstellungen</string>
     <string name="builtin_keyboard_settings_title">Hardwaretastatur</string>
@@ -4319,7 +4319,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="handy_mode_no_touch_assistant">Einhandmodus funktioniert nur, wenn Sie für die Systemnavigation Tasten verwenden. Sie können unter Einstellungen im Abschnitt \"Systemnavigation\" zwischen Gesten und Tasten umschalten.</string>
     <string name="handy_mode_size">Bildschirmgröße</string>
     <string name="handy_mode_tips">Aktivieren Sie den Einhandmodus, indem Sie von der Mitte des Navigationsfelds aus nach links oder rechts wischen.</string>
-    <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Schaltflächen anstelle von Vollbildgesten umschalten.</string>
+    <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Tasten anstelle von Vollbildgesten umschalten.</string>
     <string name="haptic_agent_completion_01_content_description">Erledigte Aufgabe</string>
     <string name="haptic_cursor_movement_07_content_description">Helligkeit einstellen</string>
     <string name="haptic_descripthion_for_max_level">Stark</string>
@@ -5006,7 +5006,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="legacy_control_center_title">Alte Version</string>
     <string name="legacy_dhcp_client">Alten DHCP-Client verwenden</string>
     <string name="legacy_dhcp_client_summary">Alten DHCP-Client von Lollipop anstelle des neuen Android DHCP Client verwenden</string>
-    <string name="legacy_navigation_summary">Zurück zur Startseite und Apps mit Schaltflächen am unteren Bildschirmrand wechseln</string>
+    <string name="legacy_navigation_summary">Zurück zur Startseite und Apps mit Tasten am unteren Bildschirmrand wechseln</string>
     <string name="legacy_navigation_title">3-Tasten-Navigation</string>
     <string name="legacy_power_menu">Altes Power-Menü</string>
     <string name="legal_information">Rechtliche Hinweise</string>
@@ -6866,7 +6866,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="old_sdk_deny_warning">App ist nicht kompatibel mit den neuesten Android-Rechteanforderungen. Verweigerte Rechte können die Funktionsweise dieser App beeinflussen.</string>
     <string name="oldman_app_label">Minimaler Desktop</string>
     <string name="oldman_installed_current_btn">Wiederherstellen des System-Desktops</string>
-    <string name="oldman_installed_current_des">Sie haben den minimalen Desktop als Standard-Desktop festgelegt. Um den System-Desktop wiederherzustellen, tippen Sie auf die Schaltfläche unten.</string>
+    <string name="oldman_installed_current_des">Sie haben den minimalen Desktop als Standard-Desktop festgelegt. Um den System-Desktop wiederherzustellen, tippen Sie auf die Taste unten.</string>
     <string name="oldman_installed_not_current_btn">Als Standard-Startbildschirm festlegen</string>
     <string name="oldman_installed_not_current_des">Sie haben einen minimalen Desktop installiert, der als Standard-Desktop für ein besseres Erlebnis festgelegt werden kann.</string>
     <string name="oldman_mode_entry_name">Vereinfachter Desktop</string>

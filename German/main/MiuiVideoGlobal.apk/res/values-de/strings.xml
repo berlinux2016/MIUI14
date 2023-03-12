@@ -306,7 +306,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="dialog_look_offline_btn">Offline-Inhalte anzeigen</string>
     <string name="dialog_no_internet_des">Sie haben keine Netzwerkverbindung. Stattdessen Offline-Inhalte anzeigen?</string>
     <string name="dialog_no_video_confirm">Verstanden</string>
-    <string name="dialog_no_video_tip">Zuerst versuchen, die Videodetails zu öffnen. Die Schaltfläche zum Herunterladen ist verfügbar, sobald ein Video gefunden wurde.</string>
+    <string name="dialog_no_video_tip">Zuerst versuchen, die Videodetails zu öffnen. Die Taste zum Herunterladen ist verfügbar, sobald ein Video gefunden wurde.</string>
     <string name="dialog_no_video_title">Video nicht gefunden</string>
     <string name="dialog_open_internet_btn">Mit Netzwerk verbinden</string>
     <string name="dialog_privacy_change_info">Wir haben die Mi Video Datenschutzerklärung wegen der Anpassungen der von uns angebotenen Dienste aktualisiert. Um Ihre Rechte als Benutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, bevor Sie die App verwenden.</string>
@@ -1649,7 +1649,7 @@ Es zeigt nichts an."</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
-    <string name="tip_auth_again">Da Sie vorher der entsprechenden Datenschutzerklärung des Inhaltsdrittanbieters  nicht zugestimmt haben, können wir keine Videoinhalte in Moments anzeigen. Tippen Sie auf die Schaltfläche unten, um der Datenschutzerklärung zuzustimmen und auf diese Funktion zuzugreifen.</string>
+    <string name="tip_auth_again">Da Sie vorher der entsprechenden Datenschutzerklärung des Inhaltsdrittanbieters  nicht zugestimmt haben, können wir keine Videoinhalte in Moments anzeigen. Tippen Sie auf die Taste unten, um der Datenschutzerklärung zuzustimmen und auf diese Funktion zuzugreifen.</string>
     <string name="tip_author_click">Tippen, um weitere Videos dieses Kontos anzuzeigen</string>
     <string name="tip_content_or">ODER</string>
     <string name="tip_download_video_to_save_here">%d. Video wird in Ihren Downloads gespeichert.</string>

@@ -985,8 +985,11 @@
     <string name="display_name_title">Anzeigename</string>
     <string name="do_not_show_again">Nicht mehr anzeigen</string>
     <string name="doneButton">Fertig</string>
+    <string name="dsda_end_call_toast">Vorherige Anrufsitzung wurde beendet</string>
     <string name="dsda_summary">5G+4G Dual-SIM-Standby wird von ausgewählten Netzen unterstützt</string>
     <string name="dsda_title">5G+4G DSDA einschalten</string>
+    <string name="dsda_turn_off">Dualer aktiver Modus ist aus. Gerät neu starten, um Änderungen zu übernehmen.</string>
+    <string name="dsda_turn_on">Dualer aktiver Modus ist an. Gerät neu starten, um Änderungen zu übernehmen.</string>
     <string name="dsds_dialog_cancel">Abbrechen</string>
     <string name="dsds_dialog_confirm">Neustart</string>
     <string name="dsds_dialog_message">Sie müssen Ihr Gerät neu starten, um diese Einstellung zu ändern.</string>

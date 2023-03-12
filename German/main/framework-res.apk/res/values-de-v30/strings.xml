@@ -109,11 +109,11 @@
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">SP-Equivalent-Home-PLMN-Entsperrung wird angefordert…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP-Equivalent-Home-PLMN-Entsperrung war erfolgreich.</string>
 
-  <string name="accessibility_button_instructional_text">Wenn Sie zwischen den Funktionen wechseln möchten, halten Sie die Schaltfläche \"Bedienungshilfen\" gedrückt.</string>
-  <string name="accessibility_button_prompt_text">Funktion auswählen, die verwendet wird, wenn Sie auf die Schaltfläche \"Bedienungshilfen\" tippen:</string>
+  <string name="accessibility_button_instructional_text">Wenn Sie zwischen den Funktionen wechseln möchten, halten Sie die Taste \"Bedienungshilfen\" gedrückt.</string>
+  <string name="accessibility_button_prompt_text">Funktion auswählen, die verwendet wird, wenn Sie auf die Taste \"Bedienungshilfen\" tippen:</string>
   <string name="accessibility_dialog_button_allow">Zulassen</string>
   <string name="accessibility_dialog_button_deny">Ablehnen</string>
-  <string name="accessibility_edit_shortcut_menu_button_title">Funktionen auswählen, die Sie mit der Schaltfläche \"Bedienungshilfen\" verwenden möchten</string>
+  <string name="accessibility_edit_shortcut_menu_button_title">Funktionen auswählen, die Sie mit der Taste \"Bedienungshilfen\" verwenden möchten</string>
   <string name="accessibility_edit_shortcut_menu_volume_title">Funktionen auswählen, die Sie mit der Verknüpfung für die Lautstärketaste verwenden möchten</string>
   <string name="accessibility_enable_service_encryption_warning">Wenn Sie %1$s aktivieren, verwendet Ihr Gerät nicht die Bildschirmsperre, um die Datenverschlüsselung zu verbessern.</string>
   <string name="accessibility_enable_service_title">%1$s die vollständige Kontrolle über Ihr Gerät geben?</string>

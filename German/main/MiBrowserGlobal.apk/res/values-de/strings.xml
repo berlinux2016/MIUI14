@@ -2147,7 +2147,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="pref_force_userscalable_summary">Webseite die Kontrolle über die Zoom-Funktion entziehen</string>
     <string name="pref_general_title">Allgemein</string>
     <string name="pref_js_downloader">Bilder und Videos herunterladen</string>
-    <string name="pref_js_downloader_detail">Schaltfläche zum Herunterladen auf Bildern und Videos von Social Media-Webseiten anzeigen</string>
+    <string name="pref_js_downloader_detail">Taste zum Herunterladen auf Bildern und Videos von Social Media-Webseiten anzeigen</string>
     <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
     <string name="pref_nav_mode_summary_phone">Telefon</string>
@@ -2594,7 +2594,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="reading__shared__reward_video_ad_free_time">Glückwunsch! Gelesene Seitenanzeigen wurden in %s Minuten freigeschaltet</string>
     <string name="reading__shared__reward_video_desc"><u>Regelbeschreibung?</u></string>
     <string name="reading__shared__reward_video_desc_i_know">Um Werbung zu vermeiden</string>
-    <string name="reading__shared__reward_video_desc_info">Klicken Sie, um das Belohnungsvideo anzusehen. Nach der Fertigstellung sind Sie 10 Minuten lang von der Werbung befreit und werden nicht belohnt, wenn Sie das Video auf halbem Weg verlassen.</string>
+    <string name="reading__shared__reward_video_desc_info">Tippen, um das Belohnungsvideo anzusehen. Nach der Fertigstellung sind Sie 10 Minuten lang von der Werbung befreit und werden nicht belohnt, wenn Sie das Video auf halbem Weg verlassen.</string>
     <string name="reading__shared__reward_video_desc_without_line">Anleitung für kostenlose Werbung</string>
     <string name="reading__shared__sync_down_reading_progress_ok">Springen</string>
     <string name="reading__shared__sync_down_reading_progress_prompt2">" Sie haben das letzte Mal %s gelesen, möchten Sie weiterlesen? "</string>

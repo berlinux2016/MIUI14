@@ -533,7 +533,7 @@
     <string name="touchpad_switch_recent_task">Letzte Apps öffnen</string>
     <string name="touchpad_switch_recent_task_summary">Mit drei Fingern nach oben wischen und halten</string>
     <string name="touchpad_title">Trackpad</string>
-    <string name="touchpad_touch_click_title">Trackpad zum Klicken berühren</string>
+    <string name="touchpad_touch_click_title">Trackpad zum Tippen berühren</string>
     <string name="trackball_wake_title">Trackball aufwecken</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>

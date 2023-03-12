@@ -637,7 +637,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="recommend_hint">Empfohlen</string>
     <string name="reconnect">Erneut verbinden</string>
     <string name="recovery_progress">Elemente wiederherstellen (%1$d/%2$d)…</string>
-    <string name="recreate_soft_ap_tips">Schaltfläche unten antippen, um es erneut zu versuchen</string>
+    <string name="recreate_soft_ap_tips">Taste unten antippen, um es erneut zu versuchen</string>
     <string name="refuse_accept">Ablehnen</string>
     <string name="request_all_permission_content">"Mi Mover muss auf die folgenden Elemente zugreifen, um Elemente auf ein neues Gerät zu übertragen:
 - Standort
@@ -775,14 +775,14 @@ Mindestens %s freigeben."</string>
     <string name="switching_to_5g">Auf High-Speed-Übertragungskanal umschalten…</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Auf dem Reiter \"Kontakte\" auf \"Jetzt synchronisieren\" tippen.</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Auf dem Reiter \"Fotos\" auf \"Jetzt sichern\" tippen.</string>
-    <string name="sync_data_to_mi_cloud_summary">Xiaomi Cloud auf Ihrem iPhone öffnen und folgende Schritte ausführen, um Daten zu synchronisieren. Auf die Schaltfläche unten tippen, wenn die Synchronisation abgeschlossen ist.</string>
+    <string name="sync_data_to_mi_cloud_summary">Xiaomi Cloud auf Ihrem iPhone öffnen und folgende Schritte ausführen, um Daten zu synchronisieren. Auf die Taste unten tippen, wenn die Synchronisation abgeschlossen ist.</string>
     <string name="sync_data_to_mi_cloud_title">Daten synchronisieren</string>
     <string name="sync_one_time_sync">Zum Synchronisieren tippen ( %1$s )</string>
     <string name="system_app_is_restore">Systemelemente wiederherstellen…</string>
     <string name="system_app_restore_completed">Erfolgreich wiederhergestellt</string>
     <string name="system_app_restore_completed_detail">Alle Systemelemente wurden erfolgreich wiederhergestellt</string>
     <string name="system_app_restore_failed">Ein Fehler ist aufgetreten</string>
-    <string name="system_app_restore_failed_detail">Systemelemente wurden nicht wiederhergestellt. Netzwerkeinstellungen prüfen, aber Gerät nicht neu starten oder ausschalten, bis die Elemente vollständig wiederhergestellt sind. Auf Schaltfläche unten tippen, um es erneut zu versuchen.</string>
+    <string name="system_app_restore_failed_detail">Systemelemente wurden nicht wiederhergestellt. Netzwerkeinstellungen prüfen, aber Gerät nicht neu starten oder ausschalten, bis die Elemente vollständig wiederhergestellt sind. Auf Taste unten tippen, um es erneut zu versuchen.</string>
     <string name="system_restore">Elemente wiederherstellen</string>
     <string name="task_backup_cancel_progress">Abbrechen…</string>
     <string name="task_canceled_all_local">Abgebrochen</string>
@@ -863,7 +863,7 @@ Mindestens %s freigeben."</string>
 Mi Mover herunterladen und installieren."</string>
     <string name="trans_install_guide_old_content_first">"1. Diesen QR-Code mit Ihrem alten Gerät scannen.
 2. Mi Mover herunterladen und installieren.
-3. Nach Installation auf die Schaltfläche unten tippen."</string>
+3. Nach Installation auf die Taste unten tippen."</string>
     <string name="trans_main_activity_tutor_first">"Fotos, Kontakte, Nachrichten, Anrufliste, Audio,
 Videos, Dokumente und Apps auf ein neues Gerät verschieben"</string>
     <string name="trans_receive_time_remained">Empfangen: %1$s | Verbleibend: %2$s</string>
@@ -877,7 +877,7 @@ Videos, Dokumente und Apps auf ein neues Gerät verschieben"</string>
     <string name="trans_time_format_second">Weniger als 1 Minute</string>
     <string name="trans_time_spent">Zeit: %s</string>
     <string name="transfer_bottom_tip">Während der Übertragung können Sie weder WLAN noch Bluetooth verwenden. Verlassen Sie diese Seite nicht.</string>
-    <string name="transfer_connect_fail_summary">Auf Schaltfläche unten tippen, um manuell zu verbinden</string>
+    <string name="transfer_connect_fail_summary">Auf Taste unten tippen, um manuell zu verbinden</string>
     <string name="transfer_finish_bottom_tip">Wenn Sie Ihr altes Gerät nicht mehr verwenden, können Sie alle Daten auf dem Gerät löschen, wenn Sie bestätigt haben, dass alle wichtigen Elemente erfolgreich übertragen wurden.</string>
     <string name="transfer_finish_summary">%1$s (%2$s) übertragen</string>
     <string name="transfer_long_pause_in_progress">Übertragen…</string>

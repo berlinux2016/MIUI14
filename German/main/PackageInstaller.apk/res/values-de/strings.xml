@@ -159,7 +159,7 @@ Abtastrate"</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI Snoop-Protokoll aktivieren</string>
     <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
     <string name="bugreport_in_power">Verknüpfung Fehlerbericht</string>
-    <string name="bugreport_in_power_summary">Schaltfläche im Power-Menü anzeigen zum Erstellen eines Fehlerberichts</string>
+    <string name="bugreport_in_power_summary">Taste im Power-Menü anzeigen zum Erstellen eines Fehlerberichts</string>
     <string name="button_convert_fbe">Löschen und konvertieren…</string>
     <string name="cancel">Abbrechen</string>
     <string name="car_drawer_close">Einschub schließen</string>

@@ -19,8 +19,7 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="about_app_name">Über Themen</string>
     <string name="about_version_update">Was ist neu</string>
-    <string name="accessibility_setting_hint">"Auf die Schaltfläche in der oberen rechten Ecke tippen, um diesen Dienst einzuschalten.
-Themen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe in den Apps Ihrer Wahl an."</string>
+    <string name="accessibility_setting_hint">Auf die Taste in der oberen rechten Ecke tippen, um diesen Dienst einzuschalten.\nThemen erkennt, welche Apps Sie verwenden und zeigt transparente Hintergründe in den Apps Ihrer Wahl an.</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Werbung</string>
     <string name="accessibiliy_description_content_add_resource">Element hinzufügen</string>

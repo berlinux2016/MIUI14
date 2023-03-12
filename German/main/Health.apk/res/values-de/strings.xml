@@ -53,8 +53,8 @@
     <string name="add_data_source_process">Wie man eine Datenquelle hinzufügt</string>
     <string name="add_data_source_support_step">Dieses Gerät erzeugt keine Schrittzahldaten. Sie können versuchen, auf andere Datenquellen umzuschalten.</string>
     <string name="add_data_type_datasource">Datenquelle hinzufügen (%1$s)</string>
-    <string name="add_model_card">Schaltfläche in der linken oberen Ecke antippen,\num Karten hinzuzufügen</string>
-    <string name="add_model_card2">Schaltfläche oben antippen, um Karten hinzuzufügen.\nSie können damit Ihre Trainingseinheiten und Aktivitäten verfolgen.</string>
+    <string name="add_model_card">Taste in der linken oberen Ecke antippen,\num Karten hinzuzufügen</string>
+    <string name="add_model_card2">Taste oben antippen, um Karten hinzuzufügen.\nSie können damit Ihre Trainingseinheiten und Aktivitäten verfolgen.</string>
     <string name="add_owned_device">Verfügbare Geräte</string>
     <string name="add_record">Hinzufügen</string>
     <string name="added_data_source">Quellen hinzugefügt</string>
@@ -551,7 +551,7 @@
     <string name="group">Zyklen</string>
     <string name="guide_data_cloud_sync_tip">Sie können die Synchronisation unter Einstellungen &gt; Cloud-Dienste ausschalten.</string>
     <string name="guide_exit">Xiaomi Health beenden</string>
-    <string name="guide_exit_description">Wir können keine Dienste für Personen unter 14 Jahren anbieten. Stellen Sie sicher, dass Sie dieses Gerät mit der Erlaubnis Ihres Erziehungsberechtigten verwenden. Tippen Sie auf die Schaltfläche unten, um die App zu beenden.</string>
+    <string name="guide_exit_description">Wir können keine Dienste für Personen unter 14 Jahren anbieten. Stellen Sie sicher, dass Sie dieses Gerät mit der Erlaubnis Ihres Erziehungsberechtigten verwenden. Tippen Sie auf die Taste unten, um die App zu beenden.</string>
     <string name="guide_exit_title">Sie können Xiaomi Health ab Ihrem 14. Geburtstag nutzen.</string>
     <string name="guide_local_data_sync_subtitle">Schritte, Schlaf, Gewicht und Perioden</string>
     <string name="guide_local_data_sync_title">Daten dieses Geräts hochladen</string>
@@ -771,8 +771,8 @@
     <string name="mcv2_music_title_unknown_text">Songtitel unbekannt</string>
     <string name="mcv2_next_button_desc">Nächste Medien</string>
     <string name="mcv2_non_music_title_unknown_text">Videotitel unbekannt</string>
-    <string name="mcv2_overflow_left_button_desc">Zurück zur vorherigen Schaltflächenliste</string>
-    <string name="mcv2_overflow_right_button_desc">Weitere Schaltflächen anzeigen</string>
+    <string name="mcv2_overflow_left_button_desc">Zurück zur vorherigen Tastenliste</string>
+    <string name="mcv2_overflow_right_button_desc">Weitere Tasten anzeigen</string>
     <string name="mcv2_play_button_desc">Abspielen</string>
     <string name="mcv2_playback_error_text">Angefordertes Element konnte nicht abgespielt werden</string>
     <string name="mcv2_previous_button_desc">Vorherige Medien</string>

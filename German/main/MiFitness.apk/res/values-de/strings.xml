@@ -191,7 +191,7 @@ Wenn Sie Ihre Meinung ändern, müssen Sie vor der Nutzung unserer Dienste unser
     <string name="add_device">Gerät hinzufügen</string>
     <string name="add_test_env_permission_hint">Warnung: Sobald das Gerät in der Testumgebung ist, kann es nicht mehr auf die Produktionsumgebung zugreifen.</string>
     <string name="add_test_key">Sicherheitsschlüssel hinzufügen</string>
-    <string name="add_test_key_hint">Bestätigt, klicken Sie auf die Schaltfläche Schlüssel hinzufügen, um den Testschlüssel hinzuzufügen</string>
+    <string name="add_test_key_hint">Bestätigt, tippen Sie auf die Taste Schlüssel hinzufügen, um den Testschlüssel hinzuzufügen</string>
     <string name="add_to_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
     <string name="add_wifi_desc">Um Ihr Wearable-Gerät mit dem WLAN zu verbinden, geben Sie das Passwort für \"%1$s\" ein.</string>
     <string name="add_wifi_title">Passwort eingeben</string>
@@ -1015,7 +1015,7 @@ Die entsprechenden Gerätedaten werden innerhalb von 7 Tagen gelöscht."</string
     <string name="device_settings_stock_empty">Keine Aktien</string>
     <string name="device_settings_stock_enable_count_over">Sie können bis zu 2 Aktien in einem Widget prüfen</string>
     <string name="device_settings_stock_search_empty">Keine Aktien gefunden</string>
-    <string name="device_settings_stock_search_hint">Aktienname eingeben oder Symbol anklicken</string>
+    <string name="device_settings_stock_search_hint">Aktienname eingeben oder Symbol antippen</string>
     <string name="device_settings_stock_sort_disable">Aktien-App</string>
     <string name="device_settings_stock_sort_enable">Aktien-Widget</string>
     <string name="device_settings_stock_sort_enable_empty">Keine Aktien</string>

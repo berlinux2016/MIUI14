@@ -683,7 +683,7 @@
     <string name="bubbles_user_education_manage_title">Blasen jederzeit steuern</string>
     <string name="bubbles_user_education_title">Chatten mit Blasen</string>
     <string name="bugreport_in_power">Verknüpfung zum Fehlerbericht</string>
-    <string name="bugreport_in_power_summary">Schaltfläche für Fehlerberichte im Power-Menü anzeigen</string>
+    <string name="bugreport_in_power_summary">Taste für Fehlerberichte im Power-Menü anzeigen</string>
     <string name="build_number_clip_data_label">Build-Nummer</string>
     <string name="build_number_copy_toast">Build-Nummer in Zwischenablage kopiert</string>
     <string name="button_convert_fbe">Löschen und konvertieren…</string>
@@ -1023,7 +1023,7 @@
     <string name="enabled_by_admin">Vom Administrator aktiviert</string>
     <string name="enhanced_connectivity">Erweiterte Konnektivität</string>
     <string name="enhanced_connectivity_summary">Aktiviert die Funktion Erweiterte Konnektivität</string>
-    <string name="enter_special_mode_message">Nach Neustart der App wird der App-Inhalt in den oberen Bereich der Statusleiste erweitert. Wenn es Ausnahmen gibt, wie z. B. Content-Occlusion und Klickverlagerung, können Sie die Schaltfläche erneut antippen, um den Standardmodus wiederherzustellen.</string>
+    <string name="enter_special_mode_message">Nach Neustart der App wird der App-Inhalt in den oberen Bereich der Statusleiste erweitert. Wenn es Ausnahmen gibt, wie z. B. Content-Occlusion und Klickverlagerung, können Sie die Taste erneut antippen, um den Standardmodus wiederherzustellen.</string>
     <string name="enter_special_mode_title">Starten Sie die App neu und erweitern Sie den Anzeigebereich</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
@@ -1667,7 +1667,7 @@
     <string name="long_screenshot_processing">Verarbeiten…</string>
     <string name="long_screenshot_stop">Fertig</string>
     <string name="long_screenshot_top_msg">Screenshot erstellen…</string>
-    <string name="long_screenshot_top_msg_manual">Screenshot zuschneiden und zum Abschließen die Schaltfläche antippen</string>
+    <string name="long_screenshot_top_msg_manual">Screenshot zuschneiden und zum Abschließen die Taste antippen</string>
     <string name="low_temperature_button_ok">Verstanden</string>
     <string name="low_temperature_warning_message">Temperatur ist zu niedrig. Ihr Telefon kann jederzeit heruntergefahren werden. Sichern Sie alle wichtigen Änderungen.</string>
     <string name="low_temperature_warning_title">Warnung bei niedriger Temperatur</string>

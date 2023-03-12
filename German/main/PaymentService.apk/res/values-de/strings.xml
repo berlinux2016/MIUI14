@@ -463,7 +463,7 @@ Wenn Sie während des Browsing-Prozesses Mi Coin-bezogene Geschäfte tätigen m�
     <string name="mibi_review_model_mibi_introduction">"Mi Coin ist eine aggregierte Geldbörse für virtuelle Geschäfte innerhalb der Xiaomi-Gruppe. Es unterstützt Zahlungsmittel wie Alipay, WeChat und Mi Wallet. Es bietet auch Prepaid-Karten und Marketingprodukte wie die Mi Coin Card und Mi Coin-Geschenkgutscheine.
 
 Angebotene Dienstleistungen:"</string>
-    <string name="mibi_review_model_tips">TDer aktuelle Modus ist nur ein Browsing-Modus. Bitte klicken Sie auf die Schaltfläche, um den Mi Coin-Service zu nutzen.</string>
+    <string name="mibi_review_model_tips">Der aktuelle Modus ist nur ein Browsing-Modus. Bitte tippen Sie auf die Taste, um den Mi Coin-Service zu nutzen.</string>
     <string name="mibi_review_model_title">Reiner Browsing-Modus</string>
     <string name="mibi_review_model_use_tips">Mi Coin-Service jetzt erleben</string>
     <string name="mibi_revoke_agreement_failed_msg">Widerruf Zustimmung fehlgeschlagen, erneut versuchen</string>

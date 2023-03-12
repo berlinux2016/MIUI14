@@ -79,7 +79,7 @@
     <string name="downloading">Herunterladen. Zum Anhalten tippen.</string>
     <string name="early_morning">Morgen</string>
     <string name="empty_recognition_tip">Leer</string>
-    <string name="empty_tips">Auf die Schaltfläche tippen, um die Aufnahme zu starten</string>
+    <string name="empty_tips">Auf die Taste tippen, um die Aufnahme zu starten</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="err_msg_abandon">Bestellung abgebrochen</string>

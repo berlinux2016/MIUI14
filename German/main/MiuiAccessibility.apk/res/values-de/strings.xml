@@ -28,10 +28,10 @@
     <string name="create_shortcut_tips">Erst die Erstellung von Startbildschirm-Verknüpfungen in den Einstellungen erlauben</string>
     <string name="create_shortcut_tips2">Erst die Erstellung von Startbildschirm-Verknüpfungen erlauben</string>
     <string name="delete_message">Löschen</string>
-    <string name="detail_how_to_open">Auf die Schaltfläche in der Mitte tippen, um Mi Ditto die Umwandlung von Sprache und Systemwiedergabe-Audio zu erlauben</string>
-    <string name="detail_how_to_reply">Auf die Schaltfläche unten rechts tippen, um Ihre Antwort einzugeben. Mi Ditto wird sie der anderen Person vorlesen.</string>
-    <string name="detail_how_to_save_messages">Tippen Sie auf die Schaltfläche am unteren Bildschirmrand, um umgewandelte Elemente in Notizen zu speichern.</string>
-    <string name="detail_how_to_switch_float_window">Auf die Schaltfläche unten links tippen, um Mi Ditto zu minimieren. Dann können Sie andere Apps verwenden.</string>
+    <string name="detail_how_to_open">Auf die Taste in der Mitte tippen, um Mi Ditto die Umwandlung von Sprache und Systemwiedergabe-Audio zu erlauben</string>
+    <string name="detail_how_to_reply">Auf die Taste unten rechts tippen, um Ihre Antwort einzugeben. Mi Ditto wird sie der anderen Person vorlesen.</string>
+    <string name="detail_how_to_save_messages">Auf die Taste am unteren Bildschirmrand tippen, um umgewandelte Elemente in Notizen zu speichern.</string>
+    <string name="detail_how_to_switch_float_window">Auf die Taste unten links tippen, um Mi Ditto zu minimieren. Dann können Sie andere Apps verwenden.</string>
     <string name="detail_how_to_use_reg">Über Mi Ditto</string>
     <string name="dialog_download_notes_negative_button">Jetzt nicht</string>
     <string name="dialog_download_notes_positive_button">Herunterladen</string>
@@ -110,7 +110,7 @@ Beachten Sie, dass diese App eine Internetverbindung und die folgenden Berechtig
     <string name="title_how_to_switch_float_window">Wie minimiere ich die App?</string>
     <string name="toast_already_in_float_window_mode">Auf Popup umgeschaltet</string>
     <string name="toast_create_shortcut_success">Startbildschirm-Verknüpfung erfolgreich erstellt</string>
-    <string name="toast_long_time_no_sound">Ich kann nichts hören. Umwandeln vorerst unterbrochen. Sie können das Umwandeln fortsetzen, indem Sie auf die Schaltfläche unten tippen.</string>
+    <string name="toast_long_time_no_sound">Ich kann nichts hören. Umwandeln vorerst unterbrochen. Sie können das Umwandeln fortsetzen, indem Sie auf die Taste unten tippen.</string>
     <string name="toast_save_done">Erfolgreich in Notizen gespeichert</string>
     <string name="toast_save_fail">Nicht in Notizen gespeichert</string>
     <string name="tutorial_float_window">App minimieren</string>
