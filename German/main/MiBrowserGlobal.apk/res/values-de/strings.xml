@@ -352,13 +352,11 @@
     <string name="branch_local_search_settings">Lokale Sucheinstellungen</string>
     <string name="branch_new_function">Neue Funktion</string>
     <string name="branch_search_bar_tips">Apps und Spiele suchen</string>
-    <string name="branch_search_guide_privacy">Diese Funktion wird von Branch Metrics Inc. bereitgestellt. Wir geben Ihren Standort, Ihre Suchanfragen und Ihre Google Ads ID an sie weiter. Lesen und akzeptieren Sie Ihre <font color="#B3000000"><a href="http://url1">Geschäftsbedingungen</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzerklärung</a></font>, bevor Sie fortfahren.</string>
     <string name="branch_search_in_browser">\"%1$s\" im Browser suchen</string>
     <string name="branch_setting">Einstellungen</string>
     <string name="branch_short_message">Nachrichten</string>
     <string name="branch_shortcuts">Verknüpfungen</string>
     <string name="branch_show_more">Mehr</string>
-    <string name="branch_terms_condition">Geschäftsbedingungen</string>
     <string name="branch_viewpage_title_app_recommend">Empfohlen</string>
     <string name="branch_viewpage_title_local">Installiert</string>
     <string name="browserFrameFileErrorLabel">Dateifehler</string>
@@ -627,7 +625,6 @@
     <string name="diagnosis_log_sent_format">Diagnoseprotokoll wurde gesendet.\nID: %s\nBitte senden Sie diesen Code dem Techniker.</string>
     <string name="dialog_channel_cancel">Abbrechen</string>
     <string name="dialog_channel_remove_content">Das Entfernen aller Kanäle entfernt auch den Inhaltsfeed.</string>
-    <string name="dialog_game_banner">Sehen Sie sich beliebte Spiele an!</string>
     <string name="dialog_game_close">Abbrechen</string>
     <string name="dialog_game_play">Spielen</string>
     <string name="discovery__edit_feed_item_view__desc_hint">+ Einleitung hinzufügen</string>
@@ -2279,14 +2276,12 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="privacy_disagree">Ich stimme nicht zu</string>
     <string name="privacy_improve_performance">Benutzererfahrungsprogramm</string>
     <string name="privacy_improve_performance_desc">Erlauben Sie Xiaomi, Benutzerdaten zu sammeln und zu analysieren, um unsere Produkte und Dienstleistungen zu verbessern</string>
-    <string name="privacy_local_app_discovery">Lokale Apps entdecken</string>
     <string name="privacy_message">Bevor Sie den Browser verwenden, müssen Sie unserer &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font> zustimmen.</string>
     <string name="privacy_message_main_tips_first">Mi Browser muss notwendige persönliche Informationen sammeln, um Ihnen die grundlegenden Dienste zur Verfügung zu stellen. Wie wir mit den gesammelten Informationen umgehen, erfahren Sie in unserer &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font>. Sie können Ihre Zustimmung zur Datenschutzerklärung von Mi Browser jederzeit unter Einstellungen > Datenschutz &amp; Sicherheit widerrufen. Lesen und akzeptieren Sie unsere &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font> bevor Sie Mi Browser verwenden.</string>
     <string name="privacy_message_main_tips_second">Um nach Apps auf diesem Gerät zu suchen und zu wissen, welche Apps installiert sind, muss Mi Browser auf die App-Installationsinfos zugreifen, die nicht lokal gespeichert oder in irgendeiner Form hochgeladen werden.</string>
     <string name="privacy_message_welcome">Willkommen bei Mi Browser! Unsere App bietet folgende Dienste:</string>
     <string name="privacy_message_welcome_tip_first">- Schnelles und sicheres Surfen im Internet</string>
     <string name="privacy_message_welcome_tip_second">- Herunterladen von Bildern und Videos von Social-Media-Plattformen</string>
-    <string name="privacy_new_function">Neue Funktion</string>
     <string name="privacy_permission_name">Verfolgen Ihrer Aktivität nicht erlauben</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_reset_fail">Zurücksetzen nicht möglich, erneut versuchen.</string>

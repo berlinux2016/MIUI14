@@ -189,7 +189,7 @@
     <string name="branch_new_feature">Neue Funktion</string>
     <string name="branch_privacy_policy">Datenschutzerklärung</string>
     <string name="branch_search_guide_description">Unsere Suchergebnisse sind jetzt viel umfassender</string>
-    <string name="branch_search_guide_privacy">Dieser Dienst wird von Branch Metrics Inc. betrieben. Ihre Standortinfos, Suchanfragen und Google Ads ID werden an Branch weitergegeben. Lesen und akzeptieren Sie die Branch <font color="#B3000000"><a href="http://url1">Geschäftsbedingungen</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzerklärung</a></font>, bevor Sie diesen Dienst nutzen.</string>
+    <string name="branch_search_guide_privacy">Dieser Dienst wird von Branch Metrics Inc. betrieben. Ihre Standortinfos, Suchanfragen und Google Ads ID werden an Branch weitergegeben. Lesen und akzeptieren Sie die Branch <font color="#B3000000"><a href="http://url1">allgemeinen Geschäftsbedingungen</a></font> und <font color="#B3000000"><a href="http://url2">Datenschutzerklärung</a></font>, bevor Sie diesen Dienst nutzen.</string>
     <string name="branch_search_guide_title">Finden Sie, was Sie suchen, in Ihren Lieblings-Apps</string>
     <string name="branch_terms_condition">Allgemeine Geschäftsbedingungen</string>
     <string name="branch_tip_title">Mit Quick Finder finden Sie alles, was Sie brauchen, im Handumdrehen.</string>
