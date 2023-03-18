@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">In %d Minuten</item>
-        <item quantity="one">In 1 Min</item>
+        <item quantity="one">In %d Min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>

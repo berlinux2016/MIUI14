@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="one">In %d Min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
