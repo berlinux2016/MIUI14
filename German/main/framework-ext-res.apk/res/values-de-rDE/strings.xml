@@ -145,7 +145,7 @@
     <string name="fadeout">Ausblenden</string>
     <string name="fairyland">Märchenland</string>
     <string name="fantasy">Fantasie</string>
-    <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht enthält möglicherweise persönliche Informationen. Ihr Bericht wird nicht mit Dritten geteilt, sondern ausschließlich zur Behebung des Fehlers verwendet.</string>
+    <string name="fc_dialog_body">Fehlerbericht zur Analyse an Xiaomi senden? Dieser Bericht kann persönlich identifizierbare Daten enthalten. Ihr Bericht wird verwendet, um diesen Fehler zu beheben und wird niemals in einem kommerziellen Kontext weitergegeben.</string>
     <string name="fc_dialog_jump_to_preview">Zusammenfassung anzeigen</string>
     <string name="fieldtrip">Ausflug</string>
     <string name="file">Datei</string>

@@ -919,7 +919,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="pending_apk">Ausstehend…</string>
     <string name="permission_runtime_perm_desc_location">Für Zugang zu lokalen Radiosendern</string>
     <string name="personal_radio_favorite">Favorisiert, ähnlichen Titel empfehlen</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi Konten verknüpft. Versuchen Sie eine andere Rufnummer.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten verknüpft. Versuchen Sie eine andere Rufnummer.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

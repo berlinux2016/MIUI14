@@ -68,7 +68,6 @@
     <string name="branch_toucan">Tukane</string>
     <string name="brown_pelican">Braunpelikan</string>
     <string name="calendar_sound">Erinnerungstöne</string>
-    <string name="calendar_tip">Terminerinnerungstöne funktionieren bei Kalendererinnerungen, Notizen und Aufgaben</string>
     <string name="canada_goose">Kanadagans</string>
     <string name="capybara_info">Capybaras sind teilweise im Wasser lebende, pflanzenfressende Nagetiere, die ihren Atem unter Wasser bis zu fünf Minuten am Stück anhalten können.</string>
     <string name="category_limit_notify_title">Bildschirmzeitalarm</string>
@@ -330,7 +329,7 @@
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
@@ -340,7 +339,7 @@
     <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
@@ -476,7 +475,7 @@
     <string name="screen_fps_summary_smooth">Einige Apps erhöhen die Aktualisierungsrate automatisch, um die Bildqualität zu verbessern</string>
     <string name="screen_fps_title">Aktualisierungsrate</string>
     <string name="screen_fps_unit_power_save">%d Hz (Spart Akku)</string>
-    <string name="screen_fps_unit_smooth">%dHz (Bessere Qualität)</string>
+    <string name="screen_fps_unit_smooth">%d Hz (Bessere Qualität)</string>
     <string name="screen_original_gamut">Erweitert</string>
     <string name="screen_original_gamut_summary">Alle Bildschirminhalte in einem möglichst breiten Farbraum anzeigen</string>
     <string name="screen_paper_mode_apps_loading">Einen Moment…</string>

@@ -224,7 +224,7 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="miui_mine_top_bar_title">Kundendienst</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
@@ -234,7 +234,7 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suchen</string>

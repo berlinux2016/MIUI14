@@ -301,7 +301,7 @@
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_device_list_failed">Geräte können nicht abgerufen werden</string>
     <string name="get_identity_auth_url_failed">ID verifizieren fehlgeschlagen</string>
-    <string name="get_phone_bind_exceed_limit">Bis zu 3 Mi Konten können mit einer Rufnummer verbunden werden. Neue Konten können nicht hinzugefügt werden.</string>
+    <string name="get_phone_bind_exceed_limit">Bis zu 3 Xiaomi-Konten können mit einer Rufnummer verbunden werden. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer geschickt. 24 Stunden warten und erneut versuchen.</string>
     <string name="google_login">Mit Google anmelden</string>
     <string name="guest_account_label">Mi Gastkonto</string>
@@ -359,14 +359,14 @@
     <string name="mipay_transit_card">Fahrkarte</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbrechen</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>

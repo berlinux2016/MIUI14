@@ -110,14 +110,14 @@ dd. MM."</string>
     <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="midnight">Nacht</string>
     <string name="miplay_service_timeout_toast">Verbindung wurde unterbrochen, bitte später erneut versuchen</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles auswählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente auswählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbruch</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suchen</string>

@@ -323,7 +323,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="get_account_no_permission">Um sich anzumelden, legen Sie bitte die Berechtigung zum Benutzerkontozugriff fest:</string>
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_ph_ticket">Code erhalten</string>
-    <string name="get_phone_bind_exceed_limit">Bis zu 3 Mi Konten können mit einer Rufnummer verbunden werden. Neue Konten können nicht hinzugefügt werden.</string>
+    <string name="get_phone_bind_exceed_limit">Bis zu 3 Xiaomi-Konten können mit einer Rufnummer verbunden werden. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer geschickt. 24 Stunden warten und erneut versuchen.</string>
     <string name="google_login_btn_content_description">Anmelden mit Google</string>
     <string name="goto_confirm">Einstellungen</string>
@@ -466,14 +466,14 @@ dd.MM."</string>
 dd.MM."</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbrechen</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
@@ -864,17 +864,6 @@ dd.MM."</string>
     <string name="passport_user_id_intro">Passwort für %1$s eingeben</string>
     <string name="passport_user_id_notice">Ihre Xiaomi-Konto-ID lautet %s</string>
     <string name="passport_user_password_hint">Passwort</string>
-    <string name="passport_user_reg_region">Land/Region</string>
-    <string name="passport_user_reg_region_warning">Sie können Ihr Land/Ihre Region nicht mehr ändern, sobald das Konto erstellt wurde</string>
-    <string name="passport_v_code_error">Verifizierungscode ist falsch</string>
-    <string name="passport_vcode_notification_title">Ihre Anmeldebestätigung ist unvollständig</string>
-    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
-    <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
-    <string name="passport_vcode_sms_send_prompt">Code an %s senden</string>
-    <string name="passport_verification_failed">Authentisierung fehlgeschlagen</string>
-    <string name="passport_verify">Verifizieren</string>
-    <string name="passport_verifying_activator_phone">Telefonsicherheit verifizieren…</string>
-    <string name="passport_wait_for_sms_prompt">Jetzt neu beginnen? Die Zustellung von Bestätigungsnachrichten kann bis zu 10 Minuten dauern, wenn sich Ihr Telefon in Netzreichweite Ihres Mobilfunkanbieters befindet.</string>
     <string name="passport_wechat_not_install">Erst WeChat installieren</string>
     <string name="passport_wrong_captcha">Eingegebener Code ist falsch</string>
     <string name="passport_wrong_phone_number_format">Format der eingegebenen Rufnummer ist ungültig</string>
@@ -888,7 +877,7 @@ dd.MM."</string>
     <string name="permission_storage_tip">Heruntergeladene Elemente auf Ihrem Gerät speichern</string>
     <string name="personalized">Personalisierung</string>
     <string name="phone_auto_login_register_with_local_number">Konto erstellen</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi Konten verknüpft. Versuchen Sie, eine andere Rufnummer zu verwenden.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten verknüpft. Versuchen Sie, eine andere Rufnummer zu verwenden.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

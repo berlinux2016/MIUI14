@@ -358,14 +358,14 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="midrive_guide_btn_installing">Installieren…</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbrechen</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
@@ -606,7 +606,7 @@ Stellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto 
     <string name="permission_storage_desc_pad">Zugriff auf Fotos und Dateien auf dem Gerät</string>
     <string name="permission_storage_title">Speicher</string>
     <string name="permission_storage_title_pad">Speicherzugriff</string>
-    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Mi Konten verknüpft. Versuchen Sie, eine andere Rufnummer zu verwenden.</string>
+    <string name="phone_bind_too_many">Dieses Telefon wurde in kurzer Zeit mit mehreren Xiaomi-Konten verknüpft. Versuchen Sie, eine andere Rufnummer zu verwenden.</string>
     <string name="phone_hint">Rufnummer</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>

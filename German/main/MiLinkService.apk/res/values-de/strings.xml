@@ -423,7 +423,7 @@
     <string name="miplay_song_title_empty">Kein Titel</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
@@ -433,7 +433,7 @@
     <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
@@ -736,6 +736,7 @@
     <string name="toast_msg_for_multi_window">Diese Funktion kann nicht mit Splitscreen verwendet werden</string>
     <string name="toast_msg_for_small_window">Sie können das Fenster, das übertragen wird, minimieren, um andere Funktionen Ihres Telefons zu verwenden, ohne den Übertragungsprozess zu unterbrechen.</string>
     <string name="toast_nfc_dont_move">Bewegen Sie Ihr Telefon nicht weg</string>
+    <string name="toast_nfc_same_wifi">Verbinden Sie Ihr TV-Gerät und dieses Gerät mit demselben Netzwerk</string>
     <string name="toast_title_for_small_window">In der App \"Fenster minimieren\" auswählen</string>
     <string name="toast_turn_off_hotspot_before_cast">Portablen Hotspot vor dem Übertragen ausschalten</string>
     <string name="today">Heute</string>
@@ -761,6 +762,7 @@
     <string name="upgrade_login_dialog_title">Am Xiaomi-Konto anmelden</string>
     <string name="upgrade_no_devices">Keine Updates verfügbar</string>
     <string name="upgrade_now">Jetzt aktualisieren</string>
+    <string name="upgrade_phone_device_tip">*Updates werden von Xiaomi Phone bereitgestellt</string>
     <string name="upgrade_scan">Nach Updates suchen</string>
     <string name="upgrade_start">Aktualisieren</string>
     <string name="upgrade_start_all">Aktualisieren</string>

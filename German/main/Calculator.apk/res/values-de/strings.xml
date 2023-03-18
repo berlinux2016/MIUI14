@@ -40,7 +40,7 @@
     <string name="app_notification_info">Rechner arbeitet im Hintergrund</string>
     <string name="base_rate">Basiszinssatz</string>
     <string name="birthday">Geburtstag</string>
-    <string name="bmi_error_text">BMI ist nicht korrekt. Vergewissern Sie sich, dass Sie Größe und Gewicht richtig eingegeben haben.</string>
+    <string name="bmi_error_text">Gültige Parameter eingeben</string>
     <string name="bmi_label_information">Informationen</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Übergewicht</string>
@@ -327,14 +327,14 @@ Einjährige und fünfjährige LPRs werden am 20. eines jeden Monats (Verzögerun
     <string name="minusDesc">Subtraktion</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_action_mode_select_all">Alle wählen</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbrechen</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
-    <string name="miuix_appcompat_deselect_all">Abwählen</string>
+    <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
@@ -606,8 +606,7 @@ Beachten Sie, dass diese App eine Internetverbindung und folgende Berechtigungen
     <string name="tax_rate_provider_east_money">Berechnet nach den neuen steuerlichen Vorschriften. Die Daten werden von East Money zur Verfügung gestellt.</string>
     <string name="tax_result_real_get">Netto</string>
     <string name="tax_social_insurance">Sozialversicherung</string>
-    <string name="tax_thershold_foreign">%s (ausländisch)</string>
-    <string name="tax_thershold_native">%s (inländisch)</string>
+    <string name="tax_thershold_foreign">%s (Ausländische Staatsbürger)</string>
     <string name="tax_thershold_native_new">%s (Neu)</string>
     <string name="tax_thershold_native_new_description">Steuern werden ab dem 1. Oktober 2018 nach dem neuen Steuergesetz berechnet.</string>
     <string name="tax_threshold">Steuergrenze</string>
