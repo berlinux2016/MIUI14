@@ -17,7 +17,7 @@
         <item>Widgets</item>
         <item>Einstellungen</item>
     </string-array>
-        <string-array name="folder_toggle_entries">
+    <string-array name="folder_toggle_entries">
         <item>3 Spalten</item>
         <item>4 Spalten</item>
     </string-array>
