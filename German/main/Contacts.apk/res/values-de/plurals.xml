@@ -110,8 +110,8 @@
         <item quantity="one">%1$d Kontakt hinzugefügt</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d Personen</item>
-        <item quantity="one">%1$d Person</item>
+        <item quantity="other">%1$d Kontakte</item>
+        <item quantity="one">%1$d Kontakt</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">%1$d Nummern</item>

@@ -3,7 +3,7 @@
     <plurals name="a_hour_ago">
         <item quantity="other">Vor 1 Stunde</item>
     </plurals>
-    <plurals name="abbrev_a_hour_ago">
+        <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Vor %d Std</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
