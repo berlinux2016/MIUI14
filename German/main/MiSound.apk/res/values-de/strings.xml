@@ -326,6 +326,9 @@ Fernbedienungstasten"</string>
     <string name="now_here">Und jetzt?</string>
     <string name="original_sound">Originalton abspielen</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="permission_go_to_settings">Einstellungen</string>
+    <string name="permission_requesr_content">Erlauben Sie dieser App in den Einstellungen, sich mit Geräten in der Nähe zu verbinden.</string>
+    <string name="permission_requesr_title">Berechtigungen erforderlich</string>
     <string name="personal_sound">Wiedergabe mit angewandter Voreinstellung</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="retry_test">Von vorn beginnen</string>

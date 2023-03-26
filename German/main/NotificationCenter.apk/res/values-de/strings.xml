@@ -22,14 +22,12 @@
     <string name="afternoon">Nachmittag</string>
     <string name="aggregate_title">" Regeln für gruppierte Benachrichtigungen"</string>
     <string name="app_name">Benachrichtigungen</string>
-    <string name="back">Zurück</string>
     <string name="cancel">Abbrechen</string>
     <string name="category_other">Andere</string>
     <string name="channel_keyguard_hide_content">Alle Benachrichtigungen anzeigen, Inhalte ausblenden</string>
     <string name="channel_keyguard_show_content">Benachrichtigung mit Inhalt</string>
     <string name="channel_keyguard_show_nothing">Keine Benachrichtigungen</string>
     <string name="channel_name_aggregation">Gruppierte Benachrichtigungen</string>
-    <string name="channel_name_notification">App-Benachrichtigungen</string>
     <string name="channel_name_recovered">Wiederhergestellte Benachrichtigungen</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
@@ -124,7 +122,6 @@
     <string name="menu_setting_unfold">Wichtig</string>
     <string name="midnight">Nacht</string>
     <string name="miui_snooze_always_float">Nicht ausblenden</string>
-    <string name="miui_snooze_cancel">Abrrechen</string>
     <string name="miui_snooze_default_time">Für %d Min</string>
     <string name="miui_snooze_until_unlock_screen">Bis zum Entsperren</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
@@ -225,8 +222,7 @@
     <string name="notification_aggregate_summary">MIUI erlauben, Benachrichtigungen automatisch zu gruppieren</string>
     <string name="notification_aggregate_summary_inner">Gruppen- und Werbebenachrichtigungen automatisch einschalten</string>
     <string name="notification_aggregate_title">Gruppenbenachrichtigungen</string>
-    <string name="notification_display_setting">"Benachrichtigungs-
-leiste"</string>
+    <string name="notification_display_setting">Benachrichtigungs-\nleiste</string>
     <string name="notification_display_style">Benachrichtigungsstil</string>
     <string name="notification_fold_description1">Benachrichtigungsordner wurde in MIUI 9 eingeführt. Diese Funktion filtert unwichtige Benachrichtigungen und legt sie in einem separaten Ordner ab.</string>
     <string name="notification_fold_description2">MIUI merkt sich, welche Benachrichtigungen Sie antippen, und verwendet dann mehrere Kriterien, um festzustellen, ob sie wichtig sind.</string>
@@ -238,9 +234,7 @@ leiste"</string>
     <string name="notification_keyguard_hide_content">Benachrichtigung ja, Inhalt nein</string>
     <string name="notification_keyguard_show_content">Benachrichtigung mit Inhalt</string>
     <string name="notification_keyguard_show_nothing">Keine Benachrichtigungen</string>
-    <string name="notification_manager">App-Benachrichtigungen</string>
-    <string name="notification_setting_menu_feedback_text">"Diese Benachrichtigung sollte nicht hier sein?
-Problem melden &gt;"</string>
+    <string name="notification_setting_menu_feedback_text">Diese Benachrichtigung sollte nicht hier sein?\nProblem melden &gt;</string>
     <string name="off">Aus</string>
     <string name="on">AN</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>

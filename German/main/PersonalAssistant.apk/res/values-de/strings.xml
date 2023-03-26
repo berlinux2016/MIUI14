@@ -428,6 +428,7 @@
     <string name="pa_picker_detail_bottom_bt_text_upgrade">App aktualisieren, um ihre Widgets zu verwenden</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">App installieren</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">App aktualisieren</string>
+    <string name="pa_picker_detail_bt_loading">Einen Moment…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Infoassistent öffnen, um dort Widgets hinzuzufügen</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Infoassistent verwenden</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Abbrechen</string>
@@ -448,8 +449,12 @@
     <string name="pa_picker_detail_modify_maml">Bearbeiten</string>
     <string name="pa_picker_detail_net_error">Netzwerkfehler. Tippen, um es erneut zu versuchen.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Einen Moment…</string>
+    <string name="pa_picker_detail_state_error_retry">Etwas ist schief gelaufen. Erneut versuchen.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Gekauft</string>
     <string name="pa_picker_detail_theme_app_cta">Einstellungen</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Um dieses Widget zu verwenden, müssen Sie Themen zunächst eine Internetverbindung herstellen lassen. "</string>
+    <string name="pa_picker_detail_theme_app_need_login">Anmelden</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Melden Sie sich erst bei Ihrem Xiaomi Konto an. "</string>
     <string name="pa_picker_detail_vp2_indicator">Seite %1$d von %2$d ausgewählt</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Dieses Element wird über WLAN heruntergeladen</string>
     <string name="pa_picker_empty">Widgets sind in dieser Version der App nicht verfügbar. n\Bleiben Sie dran!</string>
@@ -684,6 +689,7 @@
     <string name="pa_vertical_center">Vertikales Layout. Zentriert ausgerichtet.</string>
     <string name="pa_vertical_left">Vertikales Layout. Linksbündig.</string>
     <string name="pa_vertical_right">Vertikales Layout. Rechtsbündig.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Einen Moment…</string>
     <string name="pa_widget_menu_edit">Bearbeiten</string>
     <string name="pa_widget_menu_remove">Entfernen</string>
     <string name="pa_widget_menu_replace">Wechseln</string>

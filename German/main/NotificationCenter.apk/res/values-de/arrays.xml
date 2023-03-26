@@ -6,13 +6,4 @@
         <item>Anzeigen aktiviert</item>
         <item>Anzeigen deaktiviert</item>
     </string-array>
-    <string-array name="lock_screen_display_rules_no_password">
-        <item>Inhalte anzeigen</item>
-        <item>Keine Benachrichtigungen anzeigen</item>
-    </string-array>
-    <string-array name="lock_screen_display_rules_with_password">
-        <item>Inhalte anzeigen</item>
-        <item>Inhalte ausblenden</item>
-        <item>Keine Benachrichtigungen anzeigen</item>
-    </string-array>
 </resources>
