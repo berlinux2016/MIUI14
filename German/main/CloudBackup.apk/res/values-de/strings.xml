@@ -47,6 +47,7 @@
     <string name="backup_failed_reason_app_usage_denied">Erforderliche Berechtigungen zum Sichern von Elementen gewähren</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nicht mehr genug Cloud-Speicher vorhanden, um diese Sicherung zu speichern. Erweitern Sie Ihr Limit oder geben Sie Cloud-Speicherplatz frei.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nicht genügend Speicherplatz. Erst Speicherplatz freigeben.</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Erteilen Sie die erforderlichen Berechtigungen in Einstellungen, um Elemente zu sichern</string>
     <string name="backup_failed_reason_network_error">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen etc. wurden gesichert</string>
     <string name="backup_now">Jetzt sichern</string>
@@ -201,12 +202,16 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="dialog_btn_restore_skip">Später wiederherstellen</string>
     <string name="dialog_button_agree">Zulassen</string>
     <string name="dialog_button_disagree">Verweigern</string>
+    <string name="dialog_button_get_installed_apps_agree">Einstellungen</string>
+    <string name="dialog_button_get_installed_apps_disagree">Abbrechen</string>
     <string name="dialog_cancel_backup_cancel">Abbrechen</string>
     <string name="dialog_cancel_backup_msg">Durch Umschalten werden laufende Sicherungen beendet</string>
     <string name="dialog_cancel_backup_title">Laufende Sicherung abbrechen?</string>
     <string name="dialog_cloud_space_not_enough">Diese Sicherung erfordert %1$s an freiem Cloud-Speicherplatz. Erweitern Sie Ihren Speichertarif, um Elemente zu sichern.</string>
     <string name="dialog_content_cancel_backup">Bereits hochgeladene Daten gehen verloren, wenn Sie die Sicherung abbrechen. Trotzdem abbrechen?</string>
     <string name="dialog_content_cancel_restore">Bereits wiederhergestellte Daten werden beibehalten, wenn Sie die Wiederherstellung beenden. Wiederherstellung jetzt beenden?</string>
+    <string name="dialog_get_installed_apps_consent_message">Um eine automatische Sicherung durchzuführen, erteilen Sie dieser App in Einstellungen die Berechtigung, auf die Liste der auf Ihrem Gerät installierten Apps zuzugreifen, und wählen Sie \"Immer erlauben\".</string>
+    <string name="dialog_get_installed_apps_consent_title">Berechtigungen erforderlich</string>
     <string name="dialog_msg_overwrite_backup">Die lokale Sicherung unterscheidet sich von der in Xiaomi Cloud. Wenn Sie fortfahren, überschreibt die aktuelle Sicherung die vorherige.</string>
     <string name="dialog_msg_restore_require_wlan">Wiederherstellen von Sicherungen erfordert WLAN-Verbindung</string>
     <string name="dialog_msg_restore_require_wlan_china">Wiederherstellen von Sicherungen erfordert WLAN-Verbindung</string>
@@ -290,6 +295,10 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="loading_user_backup">Benutzersicherungen laden…</string>
     <string name="main_space">Hauptprofil</string>
     <string name="managespace_delete_backup">Löschen</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Schließen</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Einstellungen</string>
+    <string name="manual_request_permissions_dialog_description">Wenn Sie \"%s\" keine Berechtigungen erteilen, erhalten Sie keine rechtzeitigen Benachrichtigungen über fehlgeschlagene Sicherungen und andere wichtige Aktionen. Sie können diese Berechtigung in Einstellungen erteilen.</string>
+    <string name="manual_request_permissions_dialog_title">Berechtigungen erforderlich</string>
     <string name="menu_item_managespace">Speicher verwalten</string>
     <string name="menu_item_sort">Sortieren nach</string>
     <string name="menu_item_sort_size">Größe</string>
@@ -394,6 +403,11 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="remove_unfinished">Entfernen später erneut versuchen</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Sie können jetzt WeChat-Daten sichern. Tippen für Details.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">WeChat-Daten sichern</string>
+    <string name="request_notification_permission_dialog_confirm">Verstanden</string>
+    <string name="request_permission_post_notification">Zum Senden von Benachrichtigungen über Cloud-Sicherungen</string>
+    <string name="request_permission_post_notification_title">Benachrichtigungen</string>
+    <string name="request_permissions_dialog_description">Erteilen Sie die Berechtigung zum Senden von Benachrichtigungen und Erinnerungen, um alle Dienste nutzen zu können, die die Cloud-Sicherung zu bieten hat.</string>
+    <string name="request_permissions_dialog_title">Berechtigungen erforderlich</string>
     <string name="restore_app_order_finish">Erledigt</string>
     <string name="restore_app_order_loading">Einen Moment…</string>
     <string name="restore_app_order_retry">Erneut versuchen</string>
@@ -474,6 +488,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="session_failed_disk_no_space_restore_detail">Zum Wiederherstellen von Elementen ist mind. %s erforderlich.</string>
     <string name="session_failed_disk_no_space_title">Unzureichender interner Speicher. Speicher löschen und erneut versuchen.</string>
     <string name="session_failed_dist_no_space_btn_text">Speicher löschen</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Um eine automatische Sicherung durchzuführen, erteilen Sie dieser App in Einstellungen die Berechtigung, auf die Liste der auf Ihrem Gerät installierten Apps zuzugreifen, und wählen Sie \"Immer erlauben\".</string>
+    <string name="session_failed_get_installed_apps_denied_title">Berechtigungen erforderlich</string>
     <string name="session_failed_no_server_response_title">Keine Serververbindung</string>
     <string name="session_failed_override_detail">Lokale Sicherung unterscheidet sich von der Sicherung in der Xiaomi Cloud. Wenn Sie fortfahren, wird die aktuelle Sicherung die vorherige überschreiben. Jetzt überschreiben?</string>
     <string name="session_failed_override_title">Sicherung überschreiben</string>

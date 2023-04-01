@@ -46,14 +46,9 @@
     <string name="dolby_dax_geq_title">Grafik-Equalizer</string>
     <string name="dolby_dax_profile_dynamic">Dynamisch</string>
     <string name="dolby_dax_setting">Dolby-Effekte</string>
-    <string name="dolby_dax_title">Surround-Sound</string>
     <string name="early_morning">Morgen</string>
-    <string name="effect_3dsurround">Immersiver Klang</string>
-    <string name="effect_3dsurround_summary">Klangtiefe für Wiedergabe über Kopfhörer und Lautsprecher verbessern</string>
-    <string name="effect_3dsurround_summary_headphone">Klangtiefe für Wiedergabe über Kopfhörer verbessern</string>
     <string name="effect_virtual_surround">Virtueller immersiver Klang</string>
     <string name="effect_virtual_surround_summary">Klangtiefe für Audio- und Videowiedergabe über Kopfhörer verbessern (Diese Funktion funktioniert nicht, wenn %.1f-Audio abgespielt wird)</string>
-    <string name="end_wireless_transmission">Stop</string>
     <string name="eq_auto">Benutzerdefiniert</string>
     <string name="eq_cancel">Abbrechen</string>
     <string name="eq_classical">Klassik</string>
@@ -65,7 +60,6 @@
     <string name="eq_preset_create">Erstellen</string>
     <string name="eq_preset_format">Benutzervoreinstellung %d</string>
     <string name="eq_preset_hint">Effektname</string>
-    <string name="eq_preset_rename">Umbenennen</string>
     <string name="eq_preset_select">Voreinstellung auswählen</string>
     <string name="eq_return">Zurück</string>
     <string name="eras_ad">n. Chr.</string>
@@ -132,7 +126,6 @@
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="input_head_set">Kopfhörer aufsetzen</string>
     <string name="input_hint_prefix">Eingabe %1$s</string>
-    <string name="keep_sound">Voreinstellung speichern</string>
     <string name="low_pitch">Niedrige Tonhöhe</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_selection">Stunde auswählen</string>
@@ -235,12 +228,6 @@
     <string name="multi_music_coexistence_summary">Medienlautstärke nicht während eingehender Benachrichtigungen oder der Audio-Wiedergabe von einer anderen Quelle anpassen</string>
     <string name="multi_music_coexistence_title">Mehrere Audioquellen</string>
     <string name="music_add_my_sound">Eigene Voreinstellungen hinzufügen</string>
-    <string name="music_app_unavailable">Musik-App wird benötigt. Stellen Sie sicher, dass diese installiert ist.</string>
-    <string name="music_audio_effect_optimize">Audioeinstellungen</string>
-    <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD-Sound, Kopfhörer und weitere Audioeinstellungen</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, Kopfhörer und weitere Audioeinstellungen</string>
-    <string name="music_audio_effect_settings">Toneinstellungen</string>
     <string name="music_audio_visual_wake_lock">Bildschirm wach halten</string>
     <string name="music_audio_visual_wake_lock_summary">Bildschirm nicht ausschalten, wenn visuelle Effekte angezeigt werden</string>
     <string name="music_below_thirty_years">Bis zu %d Jahre alt</string>
@@ -248,29 +235,20 @@
     <string name="music_customized_sound_title">Lautstärkeanpassung</string>
     <string name="music_delete">Löschen</string>
     <string name="music_delete_sound_title">Voreinstellungen löschen</string>
-    <string name="music_dirac_control">Tonqualität optimieren</string>
-    <string name="music_dirac_mode_general">Allgemein</string>
-    <string name="music_dirac_mode_general_earbuds">Allgemeine Kopfhörer</string>
-    <string name="music_dirac_mode_general_inear">Allgemeine In-Ear</string>
     <string name="music_dirac_mode_headset">Mi Kopfhörer</string>
     <string name="music_dirac_mode_in_ear_four_unit">Mi Vierfach-Treiber-Kopfhörer</string>
-    <string name="music_dirac_mode_off">Dirac aus</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear-Kopfhörer (Typ-C)</string>
-    <string name="music_dirac_mode_redmi_earphones">Redmi Ohrhörer</string>
+    <string name="music_dirac_mode_redmi_earphones">Redmi-Ohrhörer</string>
     <string name="music_dolby_mode_music">Musik</string>
     <string name="music_dolby_mode_off">Aus</string>
     <string name="music_equalizer_summary">Individuelle Lautstärkeanpassung für verschiedene Musiktypen</string>
     <string name="music_hd_title">HD-Sound Audio</string>
-    <string name="music_headphone_settings">Kopfhörertyp auswählen</string>
     <string name="music_headset_audio_visual">Visuelle Effekte</string>
-    <string name="music_headset_audio_visual_apply">Anwenden</string>
     <string name="music_headset_audio_visual_mute">Vorschau ohne Ton</string>
     <string name="music_headset_audio_visual_style">Visueller Effektstil</string>
     <string name="music_headset_audio_visual_style_summary">Visuellen Effektstil auswählen</string>
     <string name="music_headset_audio_visual_summary">Ton mit visuellen Effekten begleiten, die am Sperrbildschirm angezeigt werden</string>
-    <string name="music_headset_audio_visual_toast">Erfolgreich angewendet</string>
     <string name="music_headset_audio_visual_unmute">Vorschau mit Ton</string>
-    <string name="music_headset_button_settings">Fernbedienungstasten zuweisen</string>
     <string name="music_headset_calibrate">Kopfhörertasten zuweisen</string>
     <string name="music_headset_calibrate_apply">Verwenden</string>
     <string name="music_headset_calibrate_confirm">Einstellungen übernehmen?</string>
@@ -287,8 +265,7 @@
     <string name="music_headset_improve_sound">Ton an Kopfhörer anpassen</string>
     <string name="music_headset_is_open">AN</string>
     <string name="music_headset_mode_music">Musikwiedergabe steuern</string>
-    <string name="music_headset_mode_settings">"Kopfhörer-
-Fernbedienungstasten"</string>
+    <string name="music_headset_mode_settings">Kopfhörer-\nFernbedienungstasten</string>
     <string name="music_headset_mode_volume">Lautstärke steuern</string>
     <string name="music_headset_no_contected">Keine Kopfhörer gefunden</string>
     <string name="music_headset_not_open">Aus</string>
@@ -302,15 +279,12 @@ Fernbedienungstasten"</string>
     <string name="music_headset_settings">Audioeffekte</string>
     <string name="music_hifi_summary">Reduziert Rauschen und Verzerrungen und erhöht die Audioqualität</string>
     <string name="music_hifi_title">HiFi Audio</string>
-    <string name="music_mi_effect_summary">Mi Klangverbesserung bei Lautsprechern verwenden</string>
-    <string name="music_mi_effect_title">Mi Klangverbesserung</string>
     <string name="music_open_customized_sound_summary">Lautstärke entsprechend Ihrer akustischen Wahrnehmung anpassen</string>
     <string name="music_open_customized_sound_title">Lautstärkeanpassung</string>
     <string name="music_please_input_head_set">Kopfhörer anschließen, bevor Sie beginnen</string>
     <string name="music_rename">Umbenennen</string>
     <string name="music_rename_for_sound">Diese Voreinstellung umbenennen</string>
     <string name="music_save">Speichern</string>
-    <string name="music_sound">Voreinstellung</string>
     <string name="music_sound_for_mine">Eigene Voreinstellungen</string>
     <string name="music_sound_num">Eigene Voreinstellung %s</string>
     <string name="music_sound_sample">Systemvoreinstellungen</string>
@@ -331,7 +305,6 @@ Fernbedienungstasten"</string>
     <string name="permission_requesr_title">Berechtigungen erforderlich</string>
     <string name="personal_sound">Wiedergabe mit angewandter Voreinstellung</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="retry_test">Von vorn beginnen</string>
     <string name="ringtone_output_device_summary">Ton zulassen für eingehende Anrufe und Benachrichtigungen bei Anschluss von Zubehör (kabelgebundene Headsets oder Bluetooth-Geräte)</string>
     <string name="ringtone_output_device_title">Lautsprecherton zulassen</string>
     <string name="saturday">Samstag</string>
@@ -404,7 +377,6 @@ Fernbedienungstasten"</string>
     <string name="sound_id_pref_name">Eigene Effekte</string>
     <string name="sound_id_rename_dialog_title">Name eingeben</string>
     <string name="sound_id_rename_fail">Namen dürfen keine Sonderzeichen enthalten</string>
-    <string name="sound_id_rename_repeat">Dieser Name ist bereits vergeben. Einen anderen versuchen.</string>
     <string name="sound_id_select_music">Demo zum Abspielen auswählen</string>
     <string name="sound_id_select_music_note">Um den Ton zu personalisieren, hören Sie sich die Demos an. Jede von ihnen wird mit zwei Sets von Effekten abgespielt, aus denen Sie wählen können.</string>
     <string name="sound_id_selection_neither">Ich mag beides nicht</string>
@@ -420,7 +392,6 @@ Fernbedienungstasten"</string>
     <string name="sound_id_test_select_note">Beide Demos abspielen und das wählen, welches Ihnen besser gefällt</string>
     <string name="sound_id_wired_analog_headset">Kabelgebundene Kopfhörer</string>
     <string name="sound_test_title">Akustischer Wahrnehmungstest</string>
-    <string name="sound_transmission_cancel">Nein danke</string>
     <string name="sound_transmission_confirm">Erlauben</string>
     <string name="sound_transmission_continue">Weiter</string>
     <string name="sound_transmission_device">Gerät</string>
@@ -446,7 +417,6 @@ Fernbedienungstasten"</string>
     <string name="sure_to_back">Änderungen jetzt verwerfen?</string>
     <string name="switch_audio_device_phone">Dieses Gerät</string>
     <string name="switch_audio_dialog_title">Audio umschalten auf</string>
-    <string name="switch_bluetooth_device">Gerät wechseln</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
@@ -505,10 +475,7 @@ Fernbedienungstasten"</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="wireless_transmission">Kabelloser Lautsprecher</string>
     <string name="wireless_transmission_cancel">Abbrechen</string>
-    <string name="wireless_transmission_confirm">Einschalten</string>
     <string name="wireless_transmission_definition">Mikrofoneinspeisung Ihres Telefons an ein externes Bluetooth-Gerät übertragen</string>
-    <string name="wireless_transmission_prompt">Um Audio zu übertragen, muss der kabellose Lautsprecher Bluetooth einschalten. Jetzt einschalten?</string>
     <string name="yesterday">Gestern</string>
 </resources>

@@ -73,6 +73,7 @@
     <string name="bugreport_dump_start_notification_title">Fehlerbericht erstellen…</string>
     <string name="bugreport_tool_log_dumping_desc">Benötigt etwa eine Minute</string>
     <string name="bugreport_tool_log_dumping_title">Fehlerbericht erstellen</string>
+    <string name="can_not_add_more_image">Weitere Bilder/Videos können nicht hinzugefügt werden</string>
     <string name="catch_full_log_action_cancel">Abbrechen</string>
     <string name="catch_full_log_action_complete">Fertigstellen und hochladen</string>
     <string name="catch_full_log_action_start">Starten</string>
@@ -85,12 +86,9 @@
     <string name="catch_full_log_dialog_content_pad">Dies kann die Gesamtleistung Ihres Geräts beeinträchtigen. Wenn Sie das zu meldende Problem nicht reproduzieren können, gehen Sie zurück zu den Protokollen und tippen Sie auf \"Abbrechen\".</string>
     <string name="catch_full_log_dialog_title">Protokolle generieren…</string>
     <string name="catch_full_log_dump_hprof_failed">Verzögertes Protokoll wurde nicht erstellt</string>
-    <string name="catch_full_log_item_content_catch_direct">"1. Gehen Sie zurück zu dem Problem, das Sie melden möchten, und reproduzieren Sie es.
-2. Kommen Sie zurück zu dieser Seite und tippen Sie auf \"Fertigstellen und hochladen\"."</string>
+    <string name="catch_full_log_item_content_catch_direct">1. Gehen Sie zurück zu dem Problem, das Sie melden möchten, und reproduzieren Sie es.\n2. Kommen Sie zurück zu dieser Seite und tippen Sie auf \"Fertigstellen und hochladen\".</string>
     <string name="catch_full_log_item_content_catching">Protokolle generieren…</string>
-    <string name="catch_full_log_item_content_need_open">"%1$d. Auf \"Starten\" tippen, um mit der Protokollerstellung zu beginnen.
-%2$d. Reproduzieren Sie das aufgetretene Problem.
-%3$d. Zu dieser Seite zurückkehren und auf \"Fertigstellen und hochladen\" tippen."</string>
+    <string name="catch_full_log_item_content_need_open">%1$d. Auf \"Starten\" tippen, um mit der Protokollerstellung zu beginnen.\n%2$d. Reproduzieren Sie das aufgetretene Problem.\n%3$d. Zu dieser Seite zurückkehren und auf \"Fertigstellen und hochladen\" tippen.</string>
     <string name="catch_full_log_item_content_title">Schritte:</string>
     <string name="catch_full_log_item_title_audio">Audio, Rufton und Audioaufnahme</string>
     <string name="catch_full_log_item_title_camera">Kamera</string>
@@ -145,9 +143,7 @@
     <string name="default_text_view">Textvorschau</string>
     <string name="description">Problem beschreiben</string>
     <string name="diagnosis_log_send_failed">Protokolle nicht gesendet. Erneut versuchen.</string>
-    <string name="diagnosis_log_sent_format">"Protokolle erfolgreich gesendet.
-ID:%s
-Senden Sie diesen Code an den Supervisor."</string>
+    <string name="diagnosis_log_sent_format">Protokolle erfolgreich gesendet.\nID:%s\nSenden Sie diesen Code an den Supervisor.</string>
     <string name="dialog_ask_delete">Löschen</string>
     <string name="dialog_ask_quit">Beenden</string>
     <string name="discard_draft_dialog_button_cancel">Hier bleiben</string>
@@ -157,6 +153,15 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="doing_login">Anmelden…</string>
     <string name="doing_query_account">Kontodaten prüfen…</string>
     <string name="doing_register">Konto erstellen…</string>
+    <string name="dynamic_dialog_content">Sie sind dabei, die dynamische Protokollfunktion zu öffnen, die zum speziellen Problemerfassungsmodus gehört und Informationen über den Programmablauf ( inkl. Systemaufrufe etc.) enthält. Nach der Aktivierung des dynamischen Protokolls kann das System Probleme wie Verzögerungen und Erwärmung aufweisen (was normal ist). Nach Abschluss der Protokollerfassung wird das System automatisch heruntergefahren. Bitte seien Sie vorsichtig und senden Sie uns Feedback, sobald das Problem wieder auftritt. Indem Sie unten \"Zustimmen\" wählen, akzeptieren Sie, dass wir die oben genannten Daten für die folgende Aufzeichnungssitzung sammeln und uns zur Lösung Ihres Feedback-Problems übermitteln werden</string>
+    <string name="dynamic_dialog_negative_text">Ablehnen</string>
+    <string name="dynamic_dialog_notification_text">Bitte geben Sie rechtzeitig Feedback, wenn das Problem wieder auftritt. Die Funktion wird automatisch geschlossen.</string>
+    <string name="dynamic_dialog_notification_title">Dynamischer Protokollabruf ist aktiviert</string>
+    <string name="dynamic_dialog_positive_text">Zustimmen</string>
+    <string name="dynamic_dialog_title">Datenschutzhinweis</string>
+    <string name="dynamic_log_load_text">Laden…</string>
+    <string name="dynamic_log_restore_toast_text">Das Gerät stellt das dynamische Protokoll wieder her. Bitte später versuchen!</string>
+    <string name="dynamic_log_title">Dynamisches Protokoll</string>
     <string name="early_morning">Morgen</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
@@ -206,10 +211,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="feedback_delete_images">Bilder löschen</string>
     <string name="feedback_description">Beschreibung</string>
     <string name="feedback_description_bugreport_hint">In manchen Fällen (…) verhält sich mein Telefon abnormal (…)</string>
-    <string name="feedback_description_hint">"Beschreiben Sie hier das aufgetretene Problem.
-%1$d. In welcher App oder auf welcher Seite sind Sie auf das Problem gestoßen?
-%2$d. Nach welchen Aktionen, die Sie durchgeführt haben, tauchte das Problem auf?
-%3$d. Geben Sie uns die zusätzlichen Informationen, die uns helfen könnten, das Problem zu lösen."</string>
+    <string name="feedback_description_hint">Beschreiben Sie hier das aufgetretene Problem.\n%1$d. In welcher App oder auf welcher Seite sind Sie auf das Problem gestoßen?\n%2$d. Nach welchen Aktionen, die Sie durchgeführt haben, tauchte das Problem auf?\n%3$d. Geben Sie uns die zusätzlichen Informationen, die uns helfen könnten, das Problem zu lösen.</string>
     <string name="feedback_description_hint_suggestion">Teilen Sie uns mit, wie Sie MIUI verbessern möchten.</string>
     <string name="feedback_description_label">Beschreibung</string>
     <string name="feedback_description_suggest_hint">Ich wünsche mir eine neue Funktion (), weil ich () brauche</string>
@@ -584,6 +586,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="non_system_app_select">Heruntergeladene Apps</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
+    <string name="not_support_service_in_maintenance_mode">Dieser Dienst wird im Wartungsmodus nicht unterstützt</string>
     <string name="open_feedback_main">Mehr</string>
     <string name="open_settings">Zu den Einstellungen</string>
     <string name="packaging_dialog_content">Bericht erstellen…</string>
@@ -861,11 +864,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="reply_successful">Erfolgreich beantwortet</string>
     <string name="report_miui">Fehler melden</string>
     <string name="request_agree">Zulassen</string>
-    <string name="request_camera_permission_message">"Dieser Dienst bittet um Ihre Erlaubnis wie folgt, wir werden uns strikt an die einschlägigen Gesetze zum Schutz Ihrer persönlichen Daten halten:
-
-<b>Kamerazugriff: Erleben Sie Echtzeit-Aufnahmedienste für die Einstellung eines Avatars</b>
-
-Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird diese Funktion nicht richtig funktionieren, aber es wird die Nutzung der Grundfunktionen dieser App nicht beeinträchtigen. Sie können die oben genannte Berechtigungsabfrage in den Systemeinstellungen abschalten, um Ihre Zustimmung zurückzuziehen."</string>
+    <string name="request_camera_permission_message">Dieser Dienst bittet um Ihre Erlaubnis wie folgt, wir werden uns strikt an die einschlägigen Gesetze zum Schutz Ihrer persönlichen Daten halten:\n\n<b>Kamerazugriff: Erleben Sie Echtzeit-Aufnahmedienste für die Einstellung eines Avatars</b>\n\nWenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird diese Funktion nicht richtig funktionieren, aber es wird die Nutzung der Grundfunktionen dieser App nicht beeinträchtigen. Sie können die oben genannte Berechtigungsabfrage in den Systemeinstellungen abschalten, um Ihre Zustimmung zurückzuziehen.</string>
     <string name="request_cancel">Abbrechen</string>
     <string name="request_empty_data">Keine Daten</string>
     <string name="request_error_invalid_token">Verifizieren nicht möglich</string>
@@ -1052,9 +1051,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
     <string name="tuesday_shortest">D</string>
     <string name="unknown_error_info">Unbekannter Fehler</string>
     <string name="update_dialog_cancel">Abbrechen</string>
-    <string name="update_dialog_content_log">"Was ist neu:
-%1$s
-Größe: %2$s"</string>
+    <string name="update_dialog_content_log">Was ist neu:\n%1$s\nGröße: %2$s</string>
     <string name="update_dialog_content_version">Sie können jetzt auf die Version %1$s updaten.</string>
     <string name="update_dialog_title">Update verfügbar</string>
     <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>
@@ -1098,10 +1095,8 @@ Größe: %2$s"</string>
     <string name="withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von %1$s. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
     <string name="withdrawing">Zustimmung widerrufen…</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Vorgestellte Version %1$s
-Größe: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Vorgestellte Version %1$s
-Delta-Update-Größe: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message">Vorgestellte Version %1$s\nGröße: %2$s</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">Vorgestellte Version %1$s\nDelta-Update-Größe: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s aktualisieren!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Speicherplatz nicht verfügbar, bitte SD-Karte prüfen.</string>
     <string name="yesterday">Gestern</string>

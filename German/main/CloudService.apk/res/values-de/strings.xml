@@ -344,8 +344,7 @@
     <string name="micloud_dialog_sync_now_negative">Nicht jetzt</string>
     <string name="micloud_dialog_sync_now_positive">Mobile Daten nutzen</string>
     <string name="micloud_dialog_sync_now_title">Zum Synchronisieren mit WLAN verbinden</string>
-    <string name="micloud_dspt">"Synchronisieren Sie Ihre Kontakte, Nachrichten, Anruflisten und andere Elemente auf allen Geräten.
-Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
+    <string name="micloud_dspt">Synchronisieren Sie Ihre Kontakte, Nachrichten, Anruflisten und andere Elemente auf allen Geräten.\nSuchen und sperren Sie Ihr Gerät, falls es verloren geht.</string>
     <string name="micloud_dspt_provision">Xiaomi Cloud verwenden, um Daten zu synchronisieren, Ihr Gerät zu orten und Dinge mit Freunden zu teilen</string>
     <string name="micloud_dspt_provision_china">Xiaomi Cloud verwenden, um Daten zu synchronisieren, Ihr Gerät zu orten und Dinge mit Freunden zu teilen</string>
     <string name="micloud_dspt_provision_china_no_call">Sie können Xiaomi Cloud verwenden, um Fotos, Kontakte, Nachrichten, Notizen, Aufnahmen und andere Daten zu synchronisieren, Ihr Gerät zu orten und Elemente mit Freunden zu teilen. Diese App benötigt eine Internetverbindung, um normal zu funktionieren. Die Synchronisierung von Elementen erfordert evtl. eine mobile Datenverbindung und das Einschalten von WLAN.</string>
@@ -420,8 +419,7 @@ Suchen und sperren Sie Ihr Gerät, falls es verloren geht."</string>
     <string name="micloud_main_memory_low_message">Zur Synchronisation löschen Sie einige Elemente in Ihrer Cloud</string>
     <string name="micloud_main_memory_low_title">Interner Speicher des Telefons ist fast voll</string>
     <string name="micloud_main_message_master_sync_off">Sie haben die Synchronisation in der Benachrichtigungsleiste deaktiviert</string>
-    <string name="micloud_main_multi_user_error_message">"Sie sind mit demselben Xiaomi-Konto wie im Hauptprofil angemeldet, sodass es einen Xiaomi Cloud-Fehler gab.
-Nutzen Sie ein anderes Konto."</string>
+    <string name="micloud_main_multi_user_error_message">Sie sind mit demselben Xiaomi-Konto wie im Hauptprofil angemeldet, sodass es einen Xiaomi Cloud-Fehler gab.\nNutzen Sie ein anderes Konto.</string>
     <string name="micloud_main_multi_user_error_title">Xiaomi Cloud-Fehler</string>
     <string name="micloud_main_network_abnormal">Prüfen Sie Ihre Netzwerkeinstellungen</string>
     <string name="micloud_main_network_error">Netzwerkverbindung fehlgeschlagen</string>
@@ -673,14 +671,10 @@ Nutzen Sie ein anderes Konto."</string>
     <string name="month_september_shortest">S</string>
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
-    <string name="mx_dspt_provision">"Mit Mi Message können Sie Nachrichten an andere MIUI Benutzer versenden, ohne dass SMS-Kosten anfallen.
-Sie können diese Funktion jederzeit in den Einstellungen ein- oder ausschalten."</string>
-    <string name="mx_dspt_provision_privacy">"Diese Funktion verlangt Ihre Rufnummer. Ihr Mobilfunkanbieter kann Kosten für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.
-Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string>
-    <string name="mx_dspt_provision_privacy_2_sim">"Diese Funktion verlangt Ihre Rufnummer. Ihr Mobilfunkanbieter kann Kosten für 2 gesendete SMS verlangen, um diese Funktion zu aktivieren.
-Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string>
-    <string name="mx_dspt_provision_privacy_no_sim">"Diese Funktion verlangt Ihre Rufnummer. Wenn die SIM-Karte erkannt wird, kann Ihr Mobilfunkanbieter Kosten für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.
-Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string>
+    <string name="mx_dspt_provision">Mit Mi Message können Sie Nachrichten an andere MIUI Benutzer versenden, ohne dass SMS-Kosten anfallen.\nSie können diese Funktion jederzeit in den Einstellungen ein- oder ausschalten.</string>
+    <string name="mx_dspt_provision_privacy">Diese Funktion verlangt Ihre Rufnummer. Ihr Mobilfunkanbieter kann Kosten für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.\nDiese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server.</string>
+    <string name="mx_dspt_provision_privacy_2_sim">Diese Funktion verlangt Ihre Rufnummer. Ihr Mobilfunkanbieter kann Kosten für 2 gesendete SMS verlangen, um diese Funktion zu aktivieren.\nDiese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server.</string>
+    <string name="mx_dspt_provision_privacy_no_sim">Diese Funktion verlangt Ihre Rufnummer. Wenn die SIM-Karte erkannt wird, kann Ihr Mobilfunkanbieter Kosten für eine gesendete SMS verlangen, um diese Funktion zu aktivieren.\nDiese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server.</string>
     <string name="mx_dspt_provision_with_voip">"Rufen Sie andere MIUI Benutzer kostenlos über Ihre Internetverbindung an. Sie können diese Funktion jederzeit in den Einstellungen ändern. VoIP wird von Weihui unterstützt. Siehe Weihui's Datenschutzerklärung"</string>
     <string name="mx_dspt_provision_with_voip2">Datenschutzerklärung</string>
     <string name="mx_sub_dspt_provision_with_voip">Internet-Telefonie</string>
@@ -717,8 +711,7 @@ Diese Funktion verschlüsselt und sendet Ihre Geräte-ID zum Mi-Server."</string
     <string name="picker_list_empty">Hier keine Kontakte vorhanden</string>
     <string name="picker_search_empty">Keine Kontakte gefunden</string>
     <string name="picker_search_hint">Suchen</string>
-    <string name="power_off_locate_summary">"Standortinfos durch langes Drücken der Power-Taste melden.
-Wenn die Netzwerkverbindung schlecht ist, werden Standortinfos möglicherweise nicht gemeldet."</string>
+    <string name="power_off_locate_summary">Standortinfos durch langes Drücken der Power-Taste melden.\nWenn die Netzwerkverbindung schlecht ist, werden Standortinfos möglicherweise nicht gemeldet.</string>
     <string name="power_off_locate_title">Standort vor dem Ausschalten melden</string>
     <string name="pre_privacy_policy">Datenschutzerklärung</string>
     <string name="pre_user_agreement">Nutzervereinbarung </string>
@@ -834,6 +827,8 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="privacy_runtime_perm_contacts_title">Zugriff und Bearbeitung von Kontakten</string>
     <string name="privacy_runtime_perm_external_storage_desc">Zum Synchronisieren von Kontaktprofilfotos</string>
     <string name="privacy_runtime_perm_external_storage_title">Speicherzugriff</string>
+    <string name="privacy_runtime_perm_notification_desc">Zum Senden von Xiaomi Cloud Services-Benachrichtigungen</string>
+    <string name="privacy_runtime_perm_notification_title">Benachrichtigungen</string>
     <string name="privacy_runtime_perm_phone_state_desc">Zum Abrufen von Telefonnummer und Gerätestatus</string>
     <string name="privacy_runtime_perm_phone_state_title">Zugriff auf Geräteinformationen</string>
     <string name="privacy_runtime_perm_sms_desc">Zum Synchronisieren von Nachrichten</string>
@@ -1143,6 +1138,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="update_dialog_no_internet_toast_text">Internetverbindung prüfen und erneut versuchen</string>
     <string name="update_dialog_no_update_toast_text">Aktuelle Version ist auf dem neuesten Stand</string>
     <string name="update_dialog_title">Update verfügbar</string>
+    <string name="update_dialog_update_button_text">Aktualisieren</string>
     <string name="user_agreement_content">Indem Sie diesen Service nutzen, stimmen Sie %s zu.</string>
     <string name="user_agreement_link">"Xiaomi Cloud-Nutzungsbedingungen"</string>
     <string name="user_agreement_title">"Xiaomi Cloud-Nutzungsbedingungen"</string>
