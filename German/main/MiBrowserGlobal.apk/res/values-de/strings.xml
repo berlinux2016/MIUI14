@@ -712,6 +712,7 @@
     <string name="download_intrercept_second_hint">Die Website ist dabei, eine App herunterzuladen. Der Download wurde vorerst gestoppt.</string>
     <string name="download_keep_queued_download">Behalten</string>
     <string name="download_list_no_items_tip">Noch keine Elemente hier.</string>
+    <string name="download_live_unsupported">Livestreams herunterladen nicht möglich</string>
     <string name="download_memory_info_avai">" verfügbar %s|"</string>
     <string name="download_memory_info_total">" gesamt %s"</string>
     <string name="download_menu_title_clear_all">Alle löschen</string>
@@ -1474,26 +1475,18 @@
     <string name="mw_copy_to_clipboard_failure_message">Kopieren in die Zwischenablage fehlgeschlagen</string>
     <string name="mw_crash_label">Absturz (%1$s) - [%2$s]</string>
     <string name="mw_crash_report_button_text">Weitere Infos bereitstellen</string>
-    <string name="mw_crash_report_template">"WICHTIG: Ihr Absturz wurde bereits automatisch an unser Absturzsystem gemeldet. Sie müssen dies nur ausfüllen, wenn Sie weitere Infos wie Schritte zur Reproduktion des Absturzes mitteilen können.
-
-Gerätename:
+    <string name="mw_crash_report_template">"WICHTIG: Ihr Absturz wurde bereits automatisch an unser Absturzsystem gemeldet. Sie müssen dies nur ausfüllen, wenn Sie weitere Infos wie Schritte zur Reproduktion des Absturzes mitteilen können.\n\nGerätename:
 Android OS-Version:
 WebView-Version (Unter Android L-M ist dies die Version der \"Android System WebView\"-App. Auf Android N-P ist es höchstwahrscheinlich die Chrome-Version. Sie können die Version einer beliebigen App unter Einstellungen > Apps > die 3 Punkte oben rechts > System anzeigen finden.):
 App: (Bitte verlinken Sie, wenn möglich, auf die entsprechende Play Store-Seite. Sie können den Link innerhalb der Play Store-App erhalten, indem Sie auf die 3 Punkte oben rechts > Teilen > In die Zwischenablage kopieren tippen. Oder Sie finden die App auf der Play Store-Website: https://play.google.com/store/apps.)
 App-Version:
-
-
-Schritte zur Reproduktion:
+\nSchritte zur Reproduktion:
 (1)
 (2)
 (3)
-
-
-Erwartetes Ergebnis:
+\nErwartetes Ergebnis:
 (Was hätte passieren sollen?)
-
-
-****UNTERHALB DIESER ZEILE NICHTS ÄNDERN****
+\n****UNTERHALB DIESER ZEILE NICHTS ÄNDERN****
 Absturz-ID: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">WebView-Abstürze</string>
     <string name="mw_crashes_num">Abstürze (%1$d)</string>
@@ -1723,6 +1716,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="notif_install_successful">Download abgeschlossen</string>
     <string name="notification_category_group_general">Allgemein</string>
     <string name="notification_category_media">Medien</string>
+    <string name="notification_category_stickcard">Quicktools</string>
     <string name="notification_download_completed">Erfolgreich heruntergeladen</string>
     <string name="notification_download_failed">Herunterladen fehlgeschlagen</string>
     <string name="notification_wechat_expired_empty">WeChat hat diese Videoclips bereits gelöscht.</string>
@@ -2633,6 +2627,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="readmode_recommend">Zur Ansicht empfohlen</string>
     <string name="readmode_recommend_message">Sie haben das Buch bereits gelesen</string>
     <string name="readmode_refresh">Aktualisieren</string>
+    <string name="readmode_tips">Nur-Text-Modus einschalten</string>
     <string name="readmodelist_bookmarks_to_show">Leseliste</string>
     <string name="reboot">Neu starten</string>
     <string name="recent_apk_status_install">INSTALLIERT</string>
@@ -2758,6 +2753,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="save_to_camera_failed">Bild wurde nicht gespeichert</string>
     <string name="save_to_camera_success">In Galerie gespeichert</string>
     <string name="save_to_private_folder">Zu versteckten Dateien hinzufügen</string>
+    <string name="scan_type_empty_folder">Leerer Ordner</string>
     <string name="scanner_uninstalled_text">Scanner installieren zum Fortsetzen</string>
     <string name="scanner_uninstalled_title">Scanner wurde deinstalliert</string>
     <string name="scanning_info">Gefundene Elemente: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -3484,6 +3480,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="year_month_day_format">d. MMM yyyy</string>
     <string name="yes">Ja</string>
     <string name="yesterday">Gestern</string>
+    <string name="youtube_dialog_content">Sie verlassen jetzt Mi Browser und öffnen YouTube. Fortfahren?</string>
     <string name="ytb_added_subscription">Erfolgreich abonniert</string>
     <string name="ytb_cancel">Abbrechen</string>
     <string name="ytb_deleted_subscription">Erfolgreich abgemeldet</string>
