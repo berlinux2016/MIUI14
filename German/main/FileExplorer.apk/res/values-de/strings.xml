@@ -805,6 +805,7 @@
     <string name="other_user_no_liked_video_tip">Keine Videos, die ich mag</string>
     <string name="overwrite_msg">\"%s\" existiert bereits. Tippen, um diese durch die neue Datei zu ersetzen.</string>
     <string name="pad">Interner Speicher</string>
+    <string name="pad_start_phone">Speicher</string>
     <string name="partial_cancel_successful">Einige Dateien wurden nicht verschoben. Die restlichen Dateien wurden nach %s verschoben.</string>
     <string name="partial_delete_failure">Einige Dateien wurden nicht gelöscht. Erneut versuchen.</string>
     <string name="partial_encrypt_success">Einige Dateien wurden nicht versteckt. Erneut versuchen.</string>

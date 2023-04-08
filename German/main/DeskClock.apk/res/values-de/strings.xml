@@ -632,7 +632,7 @@
     <string name="timer_alert_type_beach">Strand</string>
     <string name="timer_alert_type_forest">Wald</string>
     <string name="timer_alert_type_mute">Standard</string>
-    <string name="timer_alert_type_no">Keiner</string>
+    <string name="timer_alert_type_no">Nichts</string>
     <string name="timer_alert_type_rain">Regen</string>
     <string name="timer_alert_type_spring_rain">Sommerregen</string>
     <string name="timer_alert_type_stove_fire">Kaminfeuer</string>

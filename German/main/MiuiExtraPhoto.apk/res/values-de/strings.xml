@@ -175,6 +175,9 @@
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
     <string name="open">An</string>
+    <string name="operation_original">Vergleichen</string>
+    <string name="operation_redo">Wiederholen</string>
+    <string name="operation_undo">Rückgängig</string>
     <string name="refocus_discard_confirm_message">Änderungen speichern?</string>
     <string name="refocus_discard_negative_btn">Verwerfen</string>
     <string name="refocus_discard_positive_btn">Speichern</string>

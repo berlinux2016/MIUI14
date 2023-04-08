@@ -1722,9 +1722,9 @@
     <string name="passport_account_invalid_user_avatar">Dieses Foto ist ungültig. Versuchen Sie ein anderes.</string>
     <string name="passport_account_label">Xiaomi-Konto</string>
     <string name="passport_account_name">"Konto: %1$s "</string>
-    <string name="passport_account_no_set">Keiner</string>
-    <string name="passport_account_none_bind_info">Keiner</string>
-    <string name="passport_account_none_user_name">Keiner</string>
+    <string name="passport_account_no_set">Nichts</string>
+    <string name="passport_account_none_bind_info">Nichts</string>
+    <string name="passport_account_none_user_name">Nichts</string>
     <string name="passport_account_secure_info_pref_title">Kontodaten</string>
     <string name="passport_account_security_info_pref_title">Sicherheitsinfo</string>
     <string name="passport_account_user_avatar">Profilfoto</string>

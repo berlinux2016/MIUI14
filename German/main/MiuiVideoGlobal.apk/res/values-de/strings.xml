@@ -508,7 +508,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="galleryplus_gallery_video_item6_default_text">Freude</string>
     <string name="galleryplus_gallery_video_local_music_text">Datei wählen</string>
     <string name="galleryplus_gallery_video_music_format_error">Dem ausgewählten Video kann kein Soundtrack hinzugefügt werden</string>
-    <string name="galleryplus_gallery_video_no_music_text">Keiner</string>
+    <string name="galleryplus_gallery_video_no_music_text">Nichts</string>
     <string name="galleryplus_gallery_video_operate_text">Zeitlupe-Anpassungen</string>
     <string name="galleryplus_gallery_video_save_video">Video erstellen…</string>
     <string name="galleryplus_gallery_video_slow_edit">Zeitlupe</string>

@@ -1609,7 +1609,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_close_tips">Erdbebenwarnung ist aus</string>
     <string name="ew_close_warning">Ausschalten</string>
     <string name="ew_concern_city">Orte hinzugefügt</string>
-    <string name="ew_concern_date_empty">Keiner</string>
+    <string name="ew_concern_date_empty">Nichts</string>
     <string name="ew_concern_manage">Verwalten</string>
     <string name="ew_contact_dialog_tips">Mindestens einen Notfallkontakt hinzufügen.</string>
     <string name="ew_contact_dialog_title">Achtung</string>

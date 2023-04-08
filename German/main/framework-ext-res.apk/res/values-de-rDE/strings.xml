@@ -11,7 +11,7 @@
     <string name="alwaysUsePrompt">Auswahl merken</string>
     <string name="amazonanimals_preview">Regenwald</string>
     <string name="android_ringtone_default_with_actual">Standardklingelton (%1$s)</string>
-    <string name="android_ringtone_silent">Keiner</string>
+    <string name="android_ringtone_silent">Nichts</string>
     <string name="android_ringtone_unknown">Unbekannter Klingelton</string>
     <string name="app_continuity_channel_name">App-Layout anpassen</string>
     <string name="application_cannot_open_alipay_health_code">Alipay-Gesundheitscode öffnen nicht möglich</string>

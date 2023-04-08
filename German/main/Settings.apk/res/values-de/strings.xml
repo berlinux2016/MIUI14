@@ -6427,7 +6427,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="network_scorer_change_active_dialog_text">Wollen Sie %1$s anstelle von %2$s nutzen, um Ihre Netzwerkverbindungen zu verwalten?</string>
     <string name="network_scorer_change_active_dialog_title">WLAN-Assistenten ändern?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Wollen Sie %s nutzen, um Ihre Netzwerkverbindungen zu verwalten?</string>
-    <string name="network_scorer_picker_none_preference">Keiner</string>
+    <string name="network_scorer_picker_none_preference">Nichts</string>
     <string name="network_scorer_picker_title">Netzbewertungsanbieter</string>
     <string name="network_select_title">Netzwerk</string>
     <string name="network_settings_title">Mobilfunknetze</string>
@@ -7863,7 +7863,7 @@ UT Interface: %5$s"</string>
     <string name="ring_volume_title">Klingeltonlautstärke</string>
     <string name="ringer_mode_setting_summary">Anrufe und Benachrichtigungen stummschalten</string>
     <string name="ringer_mode_setting_title">Lautlosmodus</string>
-    <string name="ringtone_mute">Keiner</string>
+    <string name="ringtone_mute">Nichts</string>
     <string name="ringtone_slot_setting_title">Einzel-SIM-Einstellungen</string>
     <string name="ringtone_title">Klingelton</string>
     <string name="ringtone_uniform_setting_title">Dual SIM-Einstellungen</string>
@@ -9253,7 +9253,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="status_bar_settings_function_description">Über diese Funktion</string>
     <string name="status_bar_settings_long_click_sort">Zum Sortieren Schalter drücken &amp; halten</string>
     <string name="status_bar_settings_manage_notification">App-Benachrichtigungen</string>
-    <string name="status_bar_settings_no_carrier">Keiner</string>
+    <string name="status_bar_settings_no_carrier">Nichts</string>
     <string name="status_bar_settings_notification_bar">Benachrichtigungsleiste</string>
     <string name="status_bar_settings_notification_led">Benachrichtigungslicht</string>
     <string name="status_bar_settings_notification_led_custom">Benutzerdefinierte Farbe</string>
@@ -11920,7 +11920,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_mode_configure_rule">Regel erstellen</string>
     <string name="zen_mode_contacts_callers">Kontakte</string>
     <string name="zen_mode_contacts_count">{count, plural, =0 {Keiner} =1 {1 Kontakt} other {# Kontakte} }</string>
-    <string name="zen_mode_contacts_count_none">Keiner</string>
+    <string name="zen_mode_contacts_count_none">Nichts</string>
     <string name="zen_mode_conversations_count">{count, plural, =0 {Keine} =1 {1 Unterhaltung} other {# Unterhaltung} }</string>
     <string name="zen_mode_conversations_count_none">Keine</string>
     <string name="zen_mode_conversations_section_title">Unterhaltungen, die unterbrechen können</string>
@@ -12080,7 +12080,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_mode_starred_callers">Markierte Kontakte</string>
     <string name="zen_mode_starred_contacts_empty_name">(Unbenannt)</string>
     <string name="zen_mode_starred_contacts_summary_contacts">{count, plural, offset:2 =0 {Keiner} =1 {{contact_1}} =2 {{contact_1} und {contact_2}} =3 {{contact_1}, {contact_2}, und {contact_3}} other {{contact_1}, {contact_2}, und # weitere} }</string>
-    <string name="zen_mode_starred_contacts_summary_none">Keiner</string>
+    <string name="zen_mode_starred_contacts_summary_none">Nichts</string>
     <string name="zen_mode_starred_contacts_title">Markierte Kontakte</string>
     <string name="zen_mode_start_time">Startzeit</string>
     <string name="zen_mode_summary">Eingehende Anrufe, Benachrichtigungen und Medien stummschalten und Vibration ausschalten</string>

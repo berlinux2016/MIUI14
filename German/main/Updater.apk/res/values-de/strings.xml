@@ -31,6 +31,7 @@
     <string name="download_fail_desc">MD5-Prüfsumme stimmt nicht überein…</string>
     <string name="downloading">Herunterladen…</string>
     <string name="downloading_desc">Download läuft, Status in Benachrichtigungsleiste prüfen</string>
+    <string name="fastboot_desc">Gerät startet jetzt neu in den Fastboot-Modus. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie den Vorgang ab. Fortfahren?</string>
     <string name="fastboot_mode">Updater ist im Fastboot-Modus. Sie können ROMs nur mit Terminal am PC flashen!</string>
     <string name="fastboot_update_warning">Dieses Update ist nur zur Fastboot-Installation gedacht!</string>
     <string name="fetch_notification_download_cancel">Abbrechen</string>
@@ -49,6 +50,7 @@
     <string name="install_title">Wollen Sie wirklich fortfahren?</string>
     <string name="later_download">Später herunterladen</string>
     <string name="menu_title_current_version_log">Was ist neu?</string>
+    <string name="menu_title_fastboot">Neustart im Fastboot-Modus</string>
     <string name="menu_title_fastboot_mode">Im Fastboot-Modus aktualisieren</string>
     <string name="menu_title_pick_rom_file">Update-Paket wählen</string>
     <string name="menu_title_recovery">Neustart in Recovery-Modus</string>
@@ -79,7 +81,7 @@
     <string name="permlab_reboot">Neustartzugriff</string>
     <string name="pick_not_found">Kein geeigneter Dateimanager gefunden</string>
     <string name="pick_title">Wählen Sie mit:</string>
-    <string name="recovery_desc">Gerät startet jetzt neu in den Recovery-Modus. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie den Vorgang ab. Fortsetzen?</string>
+    <string name="recovery_desc">Gerät startet jetzt neu in den Recovery-Modus. Wenn Sie mit dem Modus nicht vertraut sind, brechen Sie den Vorgang ab. Fortfahren?</string>
     <string name="recovery_mode">Updater ist im Recovery-Modus. Sie können ROMs im Updater flashen!</string>
     <string name="security_space_button_neg">Neu starten und aktualisieren…</string>
     <string name="server_error">Server reagiert nicht, App funktioniert ggf. nicht richtig!</string>

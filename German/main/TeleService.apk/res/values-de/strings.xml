@@ -2336,7 +2336,7 @@
     <string name="reverting_settings">Einstellungen zurücksetzen…</string>
     <string name="rhrpd_unlock_failed">RUIM HRPD entsperren fehlgeschlagen</string>
     <string name="rhrpd_unlock_success">RUIM HRPD erfolgreich entsperrt</string>
-    <string name="ringtone_silent">Keiner</string>
+    <string name="ringtone_silent">Nichts</string>
     <string name="ringtone_unknown">Unbekannter Klingelton</string>
     <string name="rnw1_unlock_failed">RUIM Netzwerk1 entsperren fehlgeschlagen</string>
     <string name="rnw1_unlock_success">RUIM Netzwerk1 erfolgreich entsperrt</string>

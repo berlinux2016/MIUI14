@@ -1742,7 +1742,7 @@ für Konto %2$s."</string>
     <string name="ringtone_picker_title">Klingeltöne</string>
     <string name="ringtone_picker_title_alarm">Alarmtöne</string>
     <string name="ringtone_picker_title_notification">Benachrichtigungstöne</string>
-    <string name="ringtone_silent">Keiner</string>
+    <string name="ringtone_silent">Nichts</string>
     <string name="ringtone_unknown">Unbekannt</string>
     <string name="roamingText0">Roaminganzeige ein</string>
     <string name="roamingText1">Roaminganzeige aus</string>
