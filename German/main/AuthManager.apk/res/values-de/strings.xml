@@ -150,7 +150,7 @@
     <string name="app_name">Berechtigungen</string>
     <string name="background_location_access_reminder_notification_content">Diese App hat jederzeit Zugriff auf Ihren Standort. Zum Ändern hier tippen.</string>
     <string name="background_location_access_reminder_notification_title">%s hat Ihren Standort genutzt</string>
-    <string name="blur_location_is_on_tip">%%1$s verwendet Ihren ungefähren Standort. Weiter verwenden anstelle des genauen Standorts?</string>
+    <string name="blur_location_is_on_tip">%1$s verwendet Ihren ungefähren Standort. Weiter verwenden anstelle des genauen Standorts?</string>
     <string name="blur_location_now_tip">Ungefährer Standort ist an</string>
     <string name="blur_location_title">Ungefährer Standort</string>
     <string name="carwith_grant_permission_tips_when_lock">Erst Telefon entsperren</string>
