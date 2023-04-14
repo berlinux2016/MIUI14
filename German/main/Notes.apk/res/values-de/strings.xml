@@ -138,6 +138,7 @@
     <string name="cta_v2_agree_desc">Dieser App die Internetverbindung erlauben und die oben aufgeführten erforderlichen Berechtigungen erteilen.</string>
     <string name="cta_v2_app_purpose">Erstellen, Anzeigen und Verwalten von Notizen</string>
     <string name="cta_v2_app_purpose_v12">Willkommen bei Notizen! Mit dieser App können Sie Aufgaben und Notizen erstellen, die Text, Bilder und Audio enthalten.</string>
+    <string name="cta_v2_app_purpose_v12_lite">Willkommen bei Notizen! Mit dieser App können Sie Notizen und Aufgaben erstellen.</string>
     <string name="data_empty_folder">Keine anderen Ordner anzeigen</string>
     <string name="data_empty_note">Noch keine Notizen hier</string>
     <string name="data_empty_todo">Noch keine Aufgaben hier</string>
@@ -319,6 +320,7 @@
     <string name="image_annotation_edit_hint">Bildbeschreibung</string>
     <string name="image_annotation_edit_length_warning">Bildbeschreibung kann bis zu %d Zeichen enthalten</string>
     <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
+    <string name="insert_image_size_limit_tip">Dieses Bild ist über %d MB groß. Es wurde automatisch komprimiert.</string>
     <string name="last_excerpt_unfinish_hint">Der letzte Auszug ist unvollständig</string>
     <string name="loading_text">Einen Moment…</string>
     <string name="login_sync">Anmelden &amp; Synchronisieren</string>
@@ -445,6 +447,7 @@
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
@@ -985,6 +988,7 @@
     <string name="warn_cannot_add_new_style">Neues Format nicht möglich, weil die Notiz zu lang ist</string>
     <string name="warn_disable_edit_in_browse_mode">Sie können Notizen im schreibgeschützten Modus nicht bearbeiten</string>
     <string name="warn_enter_browse_mode">Sie befinden sich im schreibgeschützten Modus</string>
+    <string name="warn_enter_browse_mode_forbid_create">Im schreibgeschützten Modus können keine Notizen erstellt oder bearbeitet werden</string>
     <string name="web_sso_login_fail">Sie müssen sich erneut anmelden</string>
     <string name="web_sso_login_message">Anmelden…</string>
     <string name="webview_reload">Erneut versuchen</string>

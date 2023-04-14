@@ -2869,6 +2869,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="skip_current_version">Diese Version überspringen</string>
     <string name="sku_all">Alles</string>
     <string name="sku_price_everymonth">%1$s jeden Monat</string>
+    <string name="slide_card">Wischen für mehr</string>
     <string name="sms_send_success">Erfolgreich gesendet</string>
     <string name="snapshot">Lokal</string>
     <string name="snapshot_failed">Seite wurde nicht gespeichert</string>
@@ -3157,6 +3158,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="toast_exit_browser">Erneut tippen, um Browser zu beenden</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
+    <string name="top_news">Top-Stories</string>
     <string name="top_up">Aufladen</string>
     <string name="topsite_click">Topseite antippen</string>
     <string name="track_permission_name">Nicht verfolgen</string>
