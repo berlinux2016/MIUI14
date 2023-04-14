@@ -87,7 +87,7 @@
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s Edelsteine</item>
-        <item quantity="one">%1$ Edelstein</item>
+        <item quantity="one">%1$s Edelstein</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
