@@ -11,6 +11,7 @@
         <item>klingelt in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>Wecker in weniger als %d Minute</item>
         <item>Wecker in %1$s</item>
         <item>Wecker in %2$s</item>
         <item>Wecker in %1$s %2$s</item>
@@ -44,6 +45,7 @@
         <item>Wecker klingelt in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>Wecker klingelt in weniger als %d Minute.</item>
         <item>Wecker klingelt in %1$s.</item>
         <item>Wecker klingelt in %2$s.</item>
         <item>Wecker klingelt in %1$s und %2$s.</item>

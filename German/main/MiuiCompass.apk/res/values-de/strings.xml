@@ -97,6 +97,10 @@
     <string name="friday_shortest">F</string>
     <string name="get_location">Standortzugriff</string>
     <string name="guide_toast">Zum Kalibrieren bewegen Sie Ihr Gerät wie unten gezeigt.</string>
+    <string name="invisible_mode_dialog_message">Kamera kann jetzt nicht verwendet werden. Inkognito-Modus in Einstellungen ausschalten, um die Kamera verwenden zu können.</string>
+    <string name="invisible_mode_dialog_negative">Abbrechen</string>
+    <string name="invisible_mode_dialog_positive">Einstellungen</string>
+    <string name="invisible_mode_dialog_title">Sie sind inkognito</string>
     <string name="keywords_search_compass">Kompass;Kompass kalibrieren;Luftdruck;Seehöhe;Breitengrad;Längengrad;MIUI Kompass;Kompass-App;MIUI Kompass-App;Wo ist der Kompass;Kompass herunterladen;Atmospärischer Druck;Länge;Breite;Wie ist die Seehöhe</string>
     <string name="location_east">OL</string>
     <string name="location_enable">Zulassen</string>
@@ -117,6 +121,7 @@
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>

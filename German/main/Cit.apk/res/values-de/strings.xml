@@ -875,6 +875,7 @@ Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt 
 \u0009\u0009\u0009Netzwerk und im Antwortpfad übergeben wird:
 \u0009\u0009/sdcard/debug/UrlSign.xml"</string>
     <string name="enrol">Registrieren</string>
+    <string name="enrollment_error_tip">Die Strategie zur Kontrolle der Fingerabdruck-Eingabekarte wurde ausgelöst. Bitte stellen Sie sicher, dass die Fingerabdrücke klar und sauber sind, oder beenden Sie den aktuellen Prüfling und starten Sie den Test erneut.</string>
     <string name="error">Fehler</string>
     <string name="error_app_internal">Interner App-Fehler</string>
     <string name="error_app_unsupported">Nicht unterstütztes Format</string>

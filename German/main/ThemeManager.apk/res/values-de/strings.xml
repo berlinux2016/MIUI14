@@ -50,6 +50,7 @@
     <string name="ad_downloading_tip">Dieses Element wird gerade heruntergeladen. Sie können den Fortschritt in der Benachrichtigungleiste sehen.</string>
     <string name="ad_experience_now">Öffnen</string>
     <string name="add">Hinzufügen</string>
+    <string name="add_home_icon_success">Erfolgreich hinzugefügt</string>
     <string name="add_resource_detail_fail">Ressource kann nicht hinzugefügt werden</string>
     <string name="afternoon">Nachmittag</string>
     <string name="all_resources">Alle</string>
@@ -652,6 +653,7 @@ dd.MM."</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
@@ -1164,6 +1166,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_search_color_hint_white">Weiß</string>
     <string name="resource_search_color_hint_yellow">Gelb</string>
     <string name="resource_search_history">Suchverlauf</string>
+    <string name="resource_search_hot_tag">Beliebt</string>
     <string name="resource_search_list_empty">Nichts gefunden</string>
     <string name="resource_see_more">Mehr anzeigen</string>
     <string name="resource_select">Auswählen</string>

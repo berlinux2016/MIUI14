@@ -344,8 +344,10 @@
     <string name="home_gesture_no_action">Keine</string>
     <string name="home_gesture_notification_and_control_center">Benachrichtigungsleiste und Kontrollzentrum</string>
     <string name="home_gesture_notification_bar">Benachrichtigungen</string>
+    <string name="home_pull_down_content">Auf dem Startbildschirm herunterwischen, um nach Elementen auf diesem Gerät und online zu suchen.</string>
+    <string name="home_pull_down_content_tips">Sie können Ihre Präferenzen unter Einstellungen > Startbildschirm > Auf Startbildschirm herunterwischen ändern. Ihre Präferenzen für die Wischgeste nach oben bleiben unverändert.</string>
     <string name="home_pull_down_know">Verstanden</string>
-    <string name="home_pull_up_content">Sie können die Suche jetzt öffnen, indem Sie auf Ihrem Startbildschirm nach unten wischen.</string>
+    <string name="home_pull_up_content">Sie können die Suche jetzt öffnen, indem Sie auf Ihrem Startbildschirm herunterwischen.</string>
     <string name="home_screen">Startbildschirm</string>
     <string name="home_screen_settings">Startbildschirm</string>
     <string name="home_slide_up_action">Am Startbildschirm hochwischen</string>

@@ -446,6 +446,7 @@
     <string name="app_manager_app_version_name">"Version: "</string>
     <string name="app_manager_appupdate_remind">Über Updates benachrichtigen</string>
     <string name="app_manager_as_dlg_msg">Damit Apps automatisch gestartet werden können, wird zusätzliche RAM- und Akkuleistung benötigt. Trotzdem erlauben?</string>
+    <string name="app_manager_as_dlg_msg_new">Wenn Sie einer App den Autostart erlauben, kann dies den Speicherbedarf und die Akkunutzung erhöhen. MIUI optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
     <string name="app_manager_as_dlg_title">Achtung</string>
     <string name="app_manager_back">Zurück</string>
     <string name="app_manager_bipartition">Dual Apps</string>
@@ -733,6 +734,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_import_games">Alle Spiele an einen Ort verschieben</string>
     <string name="auto_send_correcting_msg">Wenn nicht ausgefüllt, sendet das System automatisch eine SMS-Bestätigung</string>
     <string name="auto_set_by_brand">Automatische Einstellung des Informationsflusses und des freien Flusses entsprechend Ihrer Marke</string>
+    <string name="auto_start_tips">MIUI optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
     <string name="auto_task_allow_suggestion">Smarte Aufgabenvorschläge</string>
     <string name="auto_task_available_device">Verfügbare Geräte</string>
     <string name="auto_task_condition_choose_battery_level_down">Wenn der Akku einen bestimmten Wert erreicht</string>
@@ -1396,6 +1398,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_btn_delete_icon">Entfernen</string>
     <string name="dialog_btn_no_create_icon">Abbrechen</string>
     <string name="dialog_btn_yes_create_icon">Hinzufügen</string>
+    <string name="dialog_btn_yes_install_icon">Installieren</string>
     <string name="dialog_button_ignore">Ignorieren</string>
     <string name="dialog_button_yes">Ja</string>
     <string name="dialog_change_package_type_summary">Änderung des Datentarifs setzt alle Einstellungen zur Datennutzung (z. B. Datenlimits) auf die Standardwerte zurück. Datentarif jetzt ändern?</string>
@@ -1407,6 +1410,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_msg_delete_icon_content_phone">Mit Sicherheit können Sie den Papierkorb auf Ihrem Gerät leeren, Viren finden und neutralisieren, den Akku schonen, Berechtigungen verwalten und vieles mehr.</string>
     <string name="dialog_msg_delete_icon_title_pad">Diese Startbildschirm-Verknüpfung entfernen?</string>
     <string name="dialog_msg_delete_icon_title_phone">Diese Startbildschirm-Verknüpfung entfernen?</string>
+    <string name="dialog_msg_install_manager_content">Sicherheit erneut installieren?</string>
+    <string name="dialog_msg_install_manager_content_pad">Sicherheit erneut installieren?</string>
     <string name="dialog_msg_stop_virus_scan">Sicherheitsscan stoppen, bevor er beendet ist?</string>
     <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string>
     <string name="dialog_restrict_all_mobile_summary">%s mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
@@ -1542,7 +1547,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="eletric_group_title_two_identification_risk_mms">Warnungen erhalten, wenn Verifizierungscodes weitergeleitet werden</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">Sie erhalten eine Warnung, wenn Verifizierungscodes aus Ihren Nachrichten an soziale Medien weitergeleitet werden</string>
     <string name="eletric_group_title_two_identification_risk_screen">Private Apps ausblenden</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Übertragung wird pausiert, wenn Sie zu Alipay, WeChat, Galerie oder Nachrichten wechseln</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">Wenn Sie Apps öffnen, die sensible persönliche Daten enthalten (WeChat, Alipay, Galerie usw.), während Sie den Bildschirm Ihres Geräts freigeben, werden diese Daten nicht angezeigt. Sie können die Freigabe manuell erneut starten.</string>
     <string name="eletric_group_two_identification_risk_app">Vor riskanten Finanztransaktionen warnen</string>
     <string name="eletric_group_two_identification_risk_mms">Schutz des Verifizierungscodes</string>
     <string name="eletric_identification_unfamiliar_numbers">Unbekannte Nummern erkennen</string>
@@ -2347,6 +2352,12 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_turbo_time_subtitle">Zeitplan Ihrer Sitzungen</string>
     <string name="gb_turbo_voice_subtitle">Schwung in Ihre Unterhaltungen bringen</string>
     <string name="gb_turbo_wonder_subtitle">Schlüsselmomente aufnehmen</string>
+    <string name="gb_vision_enhance">Verbesserte Grafik</string>
+    <string name="gb_vision_enhance_desc">Bildqualität und Leistung verbessern</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Smart Frame Rate</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Bildrate automatisch anpassen, um die Bewegung flüssiger zu machen</string>
+    <string name="gb_vision_enhance_super_resolution">Superauflösung</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Auflösung erhöhen, um feinere Details zu sehen</string>
     <string name="gb_voice_change_settinged">Sprachwandler ist an</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Ihr Abo erneuern, um Echtzeit-Feedback zu verwenden.</string>
     <string name="gb_voice_changer_dlg_button_agree">Erlauben</string>
@@ -2944,6 +2955,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suchen</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
@@ -3331,6 +3343,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="operator_location_settings">Anbieter und Standort einstellen</string>
     <string name="operator_location_settings_message">Ihr Anbieter und Ihr Standort konnten nicht erkannt werden. Sie können jetzt keine Warnungen für das Telefonguthaben und die Datennutzung einstellen.</string>
     <string name="operator_name_virtual_operator">Virtueller Betreiber</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Verwendung schädlicher Apps birgt Sicherheitsrisiken</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s könnte eine schädliche App sein</string>
     <string name="optimize_manage_title">Mehr Geschwindigkeit</string>
     <string name="optimize_result_ads_close_text">Werbung</string>
     <string name="optimize_result_available_memory_info">Verfügbarer Speicher</string>
@@ -3477,11 +3491,14 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_main_power_manager_hour_minute">%1$s Std %2$s Min bis voll geladen</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s T %2$s Std betriebsbereit</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s Std %2$s Min betriebsbereit</string>
+    <string name="pc_no_more_remind">Nicht erinnern</string>
     <string name="pc_performance_mode_dialog_summary">Ihr Gerät kann für %s im Leistungsmodus arbeiten. Beachten Sie, dass der Leistungsmodus den Stromverbrauch erhöht und zu Überhitzung führen kann.</string>
     <string name="pc_performance_mode_dialog_summary2">Geräteleistung wird verbessert. Dies kann den Stromverbrauch erhöhen und zu Überhitzungsproblemen führen. Trotzdem einschalten?</string>
     <string name="pc_performance_mode_dialog_title">Leistungsmodus</string>
     <string name="pc_performance_mode_noti_summary">Leistungsmodus kann den Stromverbrauch erhöhen und zu Überhitzungsproblemen führen</string>
     <string name="pc_performance_mode_noti_title">Verbesserte Geräteleistung</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Gerät vor dem Aufladen zusammenklappen, um einen schnelleren und stabileren Ladevorgang zu ermöglichen.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Zum Laden zusammenklappen</string>
     <string name="pc_search_keywords_battery">Akku</string>
     <string name="pc_search_keywords_battery_save">Stromsparen</string>
     <string name="pc_search_keywords_battery_use">Akkuverbrauch</string>
@@ -3495,6 +3512,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_temperature_too_high">Gerät überhitzt</string>
     <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
     <string name="pc_wait_device_cools_down">Warten Sie, bis Ihr Gerät abgekühlt ist, um diese Funktion zu nutzen</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Auf das kabellose Ladegerät legen</string>
+    <string name="pc_wireless_charge_adjust_position_title">Gerät schneller aufladen</string>
     <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi KI</string>
     <string name="per_month_pkg_traffic_settings">Datenlimit einstellen</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
@@ -5245,6 +5264,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="superpower_settins_autoleave_title">Automatisch ausschalten</string>
     <string name="superpower_settins_other">Weitere Einstellungen</string>
     <string name="superpower_settins_switch_summary">Beschränkt die meisten stromfressenden Funktionen, um Grundfunktionen (z. B. Anrufe, SMS und bestimmte Apps) so lange wie möglich verfügbar zu halten</string>
+    <string name="support_app_name_securitycenter">Sicherheits-Tools</string>
     <string name="support_game_booster_tips">Geschwindigkeit erhöhen &amp; Spieleerfahrung verbessern</string>
     <string name="sys_app_prot_cracked_confirm">Verstanden</string>
     <string name="sys_cpu_title">CPU-Nutzung</string>
@@ -5796,6 +5816,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_ve_settings_ai_stronger">KI</string>
     <string name="vb_ve_settings_display_style_tips">*Diese Effekte werden auf den gesamten Bildschirm angewendet</string>
     <string name="vb_ve_settings_display_style_tips_new">*Effekte werden nur auf den Videowiedergabebereich angewendet</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">*Dieser Effekt wird nur auf den Videowiedergabebereich angewendet.\n\nDiese Funktion funktioniert nicht mit verbesserten Videos.\n\nWenn Sie das eine einschalten, schalten Sie das andere aus.</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">*Dieser Effekt wird auf den gesamten Bildschirm angewendet.\n\nDiese Funktion funktioniert nicht mit verbesserten Videos.\n\nWenn Sie das eine einschalten, schalten Sie das andere aus.</string>
     <string name="vb_ve_settings_pic_border_stronger">Verbesserte Konturen</string>
     <string name="vb_ve_settings_picture_stronger">Verbesserte Animationen</string>
     <string name="vb_video_effects_3d">Surround Sound</string>
@@ -5810,6 +5832,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_video_effects_dolby_tips">Erweiterte Dialoge und erweitertes Stereo funktionieren nicht, wenn immersiver Klang aktiviert ist</string>
     <string name="vb_video_effects_immersion_sound">Immersiver Klang</string>
     <string name="vb_video_effects_immersion_sound_summary">Erleben Sie Immersion und Raumgefühl, wenn unterstützte Audiodateien über Kopfhörer abgespielt werden</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Erleben Sie Immersion und Raumgefühl, wenn unterstützte Audiodateien abgespielt werden</string>
     <string name="vb_video_effects_liquid_summary">Klarheit von Dialogen in Videos verbessern</string>
     <string name="vb_video_effects_only_headphone">Funktioniert nur mit Kopfhörern</string>
     <string name="vb_video_effects_setting_black_white">SW</string>

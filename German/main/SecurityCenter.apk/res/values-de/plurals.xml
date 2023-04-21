@@ -317,6 +317,14 @@ Beim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten be
         <item quantity="other">Verstanden (%ds)</item>
         <item quantity="one">Verstanden (%ds)</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Hinweis:
+·Verbesserte Grafik ist nicht verfügbar, wenn Stromsparen aktiviert oder Ihr Gerät überhitzt ist.
+·Smart Frame Rate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bilder pro Sekunde angezeigt werden.</item>
+        <item quantity="one">"Hinweis:
+·Verbesserte Grafik ist nicht verfügbar, wenn Stromsparen aktiviert oder Ihr Gerät überhitzt ist.
+·Smart Frame Rate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bild pro Sekunde angezeigt wird.</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Voice Changer jetzt ausprobieren,
 um eine %d-Tage-Gratis-Testversion zu erhalten!"</item>
@@ -618,6 +626,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="other">%d Apps</item>
         <item quantity="one">%d App</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d Apps, inkl. %1$s, könnten schädlich sein</item>
+        <item quantity="one">%2$d App, inkl. %1$s, könnte schädlich sein</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">" +%d P."</item>
         <item quantity="one">" +%d P."</item>
@@ -741,6 +753,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d Min "</item>
         <item quantity="one">"%d Min "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Batterieverbrauch in %d Szenarien optimieren</item>
+        <item quantity="one">Batterieverbrauch in %d Szenario optimieren</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">%d Akkuprobleme beheben</item>

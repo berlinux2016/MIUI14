@@ -250,6 +250,7 @@
     <string name="art_still_module_loading">\"Kunst\"-Plugin herunterladen…</string>
     <string name="assistant_page_community">Gemeinschaft</string>
     <string name="assistant_page_discovery">Entdecken</string>
+    <string name="assistant_page_image_printing">Drucken</string>
     <string name="assistant_page_label">Momente</string>
     <string name="assistant_page_server_error">Netzwerkeinstellungen prüfen</string>
     <string name="assistant_today_of_year_function_closed_tip">Einschalten</string>
@@ -476,7 +477,7 @@
     <string name="chooser_fragment_mishare_title">Teilen mit</string>
     <string name="cleaner_empty">Alle löschen</string>
     <string name="cleaner_photo_pick_delete_selected">Ausgewählte Fotos löschen</string>
-    <string name="cleaner_raw_action">Details anzeigen</string>
+    <string name="cleaner_raw_action">Anzeigen</string>
     <string name="cleaner_raw_description">Speicherplatz freigeben durch Löschen großer RAW-Bilder</string>
     <string name="cleaner_raw_title">RAW-Dateien löschen</string>
     <string name="cleaner_scan_description">Durch die Optimierung von Elementen wird Speicherplatz auf Ihrem Gerät frei</string>
@@ -490,7 +491,7 @@
     <string name="cleaner_screen_shot_action">Ansehen</string>
     <string name="cleaner_screen_shot_description">Löschen Sie die Screenshots, die Sie nicht mehr benötigen.</string>
     <string name="cleaner_screen_shot_title">Screenshots löschen</string>
-    <string name="cleaner_similar_action">Details anzeigen</string>
+    <string name="cleaner_similar_action">Anzeigen</string>
     <string name="cleaner_similar_description">Doppelte Fotos löschen</string>
     <string name="cleaner_similar_title">Doppelte Fotos</string>
     <string name="cleaner_size">Kürzlich gelöschte Elemente löschen (%s)</string>
@@ -498,12 +499,12 @@
     <string name="cleaner_slim_description">Bewahren Sie optimierte Fotos auf Ihrem Gerät auf. Die Originaldateien werden in Xiaomi Cloud gespeichert.</string>
     <string name="cleaner_slim_start">Optimieren</string>
     <string name="cleaner_slim_title">Optimiere Fotos</string>
-    <string name="cleaner_space_description">freigeben?</string>
-    <string name="cleaner_space_detail_description">Fotoalben reinigen, um Ihr Telefon zu beschleunigen</string>
+    <string name="cleaner_space_description">Freigeben?</string>
+    <string name="cleaner_space_detail_description">Fotoalben bereinigen, um Ihr Telefon zu beschleunigen</string>
     <string name="cleaner_stop_scan">Scannen anhalten</string>
     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s belegt</string>
     <string name="cleaner_title">Bereinigen</string>
-    <string name="cleaner_video_action">Ansehen</string>
+    <string name="cleaner_video_action">Anzeigen</string>
     <string name="cleaner_video_description">Videos löschen, die Speicherplatz beanspruchen</string>
     <string name="cleaner_video_pick_delete_selected">Ausgewählte Videos löschen</string>
     <string name="cleaner_video_title">Videos löschen</string>
@@ -1374,7 +1375,7 @@
     <string name="loading_video_fail_sync_without_network">Mit dem Netzwerk verbinden, um Metadaten herunterzuladen</string>
     <string name="loading_video_fail_syncing">Warten Sie, bis die Metadaten vollständig heruntergeladen wurden und versuchen Sie es erneut</string>
     <string name="loading_video_thumbnail">Videovorschau herunterladen…</string>
-    <string name="local_secret_tip">Alle privaten Elemente werden mit der Cloud synchronisiert, wenn diese Funktion aktiviert ist. Sie können Ihre Einstellungen ändern unter Einstellungen > Mit der Cloud synchronisieren > Synchrone Alben verwalten > Privates Album.</string>
+    <string name="local_secret_tip">Sie können alle privaten Elemente auf diesem Gerät behalten, ohne sie mit der Cloud zu synchronisieren. Sie können Ihre Präferenzen unter Einstellungen > Mit der Cloud synchronisieren > Synchronisierte Alben verwalten ändern.</string>
     <string name="login_and_enable_service">Melden Sie sich mit einem Xiaomi-Konto an</string>
     <string name="login_by_local_phone_long_text">Jetzt anmelden</string>
     <string name="login_by_local_phone_short_text">Anmelden</string>
@@ -1572,6 +1573,7 @@
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
     <string name="miuix_appcompat_deselect_all_description">Alle abwählen</string>
+    <string name="miuix_appcompat_edit">Bearbeiten</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Abbrechen</string>
     <string name="miuix_appcompat_search_input_description">Suche</string>
     <string name="miuix_appcompat_select_all">Alle wählen</string>
@@ -1706,6 +1708,7 @@
     <string name="multi_view_tip_sub_title">Zwei Finger auseinander spreizen oder aufeinander zu bewegen, um die Größe der angezeigten Elemente anzupassen</string>
     <string name="multi_view_tip_title">Rein- und rauszoomen</string>
     <string name="must_pick_file">Foto auswählen</string>
+    <string name="my_family">Mein Zuhause</string>
     <string name="name_wrong">Das ist nicht %s</string>
     <string name="national_day">Nationalfeiertag</string>
     <string name="nearby_share">In der Nähe freigeben</string>
@@ -3171,6 +3174,7 @@
     <string name="user_alias_self">Ich</string>
     <string name="user_avatar_update_title">Profilbild ändern</string>
     <string name="user_avatar_uploading">Einen Moment…</string>
+    <string name="user_family">"%1$s's Zuhause"</string>
     <string name="user_name_phone_number">Rufnummer</string>
     <string name="user_notice_identify_summary_format">"Wenn Sie diesen Service nutzen, stimmen Sie Xiaomi's %1$s und %2$s zu"</string>
     <string name="user_notice_title">Achtung</string>
