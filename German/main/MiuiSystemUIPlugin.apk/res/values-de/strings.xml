@@ -129,6 +129,7 @@
     <string name="dnd_popup_message">Sie können den DND-Modus einschalten, um Anrufe und Benachrichtigungen stumm zu schalten, ohne die Medientöne abzuschalten.</string>
     <string name="drag_to_add_tiles">Gedrückt halten, um Elemente hinzuzufügen oder neu anzuordnen</string>
     <string name="early_morning">Morgen</string>
+    <string name="emergency_call">Notruf</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_icon_content_description">Fehler</string>

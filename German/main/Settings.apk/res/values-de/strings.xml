@@ -9017,7 +9017,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="smart_battery_manager_title">Akkumanager</string>
     <string name="smart_battery_summary">Akku für nicht oft genutzte Apps begrenzen</string>
     <string name="smart_battery_title">Apps automatisch verwalten</string>
-    <string name="smart_dual_sim_title">Smart Dual-SIM</string>
+    <string name="smart_dual_sim_title">Smart Dual SIM</string>
     <string name="smart_forwarding_failed_not_activated_text">SIM ist nicht aktiviert.</string>
     <string name="smart_forwarding_failed_text">Netz- oder SIM-Karten-Fehler</string>
     <string name="smart_forwarding_failed_title">Fehler Anrufeinstellungen</string>

@@ -6,8 +6,8 @@
     <string name="a11y_action_pip_move_right">Nach rechts bewegen</string>
     <string name="a11y_action_pip_move_up">Nach oben bewegen</string>
     <string name="a11y_pip_menu_entered">Bild-im-Bild-Menü</string>
-    <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
-    <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
+    <string name="abbrev_month_day_no_year">dMMM</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -643,6 +643,7 @@
     <string name="bluetooth_select_map_version_dialog_title">Bluetooth MAP Version wählen</string>
     <string name="bluetooth_show_devices_without_names">Bluetooth-Geräte ohne Namen anzeigen</string>
     <string name="bluetooth_show_devices_without_names_summary">Bluetooth-Geräte ohne Namen (nur MAC-Adressen) werden angezeigt</string>
+    <string name="bluetooth_talkback_group">Geräte gruppieren</string>
     <string name="bluetooth_talkback_headphone">Kopfhörer</string>
     <string name="bluetooth_talkback_imaging">Bildverarbeitung</string>
     <string name="bluetooth_talkback_input_peripheral">Eingabeperipherie</string>
@@ -2437,12 +2438,18 @@
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Datensparen ist an</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Einschalten…</string>
     <string name="quick_settings_ime_label">Eingabemethode</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Mobile Daten der zweiten SIM verwenden, um die Verbindungsgeschwindigkeit zu erhöhen</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">Smart Dual SIM</string>
     <string name="quick_settings_inversion_label">Farben umkehren</string>
     <string name="quick_settings_location_label">Standort</string>
     <string name="quick_settings_location_off_label">Standort ist aus</string>
     <string name="quick_settings_low_battery_toast_text">Taschenlampe kann nicht genutzt werden. Akku ist zu schwach.</string>
     <string name="quick_settings_media_device_label">Mediengerät</string>
     <string name="quick_settings_mic_label">Mikrozugriff</string>
+    <string name="quick_settings_miui_wifi_detail_empty_text">Keine WLANs verfügbar</string>
+    <string name="quick_settings_miui_wifi_label">WLAN</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">Keine WLANs verfügbar</string>
+    <string name="quick_settings_miui_wlan_label">WLAN</string>
     <string name="quick_settings_more_settings">Weitere Einstellungen</string>
     <string name="quick_settings_more_user_settings">Benutzereinstellungen</string>
     <string name="quick_settings_mute_label">Lautlos</string>
@@ -2479,6 +2486,9 @@
     <string name="quick_settings_secondary_label_until">Bis %s</string>
     <string name="quick_settings_settings_label">Einstellungen</string>
     <string name="quick_settings_sim_disabled">" (deaktiviert)"</string>
+    <string name="quick_settings_state_saved">Gespeichert</string>
+    <string name="quick_settings_state_wifi_select_nearby_ap">WLANs in der Nähe wählen</string>
+    <string name="quick_settings_state_wlan_select_nearby_ap">WLANs in der Nähe wählen</string>
     <string name="quick_settings_sync_label">Synchronisieren</string>
     <string name="quick_settings_time_label">Zeit</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Um ein Element hinzuzufügen, halten Sie es gedrückt und ziehen Sie es dann in den oberen Teil des Bildschirms.</string>
@@ -2497,6 +2507,7 @@
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Zwischen Netzwerken wechseln</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dualband-WLAN Geschwindigkeitserhöhung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
     <string name="quick_settings_wifi_detail_empty_text">Kein WLAN verfügbar</string>
+    <string name="quick_settings_wifi_is_off">WLAN ist aus</string>
     <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wifi_nearby">Wählen Sie ein Netzwerk in der Nähe</string>
     <string name="quick_settings_wifi_no_network">Kein Netzwerk</string>
@@ -2504,6 +2515,7 @@
     <string name="quick_settings_wifi_off_label">WLAN ist aus</string>
     <string name="quick_settings_wifi_on_label">WLAN ist an</string>
     <string name="quick_settings_wifi_secondary_label_transient">Einschalten…</string>
+    <string name="quick_settings_wlan_is_off">WLAN ist aus</string>
     <string name="quick_settings_work_mode_label">Arbeitsmodus</string>
     <string name="quick_step_accessibility_toggle_overview">Toggle-Übersicht</string>
     <string name="rapid_charge_mode_tip">Schnellladung</string>

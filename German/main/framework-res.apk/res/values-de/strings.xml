@@ -843,7 +843,7 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
     <string name="httpErrorTooManyRequests">Zu viele Anfragen werden zurzeit verarbeitet. Später erneut versuchen.</string>
     <string name="httpErrorUnsupportedAuthScheme">Authentisierungsschema für diese Webseite wird nicht unterstützt</string>
     <string name="httpErrorUnsupportedScheme">Protokoll wird nicht unterstützt</string>
-    <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
+    <string name="icu_abbrev_wday_month_day_no_year">EEEdMMMM</string>
     <string name="imProtocolCustom">Benutzerdefiniert</string>
     <string name="imTypeCustom">Benutzerdefiniert</string>
     <string name="imTypeHome">Privat</string>
