@@ -871,7 +871,7 @@ Netzwerkeinstellungen prüfen und erneut versuchen."</string>
     <string name="notification_channel_name_silent">DND-Erinnerungen</string>
     <string name="notification_open_setting_button_exit">Nein danke</string>
     <string name="notification_open_setting_button_ok">Erlauben</string>
-    <string name="notification_open_setting_message">Sie können keine Benachrichtigungen über Termine erhalten, wenn Sie nicht zulassen, dass der Kalender Ihnen Benachrichtigungen sendet.</string>
+    <string name="notification_open_setting_message">Sie erhalten keine Termin-Benachrichtigungen, wenn Sie Kalender nicht erlauben, Benachrichtigungen zu senden.</string>
     <string name="notification_open_setting_title">Kalenderbenachrichtigungen zulassen?</string>
     <string name="olympic_rank">Rang</string>
     <string name="olympic_total">Gesamt</string>
@@ -1002,7 +1002,7 @@ Netzwerkeinstellungen prüfen und erneut versuchen."</string>
     <string name="repeat_alarm_changed_title">Dieser Termin wiederholt sich. Erinnerung festlegen?</string>
     <string name="repeat_alarm_changed_train_event">Immer an Züge erinnern</string>
     <string name="repeat_alarm_close_title">Dieser Termin wiederholt sich. Alarmerinnerung ausschalten</string>
-    <string name="repeat_alarm_open_title">Dieser Termin wiederholt sich. Alarmerinnerung einstellen?</string>
+    <string name="repeat_alarm_open_title">Dieser Termin wiederholt sich. Alarmerinnerung einschalten?</string>
     <string name="repeat_custom_activity_label">Benutzerdefiniert</string>
     <string name="repeat_custom_prompt">jede/n/s %1$s | %2$s</string>
     <string name="repeat_custom_prompt_daily">jeden %1$s</string>

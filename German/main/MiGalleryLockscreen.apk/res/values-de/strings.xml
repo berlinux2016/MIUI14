@@ -188,6 +188,7 @@
     <string name="delete_pic">Bild löschen</string>
     <string name="deny_des">Hintergrundkarussell benötigt Galeriezugriff, um normal zu arbeiten.</string>
     <string name="detail_ad_type_ad">Werbung</string>
+    <string name="detail_ad_type_close_ad">Werbung schließen</string>
     <string name="detail_ad_type_video">Beliebte Videos</string>
     <string name="detail_add_cw">Hintergrund hinzufügen</string>
     <string name="detail_add_shortcut">Zum Startbildschirm hinzufügen</string>

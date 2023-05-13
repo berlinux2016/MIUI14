@@ -1,12 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="account_sync_frequency">
-        <item>Manuell</item>
-        <item>Alle 15 Minuten</item>
-        <item>Jede Stunde</item>
-        <item>Alle 4 Stunden</item>
-        <item>Alle 12 Stunden</item>
-    </string-array>
     <string-array name="additional_cal_dialog_labels">
         <item>Keiner</item>
         <item>Islamischer Kalender</item>
@@ -23,17 +16,6 @@
         <item>Widder</item>
         <item>21.03. - 19.04.</item>
     </string-array>
-    <string-array name="availability">
-        <item>Beschäftigt</item>
-        <item>Verfügbar</item>
-        <item>Vorläufig</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Tag</item>
-        <item>Woche</item>
-        <item>Monat</item>
-        <item>Terminplanung</item>
-    </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Krebs</item>
@@ -46,11 +28,11 @@
     </string-array>
     <string-array name="change_response_labels">
         <item>Nur diesen Termin</item>
-        <item>Alle sich wiederholenden Termine</item>
+        <item>Alle Termine der Serie</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Nur für diese Zeit</item>
-        <item>Wiederholende Erinnerung deaktivieren</item>
+        <item>Einmal ausschalten</item>
+        <item>Immer aus</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Vorwärts</item>
@@ -67,28 +49,24 @@
         <item>2 Tage vorher</item>
         <item>1 Woche vorher</item>
     </string-array>
-    <string-array name="default_reminder_later_time_labels">
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>30 Minuten</item>
-        <item>1 Stunde</item>
-    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Nur diesen Termin</item>
         <item>Diesen &amp; zukünftige Termine</item>
         <item>Alle Termine</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Diesen &amp; zukünftige Termine</item>
-        <item>Alle Termine</item>
-    </string-array>
-    <string-array name="edit_event_dislike">
-        <item>Kein Termin, den ich anlegen möchte</item>
-        <item>Es gibt viele Einstellungen, die ich zu faul zum Ausfüllen bin</item>
-        <item>Einige Einstellungsinformationen können nicht ermittelt werden</item>
-        <item>Schauen Sie doch einfach mal rein</item>
-        <item>Ihnen nichts davon erzählen</item>
+    <string-array name="english_complete_months">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
     </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
@@ -106,15 +84,8 @@
         <item>23.09. - 23.10.</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Nur für diese Zeit</item>
-        <item>Wiederholende Erinnerung einstellen</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>1.</item>
-        <item>2.</item>
-        <item>3.</item>
-        <item>4.</item>
-        <item>Letzte</item>
+        <item>Einmal einschalten</item>
+        <item>Immer an</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Sonntag</item>
@@ -130,11 +101,6 @@
         <item>Fische</item>
         <item>19.02. - 20.03.</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup">
-        <item>Aus</item>
-        <item>Für alle Termine</item>
-        <item>Für die wichtigsten Termine</item>
-    </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Aus</item>
         <item>Für alle Termine</item>
@@ -142,122 +108,14 @@
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Immer</item>
-        <item>Nur wenn lautlos</item>
+        <item>Nur bei lautlos</item>
         <item>Niemals</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Keine</item>
-        <item>0 Minuten</item>
-        <item>1 Minute</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>20 Minuten</item>
-        <item>25 Minuten</item>
-        <item>30 Minuten</item>
-        <item>45 Minuten</item>
-        <item>1 Stunde</item>
-        <item>2 Stunden</item>
-        <item>3 Stunden</item>
-        <item>12 Stunden</item>
-        <item>24 Stunden</item>
-        <item>2 Tage</item>
-        <item>1 Woche</item>
-    </string-array>
-    <string-array name="preferences_skip_reminders_labels">
-        <item>Nur bei Ablehnung</item>
-        <item>Bei Ablehnung o. Nichtbeantwortung</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Regionaler Standard</item>
+        <item>Regionsstandard</item>
         <item>Samstag</item>
         <item>Sonntag</item>
         <item>Montag</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Bin nur ein paar Minuten zu spät.</item>
-        <item>Bin in ca. 10 Minuten da.</item>
-        <item>Fang ohne mich an.</item>
-        <item>Tut mir leid, ich schaffe es nicht. Wir müssen den Termin verschieben.</item>
-    </string-array>
-    <string-array name="recurrence_freq">
-        <item>TÄGLICH WIEDERHOLEN</item>
-        <item>WÖCHENTLICH WIEDERHOLEN</item>
-        <item>MONATLICH WIEDERHOLEN</item>
-        <item>JÄHRLICH WIEDERHOLEN</item>
-    </string-array>
-    <string-array name="reminder_methods_labels">
-        <item>Benachrichtigung</item>
-        <item>E-Mail</item>
-        <item>SMS</item>
-        <item>Wecker</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>0 Minuten</item>
-        <item>1 Minute</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>20 Minuten</item>
-        <item>25 Minuten</item>
-        <item>30 Minuten</item>
-        <item>45 Minuten</item>
-        <item>1 Stunde</item>
-        <item>2 Stunden</item>
-        <item>3 Stunden</item>
-        <item>12 Stunden</item>
-        <item>24 Stunden</item>
-        <item>2 Tage</item>
-        <item>1 Woche</item>
-    </string-array>
-    <string-array name="repeat_by_nth_fri">
-        <item>an jedem 1. Freitag</item>
-        <item>an jedem 2. Freitag</item>
-        <item>an jedem 3. Freitag</item>
-        <item>an jedem 4. Freitag</item>
-        <item>an jedem letzten Freitag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_mon">
-        <item>an jedem 1. Montag</item>
-        <item>an jedem 2. Montag</item>
-        <item>an jedem 3. Montag</item>
-        <item>an jedem 4. Montag</item>
-        <item>an jedem letzten Montag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sat">
-        <item>an jedem 1. Samstag</item>
-        <item>an jedem 2. Samstag</item>
-        <item>an jedem 3. Samstag</item>
-        <item>an jedem 4. Samstag</item>
-        <item>an jedem letzten Samstag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sun">
-        <item>an jedem 1. Sonntag</item>
-        <item>an jedem 2. Sonntag</item>
-        <item>an jedem 3. Sonntag</item>
-        <item>an jedem 4. Sonntag</item>
-        <item>an jedem letzten Sonntag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_thurs">
-        <item>an jedem 1. Donnerstag</item>
-        <item>an jedem 2. Donnerstag</item>
-        <item>an jedem 3. Donnerstag</item>
-        <item>an jedem 4. Donnerstag</item>
-        <item>an jedem letzten Donnerstag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_tues">
-        <item>an jedem 1. Dienstag</item>
-        <item>an jedem 2. Dienstag</item>
-        <item>an jedem 3. Dienstag</item>
-        <item>an jedem 4. Dienstag</item>
-        <item>an jedem letzten Dienstag</item>
-    </string-array>
-    <string-array name="repeat_by_nth_wed">
-        <item>an jedem 1. Mittwoch</item>
-        <item>an jedem 2. Mittwoch</item>
-        <item>an jedem 3. Mittwoch</item>
-        <item>an jedem 4. Mittwoch</item>
-        <item>an jedem letzten Mittwoch</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -321,7 +179,7 @@
     <string-array name="repeat_choose_week_right">
         <item>Mo - Fr</item>
         <item>Wochenende</item>
-        <item>Ganze Woche</item>
+        <item>Täglich</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Mo</item>
@@ -386,12 +244,6 @@
         <item>Vielleicht</item>
         <item>Nein</item>
     </string-array>
-    <string-array name="response_labels2">
-        <item>Keine Antwort</item>
-        <item>Akzeptieren</item>
-        <item>Später entscheiden</item>
-        <item>Ablehnen</item>
-    </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>Schütze</item>
@@ -407,115 +259,10 @@
         <item>Stier</item>
         <item>20.04. - 20.05.</item>
     </string-array>
-    <string-array name="timezone_labels_v3">
-        <item>Marshallinseln</item>
-        <item>Midwayinseln</item>
-        <item>Hawaii</item>
-        <item>Alaska</item>
-        <item>Pacific Time</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Mountain Time</item>
-        <item>Zentralamerika</item>
-        <item>Central Time</item>
-        <item>Mexico-Stadt</item>
-        <item>Saskatchewan</item>
-        <item>Bogotá</item>
-        <item>Eastern Time</item>
-        <item>Venezuela</item>
-        <item>Atlantic Time (Barbados)</item>
-        <item>Atlantic Time (Kanada)</item>
-        <item>Manaus</item>
-        <item>Santiago</item>
-        <item>Neufundland</item>
-        <item>Brasília</item>
-        <item>Buenos Aires</item>
-        <item>Grönland</item>
-        <item>Montevideo</item>
-        <item>Mittelatlantik</item>
-        <item>Azoren</item>
-        <item>Kapverdische Inseln</item>
-        <item>Casablanca</item>
-        <item>London</item>
-        <item>Dublin</item>
-        <item>Amsterdam</item>
-        <item>Berlin</item>
-        <item>Belgrad</item>
-        <item>Brüssel</item>
-        <item>Sarajevo</item>
-        <item>Windhoek</item>
-        <item>W. Africa Time</item>
-        <item>Amman</item>
-        <item>Athen</item>
-        <item>Istanbul</item>
-        <item>Beirut</item>
-        <item>Kairo</item>
-        <item>Helsinki</item>
-        <item>Jerusalem</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Bagdad</item>
-        <item>Moskau</item>
-        <item>Kuwait</item>
-        <item>Nairobi</item>
-        <item>Teheran</item>
-        <item>Baku</item>
-        <item>Tiflis</item>
-        <item>Eriwan</item>
-        <item>Dubai</item>
-        <item>Kabul</item>
-        <item>Karatschi</item>
-        <item>Oral</item>
-        <item>Jekaterinburg</item>
-        <item>Kalkutta</item>
-        <item>Sri Lanka</item>
-        <item>Kathmandu</item>
-        <item>Astana</item>
-        <item>Rangun</item>
-        <item>Krasnojarsk</item>
-        <item>Bangkok</item>
-        <item>Peking</item>
-        <item>Chongqing</item>
-        <item>Hongkong</item>
-        <item>Macao</item>
-        <item>Singapur</item>
-        <item>Irkutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Taipeh</item>
-        <item>Seoul</item>
-        <item>Tokio</item>
-        <item>Jakutsk</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney</item>
-        <item>Canberra</item>
-        <item>Wladiwostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fidschi</item>
-        <item>Tonga</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 Stunden vorher</item>
-        <item>4 Stunden vorher</item>
-        <item>5 Stunden vorher</item>
-        <item>6 Stunden vorher</item>
-        <item>1 Tag vorher</item>
-    </string-array>
     <string-array name="virgo_info">
         <item>virgo</item>
         <item>Jungfrau</item>
         <item>23.08. - 22.09.</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Standard</item>
-        <item>Privat</item>
-        <item>Öffentlich</item>
     </string-array>
     <string-array name="weather_forecasts">
         <item>Klar</item>

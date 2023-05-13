@@ -3285,6 +3285,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="video_fragment_name_collections">Favoriten</string>
     <string name="video_fragment_name_download">Offline-Video</string>
     <string name="video_fragment_name_historys">Verlauf</string>
+    <string name="video_guess_you_like">Das könnte Ihnen gefallen</string>
     <string name="video_group_noupdates_list">Keine Updates verfügbar</string>
     <string name="video_history_empty">Kein Verlauf</string>
     <string name="video_manager_action_bar_end_view">Online-Videos</string>
