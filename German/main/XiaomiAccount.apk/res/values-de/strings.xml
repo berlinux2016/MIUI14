@@ -1090,7 +1090,10 @@
     <string name="two_factor_auth_summary">Wenn Sie versuchen, sich auf einem neuen Gerät oder an einem neuen Standort anzumelden, werden Sie auf anderen angeschlossenen Geräten darüber informiert. Sie müssen bestätigen, ob solche Anmeldeversuche von Ihnen genehmigt sind.</string>
     <string name="unbind_sns_description">Wenn Sie dieses Konto trennen, können Sie Ihr %s-Konto nicht mehr verwenden, um sich am Xiaomi-Konto anzumelden</string>
     <string name="unknown_error_info">Unbekannter Fehler</string>
-    <string name="unlock_help_notice">"Hilfe:\n%1$d. Wenn Sie Ihr Passwort vergessen haben, können Sie es auf id.mi.com zurücksetzen.\n%2$d. Wenn Sie Ihr Passwort nicht zurücksetzen können oder jemand Ihr Gerät gesperrt hat, können Sie es auf i.mi.com entsperren.\n%3$d. Ihre Entsperrnummer: %s"</string>
+    <string name="unlock_help_notice">"Hilfe:
+%1$d. Wenn Sie Ihr Passwort vergessen haben, können Sie es auf id.mi.com zurücksetzen.
+%2$d. Wenn Sie Ihr Passwort nicht zurücksetzen können oder jemand Ihr Gerät gesperrt hat, können Sie es auf i.mi.com entsperren.
+%3$d. Ihre Entsperrnummer: %4$s"</string>
     <string name="update_apk_version_later">Jetzt nicht</string>
     <string name="update_apk_version_now">Aktualisieren</string>
     <string name="update_contacts">Kontakte aktualisieren</string>
