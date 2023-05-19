@@ -55,6 +55,7 @@
     <string name="effect_selection">Klangeffekte</string>
     <string name="effect_virtual_surround">Virtueller immersiver Klang</string>
     <string name="effect_virtual_surround_summary">Klangtiefe für Audio- und Videowiedergabe über Kopfhörer verbessern (Diese Funktion funktioniert nicht, wenn %.1f-Audio abgespielt wird)</string>
+    <string name="effect_virtual_surround_summary_spk">Mehr Klangtiefe für Audio- und Videowiedergabe</string>
     <string name="eq_auto">Benutzerdefiniert</string>
     <string name="eq_cancel">Abbrechen</string>
     <string name="eq_classical">Klassik</string>

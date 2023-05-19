@@ -721,6 +721,8 @@
     <string name="operation_compress">Komprimieren</string>
     <string name="operation_compressing">Komprimieren…</string>
     <string name="operation_copy">Kopieren</string>
+    <string name="operation_copy_clipboard">In Zwischenablage kopieren</string>
+    <string name="operation_copy_local">In Ordner kopieren</string>
     <string name="operation_create_folder">Neuer Ordner</string>
     <string name="operation_create_folder_message">Ordnername eingeben</string>
     <string name="operation_create_folder_name_conflict">Ordner wurde nicht erstellt. Ein Ordner mit diesem Namen existiert bereits.</string>
@@ -1165,6 +1167,7 @@
     <string name="title_select_volume">Ordner auswählen</string>
     <string name="to_open">Einstellungen</string>
     <string name="to_setting">Einstellungen</string>
+    <string name="toast_copy_clipboard">Zur Zwischenablage hinzugefügt</string>
     <string name="toast_file_not_can_read">Keine App zum Öffnen der Datei gefunden</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>

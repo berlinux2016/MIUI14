@@ -549,6 +549,9 @@
     <string name="notify_wifiap_dialog_msg">Um den Code zu scannen und das Netzwerk zu konfigurieren, mobilen Hotspot zunächst ausschalten.</string>
     <string name="notify_wifiap_dialog_negative">Verstanden</string>
     <string name="notify_wifiap_dialog_title">Netzwerk konfigurieren</string>
+    <string name="onehop_mirror_guide_message_button">Verstanden</string>
+    <string name="onehop_mirror_guide_message_text_1">Übertragen Sie Ihr Telefon-Display mit einem Tippen auf Ihren Computer.</string>
+    <string name="onehop_mirror_guide_message_text_2">Wählen Sie Fotos, Videos und andere Dateien aus der Galerie oder dem Dateimanager, um sie auf Ihren Computer zu übertragen.</string>
     <string name="open_game_accelerate">Game Turbo einschalten</string>
     <string name="p2p_location_des">Zum Anschluss Ihres Mobilgeräts an externe Monitore</string>
     <string name="paipai_connect_btn_text">Fertig</string>

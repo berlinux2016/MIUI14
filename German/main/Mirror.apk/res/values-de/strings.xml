@@ -58,6 +58,7 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Für die Dateiübertragung zwischen Geräten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+    <string name="default_boss_terminal_name">Xiaomi Computer</string>
     <string name="default_error_msg">Unbekannter Fehler</string>
     <string name="device_max_screen_count_toast">Dieses Gerät unterstützt nur das gleichzeitige Öffnen von zwei Fenstern</string>
     <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>
@@ -159,7 +160,8 @@
     <string name="login_xiaomi_account_summary_phone">Um sich mit anderen Tablets zu verbinden, verwenden Sie das gleiche Xiaomi-Konto auf beiden verbundenen Geräten. Jetzt anmelden?</string>
     <string name="login_xiaomi_account_title">Am Xiaomi-Konto anmelden</string>
     <string name="low_battery_notification_action">Einschalten</string>
-    <string name="low_battery_notification_content">Weniger als %2$d%% Akku verbleiben auf %1$s. Stromsparen einschalten.</string>
+    <string name="low_battery_notification_content">Weniger als %2$s Akku verbleiben auf %1$s</string>
+    <string name="low_battery_notification_content_default">Telefonakku ist schwächer als %1$s</string>
     <string name="low_battery_notification_title">Niedriger Akkustand</string>
     <string name="low_version_dialog_message">Aktualisieren Sie MIUI+ auf Ihrem Computer oder laden Sie die neueste Version von plus.miui.com herunter.</string>
     <string name="low_version_dialog_title">MIUI+ aktualisieren</string>
@@ -241,7 +243,11 @@
     <string name="nfc_login">Anmelden</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Um die Geräte zu verbinden, schalten Sie erst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Um die Geräte zu verbinden, schalten Sie erst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass WLAN und Bluetooth auf beiden Geräten aktiviert sind.</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass WLAN und Bluetooth auf beiden Geräten aktiviert sind.</string>
     <string name="nfc_no_xiaomi_account">Anscheinend haben Sie sich nicht bei Ihrem Xiaomi-Konto angemeldet. Um Elemente zu übertragen, melden Sie sich bei dem Xiaomi-Konto an, das Sie auf Ihrem Tablet verwenden.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass Sie WLAN und Bluetooth sowohl auf Ihrem Telefon als auch auf Ihrem Computer aktiviert haben und dass auf Ihrem Computer MIUI+ läuft.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass Sie WLAN und Bluetooth sowohl auf Ihrem Telefon als auch auf Ihrem Computer aktiviert haben und dass auf Ihrem Computer MIUI+ läuft.</string>
     <string name="nfc_wifi_and_bluetooth">WLAN und Bluetooth einschalten</string>
     <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>
@@ -284,8 +290,8 @@
     <string name="pad_settings_connect_pad_group">Mit Ihrem Tablet arbeiten</string>
     <string name="pad_settings_connect_pc_group">Mit Ihrem PC arbeiten</string>
     <string name="pad_settings_connect_phone_group">Mit Ihrem Telefon arbeiten</string>
-    <string name="pad_settings_connect_summary1">MIUI+ herunterladen und auf Ihrem Computer installieren: www.miui.com</string>
-    <string name="pad_settings_connect_summary2">QR-Code am Computerbildschirm mit Ihrem Mobilgerät scannen. Sie können dazu mehrere System-Apps verwenden (z. B. Scanner, Kamera, Mi Browser).</string>
+    <string name="pad_settings_connect_summary1">Öffnen Sie Mi Smart Share auf Ihrem Computer und wählen Sie \"Screen Combo\". Sie können Mi Smart Share von www.miui.com herunterladen.</string>
+    <string name="pad_settings_connect_summary2">Scannen Sie den QR-Code am PC-Bildschirm mit Ihrem Mobilgerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
     <string name="pad_settings_current_device_tip">Verbinden Sie sich automatisch mit anderen Tablets, die mit Ihrem Xiaomi-Konto verbunden sind</string>
     <string name="pad_settings_feature_characteristics_summary_1">Text auf Ihrem Mobilgerät kopieren und ihn auf Ihrem Computer einfügen, Bilder hinzufügen und Bearbeitungen in Ihren Dokumenten synchronisieren.</string>
     <string name="pad_settings_feature_characteristics_summary_2">Elemente per Drag &amp; Drop ziehen, um sie auf Ihr Gerät zu übertragen oder von dort abzuholen.</string>
@@ -378,7 +384,7 @@
     <string name="settings_connect">So verbinden Sie sich</string>
     <string name="settings_connect_more_help"><u>Hilfe</u></string>
     <string name="settings_connect_pc_group">Mit Ihrem Computer arbeiten</string>
-    <string name="settings_connect_summary1">MIUI+ herunterladen und auf Ihrem Computer installieren: https://plus.miui.com.</string>
+    <string name="settings_connect_summary1">Öffnen Sie Mi Smart Share auf Ihrem Computer und wählen Sie \"Screen Combo\". Sie können Mi Smart Share von www.miui.com herunterladen.</string>
     <string name="settings_connect_summary2">Scannen Sie den QR-Code am PC-Bildschirm mit Ihrem Mobilgerät. Sie können dazu mehrere System-Apps (z. B. Scanner, Kamera, Mi Browser) verwenden.</string>
     <string name="settings_connect_title1">Schritt 1</string>
     <string name="settings_connect_title2">Schritt 2</string>

@@ -281,6 +281,10 @@
         <item quantity="other">%d Elemente gewählt</item>
         <item quantity="one">%d Element gewählt</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Letzte %d Tage</item>
         <item quantity="one">Letzten %d Tag</item>

@@ -22,6 +22,8 @@
     <string name="accessible_rect">Rechteck</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="annotation_open">Tools anzeigen</string>
+    <string name="annotation_stow">Tools ausblenden</string>
     <string name="app_name">Bildschirmfoto</string>
     <string name="back">Zurück</string>
     <string name="base_btn_cancel">Abbrechen</string>
@@ -106,7 +108,7 @@
     <string name="loading_text_format" formatted="false">Private Daten aus Fotos entfernen (%d/%d)…</string>
     <string name="long_screenshot_error">Ein Fehler ist aufgetreten. Erneut versuchen.</string>
     <string name="long_screenshot_guide_text">Hier tippen, um einen\nScreenshot mit Bildlauf zu erstellen</string>
-    <string name="long_screenshot_intercepted_error">Screenshot wurde nicht erstellt. Erneut versuchen.</string>
+    <string name="long_screenshot_intercepted_error">Eine Unterbrechung ist aufgetreten. Screenshot wurde in der Galerie gespeichert.</string>
     <string name="long_screenshot_out_of_memory_error">Bild ist zu groß</string>
     <string name="long_screenshot_processing">Verarbeiten…</string>
     <string name="long_screenshot_processing_description_accessibility">Verarbeitung</string>
@@ -180,7 +182,7 @@
     <string name="notification_channel_alerts">Warnungen</string>
     <string name="operation_send">Senden</string>
     <string name="partial_screenshot_edit">Bearbeiten</string>
-    <string name="partial_screenshot_failed_to_capture_title">Diese App gestattet keine Screenshots</string>
+    <string name="partial_screenshot_failed_to_capture_title">Von dieser Seite können keine Screenshots gemacht werden</string>
     <string name="partial_screenshot_failed_to_save_title">Speichern nicht möglich: Nicht genug Speicherplatz.</string>
     <string name="partial_screenshot_insert_failed">Speichern nicht möglich</string>
     <string name="partial_screenshot_repaint">Von vorn anfangen</string>
@@ -205,6 +207,10 @@
     <string name="photo_font_download_failed_for_notwork">Download fehlgeschlagen. Mit Netzwerk verbinden und erneut versuchen.</string>
     <string name="photo_save_to_msg">Gespeichert in %s</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
+    <string name="privacy_mosaic_result_done">Private Daten sind gesperrt</string>
+    <string name="privacy_mosaic_result_fail">Private Daten wurden nicht gesperrt. Erneut versuchen.</string>
+    <string name="privacy_mosaic_result_none">Keine privaten Daten gefunden</string>
+    <string name="privacy_mosaic_tip">Tippen , um private Daten zu sperren</string>
     <string name="remover_menu_processing">Verarbeitung…</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -250,6 +256,9 @@
     <string name="screenshot_save">Speichern</string>
     <string name="screenshot_send">Senden</string>
     <string name="screenshot_thumbnail">Screenshot-Miniaturansicht</string>
+    <string name="scroll_annotation">Scrollen und Anmerkungen machen</string>
+    <string name="scroll_annotation_btn_quit">Anmerkungen beenden</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Anmerkungen vor dem Beenden speichern?</string>
     <string name="search_menu_title">Suchen</string>
     <string name="send">Senden</string>
     <string name="send_files_by">Dateien teilen mit</string>

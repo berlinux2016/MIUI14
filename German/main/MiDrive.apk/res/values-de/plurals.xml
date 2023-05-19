@@ -41,6 +41,10 @@
         <item quantity="other">%1$d Elemente wurden nicht heruntergeladen</item>
         <item quantity="one">%1$d Element wurde nicht heruntergeladen</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Auf Download wartend. %1$s Dateien verbleiben.</item>
+        <item quantity="one">Auf Download wartend. %1$s Datei verbleibt.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Herunterladen… %1$d Elemente übrig (%2$s%%)</item>
         <item quantity="one">Herunterladen… %1$d Element übrig (%2$s%%)</item>
@@ -111,6 +115,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">%1$d Elemente wurden nicht hochgeladen</item>
         <item quantity="one">%1$d Element wurde nicht hochgeladen</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Auf Upload wartend. %1$s Dateien verbleiben.</item>
+        <item quantity="one">Auf Upload wartend. %1$s Datei verbleibt.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Hochladen… %1$d Elemente übrig (%2$s%%)</item>
