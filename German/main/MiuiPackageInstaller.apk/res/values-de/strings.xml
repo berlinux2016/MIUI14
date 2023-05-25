@@ -18,8 +18,8 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="about_pure_mode">Über Mi Protect</string>
-    <string name="about_safe_mode">Erfahren Sie mehr über Mi Protect</string>
+    <string name="about_pure_mode">Über Sicherer Modus</string>
+    <string name="about_safe_mode">Erfahren Sie mehr über Sicherer Modus</string>
     <string name="action_bar_report_link_des">App-Alarm</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="ad_permissions">&lt;u>Berechtigungen&lt;u/></string>
@@ -899,9 +899,9 @@
     <string name="pure_introduction_title3">Zahlungssicherheit</string>
     <string name="pure_introduction_title4">Datenschutz</string>
     <string name="pure_introduction_title5">Betrugsbekämpfung</string>
-    <string name="pure_mode_des">Mi Protect gewährleistet, dass jede auf Ihrem Gerät installierte App die Xiaomi- Sicherheitstests bestanden hat.</string>
+    <string name="pure_mode_des">Sicherer Modus gewährleistet, dass jede auf Ihrem Gerät installierte App die Xiaomi- Sicherheitstests bestanden hat.</string>
     <string name="pure_mode_give_up_protect">Nein danke</string>
-    <string name="pure_mode_open_toast">Mi Protect ist an</string>
+    <string name="pure_mode_open_toast">Sicherer Modus ist an</string>
     <string name="pure_mode_tip_dialog_des">Installation abschließen lassen?</string>
     <string name="pure_mode_tip_dialog_elderly_des">Um Ihre Privatsphäre und Sicherheit zu schützen, blockiert Mi Protect die Installation von Apps aus unbekannten oder riskanten Quellen.</string>
     <string name="pure_mode_tip_dialog_elderly_set">Wenn Sie diese App trotzdem installieren möchten, können Sie das hier tun.</string>
@@ -957,13 +957,16 @@
     <string name="safe_high_speed_installing">Sichere Version installieren…</string>
     <string name="safe_install">Installieren</string>
     <string name="safe_install_mode_settings_old">Sicherer Modus</string>
+    <string name="safe_mode">Sicherer Modus</string>
     <string name="safe_mode_already_authorize">Erlaubt</string>
     <string name="safe_mode_authorize_name">Kürzlich installiert: %1$s</string>
     <string name="safe_mode_authorize_once_install">Einmal erlauben</string>
-    <string name="safe_mode_in_service">Mi Protect im Betrieb</string>
+    <string name="safe_mode_in_service">Sicherer Modus in Betrieb</string>
     <string name="safe_mode_introduce_close_tip">Achtung</string>
     <string name="safe_mode_introduce_close_tip_des">Zum Schutz Ihrer Privatsphäre und Sicherheit empfehlen wir, Mi Protect eingeschaltet zu lassen.</string>
-    <string name="safe_mode_tip_title_off_msg">Mi Protect ist aus</string>
+    <string name="safe_mode_tip_title_off_msg">Sicherer Modus ist aus</string>
+    <string name="safe_mode_tip_title_on_msg">Sicherer Modus</string>
+    <string name="safe_mode_title_text">Sicherer Modus</string>
     <string name="safe_relative">Sicherheit</string>
     <string name="safe_version_install">Xiaomi-Sicherheitsversion installieren</string>
     <string name="saturday">Samstag</string>
@@ -976,23 +979,23 @@
     <string name="second_recomment_ad_title">Benutzer, die &lt;font color=#0BAE73>%1$s&lt;/font> installieren, mögen auch</string>
     <string name="secure_mode_app_install_verify">Nicht verifizierte Apps autorisieren</string>
     <string name="secure_mode_authority_verification_type">Verifizierungsmethode</string>
-    <string name="secure_mode_open_app_verify_des">Installation für Apps autorisieren, die nicht von GetApps verifiziert wurden</string>
-    <string name="secure_mode_security_verify">Sicherheitsautorisierung</string>
     <string name="secure_mode_new_function">Neue Funktionen</string>
     <string name="secure_mode_new_function_1">Geräte-ID verbergen und Tracking verhindern</string>
     <string name="secure_mode_new_function_2">Daten für jede App unabhängig speichern</string>
     <string name="secure_mode_new_function_3">Irreführende und erzwungene App-Installation verhindern</string>
     <string name="secure_mode_new_function_4">Ungewolltes Starten von Apps verhindern</string>
     <string name="secure_mode_new_title">Umfassender Schutz vor nicht geprüften Apps</string>
+    <string name="secure_mode_open_app_verify_des">Installation für Apps autorisieren, die nicht von GetApps verifiziert wurden</string>
+    <string name="secure_mode_security_verify">Sicherheitsautorisierung</string>
     <string name="secure_verify_close_tip_des">Wenn Sie diese Funktion ausschalten, führt Ihr Gerät keine Sicherheitsprüfungen für Apps durch, und alle Apps können ohne Autorisierung heruntergeladen werden. Verifizieren Sie Ihre Identität, um diese Funktion auszuschalten.</string>
     <string name="secure_verify_close_title">Sicherheitsverifizierung ausschalten</string>
     <string name="security_auth">Verifizieren Sie Ihre Identität</string>
     <string name="security_auth_msg">Verifizieren Sie Ihre Identität</string>
-    <string name="security_mode_close_feedback">Danke, dass Sie Mi Protect verwenden</string>
+    <string name="security_mode_close_feedback">Danke, dass Sie Sicherer Modus verwenden</string>
     <string name="security_mode_close_tips_service_list_title">Mi Protect hilft Ihnen:</string>
     <string name="security_mode_feedback_commit">Absenden</string>
     <string name="security_mode_feedback_multiple_choice">" (alle zutreffenden wählen)"</string>
-    <string name="security_mode_feedback_reason">Warum schalten Sie Mi Protect aus?</string>
+    <string name="security_mode_feedback_reason">Warum schalten Sie Sicherer Modus aus?</string>
     <string name="security_mode_feedback_reason_annoying">Er ist irritierend</string>
     <string name="security_mode_feedback_reason_input_hint">Sagen Sie uns, was Sie denken</string>
     <string name="security_mode_feedback_reason_install">Ich kann keine Apps installieren, wenn er an ist</string>
@@ -1003,8 +1006,8 @@
     <string name="security_mode_guide_about_security_mode">Mehr erfahren</string>
     <string name="security_mode_guide_about_security_mode_2">Was ist Mi Protect?</string>
     <string name="security_mode_guide_do_not_show_again">Nicht mehr anzeigen</string>
-    <string name="security_mode_introduce">Funktionen Mi Protect</string>
-    <string name="security_mode_introduce_setting">Einstellungen Mi Protect</string>
+    <string name="security_mode_introduce">Funktionen Sicherer Modus</string>
+    <string name="security_mode_introduce_setting">Einstellungen Sicherer Modus</string>
     <string name="security_mode_off_suggestion_msg">Empfohlen</string>
     <string name="security_mode_on_suggestion_msg">An</string>
     <string name="security_mode_open_guide_elder_action_button">Einschalten</string>
@@ -1083,7 +1086,8 @@
     <string name="settings_security_mode_service_title_3">Datenschutz</string>
     <string name="settings_security_mode_service_title_4">Zahlungssicherheit</string>
     <string name="settings_security_mode_status_off_msg">Aus</string>
-    <string name="settings_security_mode_status_on_msg">Mi Protect ist an</string>
+    <string name="settings_security_mode_status_on_msg">Sicherer Modus ist an</string>
+    <string name="settings_security_mode_title_off_msg">Sicherer Modus</string>
     <string name="settings_warning_dialog_detail">"In den folgenden Fällen werden Sie gefragt:
  <li>Wenn eine App Viren enthält.</li>
  <li>Wenn eine neuere App-Version in unserem Markt verfügbar ist.</li>
@@ -1232,8 +1236,8 @@
     <string name="virus_install_confirm_install">Installieren</string>
     <string name="virus_install_confirm_msg">Die App, die Sie gerade installieren, enthält Viren, die Ihre persönlichen Daten gefährden oder bösartige deductions erzwingen können.</string>
     <string name="virus_install_confirm_title">Installation bestätigen</string>
-    <string name="virus_safe_install_mode_security_tips">Wenn Sie dieser App vertrauen, können Sie ihre Installation unter Einstellungen > Apps > Mi Protect autorisieren.</string>
-    <string name="virus_safe_install_mode_security_tips_pi">Wenn Sie dieser App vertrauen, tippen Sie auf das Symbol Einstellungen und wählen Sie \"Mi Protect\", um die Installation zu autorisieren.</string>
+    <string name="virus_safe_install_mode_security_tips">Wenn Sie dieser App vertrauen, können Sie ihre Installation unter Einstellungen > Apps > Sicherer Modus autorisieren.</string>
+    <string name="virus_safe_install_mode_security_tips_pi">Wenn Sie dieser App vertrauen, tippen Sie auf das Symbol Einstellungen und wählen Sie \"Sicherer Modus\", um die Installation zu autorisieren.</string>
     <string name="virus_scan_caller_unknown">Unbekannt</string>
     <string name="virus_scan_clear">Entfernen</string>
     <string name="virus_scan_install"><u>Trotzdem installieren</u></string>
@@ -1253,8 +1257,8 @@
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="welcome_to_security_mody">Willkommen bei Mi Protect</string>
-    <string name="what_is_security_mode">Was ist Mi Protect?</string>
+    <string name="welcome_to_security_mody">Willkommen bei Sicherer Modus</string>
+    <string name="what_is_security_mode">Was ist Sicherer Modus?</string>
     <string name="xiaomi_account_risk">Xiaomi-Konto-Passwort</string>
     <string name="xiaomi_account_verify">Melden Sie sich bei Ihrem Xiaomi-Konto an, um mit der Installation fortzufahren.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
