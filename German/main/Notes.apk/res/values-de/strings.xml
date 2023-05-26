@@ -33,6 +33,7 @@
     <string name="actionbar_close_description">Schließen</string>
     <string name="actionbar_home_description">Zurück</string>
     <string name="add_account_desc">Notizen mit dem Xiaomi-Konto synchronisieren?</string>
+    <string name="added_to_clipboard">Erfolgreich kopiert</string>
     <string name="afternoon">Nachmittag</string>
     <string name="alarm_bar_title">Erinnerung</string>
     <string name="alert_action_edit_anyway">Bearbeiten</string>
@@ -120,6 +121,7 @@
     <string name="chip_text">Chiptext</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
+    <string name="clip_resource_deleted">Dieses Element ist nicht mehr verfügbar</string>
     <string name="close">Schließen</string>
     <string name="cloud_service_state_open_reminder">Synchronisation mit der Cloud einschalten, um Notizen zu synchronisieren</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Synchronisation mit der Cloud einschalten</string>

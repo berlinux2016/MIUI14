@@ -90,6 +90,7 @@
     <string name="apply_not_support_aod">Always-On-Display wird auf diesem Gerät nicht unterstützt</string>
     <string name="apply_not_support_in_second_space">Element kann nicht im Zweitprofil angewendet werden</string>
     <string name="apply_not_support_maml_aod">Always-On-Display kann auf diesem Gerät nicht mit Themen kombiniert werden</string>
+    <string name="apply_not_support_video_wallpaper_warning">4K-, 8K- und Dolby-Videos können nicht als Videohintergrund eingestellt werden.</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Dieser Hintergrund wird auf den inneren und äußeren Sperrbildschirm und den Startbildschirm angewendet.</string>
     <string name="apply_succeed">Erfolgreich angewendet</string>
     <string name="apply_success_not_enable_aod">Always-On-Display erst in den Einstellungen einschalten</string>

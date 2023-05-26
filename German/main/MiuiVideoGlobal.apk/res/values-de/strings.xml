@@ -657,6 +657,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="incentive_login_success_for_already_claimd">Erfolgreich angemeldet. Punkte beansprucht.</string>
     <string name="incentive_login_tip">Anmelden, um Punkte zu sammeln und Prämien zu erhalten</string>
     <string name="incentive_my_points">Meine Punkte</string>
+    <string name="incentive_offline">Wir bedauern, Ihnen mitteilen zu müssen, dass wir unsere Aufgabenfunktion einstellen werden. Sie können Ihre vorhandenen Münzen bis zum 31. Juli 2023 einlösen.</string>
     <string name="incentive_popup_window_share">Teilen, um Punkte zu sammeln</string>
     <string name="incentive_popup_window_subscribe">Abonnieren, um Punkte zu sammeln</string>
     <string name="incentive_rules_title_bar">Regeln</string>
@@ -840,6 +841,11 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="lv_use_notch">Notch anzeigen</string>
     <string name="lv_volume">Lautstärke</string>
     <string name="manage">Verwalten</string>
+    <string name="manager_request_Content">Wegen der Android-Richtlinien zur Dateiverwaltung kann Mi Video nicht auf Videos von anderen Apps zugreifen.\nSie können Mi Video erlauben, auf alle Videodateien zuzugreifen und sie abzuspielen.\nWir verwenden diese Berechtigung nur, um die von Ihnen gesuchten Videos zu finden, und greifen nicht auf andere Dateien zu. Jetzt zulassen?</string>
+    <string name="manager_request_cancel">Abbrechen</string>
+    <string name="manager_request_continue">Zulassen</string>
+    <string name="manager_request_tip">Nicht mehr anzeigen</string>
+    <string name="manager_request_title">Auf diese Datei kann nicht zugegriffen werden</string>
     <string name="mangotv_feature_list_title3">Episode %s hinzugefügt</string>
     <string name="mangotv_feature_more">Mehr</string>
     <string name="mangotv_feature_title1">Episoden</string>
@@ -1041,7 +1047,9 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="my_feedback_title">Mein Feedback</string>
     <string name="need_update_app">Mi Video aktualisieren, um alle Funktionen zu verwenden</string>
     <string name="network_connect_info">Netzwerkverbindung wurde nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="network_error_and_retry_tip">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="network_error_info">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="network_error_tip">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen.</string>
     <string name="network_failed">Netzwerkverbindung nicht möglich</string>
     <string name="network_timeout_info">Netzwerkverbindung nicht möglich. Erneut versuchen.</string>
     <string name="new_channel_tip">Werfen Sie einen Blick auf neue Kanäle!</string>
