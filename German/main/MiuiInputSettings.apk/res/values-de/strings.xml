@@ -38,6 +38,12 @@
     <string name="back_tap">Zurück tippen</string>
     <string name="back_triple_tap">Dreifachtipp zurück</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
+    <string name="bt_enable_pair_connect_cancel">Abbrechen</string>
+    <string name="bt_enable_pair_connect_fail">Verbinden fehlgeschlagen, wiederholen</string>
+    <string name="bt_enable_pair_connect_line">Xiaomi Pad-Tastatur</string>
+    <string name="bt_enable_pair_connect_ok">Verbinden</string>
+    <string name="bt_enable_pair_connect_succceed">Erfolgreich verbunden</string>
+    <string name="bt_enable_pair_connecting">Verbinden</string>
     <string name="builtin_keyboard_settings_title">Hardwaretastatur</string>
     <string name="camera_key_action_app_title">App öffnen</string>
     <string name="camera_key_action_category_title">Kamera kann nicht verwendet werden ist</string>
@@ -544,7 +550,7 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
-    <string name="turn_on_torch">Lampe einschalten</string>
+    <string name="turn_on_torch">Blitz einschalten</string>
     <string name="under_keyguard">Bildschirm aus</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
