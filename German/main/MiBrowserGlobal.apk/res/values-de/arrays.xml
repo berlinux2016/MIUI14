@@ -4,11 +4,6 @@
         <item>Männlich</item>
         <item>Weiblich</item>
     </string-array>
-    <string-array name="bookshelf__general_shared__main_categories">
-        <item>Bücherregal</item>
-        <item>Bibliothek</item>
-        <item>Bücherregal</item>
-    </string-array>
     <string-array name="menu_theme_setting">
         <item>Weiß</item>
         <item>Gelb</item>
@@ -61,12 +56,6 @@
         <item>Groß</item>
         <item>Sehr Groß</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
     <string-array name="pref_web_permissions">
         <item>Einschränken</item>
         <item>Fragen</item>
@@ -74,7 +63,7 @@
     </string-array>
     <string-array name="pref_web_permissions_sub_one">
         <item>Einschränken</item>
-        <item>Zulassen</item>
+        <item>Fragen</item>
     </string-array>
     <string-array name="pref_web_permissions_sub_two">
         <item>Einschränken</item>
@@ -85,12 +74,8 @@
         <item>Keiner</item>
         <item>Neuer Benutzer</item>
     </string-array>
-    <string-array name="setting_home_page_show_list">
-        <item>Webseiten</item>
-        <item>Mint Games</item>
-    </string-array>
   <string-array name="setting_swipe_up_target">
-    <item>Suchen</item>
+    <item>Suche</item>
     <item>Nachrichten</item>
   </string-array>
     <string-array name="shortcut_dialog_delete">
@@ -106,11 +91,11 @@
         <item>Den Olympischen Spielen mit Mi folgen</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>Aktuelle Netzwerkverbindung ist sehr langsam. Es scheint, dass Sie sich in einem Gebiet mit schlechter Netzabdeckung befinden.</item>
+        <item>Aktuelle Netzwerkverbindung ist sehr langsam. Anscheinend befinden Sie sich in einem Gebiet mit schlechter Netzabdeckung.</item>
         <item>Aktuelle Netzwerkverbindung ist langsam.</item>
         <item>Keine Probleme mit der Netzwerkverbindung gefunden.</item>
         <item>Aktuelle Netzwerkverbindung ist schnell. Sie ist ausreichend für das Streamen von Filmen!</item>
-        <item>Aktuelle Netzwerkverbindung ist sehr schnell! Sie ist gut genug für Ihr Spiel.</item>
+        <item>Aktuelle Netzwerkverbindung ist sehr schnell! Sie sind ganz vorne mit dabei.</item>
     </string-array>
     <string-array name="user_guide_info_array">
         <item>Videos und Fotos von Social Media herunterladen</item>
