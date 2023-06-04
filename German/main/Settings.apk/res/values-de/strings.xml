@@ -481,7 +481,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="adaptive_sleep_summary_on">An/Bildschirm wird nicht ausgeschaltet, wenn Sie ihn sich ansehen</string>
     <string name="adaptive_sleep_title">Bildschirmwahrnehmung</string>
     <string name="adaptive_sleep_title_no_permission">Kamerazugriff erforderlich</string>
-    <string name="adb_authorization_timeout_summary">Autom. Entzug von adb-Rechten für Systeme deaktivieren, die sich nicht in der Standard- (7 Tage) oder benutzerdefinierten (mind. 1 Tag) Zeitspanne erneut verbunden haben.</string>
+    <string name="adb_authorization_timeout_summary">Autom. Entzug von adb-Rechten für Systeme deaktivieren, die sich nicht in der Standard- (7 Tage) oder benutzerdef. (mind. 1 Tag) Zeit erneut verbunden haben</string>
     <string name="adb_authorization_timeout_title">Timeout adb-Autorisierung deaktivieren</string>
     <string name="adb_device_fingerprint_title_format">Gerätefingerabdruck: %1$s</string>
     <string name="adb_device_forget">Vergessen</string>
