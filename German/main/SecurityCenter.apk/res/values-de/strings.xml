@@ -511,7 +511,7 @@
     <string name="app_manager_perm">Rechte</string>
     <string name="app_manager_permission_dcimcontrol_title">Galeriezugriff</string>
     <string name="app_manager_permission_manager_title">Rechte</string>
-    <string name="app_manager_permission_notify_title">Benachrichtigungen</string>
+    <string name="app_manager_permission_notify_title">Benachrichtigung</string>
     <string name="app_manager_permission_power_saving_title">Stromsparen</string>
     <string name="app_manager_permission_summary_reject">Alles beschränken</string>
     <string name="app_manager_powerkeeper_miui_auto">MIUI Stromsparen</string>
