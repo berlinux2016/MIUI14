@@ -39,11 +39,11 @@
     <string name="back_triple_tap">Dreifachtipp zurück</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bt_enable_pair_connect_cancel">Abbrechen</string>
-    <string name="bt_enable_pair_connect_fail">Verbinden fehlgeschlagen, wiederholen</string>
+    <string name="bt_enable_pair_connect_fail">Verbinden fehlgeschlagen. Erenut versuchen.</string>
     <string name="bt_enable_pair_connect_line">Xiaomi Pad-Tastatur</string>
     <string name="bt_enable_pair_connect_ok">Verbinden</string>
     <string name="bt_enable_pair_connect_succceed">Erfolgreich verbunden</string>
-    <string name="bt_enable_pair_connecting">Verbinden</string>
+    <string name="bt_enable_pair_connecting">Verbinden…</string>
     <string name="builtin_keyboard_settings_title">Hardwaretastatur</string>
     <string name="camera_key_action_app_title">App öffnen</string>
     <string name="camera_key_action_category_title">Kamera kann nicht verwendet werden ist</string>
@@ -132,6 +132,12 @@
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="intelligence_suppression_summary">Größe des Bereichs in der Nähe der Ränder, in dem versehentliche Berührungen ignoriert werden, dynamisch an den Griff anpassen</string>
     <string name="intelligence_suppression_title">Automatisch (empfohlen)</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Halten Sie die Einschalttaste für %ss gedrückt, um Google Assistant aufzuwecken</string>
+    <string name="kddi_long_press_power_guide_assistant_title">Google Assistant aufwecken</string>
+    <string name="kddi_long_press_power_guide_know">Verstanden</string>
+    <string name="kddi_long_press_power_guide_settings">Einstellungen</string>
+    <string name="kddi_long_press_power_guide_shutdown_message">Drücken Sie gleichzeitig die Power- und die Lautstärketasten, um Ihr Gerät neu zu starten oder auszuschalten</string>
+    <string name="kddi_long_press_power_guide_shutdown_title">Gerät neu starten oder ausschalten</string>
     <string name="key_combination_power_back">Power + Zurücktaste</string>
     <string name="key_combination_power_home">Power + Home-Taste</string>
     <string name="key_combination_power_menu">Power + Menütaste</string>
@@ -158,6 +164,10 @@
     <string name="keyboard_back_light">Hintergrundbeleuchtung Tastatur</string>
     <string name="keyboard_back_light_automatic_adjustment">Hintergrundbeleuchtung automatisch anpassen</string>
     <string name="keyboard_back_light_brightness">Helligkeit Hintergrundbeleuchtung</string>
+    <string name="keyboard_connect_fail_text">Tastatur wurde nicht verbunden</string>
+    <string name="keyboard_connect_lose_text">Tastaturverbindung verloren</string>
+    <string name="keyboard_connect_low_electricity_text">Tastaturakku ist schwach. Schließen Sie ihn an eine Stromquelle an.</string>
+    <string name="keyboard_connect_success_text">Tastatur erfolgreich verbunden</string>
     <string name="keyboard_cursor_style_title">Cursor-Stil</string>
     <string name="keyboard_function_summary_first_line">· Gedrückt halten, um Verknüpfungen anzuzeigen.</string>
     <string name="keyboard_function_summary_second_line">· Berühren Sie den NFC-Bereich der Tastatur mit einem Telefon, das am selben Konto angemeldet ist, um den Bildschirm zu übertragen. Wählen Sie eine Datei oder ein Foto für die einfache Übertragung zwischen Geräten.</string>
@@ -462,6 +472,8 @@
     <string name="stylus_ota_updating">Aktualisieren</string>
     <string name="stylus_pen_mask_text">Auf den Bildschirm tippen, um mit dem Schreiben zu beginnen</string>
     <string name="stylus_primary_key">Erste Taste</string>
+    <string name="stylus_quick_note_summary">Wenn der Bildschirm ausgeschaltet ist, tippen Sie mit Ihrem Stift darauf, um mit dem Schreiben zu beginnen. Diese Funktion erhöht den Akkuverbrauch.</string>
+    <string name="stylus_quick_note_title">Schreiben mit ausgeschaltetem Bildschirm</string>
     <string name="stylus_quick_write">Schreiben</string>
     <string name="stylus_quick_write_summary">Schreibtaste gedrückt halten, um zu schreiben oder zu zeichnen.</string>
     <string name="stylus_screen_shot">Screenshot erstellen</string>

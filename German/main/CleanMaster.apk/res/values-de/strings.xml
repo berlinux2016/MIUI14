@@ -458,7 +458,7 @@
     <string name="gps_prompt_context">Über Mobilfunknetz herunterladen?</string>
     <string name="gps_prompt_title">Tipps</string>
     <string name="grabage_rank_title">Heute bereinigt</string>
-    <string name="guide_dc_dialog_message">Weniger als 2 GB freier Speicherplatz verfügbar. Dies könnte Ihr Gerät verlangsamen. Führen Sie eine Tiefenreinigung durch, um Speicherplatz zu sparen.</string>
+    <string name="guide_dc_dialog_message">Weniger als 2 GB freier Speicherplatz verfügbar. Dies könnte Ihr Gerät verlangsamen. Tiefenreinigung durchführen, um Speicherplatz freizugeben.</string>
     <string name="guide_dc_dialog_message_new">Weniger als %d GB freier Speicher verfügbar. Dies könnte Ihr Gerät verlangsamen. Tiefenreinigung durchführen, um Speicherplatz freizugeben.</string>
     <string name="guide_dc_dialog_negative">Abbrechen</string>
     <string name="guide_dc_dialog_title">Speicherplatz wird knapp</string>
@@ -548,7 +548,7 @@
     <string name="long_click_dialog_summary">Lange antippen, um zu den Ausnahmen hinzuzufügen</string>
     <string name="long_click_dialog_title">Hinweis</string>
     <string name="low_memory_clean_dialog_msg">Sie müssen vorher mindestens 100 MB Dateien bereinigen</string>
-    <string name="low_memory_clean_dialog_msg_new">Mind. %d MB Dateien zuerst löschen</string>
+    <string name="low_memory_clean_dialog_msg_new">Erst mind. %d MB Dateien löschen</string>
     <string name="low_memory_clean_dialog_title">Zu wenig freier Speicher</string>
     <string name="low_memory_warning_dialog_cancel_button">Abbrechen</string>
     <string name="low_memory_warning_dialog_msg">Speicher auf dem Gerät freigeben, um fortzufahren</string>
@@ -961,18 +961,15 @@
     <string name="tips_app_specific_clean_result_page">Speicherplatz freigeben</string>
     <string name="tips_data_page">App-Daten versuchen zu löschen, um Speicherplatz freizugeben</string>
     <string name="tips_low_storage_dialog_cancel">Abbrechen</string>
-    <string name="tips_low_storage_dialog_msg_qq">QQ-Cache-Größe hat 3 GB erreicht. Dies könnte Ihr Gerät verlangsamen. QQ-Cache jetzt löschen?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">QQ-Cachegröße hat %d GB erreicht. Dies kann Ihr Gerät verlangsamen. QQ-Cache jetzt löschen?</string>
-    <string name="tips_low_storage_dialog_msg_storage">Sie nutzen 90% Ihres Speicherplatzes. Deinstallieren Sie Apps, die Sie nicht verwenden.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Sie verwenden %s Ihres Speichers. Deinstallieren Sie nicht verwendete Apps.</string>
-    <string name="tips_low_storage_dialog_msg_wechat">WeChat-Cache-Größe hat 3 GB erreicht. Dies könnte Ihr Gerät verlangsamen. WeChat-Cache jetzt löschen?</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">WeChat-Cachegröße hat %d GB erreicht. Dies kann Ihr Gerät verlangsamen. WeChat-Cache jetzt löschen?</string>
     <string name="tips_low_storage_dialog_ok">Löschen</string>
     <string name="tips_low_storage_dialog_ok_storage">Speicher freig.</string>
     <string name="tips_low_storage_dialog_title">Speicherplatz wird knapp</string>
     <string name="tips_of_app_manage">Selten verwendete Apps löschen, um Speicherplatz zu sparen</string>
     <string name="tips_of_auto_launch_manage">Autostart selten verwendeter Apps verhindern</string>
-    <string name="tips_of_cloud_service">Melden Sie sich mit Ihrem Xiaomi-Konto an, um weitere Mi Services zu nutzen</string>
+    <string name="tips_of_cloud_service">Melden Sie sich mit Ihrem Xiaomi-Konto an, um weitere Xiaomi Services zu nutzen</string>
     <string name="tips_of_connect">Verbinden Sie sich mit dem Internet, um alle Sicherheitsfeatures zu nutzen</string>
     <string name="tips_of_garbage_cloud_scan">Finden Sie versteckten Müll mit dem Cloudscan</string>
     <string name="tips_of_garbage_data_set">Aktualisieren Sie die Datenbank, um mehr Müll auf Ihrem Gerät zu erkennen</string>

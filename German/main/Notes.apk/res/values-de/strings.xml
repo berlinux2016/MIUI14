@@ -587,6 +587,7 @@
     <string name="pad_note_list_not_text_stub">KeinText</string>
     <string name="pad_todo_create_hint">Aufgabe hinzufügen</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="paste_unsupported_data">Dieser Inhalt kann nicht eingefügt werden</string>
     <string name="pc_action_create_new_folder">Ordner</string>
     <string name="pc_action_create_new_mind_note">Merkhilfe</string>
     <string name="pc_action_create_new_normal_note">Notiz</string>

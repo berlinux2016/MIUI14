@@ -593,6 +593,7 @@
     <string name="download_sdcard_busy_dlg_title">SD-Karte nicht verfügbar</string>
     <string name="download_sdcard_no_space">Herunterladen fehlgeschlagen. Nicht genügend Speicher.</string>
     <string name="download_secure_download_in_xiaomi_market">Im App Store herunterladen</string>
+    <string name="download_select_dir">Anderen Ordner wählen</string>
     <string name="download_status_failed">Download nicht möglich</string>
     <string name="download_status_pending">Warten</string>
     <string name="download_unknown_title">Unbekannt</string>
@@ -826,6 +827,7 @@
     <string name="general__shared__sd_card_unmounted">Speicherberechtigung erforderlich</string>
     <string name="general__shared__unkown_book_format">Dieses Format wird nicht unterstützt</string>
     <string name="general_calendar_events_permission_desc">%1$s den Kalenderzugriff erlauben, um Erinnerungen zu erhalten.</string>
+    <string name="generate_gpt">Fassen Sie die 500-Wörter-Zusammenfassung in der gleichen Sprache wie der unten stehende Artikel zusammen: \n %s</string>
     <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
     <string name="geolocation_permissions_prompt_message">%s möchte auf Ihren Standort zugreifen</string>
     <string name="geolocation_permissions_prompt_remember">Einstellungen merken</string>
@@ -1579,6 +1581,9 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="passport_wrong_voice">Eingegebener Code ist falsch</string>
     <string name="password">Passwort</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="pdf_failed_message">KI-Zusammenfassung wurde nicht erstellt</string>
+    <string name="pdf_retry">Erneut versuchen</string>
+    <string name="pdf_summary">Zusammenfassung</string>
     <string name="per_month">Pro Monat</string>
     <string name="permission_agree_service">Ich habe die folgenden allgemeinen Geschäftsbedingungen gelesen und akzeptiert.</string>
     <string name="permission_alert_window">Um diese Funktion zu verwenden, aktivieren Sie die Systemeinstellung \"Popup-Benachrichtigung anzeigen\"</string>
@@ -1930,6 +1935,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="reject_all_label">Alles ablehnen</string>
     <string name="release_to_refresh">Zum Aktualisieren loslassen</string>
     <string name="relevant_recommendations">Empfohlen</string>
+    <string name="remember_my_choice">Meine Wahl merken</string>
     <string name="remember_passwords_confirm_message">Ausschalten kann Nutzung beeinträchtigen</string>
     <string name="remote_config">Remote Config (Zum Exportieren tippen)</string>
     <string name="remove_bookmark">Lesezeichen löschen</string>
@@ -2131,6 +2137,8 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="skip_current_version">Diese Version überspringen</string>
     <string name="sku_price_everymonth">%1$s jeden Monat</string>
     <string name="slide_card">Wischen für mehr</string>
+    <string name="smart_subtitle">Erhalten Sie eine KI-generierte Zusammenfassung des Artikelinhalts, um die wichtigsten Punkte auf einen Blick zu sehen.</string>
+    <string name="smart_summary">Smarte Zusammenfassung</string>
     <string name="sms_send_success">Erfolgreich gesendet</string>
     <string name="snapshot">Lokal</string>
     <string name="snapshot_failed">Seite wurde nicht gespeichert</string>
@@ -2498,11 +2506,20 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="vpn_subscribe_tips_3">Genießen Sie hohe Geschwindigkeit</string>
     <string name="vpn_used_all_free_data_toast">Sie haben keinen Traffic mehr. Abonnieren zum Fortfahren.</string>
     <string name="vpn_used_all_toast">Sie haben keinen Traffic mehr.</string>
+    <string name="weather_card_aqi">LQI</string>
     <string name="weather_card_baro">Luftdruck</string>
     <string name="weather_card_dew_pt">Taupunkt</string>
     <string name="weather_card_feel">Gefühlt wie %s</string>
     <string name="weather_card_rh">Luftfeuchtigkeit</string>
     <string name="weather_card_vis">Sichtweite</string>
+    <string name="weather_card_wind_direction_east">O-Wind</string>
+    <string name="weather_card_wind_direction_north">N-Wind</string>
+    <string name="weather_card_wind_direction_northeast">NO-Wind</string>
+    <string name="weather_card_wind_direction_northwest">NW-Wind</string>
+    <string name="weather_card_wind_direction_south">S-Wind</string>
+    <string name="weather_card_wind_direction_southeast">SO-Wind</string>
+    <string name="weather_card_wind_direction_southwest">SW-Wind</string>
+    <string name="weather_card_wind_direction_west">W-Wind</string>
     <string name="weather_card_wind_spd">Windgeschwindigkeit</string>
     <string name="weather_cp_des">Wetter von Microsoft Start</string>
     <string name="weather_location_confirm_message">Deaktivieren dieser Funktion kann die Nutzung beeinflussen</string>

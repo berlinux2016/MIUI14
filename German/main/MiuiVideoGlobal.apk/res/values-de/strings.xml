@@ -633,15 +633,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="identity">Identifikation</string>
     <string name="incentive_dialog_cancel_not_interested">Nein danke</string>
-    <string name="incentive_dialog_continue_to_watch">Fortfahren</string>
-    <string name="incentive_dialog_default_message">Schauen Sie für %1$s länger, um %2$s zu erhalten!</string>
-    <string name="incentive_dialog_default_title">Weiterschauen?</string>
-    <string name="incentive_dialog_exit">Beenden</string>
-    <string name="incentive_dialog_negative_give_up">Nein danke</string>
-    <string name="incentive_dialog_negative_play_next_video">Nächstes Video abspielen</string>
     <string name="incentive_dialog_ok_receive_task">Vollständig</string>
-    <string name="incentive_dialog_positive_get_credits">Punkte beanspruchen</string>
-    <string name="incentive_dialog_positive_login_and_get_credits">Anmelden</string>
     <string name="incentive_exchange">Einlösen</string>
     <string name="incentive_exchange_code_copy">Kopieren</string>
     <string name="incentive_exchange_code_copy_and_start">Verwenden</string>

@@ -83,7 +83,7 @@
     <string name="controls_edit_added_subtitle">Elemente durch Ziehen neu anordnen</string>
     <string name="controls_edit_added_title">Hinzugefügt</string>
     <string name="controls_edit_done_button">Fertig</string>
-    <string name="controls_edit_go_to_app_guide">Öffnen</string>
+    <string name="controls_edit_go_to_app_guide">%s öffnen</string>
     <string name="controls_edit_not_added_title">Verfügbar</string>
     <string name="controls_edit_panel_not_added_title">Verfügbare Geräte</string>
     <string name="controls_edit_panel_save_button">Fertig</string>
@@ -427,6 +427,7 @@
     <string name="sunday_shortest">S</string>
     <string name="switch_bar_off">Aus</string>
     <string name="switch_bar_on">AN</string>
+    <string name="system_update">System-Update</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
