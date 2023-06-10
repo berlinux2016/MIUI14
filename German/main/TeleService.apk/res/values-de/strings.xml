@@ -1176,8 +1176,8 @@
     <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">5G-Netzwerkmodus wählen</string>
     <string name="fiveg_network_title">5G</string>
-    <string name="fiveg_nrca_switch_summary">5G-Carrier-Agregation für bessere Konnektivität nutzen</string>
-    <string name="fiveg_nrca_switch_title">5G-Carrier-Agregation</string>
+    <string name="fiveg_nrca_switch_summary">5G-Carrier-Aggregation für bessere Konnektivität nutzen</string>
+    <string name="fiveg_nrca_switch_title">5G-Carrier-Aggregation</string>
     <string name="fiveg_plmn_info_list1">PLMN-Infoliste:</string>
     <string name="fiveg_power_secret_code_tip">Über Sicherheits-APP - Akku - 5G-Stromsparen einstellen</string>
     <string name="fiveg_power_switch_summary">5G-Konnektivität in bestimmten Szenarien weniger stromintensiv machen</string>
@@ -1845,7 +1845,7 @@
     <string name="notification_network_selection_title">Kein Dienst</string>
     <string name="notification_network_selection_without_operator">Ausgewähltes Netzwerk nicht verfügbar</string>
     <string name="notification_switch_auto_text">Anscheinend sind Sie wieder da. Auf lokale Netzwerke umgeschaltet.</string>
-    <string name="notification_switch_auto_title">Mobile Netze</string>
+    <string name="notification_switch_auto_title">Mobilfunknetze</string>
     <string name="notification_voicemail_no_vm_number">Sprachboxnummer unbekannt</string>
     <string name="notification_voicemail_text_format">%s anrufen</string>
     <string name="notification_voicemail_title">Neue Sprachnachricht</string>
@@ -1858,7 +1858,7 @@
     <string name="nr_usaged_operator">Anbieter</string>
     <string name="nr_usaged_used_time">Nutzungsdauer</string>
     <string name="nrca_need_reset">Gerät neu starten, um Änderungen zu übernehmen</string>
-    <string name="nrca_switch_summary">5G-Carrier-Agregation für bessere Konnektivität nutzen</string>
+    <string name="nrca_switch_summary">5G-Carrier-Aggregation für bessere Konnektivität nutzen</string>
     <string name="nrca_switch_title">NRCA nutzen</string>
     <string name="null_phone_number">Rufnummer kann nicht Null sein!</string>
     <string name="number">Nummer</string>

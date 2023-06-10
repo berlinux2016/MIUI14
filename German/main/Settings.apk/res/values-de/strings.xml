@@ -722,6 +722,8 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="aod_to_close">Ausschalten</string>
     <string name="ap_connect_failed">Verbindung nicht möglich</string>
     <string name="ap_connected_battery_level">" | Akku %1$s"</string>
+    <string name="ap_p2p_dialog_message">Die aktuell freigegebene WLAN-Verbindung wird bereits verwendet. Stellen Sie sicher, dass Sie Wi-Fi Direct, Mi Share, Casting oder andere drahtlose Übertragungsdienste nicht verwenden, bevor Sie Ihren persönlichen Hotspot einschalten.</string>
+    <string name="ap_p2p_dialog_yes">Trennen</string>
     <string name="apn_auth_type">Authentisierungstyp</string>
     <string name="apn_auth_type_none">Keine</string>
     <string name="apn_auth_type_pap_chap">PAP oder CHAP</string>
@@ -2548,6 +2550,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="controls_label">Steuerung</string>
     <string name="controls_subtitle">Stromverbrauch anpassen</string>
     <string name="convenience_key_category_title">Systemsteuerung</string>
+    <string name="conversation_assistant">Konferenz-Tools</string>
     <string name="conversation_category_title">Unterhaltung</string>
     <string name="conversation_notifs_category">Unterhaltung</string>
     <string name="conversation_onboarding_summary">Sobald Sie eine Unterhaltung als vorrangig markieren oder andere Änderungen an Unterhaltungen vornehmen, werden diese hier angezeigt.\n\nGesprächseinstellungen ändern:\nVom oberen Bildschirmrand runterwischen, um die Pulldown-Leiste zu öffnen, dann eine Unterhaltung berühren &amp; halten.</string>
@@ -3459,6 +3462,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="enable_non_resizable_multi_window">Nicht größenveränderbar in mehreren Fenstern aktivieren</string>
     <string name="enable_non_resizable_multi_window_summary">Erlaubt nicht größenveränderbare Apps in mehreren Fenstern</string>
     <string name="enable_opengl_traces_title">OpenGL-Traces einschalten</string>
+    <string name="enable_preferred_network_type_summary">Anzeigen und Einstellen des Netzwerktyps unter Einstellungen > SIM-Karten &amp; Mobilfunk > SIM-Karte</string>
+    <string name="enable_preferred_network_type_title">Menü bevorzugter Netzwerktyp anzeigen</string>
     <string name="enable_quick_setting">Schnelleinstellungen anzeigen lassen</string>
     <string name="enable_quick_start">Schnellstart einschalten</string>
     <string name="enable_receiving_mms_notification_title">Eingehende MMS-Nachricht</string>
@@ -3472,6 +3477,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="enable_sizecompat_freeform">Skalierbare Fenster erzwingen</string>
     <string name="enable_sizecompat_freeform_summary">Apps mit Kompatibilitätseinschränkungen in skalierbaren Fenstern zulassen</string>
     <string name="enable_snapshot_screenlock">Zurücktaste lange gedrückt halten, um ein Foto zu machen</string>
+    <string name="enable_snpn">SNPN aktivieren</string>
     <string name="enable_tcp_rtt_support">TCP RTT anzeigen</string>
     <string name="enable_tcp_rtt_support_summary">Bewertung der Leistung der Qualität der Netzwerkkommunikation</string>
     <string name="enable_terminal_summary">Terminal-App aktivieren, die den lokalen Shell-Zugriff bietet</string>
@@ -3645,6 +3651,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="ethernet_tethering_subtext">Internetverbindung des Telefons über USB-Ethernet freigeben</string>
     <string name="evening">Nachmittag</string>
     <string name="every_day">Täglich</string>
+    <string name="ex_func_find_device">Sicherheit - Gerät finden</string>
     <string name="exceptional_case">Ausnahmen</string>
     <string name="exchange_account">Konto wechseln</string>
     <string name="expand_button_title">Erweitert</string>
@@ -3655,6 +3662,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="expert_detail_content_description">Details anzeigen</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="extended_power_menu">Erweitertes Power-Menü</string>
+    <string name="extension_function">Zusätzliche App-Funktionen</string>
+    <string name="extension_function_hint">Funktionsverknüpfungen werden nicht mehr in den Einstellungen angezeigt, wenn Sie die Schalter ausschalten</string>
     <string name="exterior">Farbschema</string>
     <string name="external_auto_rotate_title">Ausrichtung für äußeren Bildschirm sperren</string>
     <string name="external_code_size_label">USB-Speicher-App</string>
@@ -3676,8 +3685,10 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="external_source_untrusted">Nicht erlaubt</string>
     <string name="extreme_threats_summary">Erhalten Sie Benachrichtigungen, die Bedrohungen für Leben und Eigentum darstellen</string>
     <string name="extreme_threats_title">Extreme Bedrohungen</string>
+    <string name="eye_gaze_dialog_message">Wenn Sie Blickerkennung aktivieren, wird das Gerät nicht gesperrt, wenn es erkennt, dass Sie auf den Bildschirm schauen. Ihre Gesichtsmerkmale werden nicht analysiert, und Ihre Gesichtsinformationen werden nicht auf Ihrem Gerät gespeichert oder in die Cloud hochgeladen. Jetzt einschalten?</string>
+    <string name="eye_gaze_dialog_title">Sicherheitshinweis</string>
     <string name="eye_gaze_summary">Gerät wird nicht gesperrt, wenn es erkennt, dass Sie auf den Bildschirm schauen</string>
-    <string name="eye_gaze_title">Blick erkennen</string>
+    <string name="eye_gaze_title">Blickerkennung</string>
     <string name="face_add_max">Sie können bis zu %d Gesichter hinzufügen</string>
     <string name="face_data_apply_for_category_title">Mit Gesichtsdaten entsperren</string>
     <string name="face_data_apply_for_keyguard_title">Sperrbildschirm</string>
@@ -4095,10 +4106,14 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="free_xiaomi_wifi_connect_summary">Tippen, um mit %1$s zu verbinden</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Aktionsleiste eines Popups gedrückt halten und nach unten ziehen</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Popups im Vollbildmodus</string>
+    <string name="freeform_guide_free_drag_summary">Ziehen Sie Text, Bilder oder Dateien zwischen den verschiedenen Fenstern der unterstützten Apps</string>
+    <string name="freeform_guide_free_drag_title">Elemente über Fenster ziehen</string>
     <string name="freeform_guide_move_summary">Aktionsleiste eines Popups gedrückt halten, um es zu verschieben</string>
     <string name="freeform_guide_move_title">Popups verschieben</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Popup in die Ecke des Bildschirms ziehen</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Popup minimieren</string>
+    <string name="freeform_guide_multiple_window_summary">Drücken und halten Sie ein App-Symbol im Dock, um ein neues Fenster zu öffnen.\n*Diese Funktion funktioniert mit Notizen, Mail, Browser und WPS.</string>
+    <string name="freeform_guide_multiple_window_title">Mehrere Fenster öffnen</string>
     <string name="freeform_guide_notification_drop_down_summary">Taste gedrückt halten und Aktionsleiste einer Benachrichtigung herunterziehen</string>
     <string name="freeform_guide_notification_drop_down_title">Popups öffnen</string>
     <string name="freeform_guide_settings">Popups</string>
@@ -4313,6 +4328,12 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="gxzw_quick_open_slow_title">Gedrückt halten</string>
     <string name="gxzw_vibrate_summary">Keine Vibration, wenn keine Fingerabdruck-Animation ausgewählt ist</string>
     <string name="gxzw_vibrate_title">Vibrieren beim Entsperren</string>
+    <string name="handle_ota_connect_first">Griff verbinden</string>
+    <string name="handle_ota_finish_fw">Erfolgreich aktualisiert</string>
+    <string name="handle_ota_update_failed">Aktualisieren nicht möglich</string>
+    <string name="handle_ota_update_title">Firmwareupdates</string>
+    <string name="handle_ota_updating_firmware">Einen Moment…</string>
+    <string name="handle_ota_updating_tip">Aktualisierung im Hintergrund…</string>
     <string name="handy_mode">Einhandmodus</string>
     <string name="handy_mode_enable">Einhandmodus</string>
     <string name="handy_mode_hint">Einhandmodus ist nur am äußeren Bildschirm verfügbar</string>
@@ -4433,6 +4454,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="high_power_prompt_body">App %1$s bleibt im Hintergrund verbunden? Sie könnte mehr Akku verbrauchen.</string>
     <string name="high_power_prompt_title">Akkuoptimierungen ignorieren?</string>
     <string name="high_power_system">Akkuoptimierung nicht verfügbar</string>
+    <string name="high_temperature_toast">Ihr Gerät ist überhitzt. Sie können diese Funktion jetzt nicht verwenden.</string>
     <string name="hint_unadjustable_text">Manuell einstellen nicht möglich. Farbtemperatur wird jetzt automatisch angepasst.</string>
     <string name="history_details_title">Verlaufsdetails</string>
     <string name="history_toggled_on_summary">Hier erscheinen Ihre letzten und schlummernden Benachrichtigungen</string>
@@ -5782,6 +5804,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_custom_sound_summary">Klang bei Verwendung von Kopfhörern anpassen</string>
     <string name="miheadset_define_self">Selbst definieren</string>
     <string name="miheadset_disconnect">Trennen</string>
+    <string name="miheadset_disconnect_ble">Bluetooth trennen</string>
     <string name="miheadset_disconnect_device">Dieses Gerät trennen?</string>
     <string name="miheadset_double_click_key_mode">Doppeltipp-Tastenmodus</string>
     <string name="miheadset_double_click_key_mode_summary">Doppeltipp-Tastenbelegung ändern</string>
@@ -5791,9 +5814,12 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_double_connection_summary">Wenn Sie diese Funktion einschalten, können Sie Anrufe annehmen oder Audio- oder Videodateien auf beiden angeschlossenen Geräten wiedergeben, ohne manuell umschalten zu müssen.</string>
     <string name="miheadset_double_press_left">Doppeltipp linker Ohrhörer</string>
     <string name="miheadset_double_press_right">Doppeltipp rechter Ohrhörer</string>
+    <string name="miheadset_double_tap_temple_when_calling">Doppeltipp während eines Anrufs</string>
+    <string name="miheadset_double_tap_temple_when_idle">Doppeltipp, wenn nicht telefoniert wird</string>
     <string name="miheadset_double_toast">Beide Kopfhörer einstecken, um diese Funktion zu nutzen</string>
     <string name="miheadset_dual_connect_mode">Anschluss an 2 Geräte</string>
     <string name="miheadset_dual_connect_mode_summary">Einschalten, um Ihre Ohrhörer mit 2 Bluetooth-Geräten gleichzeitig zu verbinden</string>
+    <string name="miheadset_dual_connect_mode_summary_with_hint">Einschalten, um eine Verbindung mit zwei Bluetooth-Geräten gleichzeitig herzustellen. Nehmen Sie die Brille für %d Sek ab, wenn Sie diese Funktion ein- oder ausschalten, und koppeln Sie sie erneut.</string>
     <string name="miheadset_enhanceVoice">Stimme verstärken</string>
     <string name="miheadset_enhence_high">Verstärkte Höhen</string>
     <string name="miheadset_enhence_low">Verstärkter Bass</string>
@@ -5836,10 +5862,12 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_key_config_close">Aus</string>
     <string name="miheadset_key_config_close_summary">Rauschunterdrückung und Transparenz ausschalten</string>
     <string name="miheadset_key_config_gesture_control">Gesten</string>
+    <string name="miheadset_key_config_next_and_previous_music">Titel wechseln</string>
     <string name="miheadset_key_config_next_music">Nächster Titel</string>
     <string name="miheadset_key_config_noise_control">Rauschunterdrückung</string>
     <string name="miheadset_key_config_noise_control_summary">Drücken und halten, um zwischen 2 ausgewählten Rauschunterdrückungsmodi zu wechseln</string>
     <string name="miheadset_key_config_noise_summary">Externe Geräusche blockieren</string>
+    <string name="miheadset_key_config_none">Keine</string>
     <string name="miheadset_key_config_press_left">Linken Ohrhörer drücken und halten</string>
     <string name="miheadset_key_config_press_right">Rechten Ohrhörer drücken und halten</string>
     <string name="miheadset_key_config_trans_summary">Externe Geräusche zulassen</string>
@@ -5847,10 +5875,17 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_key_config_triple_right">Rechten Ohrhörer dreifach antippen</string>
     <string name="miheadset_key_config_volume_down">Lautstärke runter</string>
     <string name="miheadset_key_config_volume_up">Lautstärke hoch</string>
+    <string name="miheadset_key_config_volume_up_down">Lautstärke einstellen</string>
     <string name="miheadset_keyconfig_click_thrice">Taste dreimal drücken</string>
     <string name="miheadset_keyconfig_click_twice">Taste doppelt drücken</string>
     <string name="miheadset_keyconfig_press_long">Taste für %d Sekunden gedrückt halten</string>
     <string name="miheadset_last_version">Firmware ist aktuell</string>
+    <string name="miheadset_local_ota">Aktualisieren</string>
+    <string name="miheadset_longpress_left_temple">Linken Bügel drücken und halten</string>
+    <string name="miheadset_longpress_right_temple_when_calling">Rechten Bügel während eines Anrufs gedrückt halten</string>
+    <string name="miheadset_longpress_right_temple_when_idle">Rechten Bügel gedrückt halten, wenn nicht telefoniert wird</string>
+    <string name="miheadset_longpress_temple_when_calling">Während eines Anrufs gedrückt halten</string>
+    <string name="miheadset_longpress_temple_when_idle">Gedrückt halten, wenn nicht telefoniert wird</string>
     <string name="miheadset_low_latency">Geringe Latenzzeit</string>
     <string name="miheadset_manual">Über das Gerät</string>
     <string name="miheadset_manual_operation">Manuell</string>
@@ -5862,9 +5897,12 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_next">Weiter</string>
     <string name="miheadset_notification_summary">In Benachrichtigungsleisten-Widgets anzeigen, wenn Kopfhörer angeschlossen sind</string>
     <string name="miheadset_notification_title">In Benachrichtigungleiste anzeigen</string>
+    <string name="miheadset_offhook">Anruf zurückweisen</string>
     <string name="miheadset_openAnc">Rauschunterdrückung</string>
     <string name="miheadset_openAnc2">Rauschunterdrückung</string>
     <string name="miheadset_open_closeAnc">Geräuschunterdrückung an/aus</string>
+    <string name="miheadset_phone_connected_hangup">Anruf annehmen oder beenden</string>
+    <string name="miheadset_phone_play_pause">Wiedergabe oder Pause</string>
     <string name="miheadset_play_pause">Abspielen/Pause</string>
     <string name="miheadset_plus">Lautstärke +</string>
     <string name="miheadset_preferences">Präferenzen</string>
@@ -5876,6 +5914,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_shared_contacts_summary">Zum Kontakte teilen</string>
     <string name="miheadset_single_ear_indicate">Beide Ohrhörer tragen, um die Rauschunterdrückung zu verwenden</string>
     <string name="miheadset_singleear_toast">Für nur einen Kopfhörer nicht unterstützt</string>
+    <string name="miheadset_slide_left_temple_back_forward">Linken Bügel wischen</string>
+    <string name="miheadset_slide_right_temple_back_forward">Rechten Bügel wischen</string>
     <string name="miheadset_soft">Weich</string>
     <string name="miheadset_spatial_audio_off">Aus</string>
     <string name="miheadset_spatial_audio_on">An</string>
@@ -5907,6 +5947,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_bubbles_notification">Sprechblasen</string>
     <string name="miui_bubbles_notification_status_opened">An</string>
     <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
+    <string name="miui_device_control_description">Apps anzeigen, die Gerätesteuerung unterstützen, um kompatible Smart Home-Geräte steuern zu können</string>
     <string name="miui_enable_service_title">Dienst führt folgende Aktionen durch:</string>
     <string name="miui_experience_optimization">MIUI-Optimierung einschalten</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Abbrechen</string>
@@ -6847,7 +6888,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="now">Jetzt neustarten</string>
     <string name="nr_advanced_calling_summary">5G für Sprachanrufe verwenden</string>
     <string name="nrca_need_reset">Gerät neu starten, um Änderungen zu übernehmen</string>
+    <string name="nrca_registered">Registriert</string>
     <string name="nrca_switch_title">5G Anbieter kombinieren anwenden</string>
+    <string name="nrca_type_title">Status Carrier-Aggregation</string>
+    <string name="nrca_unregistered">Unregistriert</string>
     <string name="nsd_quick_toggle_summary">Apps auf anderen Geräten erlauben, Apps auf diesem Gerät zu finden</string>
     <string name="nsd_quick_toggle_title">Netzwerkerkennungsdienst</string>
     <string name="number_of_device_admins_none">Keine aktiven Apps</string>
@@ -6922,6 +6966,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="ota_disable_automatic_update">Automatische Systemupdates</string>
     <string name="ota_disable_automatic_update_summary">Updates beim Neustart des Geräts anwenden</string>
     <string name="otg_closed">Aus</string>
+    <string name="otg_new_tip">Aktivieren Sie OTG, um Ihr Gerät über USB direkt mit anderen Geräten zu verbinden. Diese Funktion schaltet sich automatisch nach %d Minuten Inaktivität aus.</string>
     <string name="otg_opened">An</string>
     <string name="otg_tip">USB On-The-Go erlaubt USB-Laufwerken und tragbaren Tastaturen, sich mit Ihrem Mobilgerät zu verbinden und Daten auszutauschen. \n\nOTG schaltet sich nach 10 Min Inaktivität automatisch aus.</string>
     <string name="other">Andere</string>
@@ -7967,6 +8012,10 @@ UT Interface: %5$s"</string>
     <string name="screen_dark_mode_smart_dark_title">Dark Mode überall</string>
     <string name="screen_dark_mode_time_title">Zeitplan Dark Mode</string>
     <string name="screen_effect">Farbgebung</string>
+    <string name="screen_effect_adapt_color_summary">Farben auf Basis der aktuellen Beleuchtung anpassen</string>
+    <string name="screen_effect_adapt_color_title">Lebendig</string>
+    <string name="screen_effect_origin_color_summary">Realistische Farben durch Farbkalibrierung wiedergeben</string>
+    <string name="screen_effect_origin_color_title">Originalfarbe PRO</string>
     <string name="screen_enhance_engine_ai_note">%d. Diese Funktion erhöht den Stromverbrauch geringfügig.</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Es können nur Bilder aus der Galerie-App verbessert werden.</string>
     <string name="screen_enhance_engine_ai_note_3">"%d. Diese Funktion funktioniert nicht, wenn Sie sich für die Anzeige der Originalfarben entschieden oder erweiterte Anpassungen vorgenommen haben."</string>
@@ -8669,6 +8718,8 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
     <string name="sending">Senden…</string>
     <string name="sensor_toggle_description">Für alle Apps und Dienste</string>
+    <string name="sensors_hal_log_summary">Protokolle für die Sensor-HAL verwenden</string>
+    <string name="sensors_hal_log_title">Sensor-HAL-Protokolle</string>
     <string name="sensors_off_quick_settings_title">Sensoren AUS</string>
     <string name="separate_keyboard">Ergonomische Tastatur</string>
     <string name="separate_keyboard_summary_fold">Trennen Sie Ihre Tastatur durch eine Unterteilung in der Mitte, um bequemer zu tippen, während Sie Ihr Gerät mit beiden Händen halten</string>
@@ -10613,6 +10664,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="use_otg_file_transfers_summary">Langsames Laden mit 500mA und Dateien übertragen</string>
     <string name="use_otg_title">USB-OTG</string>
     <string name="use_personalized_ad_service">Personalisierte Werbung anzeigen</string>
+    <string name="use_personalized_ad_service_for_global">MIUI-Werbung personalisieren</string>
     <string name="use_personalized_ad_service_summary">Wenn Empfehlungen aus sind, sehen Sie immer noch die gleiche Menge Werbung wie bei aktivierter Funktion, jedoch nicht auf der Grundlage Ihrer Verhaltensdaten oder Ihrer persönlichen Daten.</string>
     <string name="use_personalized_ad_service_summary_for_global">Wenn die personalisierten Werbeempfehlungen aus sind, sehen Sie immer noch die gleiche Menge Werbung in den MIUI-System-Apps, wie wenn die Funktion aktiviert ist. Die Anzeigen von Xiaomi und Drittanbieter-Plattformen werden jedoch nicht mehr relevant sein, da sie nicht auf Ihren persönlichen Vorlieben basieren.</string>
     <string name="use_privacy_password_immediate">Verwenden</string>
@@ -11627,6 +11679,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_unspecified">Bitte wählen</string>
     <string name="wifi_update">Statistik aktualisieren</string>
     <string name="wifi_use_system_certs">Systemzertifikate verwenden</string>
+    <string name="wifi_validation">Netzwerkverifizierung…</string>
     <string name="wifi_venue_website_button_text">Seite öffnen</string>
     <string name="wifi_verbose_logging">Ausführliche WLAN-Protokolle</string>
     <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
