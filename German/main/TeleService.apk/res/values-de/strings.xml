@@ -822,6 +822,7 @@
     <string name="confirm_enable_oem_unlock_text">WARNUNG: Geräteschutzfunktionen funktionieren nicht auf diesem Gerät, wenn diese Einstellung eingeschaltet ist.</string>
     <string name="confirm_enable_oem_unlock_title">OEM-Entsperrung erlauben?</string>
     <string name="confirm_password_label">Neues Passwort bestätigen</string>
+    <string name="confirm_phone_number">Rufnummern bestätigen</string>
     <string name="confirm_pin2_label">Neue PIN2 bestätigen</string>
     <string name="confirm_pin_label">Neue PIN bestätigen</string>
     <string name="connect_disconnect_vibrate_none">Ohne</string>
@@ -872,6 +873,7 @@
     <string name="data_enable_warning">Ständige Nutzung mobiler Daten kann zusätzliche Kosten zu Ihrem Mobilfunktarifs verursachen. Trotzdem verbinden?</string>
     <string name="data_enable_warning_lgu">Sofern in Ihrem Mobilfunktarif nicht anders angegeben, können bei der Nutzung mobiler Daten zusätzliche Kosten anfallen.\n\nMobile Daten trotzdem nutzen?</string>
     <string name="data_enabled">Datenverbindung einschalten</string>
+    <string name="data_for_high_temperature_toast">Ihr Gerät ist überhitzt. Sie können diese Funktion jetzt nicht verwenden.</string>
     <string name="data_interruption_remind">Anscheinend ist Ihre Netzwerkumgebung nicht zuverlässig. Um die Verbindung zu verbessern, erlauben Sie Ihrem Gerät, mobile Daten während VoLTE-Anrufen auf der zweiten SIM-Karte zu nutzen.</string>
     <string name="data_interruption_remind_for_t">Anscheinend ist Ihre Netzwerkumgebung nicht zuverlässig. Um die Verbindung zu verbessern, erlauben Sie Ihrem Gerät, mobile Daten während VoLTE-Anrufen auf der zweiten SIM-Karte zu verwenden.</string>
     <string name="data_plan">Mobile Datentarife</string>
@@ -1001,6 +1003,12 @@
     <string name="dual_4g_switch_summary">4G-Konnektivität für beide SIM-Slots erlauben</string>
     <string name="dual_mic_summary">Unterdrücken Sie Hintergrundgeräusche während des Gesprächs</string>
     <string name="dual_mic_title">Geräuschreduzierung</string>
+    <string name="dual_sim_smart_call_forward_dialog_message">Damit diese Funktion richtig funktioniert, muss die Anrufweiterleitung auf beiden SIM-Karten aktiviert sein. Erkundigen Sie sich bei Ihrem Anbieter nach den Optionen und Kosten für die Anrufweiterleitung.</string>
+    <string name="dual_sim_smart_call_forward_failed">Einrichtung fehlgeschlagen</string>
+    <string name="dual_sim_smart_call_forward_failed_cause">Ein Netzwerkfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="dual_sim_smart_call_forward_summary">Anrufe an andere SIM weiterleiten, wenn sie nicht angenommen werden können</string>
+    <string name="dual_sim_smart_call_forward_title">An andere SIM weiterleiten</string>
+    <string name="dual_sim_smart_call_forward_updating">Einen Moment…</string>
     <string name="duration_disable_summary">Anzeigedauer ist AUS</string>
     <string name="duration_enable_summary">Anzeigedauer ist EIN</string>
     <string name="eab_provisioned_switch_string">EAB/Präsenz bereitgestellt</string>
@@ -1397,10 +1405,12 @@
     <string name="kt_lte_msim_emm_cause_others">SIM %d wurde nicht am Netz angemeldet</string>
     <string name="labelCDMAMore">CDMA-Anrufeinstellungen</string>
     <string name="labelCF">Rufumleitung</string>
-    <string name="labelCFB">Umleiten falls besetzt</string>
+    <string name="labelCFB">Umleiten bei besetzt</string>
     <string name="labelCFNL">Wenn nicht eingeloggt</string>
-    <string name="labelCFNRc">Umleiten falls nicht erreichbar</string>
-    <string name="labelCFNRy">Umleiten falls keine Antwort</string>
+    <string name="labelCFNRc">Umleiten bei nicht erreichbar</string>
+    <string name="labelCFNRc_message">Wenn Sie fortfahren, können Sie keine Anrufe mehr an die andere SIM weiterleiten.</string>
+    <string name="labelCFNRc_title">Achtung</string>
+    <string name="labelCFNRy">Umleiten bei keine Antwort</string>
     <string name="labelCFType">Rufumleitungseinstellungen</string>
     <string name="labelCFU">Immer umleiten</string>
     <string name="labelCFVideo">Videorufumleitung</string>
@@ -2891,7 +2901,8 @@
     <string name="vibrating_for_outgoing_call_accepted_summary">Vibrationsmodus für ausgehenden angenommenen Anruf aktivieren</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Vibration für ausgehenden angenommenen Anruf</string>
     <string name="vice_card_data_in_use_alert">Es können zusätzliche Datenkosten anfallen.</string>
-    <string name="vice_slot_volte_data_dialog_message"><Data>Anscheinend ist Ihre aktuelle Netzverbindung instabil. Sie können versuchen, automatisch zwischen Daten-SIM-Karten zu wechseln. &lt;font color=#ff0000>&lt;b>Die Nutzung dieser Funktion kann zusätzliche Kosten beim Anbieter verursachen.&lt;/b>&lt;/font>.</Data></string>
+    <string name="vice_slot_volte_data_dialog_message"><Data>Anscheinend ist Ihre aktuelle Netzverbindung instabil. Sie können versuchen, automatisch zwischen Daten-SIM-Karten zu wechseln. &lt;font color=#ff0000>&lt;b>Die Verwendung dieser Funktion kann zusätzliche Anbieterkosten verursachen&lt;/b>&lt;/font>.</Data></string>
+    <string name="vice_slot_volte_data_dialog_message_ext"><Data>Anscheinend ist Ihre aktuelle Netzverbindung instabil. Sie können versuchen, automatisch zwischen den Daten-SIM-Karten zu wechseln. &lt;font color=#ff0000>&lt;b>Die Verwendung dieser Funktion kann zusätzliche Anbieterkosten verursachen&lt;/b>&lt;/font>.</Data></string>
     <string name="vice_slot_volte_data_dialog_open">Einschalten</string>
     <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit SIM2 während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datenkosten entstehen. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
     <string name="vice_slot_volte_data_switch_summary">Während VoLTE-Anrufen verbindet sich das Gerät mit einem mobilen Datennetz mit SIM2.</string>

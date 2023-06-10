@@ -1358,8 +1358,10 @@
     <string name="input_lockscreen_pin_hint_text">PIN eingeben</string>
     <string name="input_password_after_boot_msg">Bildschirmsperre bestätigen ist erforderlich, wenn das Gerät neu gestartet wird</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Profilwechsel während eines Gesprächs nicht möglich</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">Im Ruhezustand ist der Profilwechsel nicht möglich</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">Bei niedrigem Akku ist der Profilwechsel nicht möglich</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Profilwechsel nicht möglich, wenn Kindersicherung aktiv</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Bei aktiviertem Ultra-Stromsparen ist der Wechsel zwischen den Profilen nicht möglich</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Bei aktiviertem Ultra-Stromsparen ist der Profilwechsel nicht möglich</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Nach Neustart des Telefons müssen Sie das Hauptprofil aufrufen</string>
     <string name="input_password_handle_sdcard_fs">Zweitprofil kann nicht vom Sperrbildschirm gestartet werden. Vom Hauptprofil starten.</string>
     <string name="input_password_hint_text">Passwort eingeben</string>
@@ -1785,6 +1787,7 @@
     <string name="miui_notification_menu_unfold">Als wichtig markieren</string>
     <string name="miui_notification_slide_menu_msg_ongoing">Dauerhafte Benachrichtigungen für \"%1$s\" jetzt einschränken?</string>
     <string name="miui_notification_slide_menu_ongoing">Dauerhafte Benachrichtigungen einschränken</string>
+    <string name="miui_restart_button_description">Neustart für optimale Anzeige</string>
     <string name="miui_ringer_count_down">Countdown</string>
     <string name="miui_ringer_standard">Lautlos</string>
     <string name="miui_ringer_standard_description">Klingeltöne für eingehende Anrufe und Benachrichtigungen stumm schalten</string>
@@ -2381,6 +2384,7 @@
     <string name="quick_settings_cellular_detail_data_used">%s genutzt</string>
     <string name="quick_settings_cellular_detail_data_warning">%s Warnung</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobile Daten (WCDMA/LTE) werden ausgeschaltet. Sofern Sie kein WLAN verwenden, können Sie keine Apps mehr nutzen, die eine Datenverbindung erfordern. Das Senden oder Empfangen von Multimedia-Nachrichten wird eingeschränkt.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff_wlan">Wenn Sie mobile Daten ausschalten, können Sie das Internet nur nutzen, wenn Sie sich mit WLAN verbinden. Sie können aber weiterhin MMS senden. Mobile Daten trotzdem ausschalten?</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobile Daten werden eingeschaltet. Für die mobile Netzwerkverbindung können je nach Tarif zusätzliche Kosten anfallen.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Abbrechen</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Erlauben</string>
@@ -2993,6 +2997,7 @@
     <string name="the_valentines_day">Valentinstag</string>
     <string name="the_water_lantern_festival">Laternenfestival</string>
     <string name="theme">Thema</string>
+    <string name="thermal_protection_warning">Ihr Gerät ist überhitzt. Sie können diese Funktion jetzt nicht verwenden.</string>
     <string name="thermal_shutdown_dialog_help_text">Vorsichtsmaßnahmen beachten</string>
     <string name="thermal_shutdown_dialog_message">Ihr Telefon war zu heiß, also wurde es ausgeschaltet, um sich abzukühlen.\n\nIhr Telefon läuft jetzt normal. Ihr Telefon könnte zu heiß werden, wenn Sie:\n\u0009• ressourcenintensive Apps (z. B. Spiele-, Video- oder Navigations-Apps) verwenden,\n\u0009• große Dateien herunter- oder hochladen,\n\u0009• Ihr Telefon bei hohen Temperaturen verwenden.</string>
     <string name="thermal_shutdown_message">Ihr Telefon läuft jetzt normal</string>
