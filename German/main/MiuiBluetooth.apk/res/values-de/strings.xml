@@ -228,6 +228,7 @@ Abtastrate"</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
     <string name="bt_hci_snoop_log_summary">Alle Bluetooth-HCI-Pakete in einer Datei erfassen (Bluetooth umschalten nach Änderung dieser Einstellung)</string>
+    <string name="bt_plugin_is_update_loading_dialog">Aktualisierung…</string>
     <string name="bt_plugin_update_dialog_cancle">Nicht jetzt</string>
     <string name="bt_plugin_update_dialog_title">Bluetooth-Update</string>
     <string name="bt_plugin_update_dialog_update">Aktualisieren</string>
@@ -235,6 +236,8 @@ Abtastrate"</string>
     <string name="bt_plugin_update_done_dialog_msg">Um die Änderungen zu übernehmen, werden die Einstellungen geschlossen und die Bluetooth-Verbindung wird getrennt.</string>
     <string name="bt_plugin_update_done_dialog_title">Änderungen anwenden</string>
     <string name="bt_plugin_update_done_toast">Erfolgreich aktualisiert</string>
+    <string name="bt_plugin_update_failed_toast">Ein Fehler ist aufgetreten. Laden fehlgeschlagen.</string>
+    <string name="bt_plugin_update_loading_dialog">Einen Moment…</string>
     <string name="bt_plugin_update_notification_updating">Bluetooth-Update</string>
     <string name="bubble_app_setting_bubble_conversation">Blasen für diese Unterhaltung einschalten</string>
     <string name="bubble_app_setting_unbubble_conversation">Blasen für diese Unterhaltung ausschalten</string>
@@ -489,6 +492,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="inactive_app_active_summary">Aktiv, tippen zum Umschalten</string>
     <string name="inactive_app_inactive_summary">Inaktiv, tippen zum Umschalten</string>
     <string name="inactive_apps_title">Standby-Apps</string>
+    <string name="information_go_to_fitness">Sie finden die entsprechenden Einstellungen unter Mi Fitness</string>
     <string name="install_all_deferred">Installation aufgeschoben</string>
     <string name="install_all_features_now">Alle Funktionen jetzt installieren</string>
     <string name="install_other_apps">Installieren unbekannter Apps</string>
@@ -515,6 +519,8 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="keywords_wifi_display_settings">spiegeln</string>
     <string name="launch_defaults_none">Kein Standard gesetzt</string>
     <string name="launch_defaults_some">Einige Standards gesetzt</string>
+    <string name="lea_disable_successfully">Normales Bluetooth wird jetzt für die Kopfhörerverbindung und die Audioübertragung verwendet</string>
+    <string name="lea_enable_successfully">LE Audio wird jetzt für die Kopfhörerverbindung und die Audioübertragung verwendet</string>
     <string name="load_all_features_deferred">Alle Funktionen zeitversetzt laden</string>
     <string name="load_assets">Aktiva anzeigen</string>
     <string name="load_feature_hello">Hello-Funktion starten</string>
@@ -993,6 +999,13 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
+    <string name="tv_calibration_doing">Kalibrierung…</string>
+    <string name="tv_calibration_doing_text">Halten Sie die Telefonrückseite in die Mitte des TV-Bildschirms</string>
+    <string name="tv_calibration_done">Kalibrierung abgeschlossen</string>
+    <string name="tv_calibration_done_text">Die Farbanzeige Ihres TVs wurde erfolgreich kalibriert.</string>
+    <string name="tv_calibration_pre">Farbkalibrierung</string>
+    <string name="tv_calibration_pre_text">Kalibrieren Sie die Farbanzeige Ihres TVs mit Ihrem Telefon</string>
+    <string name="tv_calibration_start">Halten Sie die hintere Kamera Ihres Telefons fest an die Mitte des Bildschirms</string>
     <string name="unbind_device_alert_cancel">Abbrechen</string>
     <string name="unbind_device_alert_content">Verbindung mit %1$s verloren. Trennen Sie dieses Gerät, um Strom zu sparen.</string>
     <string name="unbind_device_alert_ok">Trennen</string>

@@ -621,6 +621,9 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren".</string>
     <string name="storage_category">Speicher</string>
     <string name="strict_mode">Strikter Modus aktivieren</string>
     <string name="strict_mode_summary">Bei längeren Aktionen im Hauptthread Bildschirm kurz einblenden</string>
+    <string name="sud_back_button_label">Zurück</string>
+    <string name="sud_more_button_label">Mehr</string>
+    <string name="sud_next_button_label">Weiter</string>
     <string name="tab_title_contacts">Kontakte</string>
     <string name="tap_pencil">Wenn dies Ihr Telefon ist, tippen Sie auf das Stiftsymbol, um Infos hinzuzufügen, die im Notfall hier angezeigt werden</string>
     <string name="tap_to_sign_up">Tippen zum Anmelden</string>

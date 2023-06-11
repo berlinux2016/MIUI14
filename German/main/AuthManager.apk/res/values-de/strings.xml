@@ -101,6 +101,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Diese App möchte für die Anmeldung Ihre Rufnummer vom Netzbetreiber erhalten. Zustimmen?</string>
     <string name="HIPS_Perm_operator_shake">Zugriff auf Beschleunigungssensordaten</string>
     <string name="HIPS_Perm_operator_shake_Desc">Beschleunigungssensordaten werden für die Verfolgung der Ausrichtung und Bewegung (z. B. Schütteln, Kippen und Drehen) verwendet</string>
+    <string name="HIPS_Perm_operator_wall_paper">Dynamischer Hintergrund-Dienste</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Dynamischer Hintergrund-Dienste des Systems bearbeiten</string>
     <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf NFC-Hardware</string>
     <string name="HIPS_Perm_process_outgoing_calls">Zugriff auf Telefon-App</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Eingehende Anrufe überwachen</string>
@@ -175,6 +177,8 @@
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="default_permission_description">unbekannte Aktionen ausführen</string>
+    <string name="deny_fine_keep_blur_location">Ungefährer Standort</string>
+    <string name="deny_fine_keep_blur_location_dont_ask_again">Ungefähren Standort immer zulassen</string>
     <string name="early_morning">Morgen</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
@@ -456,6 +460,8 @@
     <string name="thursday">Donnerstag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
+    <string name="tilte_request_coarse_location">%1$s den Zugriff auf Ihren ungefähren Standort erlauben?</string>
+    <string name="tilte_request_fine_location">%1$s den Zugriff auf Ihren genauen Standort erlauben oder stattdessen den ungefähren Standort verwenden?</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>

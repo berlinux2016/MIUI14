@@ -28,6 +28,8 @@
     <string name="accessibility_ai_scene_on">KI-Kamera an</string>
     <string name="accessibility_ai_watermark_panel_on">Panel KI-Wasserzeichen</string>
     <string name="accessibility_ambilight_panel_on">Panel für Langzeitbelichtung öffnen</string>
+    <string name="accessibility_aperture_adjust">Blende</string>
+    <string name="accessibility_aperture_default">Autom. Blendeneinstellung</string>
     <string name="accessibility_aperture_panel_on">Blendenfeld öffnen</string>
     <string name="accessibility_audio_shutter_bg">Auslöserhintergrundgeräusch</string>
     <string name="accessibility_auto_night_tip_off">Auto-Nachtmodus ist aus</string>
@@ -98,11 +100,17 @@
     <string name="accessibility_filter_pad_close">Filtermenü ist versteckt</string>
     <string name="accessibility_flash_auto">Autoblitz ist an</string>
     <string name="accessibility_flash_back_soft_light">Blitz funktioniert im Soft-Licht-Modus</string>
+    <string name="accessibility_flash_fillin_auto">Aufhelllicht ist auf automatisch</string>
+    <string name="accessibility_flash_fillin_off">Aufhelllicht ist aus</string>
+    <string name="accessibility_flash_fillin_on">Aufhelllicht ist an</string>
+    <string name="accessibility_flash_fillin_touch">Aufhelllicht ist im Blitzlichtmodus an</string>
     <string name="accessibility_flash_mode_button">Blitztaste</string>
     <string name="accessibility_flash_off">Blitz ist aus</string>
     <string name="accessibility_flash_on">Blitz ist an</string>
     <string name="accessibility_flash_on_but_not_adjust_ambient">Blitz kann nicht eingestellt werden</string>
     <string name="accessibility_flash_screen_halo">Ringlicht ist eingeschaltet</string>
+    <string name="accessibility_flash_soft_light_off">Softblitz ist aus</string>
+    <string name="accessibility_flash_soft_light_touch">Softblitz ist im Blitzlichtmodus an</string>
     <string name="accessibility_flash_torch">Blitz ist an, Lampenmodus</string>
     <string name="accessibility_focus_face_pos_bottom">Nahe dem unteren Rand</string>
     <string name="accessibility_focus_face_pos_left">Nahe dem linken Rand</string>
@@ -136,6 +144,8 @@
     <string name="accessibility_live_reverse_button">Voherigen Clip löschen</string>
     <string name="accessibility_live_speed_panel_on">Panel Geschwindigkeits</string>
     <string name="accessibility_lock_focus_success">Fokus erfolgreich gesperrt</string>
+    <string name="accessibility_macro_off">Makromodus ist aus</string>
+    <string name="accessibility_macro_on">Makromodus ist an</string>
     <string name="accessibility_manually_custom_panel_on">Panel Anpassung</string>
     <string name="accessibility_menu_indicator_down">Menü: Einklappen</string>
     <string name="accessibility_menu_indicator_up">Menü: Erweitern</string>
@@ -371,6 +381,11 @@
     <string name="ambilight_tips_for_suggest_using_tripod">Es wird empfohlen, für Aufnahmen ein Stativ zu verwenden</string>
     <string name="ambilight_tips_for_using_tripod">Verwenden Sie ein Stativ</string>
     <string name="aperture">Blende</string>
+    <string name="aperture_adjust_title">Blende</string>
+    <string name="aperture_dark_use_small_aperture_tip">f/%s Blende versuchen bei schlechten Lichtverhältnissen</string>
+    <string name="aperture_invalid_zoomratio_tip">Blende kann nicht mit dem aktuellen Zoomfaktor eingestellt werden</string>
+    <string name="aperture_near_range_tip">Blende kann bei Nahaufnahmen nicht eingestellt werden</string>
+    <string name="aperture_no_wide_camera_tip">Blende kann nur für die Hauptkamera eingestellt werden</string>
     <string name="app_details">"App-Details: "</string>
     <string name="app_name">Einstellung</string>
     <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
@@ -452,6 +467,9 @@
     <string name="beauty_sm_texture_cv">Haut</string>
     <string name="beauty_tab_name_live_beauty">Verschönern</string>
     <string name="beauty_tab_name_live_filter">Filter</string>
+    <string name="bluetooth_fromkeyguard_not_permission">Dieser App den Zugriff auf den Verbindungsstatus von Bluetooth-Kopfhörern erlauben, um diese Funktion normal zu nutzen.</string>
+    <string name="bluetooth_headset_permission_des">Zur Bestimmung des Verbindungsstatus von Bluetooth-Kopfhörern und zur Tonaufnahme über das Kopfhörermikrofon</string>
+    <string name="bluetooth_permission_not_ask_again">Dieser App in den Einstellungen erlauben, sich mit Geräten in der Nähe zu verbinden, um eine Verbindung mit Bluetooth-Kopfhörern herzustellen.</string>
     <string name="bokeh_use_hint">Tiefeneffekt</string>
     <string name="burst_shoot_exit_button_text">Serienbilder schießen ausschalten</string>
     <string name="button_fisheye_camera_title">Fischauge</string>
@@ -529,6 +547,24 @@
     <string name="center_mark">Zentrale Markierung</string>
     <string name="change_bgm">Soundtracks ändern</string>
     <string name="cine_image_modify_layout_content_description">Layout ändern</string>
+    <string name="cinemaster_cancel">Abbrechen</string>
+    <string name="cinemaster_confirm">Beenden</string>
+    <string name="cinemaster_connect_exit_message">Multicam-Einrichtung jetzt beenden?</string>
+    <string name="cinemaster_connection_prerequisites">Erst WLAN im Kontrollzentrum einschalten</string>
+    <string name="cinemaster_connection_prerequisites_china">Erst WLAN im Kontrollzentrum einschalten</string>
+    <string name="cinemaster_description_title">Regie-Modus</string>
+    <string name="cinemaster_guide_content">Verbinden Sie Telefone und Tablets mit demselben Netzwerk, um sie zu einem einzigen Multicam-Setup zu vereinen. Sie können die angeschlossenen Geräte als Kameras und Monitore verwenden und eine Szene aus mehreren Blickwinkeln aufnehmen.</string>
+    <string name="cinemaster_guide_content2">Verbinden Sie Telefone und Tablets mit demselben Netzwerk, um sie zu einem einzigen Multicam-Setup zu vereinen. Sie können die angeschlossenen Geräte als Kameras und Monitore verwenden und eine Szene aus mehreren Blickwinkeln aufnehmen. Wenn Ihre Netzwerkumgebung verhindert, dass Monitor-Feeds nahtlos funktionieren, bleibt der Aufnahmeprozess dennoch stabil.</string>
+    <string name="cinemaster_guide_title">Regie-Modus</string>
+    <string name="cinemaster_network_lost">Gerät wurde getrennt. Erneut Verbindung versuchen.</string>
+    <string name="cinemaster_no_devices">Keine Kameras verbunden</string>
+    <string name="cinemaster_no_devices_monitor">Keine Monitore verbunden</string>
+    <string name="cinemaster_toast_camera_disconnect">Kamera %s vom Multicam-Setup getrennt</string>
+    <string name="cinemaster_toast_monitor_all_disconnect">Alle Monitore getrennt</string>
+    <string name="cinemaster_toast_monitor_connect">Monitor erfolgreich verbunden</string>
+    <string name="cinemaster_toast_monitor_disconnect">Monitor vom Multicam-Setup getrennt</string>
+    <string name="cinemaster_toast_monitor_play_error">Kamera %s wurde wegen eines Fehlers vom Multicam-Setup getrennt</string>
+    <string name="cinemaster_wifi_24g_tips">Wechseln Sie zu einem %s-GHz-Netz, um die Stabilität des Monitor-Feeds zu erhöhen</string>
     <string name="clear_effects">Klare Effekte</string>
     <string name="clear_saved_traces">Gespeicherte Verfolgungsaufnahmen löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
@@ -610,6 +646,7 @@
     <string name="color_enhance_mode">Erweiterte Farben</string>
     <string name="config_name_audio_map">Sonogramn</string>
     <string name="config_name_flash">Blitz</string>
+    <string name="config_name_front_flash">Aufhelllicht</string>
     <string name="config_name_group">Fotoauswahl</string>
     <string name="config_name_hht">Nachtverbesserung</string>
     <string name="config_name_magic">Magischer Fokus</string>
@@ -644,6 +681,16 @@
     <string name="confirm_reset_manually_parameter_message">Alle Parameter auf die Standardwerte zurücksetzen?</string>
     <string name="confirm_restore_message">Standortposition der Fotos speichern?</string>
     <string name="confirm_restore_title">Standardeinstellungen wiederherstellen</string>
+    <string name="connect_view_remote_control">Steuerung</string>
+    <string name="connect_view_sub_title">Multicam-Einrichtung verwendet mehr Bandbreite, um die Latenz zu verringern. Wir empfehlen eine Verbindung mit %s GHz-WLANs, die den Standard der sechsten Generation unterstützen.</string>
+    <string name="connect_view_sub_title_camera">Verbundene Monitore</string>
+    <string name="connect_view_sub_title_monitor">Verbundene Kameras</string>
+    <string name="connect_view_sub_title_new">Multicam-Einrichtung verwendet mehr Bandbreite, um die Latenz zu verringern.\nWir empfehlen eine Verbindung mit %s GHz-WLANs, die den Standard der sechsten Generation unterstützen.</string>
+    <string name="connect_view_title">Multicam-Einrichtung</string>
+    <string name="connect_view_toast_start_error_camera">Kamera starten fehlgeschlagen. Erneut versuchen.</string>
+    <string name="connect_view_toast_start_error_monitor">Monitor starten fehlgeschlagen. Erneut versuchen.</string>
+    <string name="connect_view_toast_start_success_camera">Kamera ist an</string>
+    <string name="connect_view_toast_start_success_monitor">Monitor ist an</string>
     <string name="connect_wifi">Mit diesem Netzwerk verbinden</string>
     <string name="contact_address">Adresse</string>
     <string name="contact_birthday">Gebrurtstag</string>
@@ -685,6 +732,7 @@
     <string name="cta_perm_voice_desc">Für Audioaufnahme bei der Videoaufnahme</string>
     <string name="cta_user_tips"><Data>Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen Sie unsere &lt;a href =%1$s>Nutzervereinbarung&lt;/a> und &lt;a href =%2$s>Datenschutzerklärung&lt;/a>.</Data></string>
     <string name="custom_content_unavailable_alert">Der von Ihnen eingegebene Text kann nicht verwendet werden. Stattdessen etwas anderes versuchen.</string>
+    <string name="custom_shutter_sound_select">Eigener Auslöseton</string>
     <string name="custom_sound_default">Standard</string>
     <string name="custom_tint_button_apply">Anwenden</string>
     <string name="custom_tint_color_champagne">Champagner</string>
@@ -1192,7 +1240,9 @@
     <string name="makeup_reset_toast">Make-up-Effekte entfernt</string>
     <string name="manual">Manuell</string>
     <string name="manual_picture_style">Fotostil</string>
+    <string name="manual_picture_style_desc_custom">Individueller Fotografiestil</string>
     <string name="manual_picture_style_desc_new">Parameter</string>
+    <string name="manual_picture_style_new">Stil</string>
     <string name="manually_raw_tip">Zoom wird im RAW-Format nicht unterstützt</string>
     <string name="manually_ultra_raw_tip">Zoom mit Ultra RAW nicht möglich</string>
     <string name="masterfilter_description_title">Filmfilter</string>
@@ -1385,6 +1435,7 @@
     <string name="module_name_pixel_48M">48 MP</string>
     <string name="module_name_portrait">Porträt</string>
     <string name="module_name_square">Quadrat</string>
+    <string name="module_name_street_hint">Fokusabstand hier ändern</string>
     <string name="module_name_super_moon">Supermond</string>
     <string name="moiton_detection_960_fps_video_tip" formatted="false">Videos mit %1dfps können bis zu %2d Sek lang sein</string>
     <string name="moiton_detection_tip">Bewegung erkennen… Gerät ruhig halten.</string>
@@ -1539,6 +1590,7 @@
     <string name="parameter_peak_raw_title_mm">Bildformat</string>
     <string name="parameter_peak_ultra_raw_description_mm">RAW-Dateien erfassen unkomprimierte Daten und bieten mehr Bildbearbeitungsoptionen.\nUltra RAW-Bilder sparen %d Bit an Daten und behalten noch mehr Details.</string>
     <string name="parameter_videos_title">Filmeffekte</string>
+    <string name="parameter_waveform_title">Wellenform</string>
     <string name="parameter_wb_description">Neben den Weißabgleich-Voreinstellungen (Tageslicht, Glühlampen, Leuchtstoffröhren, wolkig) können Sie diesen auch auf einen eigenen Wert im Bereich von %1$d-%2$d Kelvin einstellen.</string>
     <string name="parameter_wb_title">Weißabgleich</string>
     <string name="parameter_zoom_slider_description">Ziehen Sie den Zoom-Schieberegler horizontal, um Ihre Aufnahme stufenlos von einer Totale zu einer Nahaufnahme zu ändern.</string>
@@ -1787,6 +1839,7 @@
     <string name="pref_camera_normal_wide_ldc_description">Korrigieren Sie Gesichtsverzerrungen von Personen, die sich in der Nähe der Rahmenkante befinden.</string>
     <string name="pref_camera_normal_wide_ldc_title">Korrigieren Sie Gesichtsverzerrungen auf Gruppenfotos</string>
     <string name="pref_camera_optimized_flash_enable_title">Optimierter Blitz</string>
+    <string name="pref_camera_pad_suspend_shutter_button_summary">Ziehen Sie den Auslöser nach links, um einen zusätzlichen schwebenden Auslöser hinzuzufügen, der überall auf dem Bildschirm platziert werden kann</string>
     <string name="pref_camera_parallel_process_enable_title">Parallelverarbeitung einschalten</string>
     <string name="pref_camera_peak_entry_off">Aus</string>
     <string name="pref_camera_peak_entry_on">An</string>
@@ -1921,6 +1974,7 @@
     <string name="pref_camera_volumekey_function_entry_timer">Countdown für Auslöser</string>
     <string name="pref_camera_volumekey_function_entry_volume">Lautstärke</string>
     <string name="pref_camera_volumekey_function_title">Funktion der Lautstärketasten</string>
+    <string name="pref_camera_watermark_film">Filmrahmen</string>
     <string name="pref_camera_watermark_standard">Normal</string>
     <string name="pref_camera_watermark_title">Zeitstempel</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Bewölkt</string>
@@ -2193,6 +2247,7 @@
     <string name="remote_online_unavailable">Keine Geräte in der Nähe gefunden</string>
     <string name="remote_online_waiting">Warten auf die Verbindung des anderen Geräts…</string>
     <string name="remote_online_whats">Wie funktioniert die duale Telefonaufnahme?</string>
+    <string name="reset_manual_picture_style_custom_toast">Parameter erfolgreich zurückgesetzt</string>
     <string name="reset_manual_picture_style_new_toast">Parameter erfolgreich zurückgesetzt</string>
     <string name="reset_manual_picture_style_toast">Parameter erfolgreich zurückgesetzt</string>
     <string name="reset_manually_parameter_hint">Zurücksetzen</string>
@@ -2324,6 +2379,9 @@
     <string name="sticker_tab2">Lustig</string>
     <string name="stop_save_low_battery">Speichern (%ds)</string>
     <string name="stop_tracing">Verfolgung stoppen</string>
+    <string name="street_tip_far">Objekt innerhalb von %d Metern platzieren</string>
+    <string name="street_tip_middle">Objekt innerhalb von %d Metern platzieren</string>
+    <string name="street_tip_near">Objekt innerhalb von %1$s Metern platzieren</string>
     <string name="subtitle_network_exception_tips">Netzwerkverbindung fehlgeschlagen. Umwandeln nicht möglich.</string>
     <string name="success_image_saved_camera">Auf der Kamera gespeichertes Bild.</string>
     <string name="success_message_import_from_account">Importiert</string>
@@ -2444,12 +2502,18 @@
     <string name="tip_eis_pro_off">Steady Video PRO: Aus</string>
     <string name="tip_flash_auto">Blitz: Auto</string>
     <string name="tip_flash_back_soft_light">Ringlicht: Ein</string>
+    <string name="tip_flash_fillin_auto">Aufhelllicht: Auto</string>
+    <string name="tip_flash_fillin_off">Aufhelllicht: Aus</string>
+    <string name="tip_flash_fillin_on">Aufhelllicht: An</string>
+    <string name="tip_flash_fillin_torch">Aufhelllicht: Blitzlichtmodus</string>
     <string name="tip_flash_off">Blitz: Aus</string>
     <string name="tip_flash_on">Blitz: An</string>
     <string name="tip_flash_on_but_not_adjust_ambient">Ringlicht: Ein</string>
     <string name="tip_flash_screen_halo_auto">Ringlicht: Auto</string>
     <string name="tip_flash_screen_light_auto">Weicher Blitz: Auto</string>
     <string name="tip_flash_screen_light_on">Weicher Blitz: An</string>
+    <string name="tip_flash_soft_light_off">Softblitz: Aus</string>
+    <string name="tip_flash_soft_light_torch">Softblitz: Blitzlichtmodus</string>
     <string name="tip_flash_torch">Blitz: Immer an</string>
     <string name="tip_gif_off">GIF: Aus</string>
     <string name="tip_gif_on">GIF: An</string>
@@ -2495,6 +2559,14 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
+    <string name="tv_picturestyle_color">Farbe</string>
+    <string name="tv_picturestyle_color_temperature">Wärme</string>
+    <string name="tv_picturestyle_color_tune">Farbton</string>
+    <string name="tv_picturestyle_custom_color">Tonalität</string>
+    <string name="tv_picturestyle_custom_color_temperature">Kalt/Warm</string>
+    <string name="tv_picturestyle_custom_texture">Textur</string>
+    <string name="tv_picturestyle_custom_tone">Ton</string>
+    <string name="tv_picturestyle_tone">Ton</string>
     <string name="ubi_focus_capture_fail">Foto wurde nicht gemacht</string>
     <string name="ubifocus_capture_warning_message">Für bessere Ergebnisse sollte das Foto sowohl nahe (weniger als 1 Meter von der Linse) als auch weit entfernte Motive enthalten</string>
     <string name="ultra_ai_pixel_photography_close_tip">KI %s Ultraklar ist aus</string>
@@ -2633,6 +2705,7 @@
     <string name="wait">Abwarten</string>
     <string name="warm_prompt">Tipps</string>
     <string name="watermark_choose_one_tip">Sie können auf jedes Foto nur ein Wasserzeichen anwenden.</string>
+    <string name="watermark_choose_one_tip_film">Sie können auf jedes Foto nur ein Wasserzeichen anwenden.</string>
     <string name="watermark_function_description">Über Wasserzeichen</string>
     <string name="watermark_keep_at_least_one">Mindestens eine Option wählen</string>
     <string name="watermark_tab_city">Stadt</string>
