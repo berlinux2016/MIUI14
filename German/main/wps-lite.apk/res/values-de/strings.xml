@@ -133,6 +133,7 @@
     <string name="func_translate_title">Gesamtes Dokument übersetzen</string>
     <string name="go_to_download">Zum Download gehen</string>
     <string name="help_send_editing_file">%s senden, um dem Entwickler zu helfen, das Problem zu lokalisieren.</string>
+    <string name="highlight">Hervorheben</string>
     <string name="online_security_error_code_no_operation_permission">Unzureichende Berechtigungen zum Ausführen dieses Vorgangs</string>
     <string name="oppo_app_packageName">OPPO Document Viewer (WPS angepasst)</string>
     <string name="oppo_scre_dialog_message" formatted="false"><Data>\"WPS Document Viewer\" ist eine Software zum Anzeigen von Bürodokumenten des Benutzers, für die Sie eine Dateispeicherberechtigung für den normalen Gebrauch erteilen müssen. Um die Produkterfahrung zu verbessern, sammelt WPS Office Informationen zur Funktionsnutzung und befolgt strikt die &lt;a href="%s">Endbenutzer-Lizenzvereinbarung&lt;/a> und &lt; a href=\"%s\">Datenschutzerklärung&lt;/a> zum Schutz Ihrer Daten.</Data></string>
