@@ -49,8 +49,10 @@
     <string name="chart_OtherCategoryName_bmw">Weitere</string>
     <string name="chart_defaultAxisTitle_bmw">Achsentitel</string>
     <string name="chart_defaultChartTitle_bmw">Diagrammtitel</string>
+    <string name="chart_exponential_bmw">Exponentiell</string>
     <string name="chart_logarithmic_bmw">Logarithmisch</string>
     <string name="chart_moving_bmw">Gleitender Durchschnitt</string>
+    <string name="chart_polynomaial_bmw">Polynomiell</string>
     <string name="chart_series_bmw">Serie</string>
     <string name="chart_unsupport_bmw">Diagramm kann nicht gezeichnet werden</string>
     <string name="doc_scan_save_to_album">In Galerie gespeichert</string>
