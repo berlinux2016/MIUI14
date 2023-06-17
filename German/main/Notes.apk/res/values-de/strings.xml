@@ -64,6 +64,8 @@
     <string name="audio_create_will_cancel_state">Loslassen zum Abbrechen</string>
     <string name="audio_dialog_mode_meeting">Konferenzmodus (Beta)</string>
     <string name="audio_dialog_mode_meeting_exit">Nein danke</string>
+    <string name="audio_dialog_mode_meeting_recognize_close">Spracherkennung ist aus</string>
+    <string name="audio_dialog_mode_meeting_recognize_fail">Spracherkennung abschließen nicht möglich</string>
     <string name="audio_dialog_mode_meeting_sum">Im Konferenzmodus können Sie Stimmen von bis zu %1$d-%2$d verschiedenen Teilnehmern erkennen. In der Beta-Version können einige Erkennungsfehler auftreten.</string>
     <string name="audio_dialog_mode_meeting_use">Starten</string>
     <string name="audio_toast_file_invalid">Audiodatei ist ungültig</string>
@@ -896,6 +898,7 @@
     <string name="toast_refuse_to_use_external_storage">Speicherrechte sind eingeschränkt.\nErlauben Sie Notizen, den Inhalt Ihrer SD-Karte zu lesen.</string>
     <string name="toast_refuse_to_use_phone_state">Telefonberechtigungen sind eingeschränkt.\nErlauben Sie Notizen, den Status und die Identität des Telefons zu lesen.</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Dieser App den Zugriff auf Ihre Fotos erlauben, damit sie Bilder zu Notizen hinzufügen kann</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt_v14">Um Bilder in Notizen einfügen zu können, erlauben Sie dieser App den Zugriff auf alle Fotos</string>
     <string name="toast_refuse_to_use_record_audio">Mikrofonrechte sind eingeschränkt.\nErlauben Sie Notizen, Audio aufzunehmen.</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Notizen den Speicherzugriff erlauben, um Bilder zu Ihren Notizen hinzuzufügen</string>
     <string name="today">Heute</string>

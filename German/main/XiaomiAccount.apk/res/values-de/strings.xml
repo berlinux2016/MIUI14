@@ -331,7 +331,7 @@
     <string name="in_progress">In Bearbeitung</string>
     <string name="inconsistent_pwd">Passwörter stimmen nicht überein</string>
     <string name="indeterminate">Weder angekreuzt noch nicht angekreuzt</string>
-    <string name="input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
+    <string name="input_email_address_notice">Wir senden eine E-Mail mit einem Verifizierungscode an die von Ihnen angegebene Adresse.</string>
     <string name="input_new_pwd">Neues Passwort eingeben</string>
     <string name="io_error_title">Bestätigen Sie Ihr Netzwerk</string>
     <string name="just_a_second">Einen Moment…</string>
@@ -666,6 +666,7 @@
     <string name="passport_imei_permission_denied_message">Wir brauchen die Berechtigung, um Ihre Geräte-IMEI abzurufen. Xiaomi-Konto benötigt die IMEI, um das Gerät zu identifizieren, auf dem Sie sich anmelden/angemeldet sind, um die Sicherheit Ihres Mi-Kontos zu gewährleisten.</string>
     <string name="passport_imei_permission_denied_title">IMEI-Berechtigung anfordern</string>
     <string name="passport_input_captcha_hint">Code eingeben</string>
+    <string name="passport_input_email_vcode_hint">Code eingeben</string>
     <string name="passport_input_password_for_login">Diese Nummer ist bereits mit einem Konto verknüpft. Geben Sie Ihr Passwort ein.</string>
     <string name="passport_input_password_hint">Passwort eingeben</string>
     <string name="passport_input_phone_hint">Rufnummer eingeben</string>
@@ -865,6 +866,7 @@
     <string name="passport_user_password_hint">Passwort</string>
     <string name="passport_user_reg_region">Land/Region</string>
     <string name="passport_user_reg_region_warning">Sie können Ihr Land/Ihre Region nicht mehr ändern, sobald das Konto erstellt wurde</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Ihr Verifizierungscode wurde an &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a> gesendet</Data></string>
     <string name="passport_vcode_notification_title">Ihre Anmeldebestätigung ist unvollständig</string>
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Verifizierungscode an %s senden</string>
@@ -1017,11 +1019,11 @@
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="system_ad">Werbung in System-Apps</string>
-    <string name="system_ad_list">Verwandte Apps anzeigen.</string>
-    <string name="system_ad_summary">"Aktivieren Sie diese Funktion, damit eine kleine Anzahl von Werbung in System-Apps angezeigt werden kann. Diese Werbung hilft uns bei der Entwicklung und Verbesserung unserer Produkte und Dienstleistungen. Sie können diese Funktion jederzeit ausschalten. Vielen Dank für Ihre Unterstützung! "</string>
+    <string name="system_ad_list">Verwandte Apps anzeigen</string>
+    <string name="system_ad_summary">Aktivieren Sie diese Funktion, um die Anzeige einer kleinen Anzahl von Werbung in System-Apps zu erlauben. Diese Werbung hilft uns bei der Entwicklung und Verbesserung unserer Produkte und Dienste. Sie können diese Funktion jederzeit deaktivieren.</string>
     <string name="system_ad_switch">Werbung in System-Apps</string>
     <string name="system_ad_switch_failed">Einstellung wurde nicht übernommen</string>
-    <string name="system_error_info">System ist ausgelastet. Einen Moment warten und erneut versuchen.</string>
+    <string name="system_error_info">System ausgelastet. Einen Moment warten und erneut versuchen.</string>
     <string name="talkback_scan_barcode">QR-Code scannen</string>
     <string name="template_percent">%1$d Prozent</string>
     <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>

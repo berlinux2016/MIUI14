@@ -69,6 +69,7 @@
     <string name="ew_detail_receive_location_title">Standort</string>
     <string name="ew_detail_receive_time_title">Startzeit</string>
     <string name="ew_detail_receive_warn_time_title">Zeit vor dem Start</string>
+    <string name="ew_monitor_slogan">Treten Sie unserem Erdbeben-\nüberwachungsprogramm bei</string>
     <string name="ew_save_title">Speichern</string>
     <string name="ew_share_logo_title">Erdbebenwarnung</string>
     <string name="ew_share_save_tips">Teilen mit %s</string>
@@ -199,6 +200,9 @@
     <string name="gb_pannel_control_mode_high_quality">Hohe Qualität</string>
     <string name="gb_pannel_control_mode_normal">Standard</string>
     <string name="gb_pannel_control_mode_power_saving">Stromsparen</string>
+    <string name="gb_web_panel_failure_retry">Element laden nicht möglich. Erneut versuchen.</string>
+    <string name="gb_web_panel_game_loading">Einen Moment…</string>
+    <string name="gb_web_panel_network_exception">Wegen eines Netzwerkfehlers können wir zurzeit keine Spiele empfehlen. Prüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut.</string>
     <string name="gb_webwindow_schemedialog_accept">Öffnen</string>
     <string name="gb_webwindow_schemedialog_cancel">Abbrechen</string>
     <string name="gb_webwindow_schemedialog_title">Jetzt Spiele öffnen?</string>
@@ -323,6 +327,7 @@
     <string name="pc_activity_title">Akku optimieren</string>
     <string name="pc_entered_extreme_mode">Ruhezustand ist an</string>
     <string name="pc_entered_extreme_mode_summary">Der Akku Ihres Geräts ist leer und es befindet sich im Ruhezustand. Apps werden im Hintergrund ausgeführt und senden keine Benachrichtigungen.</string>
+    <string name="pc_entered_extreme_mode_summary2">Ihr Gerät hat fast keinen Akku mehr. Im Ruhezustand erhalten Sie keine Benachrichtigungen von den Apps, die im Hintergrund laufen.</string>
     <string name="pc_extreme_exit_and_power_off">Beenden</string>
     <string name="pc_extreme_mode_bg_toast">Im Ruhezustand werden Apps im Hintergrund ausgeführt und senden keine Benachrichtigungen</string>
     <string name="pc_extreme_mode_exit_risk_title">Achtung</string>

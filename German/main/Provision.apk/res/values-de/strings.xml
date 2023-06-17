@@ -365,7 +365,7 @@ Um diese Funktion zu steuern, suchen Sie in den Einstellungen nach \"Nutzung und
     <string name="permission_direct_call_introduction">Zum Hinzufügen von Elementen zur Sperrliste</string>
     <string name="permission_download_introduction">Für das Zwischenspeichern heruntergeladener Elemente und deren Speicherung auf Ihrem Gerät</string>
     <string name="permission_enable_disable_bluetooth_summary">Zum Finden von Geräten in der Nähe, um zu verbinden und Daten zu übertragen</string>
-    <string name="permission_fast_pairing">Um Geräte in der Nähe zu finden, muss Mi Link eine Verbindung zum Internet herstellen und benötigt folgende Berechtigungen:</string>
+    <string name="permission_fast_pairing">Um Geräte in der Nähe zu finden, muss Mi Link eine Internetverbindung herstellen und benötigt folgende Berechtigungen:</string>
     <string name="permission_imei_service">Für den Zugriff auf die IMEI, um Dienste bereitzustellen, die mit Ihrem Gerät verbunden sind</string>
     <string name="permission_interaction_introduction">Zum Speichern von Fotos und Videos auf dem Gerät</string>
     <string name="permission_location">Standortzugriff:</string>
@@ -475,7 +475,7 @@ Um normal zu arbeiten, muss sich Gerät finden mit dem Internet verbinden und be
 &amp;#8226; Zugriff auf Geräteinformationen:
 Identifizierung Ihres Geräts
 &amp;#8226; Standort:
-Ihr Gerät finden und in den Modus für verlorene Geräte wechseln
+Ihr Gerät finden und in den Verloren-Modus wechseln
 Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Dienste nicht nutzen. Sie können in solchen Fällen diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken.
 Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice.user_agreement.license\">Nutzervereinbarung&lt;/a>&lt;/u> und &lt;u>&lt;a href=\"app://com.miui.cloudservice.gdpr.license\">Datenschutzerklärung&lt;/a>&lt;/u>", bevor Sie Gerät finden verwenden."</string>
     <string name="priv_doc_finddevice_phone">"Willkommen bei Gerät finden! Mit diesem Dienst können Sie Daten auf Ihrem Gerät finden, sperren oder löschen, wenn es verloren geht. Sie können zu "&lt;b>&lt;font color=\"#FF0000\">i.mi.com&lt;/font>&lt;/b>" gehen, um es zu finden, zu sperren oder zurückzusetzen.
@@ -485,7 +485,7 @@ Um normal zu arbeiten, muss sich Gerät finden mit dem Internet verbinden und be
 &amp;#8226; Zugriff auf Geräteinformationen:
 Identifizierung Ihres Geräts
 &amp;#8226; Standort:
-Ihr Gerät finden und in den Modus für verlorene Geräte wechseln
+Ihr Gerät finden und in den Verloren-Modus wechseln
 Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Dienste nicht nutzen. Sie können in solchen Fällen diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken.
 Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice.user_agreement.license\">Nutzervereinbarung&lt;/a>&lt;/u> und &lt;u>&lt;a href=\"app://com.miui.cloudservice.gdpr.license\">Datenschutzerklärung&lt;/a>&lt;/u>", bevor Sie Gerät finden verwenden."</string>
     <string name="priv_doc_finddevice_with_telephony_feature_pad">"Willkommen bei Gerät finden! Mit diesem Dienst können Sie Daten auf Ihrem Gerät finden, sperren oder löschen, wenn es verloren geht. Sie können zu "&lt;b>&lt;font color=\"#FF0000\">i.mi.com&lt;/font>&lt;/b>" gehen, um es zu finden, zu sperren oder zurückzusetzen.
@@ -495,7 +495,7 @@ Um normal zu arbeiten, muss sich Gerät finden mit dem Internet verbinden und be
 &amp;#8226; Zugriff auf Geräteinformationen:
 Identifizierung Ihres Geräts
 &amp;#8226; Standort:
-Ihr Gerät finden und in den Modus für verlorene Geräte wechseln
+Ihr Gerät finden und in den Verloren-Modus wechseln
 Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Dienste nicht nutzen. Sie können in solchen Fällen diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken.
 Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice.user_agreement.license\">Nutzervereinbarung&lt;/a>&lt;/u> und &lt;u>&lt;a href=\"app://com.miui.cloudservice.gdpr.license\">Datenschutzerklärung&lt;/a>&lt;/u>", bevor Sie Gerät finden verwenden."</string>
     <string name="priv_doc_finddevice_with_telephony_feature_phone">"Willkommen bei Gerät finden! Mit diesem Dienst können Sie Daten auf Ihrem Gerät finden, sperren oder löschen, wenn es verloren geht. Sie können zu "&lt;b>&lt;font color=\"#FF0000\">i.mi.com&lt;/font>&lt;/b>" gehen, um es zu finden, zu sperren oder zurückzusetzen.
@@ -505,7 +505,7 @@ Um normal zu arbeiten, muss sich Gerät finden mit dem Internet verbinden und be
 &amp;#8226; Zugriff auf Geräteinformationen:
 Identifizierung Ihres Geräts
 &amp;#8226; Standort:
-Ihr Gerät finden und in den Modus für verlorene Geräte wechseln
+Ihr Gerät finden und in den Verloren-Modus wechseln
 Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Dienste nicht nutzen. Sie können in solchen Fällen diese App deinstallieren, sich abmelden oder die Berechtigungen in den Einstellungen einschränken.
 Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice.user_agreement.license\">Nutzervereinbarung&lt;/a>&lt;/u> und &lt;u>&lt;a href=\"app://com.miui.cloudservice.gdpr.license\">Datenschutzerklärung&lt;/a>&lt;/u>", bevor Sie Gerät finden verwenden."</string>
     <string name="privacy_content_one">Hintergrundkarussell-Empfehlungen werden von Taboola, unserem vertrauenswürdigen Inhalte-Drittanbieter, bereitgestellt. Um diese Inhalte bereitzustellen, muss Taboola auf nicht-personenbezogene Daten auf Ihrem Gerät zugreifen und diese speichern, inkl. Ihrer Systemsprache und Ihres Browsertyps. Wie Taboola die gesammelten Daten verwendet, erfahren Sie in Taboolas &lt;a href =%1$s>Datenschutzerklärung&lt;/a> und &lt;a href =%2$s>Nutzervereinbarung&lt;/a>. Lesen und akzeptieren Sie die in diesen Dokumenten enthaltenen alggemeinen Geschäftsbedingungen, bevor Sie fortfahren. Wenn Sie nicht zustimmen, werden die Hintergrundkarussell-Dienste deaktiviert.</string>

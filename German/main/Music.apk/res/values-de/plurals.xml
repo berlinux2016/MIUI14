@@ -249,8 +249,8 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="one">%d Titel senden</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">%d übersprungene Titel. Schalten Sie Online-Dienste in den Einstellungen ein, um diese anzuhören.</item>
-        <item quantity="one">%d übersprungener Titel. Schalten Sie Online-Dienste in den Einstellungen ein, um diesen anzuhören.</item>
+        <item quantity="other">%d übersprungene Titel. Online-Dienste in den Einstellungen einschalten, um diese anzuhören.</item>
+        <item quantity="one">%d übersprungener Titel. Online-Dienste in den Einstellungen einschalten, um ihn anzuhören.</item>
     </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Titel wurden favorisiert</item>
@@ -273,7 +273,15 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="one">%1$s Aufruf</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d verbleibende Tage</item>
-        <item quantity="one">%d verbleibender Tag</item>
+        <item quantity="other">Noch %d Tage</item>
+        <item quantity="one">Noch %d Tag</item>
+    </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">%d Dateien hinzugefügt</item>
+        <item quantity="one">%d Datei hinzugefügt</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d Dateien wurden bereits hinzugefügt</item>
+        <item quantity="one">%d Datei wurden bereits hinzugefügt</item>
     </plurals>
 </resources>

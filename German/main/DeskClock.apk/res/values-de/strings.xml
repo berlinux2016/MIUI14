@@ -32,6 +32,7 @@
     <string name="add_timezone_title">Zeitzone hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Zustimmen</string>
+    <string name="alarm_alert">Wecker klingelt</string>
     <string name="alarm_alert_alert_silenced">Wecker verstummt nach %1$s</string>
     <string name="alarm_alert_close_entrance">Ausschalten</string>
     <string name="alarm_alert_disabled">Aus</string>
@@ -154,25 +155,25 @@
     <string name="delete_selected_timer_item">Ausgewählten Timer löschen?</string>
     <string name="delete_timer_item_title">Timer löschen</string>
     <string name="delete_timezone_title">Zeitzone löschen</string>
-    <string name="deskclock_sleep_no_disturbance">Uhr - Schlafenszeit verwalten - DND-Modus</string>
+    <string name="deskclock_sleep_no_disturbance">Uhr > Schlafenszeit verwalten > DND-Modus</string>
     <string name="device_sounds">Gerätetöne</string>
     <string name="dialog_confirm_abort">Änderungen verwerfen?</string>
     <string name="dialog_legal_off_day"><Data>Anscheinend verwenden Sie Urlaubsalarme. Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
-    <string name="dialog_legal_off_day_desc">Uhr darf keine Verbindung zum Internet herstellen, um die Informationen zu Feiertagen zu aktualisieren. Feiertagsalarme werden am Samstag und Sonntag ausgelöst.</string>
+    <string name="dialog_legal_off_day_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen zu Feiertagen zu aktualisieren. Feiertagsalarme werden am Samstag und Sonntag ausgelöst.</string>
     <string name="dialog_legal_workday"><Data>Anscheinend verwenden Sie Wochentagsalarme. Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere  &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
     <string name="dialog_legal_workday_and_off_day"><Data>Anscheinend verwenden Sie Wochentags- und Feiertagsalarme. Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
-    <string name="dialog_legal_workday_and_off_day_desc">Uhr darf keine Verbindung zum Internet herstellen, um die Informationen zu Feiertagen zu aktualisieren. Wochentagsalarme werden von Montag bis Freitag ausgelöst. Feiertagsalarme werden am Samstag und Sonntag ausgelöst.</string>
-    <string name="dialog_legal_workday_desc">Uhr darf keine Verbindung zum Internet herstellen, um die Informationen über die Arbeitstage zu aktualisieren. Wochentagsalarme werden von Montag bis Freitag ausgelöst.</string>
+    <string name="dialog_legal_workday_and_off_day_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen zu Feiertagen zu aktualisieren. Wochentagsalarme werden von Montag bis Freitag ausgelöst. Feiertagsalarme werden am Samstag und Sonntag ausgelöst.</string>
+    <string name="dialog_legal_workday_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen über die Arbeitstage zu aktualisieren. Wochentagsalarme werden von Montag bis Freitag ausgelöst.</string>
     <string name="dialog_message_agree">Zustimmen</string>
     <string name="dialog_message_for_contact_permission">Um Geburtstagswecker verfügbar zu machen, muss die Uhr auf Ihre Kontakte zugreifen. Zustimmen?</string>
     <string name="dialog_message_negative">Nicht zustimmen</string>
     <string name="dialog_message_not_remind">Nicht mehr anzeigen</string>
     <string name="dialog_net_permission_in_repeat_type"><Data>Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
-    <string name="dialog_privacy_content">Um relevante Informationen über lokale Feiertage zu erhalten und zu synchronisieren und personalisierte Dienste anzubieten, muss die Uhr eine Verbindung zum Internet herstellen. Bevor Sie diese verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
-    <string name="dialog_privacy_content_global">Um personalisierte Dienste anzubieten, muss die Uhr eine Verbindung zum Internet herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
+    <string name="dialog_privacy_content">Um relevante Informationen über lokale Feiertage zu erhalten und zu synchronisieren und personalisierte Dienste anzubieten, muss die Uhr eine Internetverbindung herstellen. Bevor Sie diese verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
+    <string name="dialog_privacy_content_global">Um personalisierte Dienste anzubieten, muss die Uhr eine Internetverbindung herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
     <string name="dialog_privacy_content_news">Um personalisierte Dienste anzubieten und Morgennachrichten in Ihre Wecker aufzunehmen, muss sich die Uhr mit dem Internet verbinden. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
-    <string name="dialog_privacy_content_timer">Um Audiodateien/Umgebungsgeräusche für Timer herunterzuladen und personalisierte Dienste anzubieten, muss die Uhr eine Verbindung zum Internet herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
-    <string name="dialog_privacy_content_timer_data">Um Audiodateien/Umgebungsgeräusche für Timer (≈20 MB) herunterlzuaden und personalisierte Dienste anzubieten, muss die Uhr eine Verbindung zum Internet herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Sie verwenden jetzt mobile Daten. Zustimmen?</string>
+    <string name="dialog_privacy_content_timer">Um Audiodateien/Umgebungsgeräusche für Timer herunterzuladen und personalisierte Dienste anzubieten, muss die Uhr eine Internetverbindung herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
+    <string name="dialog_privacy_content_timer_data">Um Audiodateien/Umgebungsgeräusche für Timer (≈20 MB) herunterlzuaden und personalisierte Dienste anzubieten, muss die Uhr eine Internetverbindung herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Sie verwenden jetzt mobile Daten. Zustimmen?</string>
     <string name="disagree">Ablehnen</string>
     <string name="done">Fertig</string>
     <string name="dynamic_alarm_speech">Smarter Wecker</string>
@@ -264,7 +265,7 @@
     <string name="life_post_setting_open_summary">Wetterdaten in den ersten Wecker einfügen, der zwischen 4:00 und 10:00 Uhr ausgeschaltet wird</string>
     <string name="life_post_setting_open_summary_new">Wetterdaten in den ersten ausgeschalteten Wecker zwischen %1$s und %2$s übernehmen</string>
     <string name="life_post_setting_open_title">Morgenreport einschalten</string>
-    <string name="life_post_setting_video_news_remind">Bitte die neueste Version von Mi Musik installieren, um den morgendlichen Nachrichtendienst zu nutzen</string>
+    <string name="life_post_setting_video_news_remind">Bitte die neueste Version von Mi Music installieren, um den morgendlichen Nachrichtendienst zu nutzen</string>
     <string name="life_post_setting_wake_up_list_title">Weckerverlauf</string>
     <string name="life_post_wake_up_acumu_day_title">Tageszähler</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s Tage</string>
@@ -357,10 +358,10 @@
     <string name="module_weather_ringtone_update_success">Wetterwecker beinhaltet jetzt Hintergrundmusik und bessere Sprachansagen. Erstellen Sie einen neuen Wecker, um diese Funktion zu testen.</string>
     <string name="module_week_ringtone_download_data">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_download_data_new">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Verbindung zum Internet herstellen, um &amp;#8776;30 MB Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Internetverbindung herstellen, um &amp;#8776;30 MB Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
     <string name="module_week_ringtone_download_wifi">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Verbindung zum Internet herstellen, um Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Internetverbindung herstellen, um Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">Naturwecker spielt je nach Datum unterschiedliche Töne ab.</string>
     <string name="module_week_ringtone_update_data">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_update_data_new">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
@@ -515,13 +516,14 @@
     <string name="sleep_notification_title">Zeit zum Schlafengehen</string>
     <string name="sleep_record">Schlaf verfolgen</string>
     <string name="sleep_record_desc">Einschalten, um die Aufnahme von Schlafdaten zu starten</string>
-    <string name="sleep_record_desc_detailed">Schlaferfassung wird von Mi Health bereitgestellt. Nach dem Einschalten zeichnet Mi Health automatisch Ihren Schlaf auf, basierend auf Ihrer Telefonnutzung, der Aktivitätsstatistik sowie der eingestellten Einschlaf-/Aufwachzeit, und zeigt Ihnen die Statistik in Form von Diagrammen an. Um den Schlaf genauer zu verfolgen, erlauben Sie Mi Health den Autostart. Alle zugehörigen Daten werden lokal auf Ihrem Gerät gespeichert, sodass Sie sie einfach verwalten können.</string>
+    <string name="sleep_record_desc_detailed">Schlaferfassung wird von Xiaomi Health bereitgestellt. Einmal eingeschaltet, zeichnet Xiaomi Health automatisch Ihren Schlaf auf, basierend auf Ihrer Telefonnutzung, Aktivitätsstatistik und den von Ihnen eingestellten Schlaf- und Aufwachzeiten, und zeigt Ihnen die Statistik in Form von Diagrammen an. Um den Schlaf noch genauer zu verfolgen, können Sie Xiaomi Health automatisch starten lassen. Alle zugehörigen Daten werden zur einfachen Verwaltung lokal auf Ihrem Gerät gespeichert.</string>
     <string name="sleep_record_desc_detailed_new">Schlaferfassung wird von Mi Fitness bereitgestellt. Wenn Sie diese Funktion aktivieren, sammelt und zeigt Mi Fitness automatisch Ihre Schlafdaten, die auf Ihrer Telefonnutzung, Aktivität und der von Ihnen eingestellten Schlaf- und Aufwachzeit basieren. Um den Schlaf genauer zu erfassen, lassen Sie Mi Fitness automatisch starten.</string>
     <string name="sleep_record_no_data">Ihre Statistik wird hier angezeigt, sobald\nMi Health genügend Daten analysiert hat.</string>
     <string name="sleep_remind">Schlafenszeit-Erinnerung</string>
     <string name="sleep_time">Einschlafen</string>
     <string name="slider_text">Zum Ausschalten hochwischen</string>
     <string name="slider_text_new">Hochwischen zum Stoppen</string>
+    <string name="snooze_alarm_alert">Schlummern bis %s</string>
     <string name="snooze_confirm_cancel">Beenden</string>
     <string name="snooze_duration">Schlummern</string>
     <string name="snooze_duration_title">Schlummern</string>
@@ -629,6 +631,8 @@
     <string name="timer_alert_mute_on">Wecker ertönt nicht, wenn der Timer stoppt</string>
     <string name="timer_alert_mute_remind">Tippen, um Wecker stumm zu schalten</string>
     <string name="timer_alert_mute_switch">Schalter zum Stummschalten von Timer-Weckern</string>
+    <string name="timer_alert_pause">Timer ist angehalten</string>
+    <string name="timer_alert_running">Timer läuft</string>
     <string name="timer_alert_type_beach">Strand</string>
     <string name="timer_alert_type_forest">Wald</string>
     <string name="timer_alert_type_mute">Standard</string>

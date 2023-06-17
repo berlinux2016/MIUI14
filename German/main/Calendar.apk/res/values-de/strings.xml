@@ -834,7 +834,7 @@ einstellungen"</string>
     <string name="no_contact_birthday_hint">Keine Geburtstage zum Importieren</string>
     <string name="no_events_hint">Keine Einträge</string>
     <string name="no_holiday_selected">Freie Tage sind nicht ausgewählt</string>
-    <string name="no_internet">Keine Verbindung zum Internet</string>
+    <string name="no_internet">Keine Internetverbindung</string>
     <string name="no_internet_dialog_message">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="no_internet_dialog_title">Ein Fehler ist aufgetreten</string>
     <string name="no_long_holidays">Keine bevorstehender langer Urlaub</string>

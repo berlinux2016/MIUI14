@@ -146,7 +146,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="head_set_tip_dialog_msg">Trennen Sie den Kopfhörer, um Ton mit bestimmten Voreinstellungen aufzunehmen (z. B. Musik, Stimme).</string>
+    <string name="head_set_tip_dialog_msg">Trennen Sie den Kopfhörer, um Ton mit bestimmten Voreinstellungen aufzunehmen (z. B. Musik, Stimmen).</string>
     <string name="head_set_tip_dialog_ok">Verstanden</string>
     <string name="head_set_tip_dialog_title">Internes Mikrofon verwenden</string>
     <string name="icon_content_description">Dialogsymbol</string>
@@ -293,6 +293,11 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="new_record_name">Neue Aufnahme</string>
     <string name="new_saf_permission_dialog_content">Rekorderrechte wurden aktualisiert. Erlauben Sie Rekorder den Zugriff auf Anrufaufnahmen.\n\nErlaubnis erteilen:\nAuf \"%1$s\" tippen und dann \"%2$s\" wählen.</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Weiter</string>
+    <string name="new_search_alll_records_hint">Alle Aufnahmen durchsuchen</string>
+    <string name="new_search_app_records_hint">App-Aufnahmen durchsuchen</string>
+    <string name="new_search_call_records_hint">Gesprächsaufzeichnungen durchsuchen</string>
+    <string name="new_search_fm_records_hint">Radioaufnahmen durchsuchen</string>
+    <string name="new_search_recorder_records_hint">In Rekorder suchen</string>
     <string name="night">Abend</string>
     <string name="no_content">Noch keine Elemente hier</string>
     <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>

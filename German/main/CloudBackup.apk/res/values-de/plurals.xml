@@ -29,10 +29,6 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
-    <plurals name="backup_action_long_time_not_auto_backup_content">
-        <item quantity="other">Sie haben seit %s Wochen Ihre Daten nicht mehr gesichert. Tippen, um zu erfahren, wie Sie automatische Sicherungen einschalten können.</item>
-        <item quantity="one">Sie haben seit %s Woche Ihre Daten nicht mehr gesichert. Tippen, um zu erfahren, wie Sie automatische Sicherungen einschalten können.</item>
-    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">Anscheinend haben Sie seit %s Wochen keine Sicherung mehr erstellt. Sicherungskopie erstellen, damit nichts Wichtiges verloren geht.</item>
         <item quantity="one">Anscheinend haben Sie seit %s Woche keine Sicherung mehr erstellt. Sicherungskopie erstellen, damit nichts Wichtiges verloren geht.</item>

@@ -320,7 +320,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="download_complete_start_install">Installieren…</string>
     <string name="download_completed">Heruntergeladen</string>
     <string name="download_confirm_button_text">Installieren</string>
-    <string name="download_confirm_text">Mi Musik will %s herunterladen und installieren</string>
+    <string name="download_confirm_text">Mi Music will %s herunterladen und installieren</string>
     <string name="download_error">Fehlgeschlagen</string>
     <string name="download_error_insufficient_space">Nicht genug Speicher</string>
     <string name="download_fail_to_fetch_info">Herunterladen fehlgeschlagen, erneut versuchen</string>
@@ -369,7 +369,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="download_unknown_title">"'Ohne Titel'"</string>
     <string name="download_update_time">Aktualisiert um %1$s</string>
     <string name="download_wait_connect">Auf Verbindung warten</string>
-    <string name="download_when_network_connected">Bei Verbindung zum Internet herunterladen</string>
+    <string name="download_when_network_connected">Bei Internetverbindung herunterladen</string>
     <string name="downloaded_empty">Leer</string>
     <string name="downloading_apk">Herunterladen… Fortschritt in der Benachrichtigungleiste anzeigen.</string>
     <string name="downloading_apk_black_shark">Herunterladen… Fortschritt in den Dateien anzeigen.</string>
@@ -645,7 +645,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="milink_unavaliable_please_update">Mi Link ist nicht verfügbar. MIUI aktualisieren.</string>
     <string name="missing_title">"'Unbekannt'"</string>
     <string name="miui_fm_description">Viele Internet-Radiostationen</string>
-    <string name="miui_music">Mi Musik</string>
+    <string name="miui_music">Mi Music</string>
     <string name="miui_music_description">Musik genießen</string>
     <string name="miuishare_no_network">Netzwerkverbindung nicht möglich</string>
     <string name="miuishare_publish">Senden</string>
@@ -962,7 +962,7 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="pref_summary_no_limit_popup">Unbegrenzt</string>
     <string name="pref_title_enable_max_bytes_popup">Eingabeaufforderung für Datennutzung anzeigen</string>
     <string name="preferences_title">Einstellungen</string>
-    <string name="preset_music_playlist">Mi Musik Wiedergabeliste</string>
+    <string name="preset_music_playlist">Mi Music Wiedergabeliste</string>
     <string name="presonal_center">Kontoeinstellungen</string>
     <string name="privacy_category">Datenschutzhinweise</string>
     <string name="privacy_notif_content">Tippen, um Details anzuzeigen.</string>
@@ -1099,12 +1099,12 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
     <string name="share_append_text">Von @MIUI</string>
     <string name="share_choice">Auswählen</string>
     <string name="share_chooser_title">Teilen mit</string>
-    <string name="share_description">Von Mi Musik</string>
-    <string name="share_end_note">Von Mi Musik</string>
+    <string name="share_description">Von Mi Music</string>
+    <string name="share_end_note">Von Mi Music</string>
     <string name="share_image_error">Bild konnte wegen eines Download-Fehlers nicht freigegeben werden</string>
-    <string name="share_text_list">"Wiedergabeliste von Mi Musik: "</string>
-    <string name="share_text_song">"Titel in Mi Musik: "</string>
-    <string name="shortcut_name">Mi Musik-Stationen</string>
+    <string name="share_text_list">"Wiedergabeliste von Mi Music: "</string>
+    <string name="share_text_song">"Titel in Mi Music: "</string>
+    <string name="shortcut_name">Mi Music-Stationen</string>
     <string name="show_download_manager">Downloads</string>
     <string name="show_more">Mehr %s anzeigen</string>
     <string name="shuffle_music">Zufallswiedergabe</string>
@@ -1397,7 +1397,7 @@ Wenn Sie nicht zustimmen, die oben genannten Berechtigungen zu erteilen, wird di
     <string name="vip_renew_title">Abonnement abgelaufen</string>
     <string name="vip_required">Holen sie sich das Premium-Titelpaket, um diesen Titel abzuspielen. Der Titel wurde vorerst übersprungen.</string>
     <string name="vip_required_with_song">Holen Sie sich das Premium-Titelpack, um zu \"%s\" abzuspielen.</string>
-    <string name="vip_tip">Abonnieren Sie Mi MusiK, um qualitativ hochwertiges Audio zu streamen.</string>
+    <string name="vip_tip">Abonnieren Sie Mi Music, um qualitativ hochwertiges Audio zu streamen.</string>
     <string name="vip_tomorrow_auto_renew_message">Ihr Musik-Abonnement wird morgen Abend automatisch verlängert. Stellen Sie sicher, dass Sie genügend Mi Coins auf Ihrem Konto haben, um diese Zahlung abzuschließen.</string>
     <string name="vip_tomorrow_renew_message">Sie werden nicht in der Lage sein, Audio in hoher Qualität zu streamen, aber einige Titel werden in normaler Qualität verfügbar sein.</string>
     <string name="voice_ass">Sprachassistent</string>

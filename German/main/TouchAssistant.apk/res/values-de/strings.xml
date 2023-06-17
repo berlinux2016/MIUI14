@@ -249,7 +249,7 @@
     <string name="the_valentines_day">Valentinstag</string>
     <string name="the_water_lantern_festival">Laternenfestival</string>
     <string name="theme_manager_not_supported">Themenmanager wird nicht unterstützt</string>
-    <string name="three_seconds_auto_hide">Nach 3 Sekunden Inaktivität an der Seite verstecken</string>
+    <string name="three_seconds_auto_hide">Nach %d Sekunden Inaktivität an der Seite verstecken</string>
     <string name="thursday">Donnerstag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>

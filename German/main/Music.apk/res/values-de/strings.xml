@@ -63,6 +63,9 @@
     <string name="ad_setting">Zusätzliche Einstellungen</string>
     <string name="add">Hinzufügen</string>
     <string name="add_music">Titel hinzufügen</string>
+    <string name="add_songs_manually_bottom">Hinzufügen</string>
+    <string name="add_songs_manually_home">Titel manuell hinzufügen</string>
+    <string name="add_songs_manually_setting">Titel manuell hinzufügen</string>
     <string name="add_to_group_notify">%1$s ist der Familie beigetreten</string>
     <string name="add_to_last_of_playlist">Am Ende der Wiedergabeliste hinzufügen</string>
     <string name="add_to_playlist">Zur Warteschlange hinzufügen</string>
@@ -458,6 +461,7 @@
     <string name="create_playlist">Wiedergabeliste erstellen</string>
     <string name="create_playlist_failure">Wiedergabeliste wurde nicht erstellt</string>
     <string name="create_playlist_input_hint">Wiedergabelistenname eingeben</string>
+    <string name="create_shortcut_for_playlist">Startbildschirm-Verknüpfung für Wiedergabeliste erstellen?</string>
     <string name="crg_none_address">Keine Adresse</string>
     <string name="crg_none_gift">Keine Geschenke</string>
     <string name="crs_appeal">Beschwerde</string>
@@ -2698,6 +2702,15 @@
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
     <string name="welcome_to_entertainment">Sehen Sie sich die neue Entertainment-Funktion für Musikspiele und mehr an</string>
+    <string name="whitelist_add_exist">Einige Titel sind bereits unter Lokale Titel aufgeführt und werden hier nicht angezeigt</string>
+    <string name="whitelist_add_failed">Dateien hinzufügen nicht möglich</string>
+    <string name="whitelist_desc_1">Wenn Mi Music die gesuchten Titel nicht auf dem Gerät findet, können Sie sie manuell hinzufügen.</string>
+    <string name="whitelist_desc_2">Diese Dateien werden auch dann angezeigt, wenn die Dateigröße und die Titellänge nicht übereinstimmen oder sie sich in versteckten Ordnern befinden.</string>
+    <string name="whitelist_dialog_content">Gelöschte Dateien erscheinen nicht mehr in den Ausnahmen von Mi Music, werden aber nicht von deinem Gerät gelöscht. Jetzt löschen?</string>
+    <string name="whitelist_dialog_title">Dateien löschen?</string>
+    <string name="whitelist_entrance_desc">Manuell Dateien hinzufügen, die Mi Music nicht automatisch findet</string>
+    <string name="whitelist_entrance_text_1">"Titel nicht gefunden? "</string>
+    <string name="whitelist_title">Dateiausnahmen</string>
     <string name="wifi_required_body" formatted="false">Mit WLAN verbinden, um diesen %s-Download abzuschließen.\n%s antippen, um den Download zu starten, sobald Sie mit WLAN verbunden sind.</string>
     <string name="wifi_required_title">Sie sollten sich mit WLAN verbinden, um diese Datei herunterzuladen.</string>
     <string name="win">Gewinnen</string>

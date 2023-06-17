@@ -634,8 +634,8 @@
     <string name="quick_search_guide_quick_search">Schnellsuche</string>
     <string name="quick_search_guide_title">Standardmodus wählen</string>
     <string name="recent_apps">Zuletzt geöffnet</string>
-    <string name="recent_menu_item_add_pair">Startbildschirmverknüpfung für diese Kombination aus geteiltem Bildschirm erstellen</string>
-    <string name="recent_menu_item_add_pair_first_toast">Startbildschirmverknüpfung für diese Kombination aus geteiltem Bildschirm erstellen</string>
+    <string name="recent_menu_item_add_pair">Startbildschirm-Verknüpfung für diese Kombination aus geteiltem Bildschirm erstellen</string>
+    <string name="recent_menu_item_add_pair_first_toast">Startbildschirm-Verknüpfung für diese Kombination aus geteiltem Bildschirm erstellen</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Sperren</string>
     <string name="recent_menu_item_unlock">Entsperren</string>

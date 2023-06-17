@@ -360,7 +360,7 @@
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
     <string name="chat_item_msg_people_unit">Leute</string>
-    <string name="chat_view_description">Zeige E-Mailthemen als Gesprächsblasen</string>
+    <string name="chat_view_description">E-Mailthemen als Gesprächsblasen anzeigen</string>
     <string name="chat_view_title">Unterhaltungsansicht</string>
     <string name="check_setup_data">"  Servereinstellungen prüfen…"</string>
     <string name="chinese">Chinesisch</string>

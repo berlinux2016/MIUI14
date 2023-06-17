@@ -38,6 +38,7 @@
     <string name="auto_frontflash_title">Blitzlichttest Frontkamera</string>
     <string name="auto_rearflash_description">Alle Blitzlichter der Rückkamera sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
     <string name="auto_rearflash_title">Blitzlichttest Rückkamera</string>
+    <string name="aux_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins AUX MIC an der Geräteunterseite</string>
     <string name="back_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Geräterückseite.</string>
     <string name="baterry_percent">"Höhe der Akkuladung: "</string>
     <string name="baterry_temperature">"Akkutemperatur: "</string>
@@ -63,7 +64,6 @@
     <string name="bottom_right_high_speaker">Test unterer Hochtöner rechts</string>
     <string name="bottom_right_low_speaker">Test unterer Tieftöner rechts</string>
     <string name="bottom_speaker_title">Test unterer Lautsprecher</string>
-    <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bt_address">Adresse:</string>
     <string name="button_cancel">Abbrechen</string>
     <string name="camera_capture">Aufnahme</string>
@@ -78,11 +78,8 @@
     <string name="cancel">Abbrechen</string>
     <string name="cancel_test">TEST ABGEBROCHEN</string>
     <string name="capacitance_test">KAPAZITÄTSTEST</string>
-    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
-    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="charger_test_end">\nEnde Ladegerättest, bitte das Ladegerät herausziehen</string>
     <string name="checkerboard_test">SCHACHBRETT-TEST</string>
-    <string name="chip_text">Chiptext</string>
     <string name="cit_DP_check_summary">Das Typ-C- zu DP-Kabel sollte während des Testvorgangs angeschlossen sein</string>
     <string name="cit_DP_in_start_test">Bitte stecken Sie das Typ-C- zu DP-Kabel ein, um den Test zu starten</string>
     <string name="cit_DP_plug_err">Erkennung Geräteverbindungswechsel\nLesen des zugrunde liegenden Knotenwerts fehlgeschlagen\nWert wurde nicht ermittelt</string>
@@ -153,32 +150,40 @@ Bevor Sie das Gerät kalibrieren, legen Sie es auf eine ebene Fläche."</string>
     <string name="cit_audio_get_temp_fail">Temporäre Daten erhalten fehlgeschlagen!</string>
     <string name="cit_audio_hdset_plug">"Audio-Headset-Anschlusszeiten: "</string>
     <string name="cit_audio_hw_check_tips">Test läuft</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Rückmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Rückmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_frontmic_to_speaker_title">Frontmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Hauptmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_phonecall_title">Ruftestsimulation</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Rückmikrofon-Rückkopplungstest.
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Rückkopplungstest zwischen Rückmikrofon und Hörer.
 
-Drehen Sie das Gerät, sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme im Lautsprecher hören."</string>
-    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Frontmikrofon-Rückkopplungstest.
+Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Rückkopplungstest zwischen Rückmikrofon und Lautsprecher.
 
-Sprechen Sie in das vordere Mikrofon, Sie sollten die Stimme im Lautsprecher hören."</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Hauptmikrofon-Rückkopplungstest.
+Drehen Sie das Gerät, sprechen Sie in das hintere Mikrofon. Sie sollten die Stimme im Lautsprecher hören."</string>
+    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Rückkopplungstest zwischen Frontmikrofon und Lautsprecher.
 
-Halten Sie das Gerät so, als ob Sie einen Anruf tätigen, sprechen Sie in das Hauptmikrofon, Sie sollten die Stimme des Empfängers hören."</string>
+Sprechen Sie in das vordere Mikrofon. Sie sollten die Stimme im Lautsprecher hören."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Rückkopplungstest zwischen Hauptmikrofon und Hörer.
+
+Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
     <string name="cit_audio_lb_summary_phonecall">"Ruftestsimulation.
 
-Halten Sie das Gerät so, als ob Sie einen Anruf tätigen, sprechen Sie in das Hauptmikrofon, Sie sollten die Stimme im Hörer hören. Test in ruhiger Umgebung durchführen."</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Test der Rückkopplung zwischen Mikrofon und Lautsprecher.
+Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören. Test in ruhiger Umgebung durchführen."</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Rückkopplungstest zwischen Topmikrofon und Hörer.
 
-Sprechen Sie in das obere Mikrofon, Sie sollten die Stimme im Lautsprecher hören."</string>
+Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Rückkopplungstest zwischen Mikrofon und Lautsprecher.
+
+Sprechen Sie in das obere Mikrofon. Sie sollten die Stimme im Lautsprecher hören."</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Topmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Topmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_left_caldata">"Linke PA kalibrierte Daten: "</string>
     <string name="cit_audio_left_calfail">Linke PA kalibriert fehlgeschlagen!</string>
     <string name="cit_audio_loopback_check_one_title">Rückkopplungstest des Hauptmikrofonempfängers</string>
     <string name="cit_audio_loopback_check_summary_first">"Rückkopplungstest des Hauptmikrofonempfängers.
 
-Halten Sie das Gerät so, als ob Sie einen Anruf tätigen, sprechen Sie in das Mikrofon und Sie sollten Ihre Stimme im Hörer hören."</string>
+Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Mikrofon. Sie sollten Ihre Stimme im Hörer hören."</string>
     <string name="cit_audio_loopback_check_summary_second">"Rückkopplungstest des Sekundärmikrofons.
 
 Drehen Sie das Gerät so, dass der Kopfhörereingang nach unten zeigt. Sprechen Sie in den Hörer. Sie sollten Ihre Stimme über den externen Lautsprecher hören."</string>
@@ -316,6 +321,15 @@ Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in
 Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören."</string>
     <string name="cit_emergencycall_check_summary">Bitte auf die 112 wählen-Taste tippen, um zu prüfen, ob 112 gesetzt werden kann.</string>
     <string name="cit_emergencycall_check_title">Notruf</string>
+    <string name="cit_esim_check_summary">Im Folgenden wird der eSIM-Status angezeigt. Die korrekte Anzeige des eSIM-Status bedeutet, dass der Test bestanden wurde</string>
+    <string name="cit_esim_check_title">eSIM-Karte</string>
+    <string name="cit_esim_eid_error">eID-Nichtkonformität</string>
+    <string name="cit_esim_mode_general_summary">Unterstützt eSIM/SIM2-Umschaltung</string>
+    <string name="cit_esim_mode_number">eSIM-Modus:</string>
+    <string name="cit_esim_mode_single_summary">Keine Unterstützung für eSIM/SIM2-Umschaltung</string>
+    <string name="cit_esim_serial_number">eSIM-Karte:</string>
+    <string name="cit_esim_state_absent">eSIM nicht aktiviert</string>
+    <string name="cit_esim_state_ready">eSIM aktiviert</string>
     <string name="cit_exit_test_summary">Beim Beenden werden alle zugehörigen Textdaten gelöscht</string>
     <string name="cit_exit_test_title">Test beenden</string>
     <string name="cit_external_keyboard_test_get_sn">Tippen, um die SN-Seriennummer der externen Tastatur zu erhalten (bitte Tastatur und Gerät angeschlossen lassen)</string>
@@ -752,15 +766,16 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
     <string name="cit_tool_wlan_rx_count_error">Ausgabewert ist keine Zahl</string>
     <string name="cit_tool_wlan_rx_error">Beim Ausführen des Programms ist ein Fehler aufgetreten</string>
     <string name="cit_tool_wlan_rx_run">Starten</string>
-    <string name="cit_tool_wlan_rxbg_test_channel">Channel:</string>
+    <string name="cit_tool_wlan_rxbg_test_channel">Kanal:</string>
     <string name="cit_tool_wlan_rxn_test_bw">Bandbreite:</string>
-    <string name="cit_tool_wlan_rxn_test_channel">Channel:</string>
+    <string name="cit_tool_wlan_rxn_test_channel">Kanal:</string>
     <string name="cit_tool_wlan_sniffer">WLAN Sniffer-Tool</string>
     <string name="cit_tool_wlan_sniffer_settings">Sniffer-Einstellungen</string>
     <string name="cit_tool_wlan_sniffer_test_title">WLAN Sniffer-Test-Tool</string>
     <string name="cit_tool_wlan_test_title">WLAN Test-Tool</string>
     <string name="cit_tool_wlan_tx_ax_gI">Wächterintervall:</string>
-    <string name="cit_tool_wlan_tx_bg_chan">Channel:</string>
+    <string name="cit_tool_wlan_tx_bg_chan">Kanal:</string>
+    <string name="cit_tool_wlan_tx_be_gI">Überwachungsintervall:</string>
     <string name="cit_tool_wlan_tx_n_bandwidth">Bandbreite:</string>
     <string name="cit_tool_wlan_tx_n_chan">Kanal:</string>
     <string name="cit_tool_wlan_tx_st_chan">Kanal:</string>
@@ -852,7 +867,6 @@ Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt 
     <string name="cit_wifi_state_refresh">Aktualisieren</string>
     <string name="cit_x_tele_camera_check_title">Super-Telekamera</string>
     <string name="cit_yellow_torch_on">Gelbes Blinklicht einschalten</string>
-    <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="close_third_color_led">Dreifarbige LED schließen</string>
     <string name="cold_light_title">Kaltes Licht</string>
     <string name="continue_vibrator">Mit Vibration fortfahren</string>
@@ -882,11 +896,9 @@ Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt 
     <string name="error_failed_to_get_data">Keine Daten erhalten</string>
     <string name="error_file_not_found">Daten nicht gefunden</string>
     <string name="error_getting_sensor_info">Fehler beim Abrufen von Sensorinformationen</string>
-    <string name="error_icon_content_description">Fehler</string>
     <string name="error_initializing_sensor">Fehler beim Initialisieren des Sensors: %1$s</string>
     <string name="error_sdcard_access">Zugriff auf Systemspeicher nicht möglich!</string>
     <string name="error_unknown_error">Unbekannter Fehler</string>
-    <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="fail">Fehlgeschlagen</string>
     <string name="failed_to_get_permission">Erkennung der Cloud-Steuerung fehlgeschlagen und einige Funktionen verloren</string>
     <string name="failed_to_test">TEST FEHLGESCHLAGEN</string>
@@ -938,7 +950,6 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
     <string name="headset_unplug_check_tip">Bitte stecken Sie das Headset ein.</string>
     <string name="headset_unplug_tip">Bitte stecken Sie das Headset ein.</string>
     <string name="hello_world">Hallo Welt!</string>
-    <string name="icon_content_description">Dialogsymbol</string>
     <string name="image_quality_test">BILDQUALITÄTSTEST</string>
     <string name="init">Initialisieren</string>
     <string name="interphone_oper_result">Ergebnisse werden hier angezeigt</string>
@@ -996,36 +1007,6 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
     <string name="micphone_test">Mikrofon &amp; Lautsprecher</string>
     <string name="motor_calibration">Motorkalibrierung</string>
     <string name="mtb_tool_modem_user_panel">Bedienfeld</string>
-    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
-    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
-    <string name="mtrl_picker_a11y_next_month">Zum Folgemonat wechseln</string>
-    <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
-    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
-    <string name="mtrl_picker_date_header_title">Datum wählen</string>
-    <string name="mtrl_picker_date_header_unselected">Gewähltes Datum</string>
-    <string name="mtrl_picker_day_of_week_column_header">Tagesspalte: %1$s</string>
-    <string name="mtrl_picker_invalid_format">Ungültiges Format</string>
-    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Verwendung: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Ungültiger Bereich</string>
-    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s navigieren</string>
-    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
-    <string name="mtrl_picker_range_header_title">Datumsbereich wählen</string>
-    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
-    <string name="mtrl_picker_save">Speichern</string>
-    <string name="mtrl_picker_text_input_date_hint">Datum</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
-    <string name="mtrl_picker_text_input_day_abbr">T</string>
-    <string name="mtrl_picker_text_input_month_abbr">M</string>
-    <string name="mtrl_picker_text_input_year_abbr">J</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Zum Kalendereingabemodus wechseln</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
     <string name="navigation_drawer_close">Navigationsleiste schließen</string>
     <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
     <string name="next">Nächste</string>
@@ -1038,7 +1019,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
     <string name="open_dc_backlight_summary">Bestimmte Anzeigeeinstellungen sind nicht mit dem DC-Hintergrundbeleuchtungsmodus kompatibel. Sie werden jedoch wiederhergestellt, wenn Sie diesen Modus ausschalten. Modus einschalten?</string>
     <string name="open_third_color_led">Dreifarbige LED öffnen</string>
     <string name="pass">Bestanden</string>
-    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="password_enroll_error">Ihr Telefon hat ein Passwort, Fingerabdruckdaten können nicht erfasst werden</string>
     <string name="phone_not_been_restarted">Gerät ist nicht neu gestartet</string>
     <string name="picture">Bild</string>
     <string name="plugout_and_reverse_plugin">"
@@ -1087,6 +1068,7 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="receiver_on_off_tips">Empfänger Ein/Aus-Schalter</string>
     <string name="refresh_number_of_keys">Tastenanzahl aktualisieren</string>
     <string name="removeFingerprint">Fingerabdruck entfernen</string>
+    <string name="remove_finger">Test Finger entfernen</string>
     <string name="remove_headset_and_starttest">Bitte entfernen Sie das Headset und drücken Sie zum Testen auf Start</string>
     <string name="request_permission">Dieses Beispiel benötigt eine Kameraberechtigung.</string>
     <string name="resetpixel_test">PIXELTEST ZURÜCKSETZEN</string>

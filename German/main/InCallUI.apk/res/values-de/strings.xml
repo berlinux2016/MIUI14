@@ -338,16 +338,6 @@
     <string name="remind_unlock_message">Ihr Gerät ist jetzt gesperrt. Nach Entsperrung des Geräts wird \"%s\" verfügbar sein. Jetzt entsperren?</string>
     <string name="remind_unlock_screen_message">Gerät entsperren, um \"%s\" zu verwenden. Jetzt entsperren?</string>
     <string name="respond_via_sms_custom_message">Eigene SMS</string>
-    <string name="saf_permission_content">"Systemberechtigungen wurden aktualisiert. Um Anrufe aufzunehmen, müssen Sie zunächst Ihre Berechtigung erteilen.
-
-So gewähren Sie Berechtigungen:
-Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
-    <string name="saf_permission_grant_permission_immediately">Weiter</string>
-    <string name="saf_permission_later">Jetzt nicht</string>
-    <string name="saf_permission_recorder_unlock_screen_message">Um Aufnahmen zu speichern, müssen Sie Ihr Gerät erst entsperren. Jetzt entsperren?</string>
-    <string name="saf_permission_refused">Anrufe werden wegen fehlender Berechtigungen nicht aufgenommen</string>
-    <string name="saf_permission_title">Berechtigungen erforderlich</string>
-    <string name="saf_permission_use_this_folder">Diesen Ordner verwenden</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

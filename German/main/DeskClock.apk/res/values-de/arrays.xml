@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>klingelt in weniger als einer Minute</item>
-        <item>klingelt in %1$s</item>
-        <item>klingelt in %2$s</item>
-        <item>klingelt in %1$s %2$s</item>
-        <item>klingelt in %3$s</item>
-        <item>klingelt in %1$s %3$s</item>
-        <item>klingelt in %2$s %3$s</item>
-        <item>klingelt in %1$s %2$s %3$s</item>
+        <item>Wecker in weniger als einer Minute</item>
+        <item>Wecker in %1$s</item>
+        <item>Wecker in %2$s</item>
+        <item>Wecker in %1$s %2$s</item>
+        <item>Wecker in %3$s</item>
+        <item>Wecker in %1$s %3$s</item>
+        <item>Wecker in %2$s %3$s</item>
+        <item>Wecker in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
         <item>Wecker in weniger als %d Minute</item>
@@ -23,16 +23,16 @@
     <string-array name="alarm_repeat_type">
         <item>Einmalig</item>
         <item>Täglich</item>
-        <item>an Werktagen</item>
-        <item>an freien Tagen</item>
-        <item>Mo-Fr</item>
-        <item>Benutzerdefiniert</item>
+        <item>Werktage</item>
+        <item>An freien Tagen</item>
+        <item>Mo - Fr</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Einmalig</item>
         <item>Täglich</item>
-        <item>Mo-Fr</item>
-        <item>Benutzerdefiniert</item>
+        <item>Mo - Fr</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Wecker klingelt in weniger als einer Minute</item>
@@ -73,20 +73,24 @@
         <item>30 Minuten</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type">
-        <item>Montag bis Freitag</item>
-        <item>Jeden Tag</item>
-        <item>Arbeitstage</item>
+        <item>Mo - Fr</item>
+        <item>Täglich</item>
+        <item>Werktage</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Mo - Fr</item>
+        <item>Täglich</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Täglich</item>
+        <item>Mo - Fr</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
-        <item>Jeden Tag</item>
-        <item>Montag bis Freitag</item>
-        <item>Arbeitstage</item>
-        <item>Benutzerdefiniert</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Weiß</item>
-        <item>Schwarz</item>
-        <item>Automatisch</item>
+        <item>Täglich</item>
+        <item>Mo - Fr</item>
+        <item>Werktage</item>
+        <item>Eigene</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
@@ -141,7 +145,7 @@
         <item>Georgetown</item>
         <item>Halifax</item>
         <item>Havanna</item>
-        <item>Indiennapolis</item>
+        <item>Indianapolis</item>
         <item>Knox</item>
         <item>Marengo</item>
         <item>Petersburg</item>
@@ -155,9 +159,9 @@
         <item>Los Angeles</item>
         <item>Louisville</item>
         <item>Managua</item>
-        <item>Fort-de-Frankreich</item>
+        <item>Fort-de-France</item>
         <item>Metlakatla</item>
-        <item>Mexiko City</item>
+        <item>Mexico City</item>
         <item>Monterrey</item>
         <item>Montevideo</item>
         <item>Montreal</item>
@@ -168,7 +172,7 @@
         <item>New Salem</item>
         <item>Panama</item>
         <item>Phoenix</item>
-        <item>Port of Spanien</item>
+        <item>Port of Spain</item>
         <item>Port-au-Prince</item>
         <item>São Paulo</item>
         <item>St. Johns</item>
@@ -275,7 +279,7 @@
         <item>Sofia</item>
         <item>Stockholm</item>
         <item>Tallinn</item>
-        <item>Vatikan</item>
+        <item>Vatikanstadt</item>
         <item>Wien</item>
         <item>Vilnius</item>
         <item>Warschau</item>
@@ -376,13 +380,18 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Weiß</item>
+        <item>Schwarz</item>
+        <item>Automatisch</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>Elfenbeinküste</item>
         <item>Ghana</item>
         <item>Äthiopien</item>
         <item>Algerien</item>
         <item>Malawi</item>
-        <item>Demokratische Republik Kongo</item>
+        <item>Republik Kongo</item>
         <item>Ägypten</item>
         <item>Marokko</item>
         <item>Guinea</item>
@@ -510,7 +519,7 @@
         <item>Mongolei</item>
         <item>Bermuda</item>
         <item>Spanien</item>
-        <item>Kapverdische Inseln</item>
+        <item>Kap Verde</item>
         <item>Island</item>
         <item>Falklandinseln</item>
         <item>Australien</item>
@@ -664,11 +673,6 @@
         <item>Suriname</item>
         <item>Ecuador</item>
     </string-array>
-    <string-array name="days">
-        <item>Gestern</item>
-        <item>Heute</item>
-        <item>Morgen</item>
-    </string-array>
     <string-array name="days_of_week">
         <item>So</item>
         <item>Mo</item>
@@ -683,7 +687,7 @@
         <item>15 Minuten vorher</item>
         <item>15 Minuten vorher</item>
         <item>1 Stunde vorher</item>
-        <item>None</item>
+        <item>Nichts</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 Minute</item>
@@ -693,11 +697,6 @@
         <item>20 Minuten</item>
         <item>25 Minuten</item>
         <item>30 Minuten</item>
-    </string-array>
-    <string-array name="stat_volume_button_behaviors">
-        <item>Keine</item>
-        <item>Schlummern</item>
-        <item>Beenden</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Gesamt %1$s</item>
@@ -712,17 +711,5 @@
         <item>Keine Aktion</item>
         <item>Schlummern</item>
         <item>Beenden</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Aktivitäten im Freien reduzieren</item>
-        <item>Straßen sind rutschig</item>
-        <item>Wetter ist stürmisch, seien Sie vorsichtig</item>
-        <item>Heute ist es neblig. Fahren Sie verantwortungsbewusst.</item>
-        <item>Luft ist verschmutzt. Tragen Sie eine Maske.</item>
-        <item>Regenschirm mitnehmen, wenn Sie rausgehen</item>
-        <item>Seien Sie vorsichtig auf der Straße</item>
-        <item>Es hagelt heute, seien Sie vorsichtig</item>
-        <item>Ein Sandsturm kommt. Tragen Sie eine Maske.</item>
-        <item>Schönen Tag noch!</item>
     </string-array>
 </resources>

@@ -117,7 +117,7 @@
     <string name="backup_theme_progress_message">Sichern…</string>
     <string name="backup_theme_success_message">Sicherung abgeschlossen</string>
     <string name="basic_mode">Offline-Modus</string>
-    <string name="basic_mode_desc">Themen stellen keine Verbindung zum Internet her und verwenden nur lokale Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
+    <string name="basic_mode_desc">Themen stellt keine Internetverbindung her und verwenden nur lokale Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
     <string name="boot_audio_dialog_cancel">Abbrechen</string>
     <string name="boot_audio_dialog_content">Boot-Ton ist jetzt aus. Wieder einschalten und diesen Ton anwenden?</string>
     <string name="boot_audio_dialog_title">Achtung</string>
@@ -125,7 +125,7 @@
     <string name="both_all_apply_success">Hintergrund wurde angewendet</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="browse_mode">Online-Modus</string>
-    <string name="browse_mode_desc">Themen stellen eine Verbindung zum Internet her und nutzen sowohl lokale als auch Online-Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
+    <string name="browse_mode_desc">Themen stellt eine Internetverbindung her und nutzen sowohl lokale als auch Online-Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
     <string name="browser_local_resource">Lokale Ressourcen</string>
     <string name="can_not_apply">Anwenden nicht möglich</string>
     <string name="can_not_apply_error">Dieses Videoformat wird nicht unterstützt</string>

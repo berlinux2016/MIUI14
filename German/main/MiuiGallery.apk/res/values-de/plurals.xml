@@ -34,16 +34,16 @@
         <item quantity="one">Diese Datei verstecken?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">%d Cloud-Fotos hinzugefügt, \"Nur lokale Alben anzeigen\" ausschalten, um diese anzusehen</item>
-        <item quantity="one">%d Cloud-Foto hinzugefügt, \"Nur lokale Alben anzeigen\" ausschalten, um es anzusehen</item>
+        <item quantity="other">%d Cloud-Fotos hinzugefügt, \"Nur lokale Alben anzeigen\" ausschalten, um diese anzuzeigen</item>
+        <item quantity="one">%d Cloud-Foto hinzugefügt, \"Nur lokale Alben anzeigen\" ausschalten, um es anzuzeigen</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">%2$d Elemente können nicht zum Album hinzugefügt werden. %1$s.</item>
-        <item quantity="one">%2$d Element kann nicht zum Album hinzugefügt werden. %1$s.</item>
+        <item quantity="other">" %2$d Elemente können nicht zum Album hinzugefügt werden. %1$s."</item>
+        <item quantity="one">" %2$d Element kann nicht zum Album hinzugefügt werden. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d Elemente können nicht zum privaten Album hinzugefügt werden. %1$s.</item>
-        <item quantity="one">%2$d Element kann nicht zum privaten Album hinzugefügt werden. %1$s.</item>
+        <item quantity="other">" %2$d Elemente können nicht zum privaten Album hinzugefügt werden. %1$s."</item>
+        <item quantity="one">" %2$d Element kann nicht zum privaten Album hinzugefügt werden. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d Tage</item>
