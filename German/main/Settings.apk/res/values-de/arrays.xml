@@ -269,24 +269,24 @@
         <item>Modus mit geringer Verzögerung</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Systemauswahl nutzen (Standard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Systemauswahl nutzen (Standard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Systemauswahl nutzen (Standard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Systemauswahl nutzen (Standard)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -327,7 +327,7 @@
         <item>Beste Leistung (Automatische Bitrate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Systemauswahl nutzen (Standard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -335,7 +335,7 @@
         <item>192.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Systemauswahl verwenden (Standard)</item>
+        <item>Systemauswahl nutzen (Standard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -387,7 +387,7 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Systemauswahl verwenden: %1$d</item>
+        <item>Systemauswahl nutzen: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
