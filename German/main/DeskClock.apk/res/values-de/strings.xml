@@ -62,9 +62,9 @@
     <string name="alarm_volume_title">Wecklautstärke</string>
     <string name="alarmclock_empty_text">Kein Wecker</string>
     <string name="alarmclock_silent_hint">Wecker ist stumm</string>
-    <string name="alert">Weckton</string>
+    <string name="alert">Klingelton</string>
     <string name="alert_page_desc">Gedrückt halten, dann hochwischen, um den Wecker auszuschalten</string>
-    <string name="alert_ringtone">Alarmklingelton</string>
+    <string name="alert_ringtone">Weckton</string>
     <string name="alert_vibrate_enable_summary">Vibrieren beim Ausschalten des Weckers</string>
     <string name="alert_volume">Klingeltonlautstärke</string>
     <string name="alert_volume_summary">Klingeltonlautstärke für Wecker und Timer einstellen</string>
@@ -112,7 +112,7 @@
     <string name="bedtime_welcome">Schlafenszeit verwalten</string>
     <string name="bedtime_welcome_desc">Die Einhaltung eines geregelten und gleichmäßigen Schlafplans kommt Ihrer Gesundheit zugute. Setzen Sie Erinnerungen, die Ihnen helfen, jeden Tag pünktlich ins Bett zu gehen und aufzustehen.</string>
     <string name="birthday_alarm">Geburtstagswecker</string>
-    <string name="birthday_alarm_summary">\"Happy Birthday\" an Ihrem Geburtstag spielen anstelle des Standardwecktons</string>
+    <string name="birthday_alarm_summary">\"Happy Birthday\" an Ihrem Geburtstag spielen anstelle des Standardklingeltons</string>
     <string name="cancel">Abbrechen</string>
     <string name="channel_name_alarm">Wecker</string>
     <string name="channel_name_sleep">Schlaf</string>
@@ -158,17 +158,17 @@
     <string name="deskclock_sleep_no_disturbance">Uhr > Schlafenszeit verwalten > DND-Modus</string>
     <string name="device_sounds">Gerätetöne</string>
     <string name="dialog_confirm_abort">Änderungen verwerfen?</string>
-    <string name="dialog_legal_off_day"><Data>Anscheinend verwenden Sie Urlaubsalarme. Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
-    <string name="dialog_legal_off_day_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen zu Feiertagen zu aktualisieren. Feiertagsalarme werden am Samstag und Sonntag ausgelöst.</string>
-    <string name="dialog_legal_workday"><Data>Anscheinend verwenden Sie Wochentagsalarme. Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere  &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
-    <string name="dialog_legal_workday_and_off_day"><Data>Anscheinend verwenden Sie Wochentags- und Feiertagsalarme. Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
-    <string name="dialog_legal_workday_and_off_day_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen zu Feiertagen zu aktualisieren. Wochentagsalarme werden von Montag bis Freitag ausgelöst. Feiertagsalarme werden am Samstag und Sonntag ausgelöst.</string>
-    <string name="dialog_legal_workday_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen über die Arbeitstage zu aktualisieren. Wochentagsalarme werden von Montag bis Freitag ausgelöst.</string>
+    <string name="dialog_legal_off_day"><Data>Anscheinend verwenden Sie Urlaubswecker. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
+    <string name="dialog_legal_off_day_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen zu Feiertagen zu aktualisieren. Feiertagswecker werden am Samstag und Sonntag ausgelöst.</string>
+    <string name="dialog_legal_workday"><Data>Anscheinend verwenden Sie Wochentagswecker. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere  &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
+    <string name="dialog_legal_workday_and_off_day"><Data>Anscheinend verwenden Sie Wochentags- und Feiertagswecker. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
+    <string name="dialog_legal_workday_and_off_day_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen zu Feiertagen zu aktualisieren. Wochentagswecker werden von Montag bis Freitag ausgelöst. Feiertagswecker werden am Samstag und Sonntag ausgelöst.</string>
+    <string name="dialog_legal_workday_desc">Uhr darf keine Internetverbindung herstellen, um die Informationen über die Arbeitstage zu aktualisieren. Wochentagswecker werden von Montag bis Freitag ausgelöst.</string>
     <string name="dialog_message_agree">Zustimmen</string>
     <string name="dialog_message_for_contact_permission">Um Geburtstagswecker verfügbar zu machen, muss die Uhr auf Ihre Kontakte zugreifen. Zustimmen?</string>
     <string name="dialog_message_negative">Nicht zustimmen</string>
     <string name="dialog_message_not_remind">Nicht mehr anzeigen</string>
-    <string name="dialog_net_permission_in_repeat_type"><Data>Diese Funktion muss mit dem Internet verbunden sein, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
+    <string name="dialog_net_permission_in_repeat_type"><Data>Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren. Bevor Sie diese Funktion nutzen können, müssen Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?</Data></string>
     <string name="dialog_privacy_content">Um relevante Informationen über lokale Feiertage zu erhalten und zu synchronisieren und personalisierte Dienste anzubieten, muss die Uhr eine Internetverbindung herstellen. Bevor Sie diese verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
     <string name="dialog_privacy_content_global">Um personalisierte Dienste anzubieten, muss die Uhr eine Internetverbindung herstellen. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
     <string name="dialog_privacy_content_news">Um personalisierte Dienste anzubieten und Morgennachrichten in Ihre Wecker aufzunehmen, muss sich die Uhr mit dem Internet verbinden. Bevor Sie die Uhr verwenden, müssen Sie auch unsere %1$s und %2$s lesen und akzeptieren. Zustimmen?</string>
@@ -276,8 +276,8 @@
     <string name="life_post_wake_up_time_title">Weckzeit</string>
     <string name="life_post_weather_invalid">Tippen, um Wetterdaten zu erhalten</string>
     <string name="life_post_weather_no_network">Mit Netzwerk verbinden, um Wetterdaten zu aktualisieren</string>
-    <string name="listen_news_msg">Die Uhr muss mit dem Internet verbunden sein, um den morgendlichen Nachrichtendienst anzubieten. Sind Sie damit einverstanden?</string>
-    <string name="listen_news_privacy"><Data>Um personalisierte Dienste anzubieten und Morgennachrichten in Ihre Wecker aufzunehmen, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
+    <string name="listen_news_msg">Uhr benötigt eine Internetverbindung, um den morgendlichen Nachrichtendienst anzubieten. Sind Sie damit einverstanden?</string>
+    <string name="listen_news_privacy"><Data>Um personalisierte Dienste anzubieten und Morgennachrichten in Ihre Wecker aufzunehmen, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
     <string name="loading_ringtone">Klingelton laden…</string>
     <string name="menu_add_worldclock">Neue Weltzeit</string>
     <string name="menu_desk_clock">Schreibtischuhr</string>
@@ -348,9 +348,9 @@
     <string name="module_weather_ringtone_download_data">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr muss ≈30 MB an Audiodateien herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_weather_ringtone_download_data_new">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Uhr muss ≈%d MB Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr muss &amp;#8776;30 MB an Audiodateien herunterladen. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
-    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
+    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
     <string name="module_weather_ringtone_download_wifi">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr muss Audiodateien herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr braucht eine Internetverbindung, um Audiodateien herunterzuladen. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Die Uhr braucht eine Internetverbindung, um Audiodateien herunterzuladen. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%2$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%3$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_introduce">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus. Außerdem können Sie sich am Morgen die aktuellen Wetterdaten anhören.</string>
     <string name="module_weather_ringtone_introduce_global">Wetterwecker wählt je nach aktuellem Wetter verschiedene Klingeltöne aus.</string>
     <string name="module_weather_ringtone_update_data">Wetterwecker beinhaltet jetzt Hintergrundmusik und besseren Sprachansagen. Die Uhr muss ≈30 MB an Audiodateien herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
@@ -359,9 +359,9 @@
     <string name="module_week_ringtone_download_data">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_download_data_new">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Internetverbindung herstellen, um &amp;#8776;30 MB Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
-    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
+    <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr benötigt eine Internetverbindung, um ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB an Audio herunterzuladen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Einverstanden?</Data></string>
     <string name="module_week_ringtone_download_wifi">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Internetverbindung herstellen, um Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss eine Internetverbindung herstellen, um Audio herunterzuladen. Vor der Nutzung von Uhr müssen Sie auch unsere &amp;lt;a href=\"%2$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%3$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">Naturwecker spielt je nach Datum unterschiedliche Töne ab.</string>
     <string name="module_week_ringtone_update_data">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈30MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
     <string name="module_week_ringtone_update_data_new">Naturwecker spielt je nach Datum unterschiedliche Töne ab. Uhr muss ≈%d MB an Audio herunterladen, damit es funktioniert. Jetzt herunterladen?</string>
@@ -369,9 +369,9 @@
     <string name="module_white_noise_download_data">Uhr muss Audiodateien für Umgebungsgeräusch-Timer herunterladen. ≈30 MB Ihrer mobilen Daten werden für diesen Download benötigt. Jetzt herunterladen?</string>
     <string name="module_white_noise_download_data_new">Uhr muss Audiodateien für Umgebungsgeräusch-Timer herunterladen. ≈%d MB Ihrer mobilen Daten werden für diesen Download benötigt. Jetzt herunterladen?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Um Audiodateien für Umgebungsgeräusch-Timer (&amp;#8776;30 MB) herunterladen und personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Sie nutzen jetzt mobile Daten. Zustimmen?&lt;/Data&gt;</string>
-    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Um Audiodateien für Umgebungsgeräusch-Timer (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) herunterzuladen und personalisierte Dienste anzubieten, muss Uhr eine Internetverbindung herstellen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Sie verwenden jetzt mobile Daten. Einverstanden?</Data></string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>Um Audiodateien für Umgebungsgeräusch-Timer (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) herunterzuladen und personalisierte Dienste anzubieten, muss Uhr eine Internetverbindung herstellen. Bevor Sie Uhr verwenden, müssen Sie auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Sie verwenden jetzt mobile Daten. Einverstanden?</Data></string>
     <string name="module_white_noise_download_wifi">Die Uhr muss Audiodateien für Umgebungsgeräusch-Timer herunterladen. Jetzt herunterladen?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Um Audiodateien für Umgebungsgeräusch-Timer herunterladen und personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%1$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%2$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Um Audiodateien für Umgebungsgeräusch-Timer herunterladen und personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &amp;lt;a href=\"%2$s\"&amp;gt;Nutzervereinbarung&amp;lt;/a&amp;gt; und &amp;lt;a href=\"%3$s\"&amp;gt;Datenschutzerklärung&amp;lt;/a&amp;gt; lesen und akzeptieren. Zustimmen?&lt;/Data&gt;</string>
     <string name="monday">Montag</string>
     <string name="monday_short">Mo</string>
     <string name="monday_shortest">M</string>
@@ -401,16 +401,16 @@
     <string name="month_october_shortest">O</string>
     <string name="month_september_shortest">S</string>
     <string name="more">Mehr</string>
-    <string name="more_alert_setting">Zusätzliche Alarmeinstellungen</string>
+    <string name="more_alert_setting">Zusätzliche Weckereinstellungen</string>
     <string name="more_setting">Weitere Einstellungen</string>
     <string name="more_settings">Einstellungen</string>
     <string name="morning">Morgen</string>
     <string name="net_permission_cancel">Nicht zustimmen</string>
     <string name="net_permission_ok">Zustimmen</string>
-    <string name="network_privacy"><Data>Um relevante Infos über lokale Feiertage zu erhalten und Wecker einzustellen, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
-    <string name="network_privacy_global"><Data>Um personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
+    <string name="network_privacy"><Data>Um relevante Infos über lokale Feiertage zu erhalten und Wecker einzustellen, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
+    <string name="network_privacy_global"><Data>Um personalisierte Dienste anzubieten, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
     <string name="never">Einmalig</string>
-    <string name="new_label">Alarmbezeichnung hinzufügen</string>
+    <string name="new_label">Weckerbezeichnung hinzufügen</string>
     <string name="night">Abend</string>
     <string name="no_alarm_setting">Keine weiteren Wecker</string>
     <string name="no_worldclock">Keine weiteren Uhren</string>
@@ -480,7 +480,7 @@
     <string name="set_alarm_other">Andere</string>
     <string name="set_now">Festlegen</string>
     <string name="setting_alarm_arriving_subtitle">Benachrichtigungen anzeigen, bevor ein Wecker ausgelöst wird</string>
-    <string name="setting_alarm_arriving_summary">Vor dem Weckton eine Nachricht senden</string>
+    <string name="setting_alarm_arriving_summary">Nachricht senden vor dem Wecken</string>
     <string name="setting_alarm_arriving_title">Nachricht vor Weckton</string>
     <string name="setting_complete">Fertig</string>
     <string name="settings">Einstellungen</string>
@@ -572,7 +572,7 @@
     <string name="system_permission_agree_desc">Dieser App eine Internetverbindung erlauben, um auf alle ihre Funktionen zuzugreifen</string>
     <string name="system_permission_main_purpose">Zeit anzeigen, Wecker und Timer einstellen, Stoppuhr verwenden</string>
     <string name="system_permission_phone_desc">Zur Identifizierung verschiedener Geräte</string>
-    <string name="system_permission_purpose">Wochentagsalarme und benutzerdefinierte Klingeltöne erstellen</string>
+    <string name="system_permission_purpose">Wochentagswecker und benutzerdefinierte Klingeltöne erstellen</string>
     <string name="system_permission_storage_desc">Für den Zugriff auf Wecker-Klingeltöne</string>
     <string name="system_time_setting">Einstellungen</string>
     <string name="system_time_settings_category_title">Uhrzeiteinstellungen</string>
@@ -706,7 +706,7 @@
     <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>
     <string name="volume_button_setting_title">Lautstärketasten</string>
     <string name="wake_up_alert">Wecker</string>
-    <string name="wake_up_alert_desc">Alarmton abspielen zum Wecken</string>
+    <string name="wake_up_alert_desc">Weckton abspielen zur Weckzeit</string>
     <string name="wake_up_ringtone">Weckton</string>
     <string name="wake_up_time">Aufwachen</string>
     <string name="wednesday">Mittwoch</string>

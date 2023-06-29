@@ -1221,7 +1221,6 @@
     <string name="hdr_show_hint">Anzeige anpassen, um mehr Details in den Schatten und Lichtern von Objekten mit hohem Dynamikumfang zu zeigen</string>
     <string name="hdr_show_title">HDR anzeigen</string>
     <string name="hdr_switch_show_hint">HDR verwenden, um mehr Details in Lichtern und Schatten zu zeigen</string>
-    <string name="hdr_switch_show_title">Hohen Dynamikbereich anzeigen</string>
     <string name="header_help">Hilfe</string>
     <string name="help">Geräte nicht gefunden?</string>
     <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
@@ -1373,7 +1372,7 @@
     <string name="loading_members">Mitglieder herunterladen…</string>
     <string name="loading_processing_tip">Fotos bearbeiten…</string>
     <string name="loading_suspend">Download angehalten. Er wird fortgesetzt, sobald eine WLAN-Verbindung verfügbar ist.</string>
-    <string name="loading_text_format" formatted="false">Private Infos aus Fotos entfernen (%d/%d)…</string>
+    <string name="loading_text_format">Private Daten entfernen…</string>
     <string name="loading_video">Video herunterladen…</string>
     <string name="loading_video_compress_lib">Videokompressions-Plugin herunterladen…</string>
     <string name="loading_video_fail_sync_without_network">Mit dem Netzwerk verbinden, um Metadaten herunterzuladen</string>
@@ -2491,6 +2490,7 @@
     <string name="search_setting_title">Fotos in der Galerie finden</string>
     <string name="search_syncing">Datensynchronisation, kommen Sie später wieder</string>
     <string name="search_title_app_screenshot">App-Screenshots</string>
+    <string name="search_title_daily">Zeit</string>
     <string name="search_title_history">Verlauf</string>
     <string name="search_title_location">Orte</string>
     <string name="search_title_more">Mehr</string>
@@ -2545,7 +2545,6 @@
     <string name="send_public_url">Albumlink senden</string>
     <string name="send_secret_file_failed">Freigeben nicht möglich</string>
     <string name="send_secret_file_space_low">Nicht genügend Speicherplatz</string>
-    <string name="send_too_many_files_error">So viele Elemente können nicht gesendet werden (maximal %d Elemente)</string>
     <string name="service_error">Serverfehler</string>
     <string name="service_is_provided_by_miui_cloud_service">Dieser Service wird von Xiaomi Cloud angeboten</string>
     <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>

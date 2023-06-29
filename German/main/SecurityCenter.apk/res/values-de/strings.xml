@@ -2728,7 +2728,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="list_empty_text">Leer</string>
     <string name="load_only_under_wlan">Nur über WLAN laden</string>
     <string name="loading">Einen Moment…</string>
-    <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Infos enthalten %d/%d</string>
+    <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Daten enthalten %d/%d</string>
     <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler an MIUI zu senden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät aus.</string>
     <string name="lock_all_title">Alle Apps sperren</string>
     <string name="lock_mode_title">Apps geschützt</string>
@@ -3583,7 +3583,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_close_permission_control_dialog_msg">Wenn die Rechteverwaltung ausgeschaltet ist, werden Apps nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen.</string>
     <string name="permission_close_permission_control_dialog_title">Ausschalten?</string>
     <string name="permission_exception_title">Eingeschränkte Verbindung für Apps</string>
-    <string name="permission_instruction_access_notification">Mit dieser Berechtigung können Apps alle Ihre Benachrichtigungen lesen, durchsuchen und löschen. Bedenken Sie, dass Benachrichtigungen private Informationen (z. B. Bankkartennummern und Passwörter) enthalten können.</string>
+    <string name="permission_instruction_access_notification">Mit dieser Berechtigung können Apps alle Ihre Benachrichtigungen lesen, durchsuchen und löschen. Bedenken Sie, dass Benachrichtigungen private Daten (z. B. Bankkartennummern und Passwörter) enthalten können.</string>
     <string name="permission_instruction_activity_recognition">Mit dieser Berechtigung können Apps auf Informationen zugreifen, die von den eingebauten Sensoren zur Erkennung Ihrer körperlichen Aktivität erfasst werden (z. B. Schrittzahl und Trainingseinheiten). Bedenken Sie, dass diese Informationen persönlicher Natur sind.</string>
     <string name="permission_instruction_add_voicemail">Diese Berechtigung erlaubt Apps, dem System Sprachnachrichten hinzuzufügen.</string>
     <string name="permission_instruction_answer_phone_call">Diese Berechtigung erlaubt Apps, Anrufe ohne Ihre Zustimmung zu beantworten oder zu beenden.</string>
@@ -3596,7 +3596,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_change_wifi_state">Diese Berechtigung erlaubt Apps, WLAN ohne Ihre Bestätigung ein- und ausschalten.</string>
     <string name="permission_instruction_device_admin">Diese Berechtigung erlaubt Apps, Ihr Gerät zu steuern, was das Löschen von Daten, Entsperren des Geräts und Ändern von Passwörtern umfassen kann. Dies ist eine Berechtigung mit hohem Risiko.</string>
     <string name="permission_instruction_dont_disturb">Diese Berechtigung erlaubt Apps, den DND-Modus ein- und auszuschalten.</string>
-    <string name="permission_instruction_draw_overlay">Diese Berechtigung erlaubt Apps, Popups über jeder anderen Schnittstelle auf Ihrem Gerät anzuzeigen, was die normale Verwendung anderer Apps beeinträchtigen kann. Bösartige Apps können diese Berechtigung nutzen, um private Informationen (z. B. Passwörter) durch transparente Popups zu lesen oder zu sammeln.</string>
+    <string name="permission_instruction_draw_overlay">Diese Berechtigung erlaubt Apps, Popups über jeder anderen Schnittstelle auf Ihrem Gerät anzuzeigen, was die normale Verwendung anderer Apps beeinträchtigen kann. Bösartige Apps können diese Berechtigung nutzen, um private Daten (z. B. Passwörter) durch transparente Popups zu lesen oder zu sammeln.</string>
     <string name="permission_instruction_external_storage">Diese Berechtigung erlaubt Apps den Zugriff auf Fotos, Medien und Dateien auf Ihrem Gerät. Seien Sie vorsichtig mit dieser Berechtigung, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_gallery">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_get_accounts">Diese Berechtigung erlaubt Apps den Zugriff auf die Liste der auf Ihrem Gerät gespeicherten Konten. Diese Liste könnte alle Ihre persönlichen Konten enthalten, die durch installierte Apps erstellt wurden, sowie die Konten von Social Media-Plattformen und Kommunikationstools.</string>
@@ -3611,10 +3611,10 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_ongoing_notification">Diese Berechtigung erlaubt Apps, dauerhafte Verknüpfungen in der Benachrichtigeiste zu erstellen, die evtl. verhindern, dass Sie regelmäßige Benachrichtigungen sehen können.</string>
     <string name="permission_instruction_package_usage_stat">Diese Berechtigung erlaubt Apps, das Verhalten anderer Apps auf Ihrem Gerät zu verfolgen und die Informationen zu erhalten, die Ihren Anbieter und die Spracheinstellungen beinhalten können. Dies ist eine Berechtigung mit hohem Risiko. Ihr Gerät könnte überwacht werden und die Sicherheit Ihrer persönlichen Daten könnte ebenfalls gefährdet sein.</string>
     <string name="permission_instruction_picture_in_picture">Diese Berechtigung erlaubt Apps, Elemente auf Ihrem Startbildschirm oder über andere Apps via Bild-im-Bild-Schnittstelle anzuzeigen.</string>
-    <string name="permission_instruction_popup_window">Diese Berechtigung erlaubt Apps, Popups über jeder anderen Schnittstelle auf Ihrem Gerät anzuzeigen, was die normale Verwendung anderer Apps beeinträchtigen kann. Bösartige Apps können diese Berechtigung nutzen, um private Informationen (z. B. Passwörter) durch transparente Popups zu lesen oder zu sammeln.</string>
+    <string name="permission_instruction_popup_window">Diese Berechtigung erlaubt Apps, Popups über jeder anderen Schnittstelle auf Ihrem Gerät anzuzeigen, was die normale Verwendung anderer Apps beeinträchtigen kann. Bösartige Apps können diese Berechtigung nutzen, um private Daten (z. B. Passwörter) durch transparente Popups zu lesen oder zu sammeln.</string>
     <string name="permission_instruction_read_appplication_list">Diese Berechtigung erlaubt Apps den Zugriff auf Informationen über alle auf Ihrem Gerät installierten Apps. Bösartige Apps können diese Berechtigung nutzen, um Ihre persönlichen Präferenzen zu analysieren.</string>
     <string name="permission_instruction_read_calllog">Diese Berechtigung erlaubt Apps den Zugriff auf den Anrufverlauf, der detaillierte Informationen über Ihre ein- und ausgehenden Anrufe enthalten kann. Diese Berechtigung erlaubt Apps auch, Aufnahmen des Anrufverlaufs zu speichern. Bösartige Apps können diese Berechtigung nutzen, um Ihren Anrufverlauf an Dritte weiterzugeben oder für Betrug zu verwenden.</string>
-    <string name="permission_instruction_read_clipboard">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Informationen enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
+    <string name="permission_instruction_read_clipboard">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Daten enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
     <string name="permission_instruction_read_contacts">Diese Berechtigung erlaubt Apps den Zugriff auf die auf Ihrem Gerät gespeicherten Kontaktinformationen. Diese Informationen können die Häufigkeit Ihrer Kommunikation mit bestimmten Kontakten über Anrufe, E-Mails und andere Methoden enthalten. Diese Berechtigung erlaubt Apps auch, Kontakte zu speichern. Bösartige Apps können diese Berechtigung verwenden, um Kontakte ohne Ihre Zustimmung freizugeben.</string>
     <string name="permission_instruction_read_media_pic">Wenn Sie diese Berechtigung erteilen, kann die App auf Fotos und Videos auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_read_notify_sms">Diese Berechtigung erlaubt Apps, auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherte Benachrichtigungstexte zu lesen.</string>
@@ -4343,7 +4343,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_risk_result_open_btn">Einschalten</string>
     <string name="privacy_risk_result_photo_delete">Benachrichtigungen über gelöschte Fotos erhalten</string>
     <string name="privacy_risk_result_photo_delete_msg">Benachrichtigungen erhalten, wenn Apps ohne Ihre Erlaubnis Elemente aus der Galerie löschen</string>
-    <string name="privacy_risk_result_photo_sensitive">Ihre Fotos enthalten private Infos</string>
+    <string name="privacy_risk_result_photo_sensitive">Ihre Fotos enthalten private Daten</string>
     <string name="privacy_risk_result_protection">Datenschutz</string>
     <string name="privacy_risk_result_screen_fuzzy">Unscharfe App-Vorschau</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Unscharfe Vorschau sensibler Apps, die in zuletzt geöffnet angezeigt werden</string>
@@ -4449,7 +4449,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="read_clipboard_ai_close_yes">Anpassen</string>
     <string name="read_clipboard_op_content">Benachrichtigungen erhalten, wenn der Zugriff erlaubt oder eingeschränkt ist</string>
     <string name="read_clipboard_op_title">Benachrichtigen, wenn Apps auf Elemente in der Zwischenablage zugreifen</string>
-    <string name="read_clipboard_tip_content">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Informationen enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
+    <string name="read_clipboard_tip_content">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Daten enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
     <string name="read_clipboard_tip_title">Zugriff auf Elemente in der Zwischenablage</string>
     <string name="real_location_off">Ungefährer Standort ist an</string>
     <string name="real_location_on">Ungefährer Standort ist aus</string>

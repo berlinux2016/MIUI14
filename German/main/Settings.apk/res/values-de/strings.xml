@@ -818,7 +818,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="app_notification_row_banned">Blockiert</string>
     <string name="app_notification_row_priority">Dringend</string>
     <string name="app_notification_row_sensitive">Sensibel</string>
-    <string name="app_notification_sensitive_summary">Bei gesperrtem Gerät Benachrichtigungsinhalte dieser App verstecken, die private Informationen enthalten könnten</string>
+    <string name="app_notification_sensitive_summary">Bei gesperrtem Gerät Benachrichtigungsinhalte dieser App verstecken, die private Daten enthalten könnten</string>
     <string name="app_notification_sensitive_title">Sensiblen Inhalt verstecken</string>
     <string name="app_notification_visibility_override_title">Am Sperrbildschirm</string>
     <string name="app_notifications_dialog_done">Fertig</string>
@@ -3485,7 +3485,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="enable_text">Aktivieren</string>
     <string name="enable_uft">UFT einschalten</string>
     <string name="enable_verbose_vendor_logging">Ausführliche Vendor-Protokollierung aktivieren</string>
-    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Informationen enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
+    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
     <string name="enable_webview_multiprocess">Multiprozess WebView</string>
     <string name="enable_webview_multiprocess_desc">WebView Renderer separat ausführen</string>
     <string name="enable_wifi_display">Kabellose Übertragung aktivieren</string>

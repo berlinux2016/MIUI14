@@ -364,7 +364,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugang bietet</string>
     <string name="enable_terminal_title">Lokales Terminal</string>
     <string name="enable_verbose_vendor_logging">Ausführliche Vendor-Protokollierung aktivieren</string>
-    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Informationen enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
+    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
     <string name="enable_webview_multiprocess">Multiprozess-WebView</string>
     <string name="enable_webview_multiprocess_desc">WebView-Renderer separat ausführen</string>
     <string name="enabled_by_admin">Vom Admin aktiviert</string>

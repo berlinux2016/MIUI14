@@ -508,6 +508,10 @@
         <item quantity="other">Teilen nicht möglich. %d Fotos werden immer noch bearbeitet…</item>
         <item quantity="one">Teilen nicht möglich. %d Foto wird immer noch bearbeitet…</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Bis zu %d Elemente zum Senden auswählen</item>
+        <item quantity="one">Bis zu %d Element zum Senden auswählen</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d Videos von %1$s</item>
         <item quantity="one">%2$d Video von %1$s</item>

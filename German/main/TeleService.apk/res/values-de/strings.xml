@@ -1093,7 +1093,7 @@
     <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugriff erlaubt</string>
     <string name="enable_terminal_title">Lokales Terminal</string>
     <string name="enable_verbose_vendor_logging">Ausführliches Vendor-Logging aktivieren</string>
-    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Logs in Fehlerberichte aufnehmen, die private Infos enthalten, mehr Akku und/oder mehr Speicherplatz benötigen können</string>
+    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Logs in Fehlerberichte aufnehmen, die private Daten enthalten, mehr Akku und/oder mehr Speicherplatz benötigen können</string>
     <string name="enable_vice_volte_if_dual_ct">VoLTE für die zweite SIM-Karte automatisch einschalten, wenn zwei China Telecom SIM-Karten installiert sind.</string>
     <string name="enable_video_calling_dialog_close">Schließen</string>
     <string name="enable_video_calling_dialog_msg">Um Videotelefonie zu aktivieren, müssen Sie unter Systemeinstellungen 4G LTE-Modus einschalten</string>

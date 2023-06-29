@@ -97,7 +97,7 @@
     <string name="dock_alignment_not_charging">Telefon zum kabellosen Laden neu ausrichten</string>
     <string name="dock_alignment_slow_charging">Telefon für schnelleres Aufladen neu ausrichten</string>
     <string name="enable_verbose_vendor_logging">Ausführliche Protokollierung aktivieren</string>
-    <string name="enable_verbose_vendor_logging_summary">Schließt zusätzliche gerätespezifische Anbieterprotokolle in Fehlerberichten ein, die private Informationen enthalten, den Akkuverbrauch erhöhen und/oder zusätzlichen Speicher benötigen können.</string>
+    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen</string>
     <string name="enhanced_connectivity">Verbesserte Konnektivität</string>
     <string name="enhanced_connectivity_summary">Aktiviert die Funktion \"Verbesserte Konnektivität\"</string>
     <string name="error_disable_esim_title">eSIM deaktivieren nicht möglich</string>
