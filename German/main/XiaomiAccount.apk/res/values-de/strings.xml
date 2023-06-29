@@ -61,7 +61,7 @@
     <string name="account_user_avatar_from_camera">Foto aufnehmen</string>
     <string name="account_user_base_info">Persönliche Daten</string>
     <string name="account_user_birthday">Geburtstag</string>
-    <string name="account_user_details">Persönliche Infos</string>
+    <string name="account_user_details">Private Daten</string>
     <string name="account_user_education">Ausbildung</string>
     <string name="account_user_email">E-Mail zum Wiederherstellen</string>
     <string name="account_user_gender">Geschlecht</string>
@@ -965,11 +965,11 @@
     <string name="search_mi_account_desc">Xiaomi-Konto</string>
     <string name="search_mi_account_key_words">Mi-Konto,Mi Konto,Xiaomi-Konto,Xiaomi Konto,Anmelden,Konto erstellen,Xiaomi Cloud,Mi Coins,Mi Credits,Mi Wallet,Mi Pass,Mi Versicherung,Kontoeinstellung,Kontoverwaltung</string>
     <string name="search_mi_account_path">Xiaomi-Konto,Einstellungen/Xiaomi-Konto</string>
-    <string name="search_user_detail">Persönliche Informationen</string>
+    <string name="search_user_detail">private Daten,persönliche Informationen</string>
     <string name="search_user_detail_bottom_key_words">Telefon ändern,E-Mail ändern,Einkommen ändern,Bildung ändern,Standort ändern,Region ändern</string>
-    <string name="search_user_detail_desc">Persönliche Informationen</string>
-    <string name="search_user_detail_path">Xiaomi-Konto/Persönliche Infos,Einstellungen/Xiaomi-Konto/Persönliche Infos</string>
-    <string name="search_user_detail_top_key_words">Persönliche Infos,Profilbild ändern,Benutzername ändern,Spitzname ändern,Geburtsdatum ändern,Geschlecht ändern</string>
+    <string name="search_user_detail_desc">private Daten,persönliche Informationen</string>
+    <string name="search_user_detail_path">Xiaomi-Konto/Private Daten,Einstellungen/Xiaomi-Konto/Private Daten</string>
+    <string name="search_user_detail_top_key_words">private Daten,persönliche Informationen,Profilbild ändern,Benutzername ändern,Spitzname ändern,Geburtsdatum ändern,Geschlecht ändern</string>
     <string name="select_all">Alle auswählen</string>
     <string name="select_location_title">Wählen Sie Ihren Standort</string>
     <string name="selected">Gewählt</string>

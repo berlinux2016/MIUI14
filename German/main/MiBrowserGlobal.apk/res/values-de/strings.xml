@@ -43,7 +43,7 @@
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Basisinfo</string>
     <string name="account_user_birthday">Geburtstag</string>
-    <string name="account_user_details">Persönliche Infos</string>
+    <string name="account_user_details">Private Daten</string>
     <string name="account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="account_user_gender">Geschlecht</string>
     <string name="account_user_id">Xiaomi-Konto-ID</string>
@@ -1837,7 +1837,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="privacy_improve_performance">Benutzererfahrungsprogramm</string>
     <string name="privacy_improve_performance_desc">Erlauben Sie Xiaomi, Benutzerdaten zu sammeln und zu analysieren, um unsere Produkte und Dienstleistungen zu verbessern</string>
     <string name="privacy_message">Bevor Sie den Browser verwenden, müssen Sie unserer &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font> zustimmen.</string>
-    <string name="privacy_message_main_tips_first">Mi Browser muss notwendige persönliche Informationen sammeln, um Ihnen die grundlegenden Dienste zur Verfügung zu stellen. Wie wir mit den gesammelten Informationen umgehen, erfahren Sie in unserer &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font>. Sie können Ihre Zustimmung zur Datenschutzerklärung von Mi Browser jederzeit unter Einstellungen > Datenschutz &amp; Sicherheit widerrufen. Lesen und akzeptieren Sie unsere &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font> bevor Sie Mi Browser verwenden.</string>
+    <string name="privacy_message_main_tips_first">Mi Browser muss notwendige private Daten sammeln, um Ihnen die grundlegenden Dienste zur Verfügung zu stellen. Wie wir mit den gesammelten Informationen umgehen, erfahren Sie in unserer &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font>. Sie können Ihre Zustimmung zur Datenschutzerklärung von Mi Browser jederzeit unter Einstellungen > Datenschutz &amp; Sicherheit widerrufen. Lesen und akzeptieren Sie unsere &lt;font color=#4086f5>&lt;a href=%2$s style=color:#4086f5;>Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Datenschutzerklärung&lt;/a>&lt;/font> bevor Sie Mi Browser verwenden.</string>
     <string name="privacy_message_main_tips_second">Um nach Apps auf diesem Gerät zu suchen und zu wissen, welche Apps installiert sind, muss Mi Browser auf die App-Installationsinfos zugreifen, die nicht lokal gespeichert oder in irgendeiner Form hochgeladen werden.</string>
     <string name="privacy_message_welcome">Willkommen bei Mi Browser! Unsere App bietet folgende Dienste:</string>
     <string name="privacy_message_welcome_tip_first">- Schnelles und sicheres Surfen im Internet</string>

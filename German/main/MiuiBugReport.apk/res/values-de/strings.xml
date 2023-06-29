@@ -40,7 +40,7 @@
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Basisinfo</string>
     <string name="account_user_birthday">Geburtstag</string>
-    <string name="account_user_details">Persönliche Infos</string>
+    <string name="account_user_details">Private Daten</string>
     <string name="account_user_email">E-Mail zum Wiederherstellen</string>
     <string name="account_user_gender">Geschlecht</string>
     <string name="account_user_id">Xiaomi-Konto-ID</string>
@@ -66,7 +66,7 @@
     <string name="bugreport_dialog_informed_consent_content">Wir haben einen Fehler betreffend Ihr Passwort für die Bildschirmsperre festgestellt. Sie können uns Ihre Geräteprotokolle übermitteln, um das Problem zu lokalisieren und zu lösen. Die Protokolldaten werden anonym hochgeladen, nur zur Fehlerbehebung verwendet und nach Abschluss der Fehlerbehebung gelöscht.</string>
     <string name="bugreport_dialog_informed_consent_title">Einwilligung nach Aufklärung</string>
     <string name="bugreport_dialog_not_show_again">Nicht wieder anzeigen</string>
-    <string name="bugreport_dialog_submit_content"><Data>"Sie speichern jetzt Softwareprotokolle auf diesem Gerät. Protokolle können persönliche Informationen und Ihre Standortdaten enthalten. Geben Sie keine Protokolle an andere weiter, wenn Sie nicht möchten, dass diese veröffentlicht werden. \"Zustimmen\" bedeutet, dass Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert haben."</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>"Sie speichern jetzt Softwareprotokolle auf diesem Gerät. Protokolle können private Daten und Ihre Standortdaten enthalten. Geben Sie keine Protokolle an andere weiter, wenn Sie nicht möchten, dass diese veröffentlicht werden. \"Zustimmen\" bedeutet, dass Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert haben."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Tippen zum Anzeigen</string>
     <string name="bugreport_dump_complete_notification_title">Fehlerbericht erstellt</string>
     <string name="bugreport_dump_start_notification_summary">Dies kann einige Minuten dauern.</string>

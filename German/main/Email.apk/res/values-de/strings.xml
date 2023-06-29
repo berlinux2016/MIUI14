@@ -1862,7 +1862,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
     <string name="widget_other_views">Andere</string>
     <string name="wipe_account_fail_description">Erlauben</string>
     <string name="wipe_account_fail_description_remind">Wegen Datennutzungsberechtigungen können sich nach dem Löschen Restdaten im Kalender und in den Kontakten des Kontos befinden. Bitte löschen Sie diese manuell.</string>
-    <string name="wipe_account_fail_title">Persönliche Infos wurden nicht gelöscht</string>
+    <string name="wipe_account_fail_title">Private Daten wurden nicht gelöscht</string>
     <string name="wps_card_button_tips">WPS Office öffnen</string>
     <string name="wps_card_tips">%s hat ein WPS-Office-Dokument mit Ihnen geteilt</string>
     <string name="wrong_password">Eingegebenes Passwort ist falsch</string>

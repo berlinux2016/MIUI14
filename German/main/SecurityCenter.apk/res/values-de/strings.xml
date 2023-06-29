@@ -3619,9 +3619,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_read_media_pic">Wenn Sie diese Berechtigung erteilen, kann die App auf Fotos und Videos auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_read_notify_sms">Diese Berechtigung erlaubt Apps, auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherte Benachrichtigungstexte zu lesen.</string>
     <string name="permission_instruction_read_phone_state">Diese Berechtigung erlaubt Apps den Zugriff auf Ihre Rufnummer, IMEI, IMSI und andere Gerätekennungen. Apps verwenden diese Berechtigung normalerweise, um festzustellen, ob Ihre Anrufe weitergeleitet werden. Wenn Sie eine virtuelle Geräte-ID verwenden, können Apps nicht auf Ihre tatsächlichen Gerätekennungen zugreifen.</string>
-    <string name="permission_instruction_read_sms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Text- und Multimedia-Nachrichten lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
+    <string name="permission_instruction_read_sms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Text- und Multimedia-Nachrichten lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere private Daten enthalten.</string>
     <string name="permission_instruction_read_write_calendar">Diese Berechtigung erlaubt Apps den Zugriff auf Ihren Kalender sowie das Lesen, Hinzufügen, Entfernen, Bearbeiten, Freigeben und Speichern von Kalendereinträgen. Bösartige Anps können diese Berechtigung verwenden, um Nachrichten in Ihrem Namen zu senden oder Kalendereinträge ohne Ihre Zustimmung zu bearbeiten.</string>
-    <string name="permission_instruction_receive_mms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Multimedia-Nachrichten zu lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere persönliche Informationen enthalten.</string>
+    <string name="permission_instruction_receive_mms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Multimedia-Nachrichten zu lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere private Daten enthalten.</string>
     <string name="permission_instruction_record_audio">Diese Berechtigung erlaubt Apps, das Mikrofon für Audioaufnahmen zu verwenden. Bedenken Sie, dass diese Berechtigung Apps erlaubt, alles aufzunehmen, inkl. Ihrer Gespräche mit anderen. Am besten erlauben Sie Apps die Verwendung dieser Berechtigung nur während der App-Nutzung.</string>
     <string name="permission_instruction_running_background">Diese Berechtigung erlaubt Apps, im Hintergrund zu arbeiten. Dabei können Apps Daten sammeln und Dienste anbieten. Bedenken Sie, dass solche Aktivitäten den Stromverbrauch erhöhen.</string>
     <string name="permission_instruction_running_exceed_data">Diese Berechtigung erlaubt Apps, Nutzungsbeschränkungen für mobile Daten zu ignorieren.</string>
@@ -4328,7 +4328,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_risk_detection_stop_msg">Wenn Sie jetzt mit dem Scannen aufhören, werden einige Datenschutzrisiken evtl. nicht erkannt. Trotzdem damit aufhören?</string>
     <string name="privacy_risk_detection_stop_title">Scannen anhalten</string>
     <string name="privacy_risk_detection_title">Risiken aufdecken</string>
-    <string name="privacy_risk_detection_user">Persönliche Infos</string>
+    <string name="privacy_risk_detection_user">Private Daten</string>
     <string name="privacy_risk_install_app">Unzuverlässige Apps</string>
     <string name="privacy_risk_photo_delete">Fotos können ohne Ihre Berechtigung gelöscht werden</string>
     <string name="privacy_risk_photo_location">Fotos mit Standortinfo</string>
@@ -4479,7 +4479,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="report_error">Nachricht wurde nicht gemeldet</string>
     <string name="report_only">Nachricht zum Melden auswählen</string>
     <string name="report_success">Nachricht gemeldet</string>
-    <string name="report_warning">%1$s SMS an Mi melden? Diese Nachrichten und die Nummern werden zur Prüfung auf Mi Server hochgeladen. Persönliche Informationen in den Nachrichten werden anonymisiert.</string>
+    <string name="report_warning">%1$s SMS an Mi melden? Diese Nachrichten und die Nummern werden zur Prüfung auf Mi Server hochgeladen. Private Daten in den Nachrichten werden anonymisiert.</string>
     <string name="report_warning_title">Achtung</string>
     <string name="required_permissions">Obligatorische Berechtigungen</string>
     <string name="required_permissions_desc">Diese Berechtigungen sind erforderlich, um die grundlegenden Funktionen und Dienste dieser App verfügbar zu machen.</string>

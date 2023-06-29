@@ -174,7 +174,7 @@ Wenn Sie Ihre Meinung ändern, müssen Sie vor der Nutzung unserer Dienste unser
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Basisinfo</string>
     <string name="account_user_birthday">Geburtstag</string>
-    <string name="account_user_details">Persönliche Info</string>
+    <string name="account_user_details">Private Daten</string>
     <string name="account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="account_user_gender">Geschlecht</string>
     <string name="account_user_id">Xiaomi-Konto-ID</string>
