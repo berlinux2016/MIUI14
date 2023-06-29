@@ -263,8 +263,8 @@ Abtastrate"</string>
     <string name="cell_data_off_content_description">Mobile Daten aus</string>
     <string name="change_default_call_screening_dialog_affirmative">Als Standard festlegen</string>
     <string name="change_default_call_screening_dialog_negative">Abbrechen</string>
-    <string name="change_default_call_screening_dialog_title">%s zur Standard-App für das Anrufauslesen machen?</string>
-    <string name="change_default_call_screening_warning_message">%s kann Infos über Anrufer sehen, die nicht in Ihren Kontakten sind, und diese Anrufe blockieren. Nur Apps, denen Sie vertrauen, sollten als Standard-App für das Anrufauslesen festgelegt werden.</string>
+    <string name="change_default_call_screening_dialog_title">%s zur Standard-App für den Anruf-Filter machen?</string>
+    <string name="change_default_call_screening_warning_message">%s kann Infos über Anrufer sehen, die nicht in Ihren Kontakten sind, und diese Anrufe blockieren. Nur Apps, denen Sie vertrauen, sollten als Standard-App für den Anruf-Filter festgelegt werden.</string>
     <string name="change_default_call_screening_warning_message_for_disable_old_app">%s wird nicht mehr in der Lage sein, Anrufe auszulesen</string>
     <string name="change_default_dialer_dialog_affirmative">Als Standard-Telefon-App festlegen</string>
     <string name="change_default_dialer_dialog_negative">Abbrechen</string>
