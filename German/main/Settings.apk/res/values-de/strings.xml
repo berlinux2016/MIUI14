@@ -12168,7 +12168,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_onboarding_new_setting_summary">Sie werden keine Benachrichtigungen sehen oder hören. Anrufe von markierten Kontakten und wiederholten Anrufern sind erlaubt.</string>
     <string name="zen_onboarding_new_setting_title">Keine visuellen oder hörbaren Benachrichtigungen</string>
     <string name="zen_onboarding_ok">Fertig</string>
-    <string name="zen_onboarding_screen_off_summary">Bildschirm für Benachrichtigungen nicht einschalten</string>
+    <string name="zen_onboarding_screen_off_summary">Bei Benachrichtigungen Bildschirm nicht aufwecken</string>
     <string name="zen_onboarding_screen_off_title">Blockieren, wenn Bildschirm aus</string>
     <string name="zen_onboarding_screen_on_summary">Niemals Benachrichtigungen anzeigen, außer für normale Telefonaktivität</string>
     <string name="zen_onboarding_screen_on_title">Blockieren, wenn Bildschirm an</string>

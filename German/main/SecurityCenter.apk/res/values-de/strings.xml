@@ -3742,7 +3742,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_center_list_item_set_lockscreen_time_holder">Gerät nach %d Sekunden Inaktivität sperren</string>
     <string name="power_center_list_item_set_lockscreen_time_new">Bildschirm nach %d Sekunden Inaktivität in Ruhezustand versetzen</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Schnelleres Sperren Ihres Geräts schont den Akku</string>
-    <string name="power_center_list_item_wake_notification">Bildschirm für Benachrichtigungen nicht aufwecken</string>
+    <string name="power_center_list_item_wake_notification">Bei Benachrichtigungen Bildschirm nicht aufwecken</string>
     <string name="power_center_list_item_wake_notification_summary">Eingehende Benachrichtigungen werden nur bei eingeschaltetem Bildschirm angezeigt</string>
     <string name="power_center_night_charge_noti_subtitle">Akku wird bis %s vollständig geladen sein</string>
     <string name="power_center_night_charge_noti_title">Optimiertes Laden ist an</string>
@@ -3858,7 +3858,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_optimize_close_consume_app">Apps schließen, die den Akku entladen</string>
     <string name="power_optimize_close_gps">Standortdienste ausschalten</string>
     <string name="power_optimize_close_haptic_feedback">Haptisches Feedback ausschalten</string>
-    <string name="power_optimize_close_wake_notification">Bildschirm für Benachrichtigungen nicht aufwecken</string>
+    <string name="power_optimize_close_wake_notification">Bei Benachrichtigungen Bildschirm nicht aufwecken</string>
     <string name="power_optimize_close_wlan">Tragbaren Hotspot ausschalten</string>
     <string name="power_optimize_close_wlan_summary">Strom sparen, wenn keine Geräte angeschlossen sind</string>
     <string name="power_optimize_darkmode">In den Dark Mode wechseln</string>
@@ -3899,7 +3899,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_save_mode_close_aod_display_summary">Always-On-Display ausschalten, wenn Stromsparen an ist</string>
     <string name="power_save_mode_close_aod_display_title">Always-On-Display ausschalten</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funktioniert, wenn Stromsparen an ist</string>
-    <string name="power_save_mode_close_notification_screenon_title">Bildschirm für Benachrichtigungen nicht aufwecken</string>
+    <string name="power_save_mode_close_notification_screenon_title">Bei Benachrichtigungen Bildschirm nicht aufwecken</string>
     <string name="power_save_mode_close_warn_text">Stromsparen schränkt Hintergrundaktivitäten und Synchronisation ein. Wenn Sie es beim Laden aktiviert lassen, arbeiten evtl. einige Funktionen nicht richtig. Stromsparen beim Laden trotzdem aktiv lassen?</string>
     <string name="power_save_mode_close_warn_title">Stromsparen</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Funktioniert, wenn Stromsparen an ist</string>
