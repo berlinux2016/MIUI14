@@ -97,7 +97,7 @@
     <string name="friday_shortest">F</string>
     <string name="functions_are_being_developed">Diese Funktion wird bald verfügbar sein. Bleiben Sie dran!</string>
     <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
-    <string name="global_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Bildschirmfotos zuschneiden und bearbeiten. Diese App muss mit dem Internet verbunden sein, um normal zu funktionieren.</string>
+    <string name="global_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Bildschirmfotos zuschneiden und bearbeiten. Diese App benötigt eine Internetverbindung, um normal zu funktionieren.</string>
     <string name="global_pad">Mein Tablet</string>
     <string name="global_pc">Mein Laptop</string>
     <string name="global_phone">Mein Telefon</string>
@@ -211,6 +211,8 @@
     <string name="privacy_mosaic_result_fail">Private Daten wurden nicht gesperrt. Erneut versuchen.</string>
     <string name="privacy_mosaic_result_none">Keine privaten Daten gefunden</string>
     <string name="privacy_mosaic_tip">Tippen , um private Daten zu sperren</string>
+    <string name="privacy_mosaic_tip_long">Scrollende Screenshots werden nicht unterstützt</string>
+    <string name="privacy_mosaic_tip_partial">Teil-Screenshots werden nicht unterstützt</string>
     <string name="remover_menu_processing">Verarbeitung…</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -247,7 +249,7 @@
     <string name="screen_talkback_small">Extra klein</string>
     <string name="screen_talkback_text">Text</string>
     <string name="screenshot_edit">Bearbeiten</string>
-    <string name="screenshot_failed_in_landscape_mode">Im Querformat-Modus sind keine scrollenden Screenshots möglich</string>
+    <string name="screenshot_failed_in_landscape_mode">Im Querformat-Modus sind scrollende Screenshots nicht möglich</string>
     <string name="screenshot_failed_to_capture_title">Diese App gestattet keine Screenshots</string>
     <string name="screenshot_failed_to_save_title">Speichern nicht möglich. Nicht genug Speicherplatz.</string>
     <string name="screenshot_feedback_txt">Feedback</string>

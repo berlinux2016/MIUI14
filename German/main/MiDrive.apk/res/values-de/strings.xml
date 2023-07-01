@@ -124,7 +124,7 @@
     <string name="cloud_storage_already_used">Belegt: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Cloud-Speicher</string>
     <string name="cloud_storage_full">Cloud-Speicher voll. Tarif aktualisieren, um mehr Speicherplatz zu erhalten.</string>
-    <string name="cloud_storage_info_type_backup">Sicherungen</string>
+    <string name="cloud_storage_info_type_backup">Cloud-Sicherungen</string>
     <string name="cloud_storage_info_type_family">Familie</string>
     <string name="cloud_storage_info_type_others">Anderes</string>
     <string name="cloud_storage_info_type_pdc">Systemeinstellungen</string>

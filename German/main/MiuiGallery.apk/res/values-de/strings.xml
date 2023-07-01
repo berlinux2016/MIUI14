@@ -144,7 +144,7 @@
     <string name="album_favorites_name">Favoriten</string>
     <string name="album_from_format">Von %s</string>
     <string name="album_hidden_item_button_title">Einblenden</string>
-    <string name="album_hidden_page_title">Ausblenden</string>
+    <string name="album_hidden_page_title">Versteckte Alben</string>
     <string name="album_homepage_show_all_photos">Alle Fotos anzeigen</string>
     <string name="album_jump_failed">Warten, bis die Alben mit der Cloud synchronisiert sind und erneut versuchen</string>
     <string name="album_lockscreen_wallpapers">Hintergründe Sperrbildschirm</string>
@@ -172,10 +172,10 @@
     <string name="album_permission_title_granted">Gewährt</string>
     <string name="album_permission_title_non_granted">Nicht gewährt</string>
     <string name="album_quota_fulfiled">Album erstellen nicht möglich, Albenanzahl hat Limit erreicht.</string>
-    <string name="album_rubbish_cant_change_status">Überflüssige  Alben können nicht synchronisiert werden</string>
-    <string name="album_rubbish_clear_all_item_description">Überflüssige  Alben löschen</string>
-    <string name="album_rubbish_page_title">Überflüssige  Alben</string>
-    <string name="album_rubbish_tip_title">Eventuell überflüssige  Alben</string>
+    <string name="album_rubbish_cant_change_status">Überflüssige Alben können nicht synchronisiert werden</string>
+    <string name="album_rubbish_clear_all_item_description">Überflüssige Alben löschen</string>
+    <string name="album_rubbish_page_title">Überflüssige Alben</string>
+    <string name="album_rubbish_tip_title">Eventuell überflüssige Alben</string>
     <string name="album_screen_record">Bildschirmaufnahmen</string>
     <string name="album_screen_recorder">Bildschirmaufnahme</string>
     <string name="album_screenshot_and_screen_recorder_name">Screenshots &amp; Bildschirmaufnahmen</string>

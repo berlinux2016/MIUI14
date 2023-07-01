@@ -277,7 +277,7 @@
     <string name="ks_launch_split_screen_to_left">Geteilter Bildschirm/Trenner nach links ziehen</string>
     <string name="ks_launch_split_screen_to_right">Geteilter Bildschirm/Trenner nach rechts ziehen</string>
     <string name="ks_lock_screen">Sperrbildschirm</string>
-    <string name="ks_regional_screen_shot">Screenshot (teilweise)</string>
+    <string name="ks_regional_screen_shot">(Teil-) Screenshot</string>
     <string name="ks_screenshot">Screenshot (gesamter Bildschirm)</string>
     <string name="kungfu">Kung Fu</string>
     <string name="launch_ai_shortcut">Mi KI-Verknüpfung</string>
@@ -360,7 +360,7 @@
     <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
     <string name="package_delete_confirm_step_2">Nach der Deinstallation kann dies zu Systeminstabilität führen</string>
     <string name="package_delete_confirm_step_3">Sie können diese App nach dem Deinstallieren nicht mehr öffnen</string>
-    <string name="partial_screen_shot">Teilweiser Screenshot</string>
+    <string name="partial_screen_shot">Teil-Screenshot</string>
     <string name="passionflower">Passionsblume</string>
     <string name="paste">"Einfügen "</string>
     <string name="pc_redmi_device_model_name">Redmi-Laptop</string>

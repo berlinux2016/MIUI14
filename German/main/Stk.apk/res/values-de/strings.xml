@@ -80,7 +80,7 @@
     <string name="friday_shortest">F</string>
     <string name="help">Hilfe</string>
     <string name="icon_content_description">Dialogsymbol</string>
-    <string name="lable_sim_not_ready">SIM Toolkit ist nicht bereit oder wird nicht unterstützt</string>
+    <string name="lable_sim_not_ready">SIM-Toolkit ist nicht bereit oder wird nicht unterstützt</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_selection">Stunde auswählen</string>
     <string name="material_hour_suffix">%1$s Uhr</string>

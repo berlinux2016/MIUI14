@@ -386,9 +386,17 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="other">%d Apps dürfen nicht automatisch starten</item>
         <item quantity="one">%d App darf nicht automatisch starten</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d Apps dürfen nicht im Hintergrund starten</item>
+        <item quantity="one">%d App darf nicht im Hintergrund starten</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d Apps starten automatisch</item>
         <item quantity="one">%d App startet automatisch</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d Apps starten im Hintergrund</item>
+        <item quantity="one">%d App startet im Hintergrund</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d Apps haben keinen Root-Zugriff</item>

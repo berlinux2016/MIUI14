@@ -150,11 +150,15 @@ Bevor Sie das Gerät kalibrieren, legen Sie es auf eine ebene Fläche."</string>
     <string name="cit_audio_get_temp_fail">Temporäre Daten erhalten fehlgeschlagen!</string>
     <string name="cit_audio_hdset_plug">"Audio-Headset-Anschlusszeiten: "</string>
     <string name="cit_audio_hw_check_tips">Test läuft</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Aux Mikro-Rückkopplungstest</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Rückmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Rückmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_frontmic_to_speaker_title">Frontmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Hauptmikrofon-Rückkopplungstest</string>
     <string name="cit_audio_lb_phonecall_title">Ruftestsimulation</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Rückkopplungstest zwischen Aux Mikro und Hörer.
+
+Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Rückkopplungstest zwischen Rückmikrofon und Hörer.
 
 Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
@@ -500,6 +504,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_pass">Bestanden</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Bitte legen Sie den Stift auf den rechten Sensorbereich des Tisches, um den Test zu starten</string>
     <string name="cit_pencil_reverse_wireless_charger_title">Stiftladungstest</string>
+    <string name="cit_pixeworks_chip_check_title">Pixelworks Iris 7 Chip-Prüfung</string>
     <string name="cit_play_sd_mp3_hifi_summary">Stellen Sie sicher, dass eine Datei namens \"music.mp3\" auf der SD-Karte gespeichert ist. Die Datei \"music.mp3\" sollte über den HIFI-Pfad des Geräts abgespielt werden, wenn Sie diesen Test öffnen.</string>
     <string name="cit_play_sd_mp3_hifi_title">Wiedergabe von MP3 (HIFI) auf SD-Karte</string>
     <string name="cit_play_sd_mp3_summary">Stellen Sie sicher, dass eine Datei namens \"music.mp3\" auf der SD-Karte gespeichert ist. Die Datei \"music.mp3\" sollte über die externen Lautsprecher des Geräts abgespielt werden, wenn Sie diesen Test öffnen.</string>
@@ -769,6 +774,7 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
     <string name="cit_tool_wlan_rxbg_test_channel">Kanal:</string>
     <string name="cit_tool_wlan_rxn_test_bw">Bandbreite:</string>
     <string name="cit_tool_wlan_rxn_test_channel">Kanal:</string>
+    <string name="cit_tool_wlan_sar_test_title">WLAN-SAR-Tool</string>
     <string name="cit_tool_wlan_sniffer">WLAN Sniffer-Tool</string>
     <string name="cit_tool_wlan_sniffer_settings">Sniffer-Einstellungen</string>
     <string name="cit_tool_wlan_sniffer_test_title">WLAN Sniffer-Test-Tool</string>

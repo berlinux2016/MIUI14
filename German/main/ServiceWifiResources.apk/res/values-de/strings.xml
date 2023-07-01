@@ -16,14 +16,13 @@
     <string name="wifi_ca_cert_dialog_abort_text">Nein, nicht verbinden</string>
     <string name="wifi_ca_cert_dialog_continue_text">Ja, verbinden</string>
     <string name="wifi_ca_cert_dialog_message_contact_text">Kontakt:\n%1$s\n\n</string>
-    <string name="wifi_ca_cert_dialog_message_expiration_text">Zertifikatsablauf:\n%1$s\n\n</string>
     <string name="wifi_ca_cert_dialog_message_hint">Verbindung zu diesem Netzwerk nur zulassen, wenn die unten stehenden Informationen korrekt sind.\n\n</string>
     <string name="wifi_ca_cert_dialog_message_issuer_name_text">Name des Verfassers:\n%1$s\n\n</string>
     <string name="wifi_ca_cert_dialog_message_organization_text">Organisation:\n%1$s\n\n</string>
     <string name="wifi_ca_cert_dialog_message_server_name_text">Servername:\n%1$s\n\n</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">SHA-256-Fingerabdruck:\n%1$s\n\n</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Jetzt trennen</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Verbunden bleiben</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">Signatur:\n%1$s\n\n</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Nicht verbinden</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Trotzdem verbinden</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Dem Netzwerk %1$s fehlt ein Zertifikat.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Erfahren Sie, wie Sie Zertifikate hinzufügen können</string>
     <string name="wifi_ca_cert_dialog_preT_title">Dieses Netzwerk kann nicht verifiziert werden</string>

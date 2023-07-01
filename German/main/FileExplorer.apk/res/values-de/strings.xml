@@ -189,6 +189,7 @@
     <string name="create_folder">Erstellen</string>
     <string name="create_shortcut_success">Verknüpfung erstellt</string>
     <string name="cta_function_account_operation">Für die schnelle Anmeldung bei Ihrem Xiaomi-Konto</string>
+    <string name="cta_use_sync_midrive_file">Zur Synchronisation von Dateien mit Mi Drive</string>
     <string name="daily_clockin">Anmelden</string>
     <string name="data_consume_dialog_message">Sie nutzen gerade mobile Daten. Wenn Sie fortfahren, werden %s an Daten genutzt.</string>
     <string name="data_consume_dialog_title">Mobile Daten nutzen?</string>
@@ -988,6 +989,7 @@
     <string name="select_interest_str">Wählen Sie bevorzugte Themen aus</string>
     <string name="select_interest_tip">Es gibt viel zu entdecken!</string>
     <string name="select_music">Musik auswählen</string>
+    <string name="select_pdf">PDF wählen</string>
     <string name="select_video">Videos auswählen</string>
     <string name="select_volume">Speicherort wählen</string>
     <string name="send">Senden</string>

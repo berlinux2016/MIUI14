@@ -516,7 +516,7 @@ Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägige
     <string name="not_support_data_content3">3. Daten des Zweitprofils</string>
     <string name="not_support_data_content4">4. Dual Apps</string>
     <string name="not_support_data_link">Elemente, die nicht übertragen werden können</string>
-    <string name="not_support_data_summary1">Themen, Hintergründe, Fahrkarten, Schlüsselkarten können nicht mit Mi Mover übertragen werden</string>
+    <string name="not_support_data_summary1">Fahrkarten und Zugangskarten können nicht übertragen werden; Themen und Hintergründe können bei einigen Modellen übertragen werden</string>
     <string name="not_support_data_summary2">Einige Apps haben strenge Sicherheitsvorkehrungen, um die Übertragung von App-Daten zu verhindern. Solche Apps können Bank-Apps oder Finanzdienstleistungen umfassen.</string>
     <string name="not_support_data_summary3">Wegen Systembeschränkungen können Elemente aus dem Zweitprofil nicht mit Mi Mover übertragen werden.</string>
     <string name="not_support_data_summary4">Dual Apps und ihre Daten können ebenfalls nicht übertragen werden. Sie können jedoch entsprechende Haupt-Apps übertragen.</string>
@@ -712,6 +712,7 @@ Mindestens %s freigeben."</string>
     <string name="sender_finish_title">Erfolgreich übertragen</string>
     <string name="sender_scanning_code">Bild im Rahmen platzieren</string>
     <string name="sender_scanning_connecting">Mit neuem Gerät verbinden…</string>
+    <string name="set_app_suspend">Diese App wird gerade gesichert. Warten Sie, bis die Sicherung abgeschlossen ist und versuchen Sie es erneut.</string>
     <string name="set_new_device_account">Mit Xiaomi-Konto synchronisieren</string>
     <string name="set_new_device_lock">Bildschirmsperre einstellen</string>
     <string name="set_new_device_more">Weitere Systemeinstellungen…</string>

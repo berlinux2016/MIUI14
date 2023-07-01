@@ -206,6 +206,8 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="cloud_app_restore_title">Ausstehend</string>
+    <string name="color_group">Symbole nach Farbe gruppieren</string>
+    <string name="color_group_anim">Animationen in Farbkategorien</string>
     <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit den Google Play-Diensten. Bitte erneut versuchen.</string>
     <string name="common_home_search_delete">Suchleiste entfernen</string>
     <string name="common_home_search_delete_cancle">Abbrechen</string>
@@ -271,7 +273,7 @@
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="failed_to_delete_temporary">Löschen nicht möglich</string>
     <string name="failed_to_drop_widget_invalid">Widget fehlerhaft</string>
-    <string name="failed_to_drop_widget_nospace">Nicht genug Platz auf Startbildschirm vorhanden</string>
+    <string name="find_app_by_color">Symbole nach Farbe gruppieren, um Apps schneller zu finden</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -306,15 +308,7 @@
     <string name="folder_picker_options_tab_text">Größe</string>
     <string name="folder_picker_sliding_button_tab_text">Hervorgehobene Apps vorschlagen</string>
     <string name="folder_picker_tab_text">Ordner</string>
-    <string name="free_style_apps_title">Apps wählen</string>
-    <string name="free_style_drawer_title">Alle Apps</string>
-    <string name="free_style_edit_bar_empty">Leer</string>
-    <string name="free_style_edit_drawer">Übersicht</string>
-    <string name="free_style_edit_move_tip">Gedrückt halten, um ein Element zu verschieben</string>
-    <string name="free_style_edit_tab_free_component">Komponenten</string>
-    <string name="free_style_edit_tab_shortcut">Verknüpfungen</string>
-    <string name="free_style_enter_tip">Mit zwei Fingern runterwischen, um Mi Space anzuzeigen</string>
-    <string name="free_style_exit_tip">Mit zwei Fingern nach oben ziehen, um Mi Space zu beenden</string>
+    <string name="free_style_unavailable_message">Mi Space wird in dieser Version nicht mehr unterstützt. Sie können dieses Thema jedoch weiterhin verwenden.</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -424,8 +418,6 @@
     <string name="menu_default_screen_preview">Standardbildschirm setzen</string>
     <string name="menu_default_screen_preview_inner_display">Hauptbildschirm (Standard) einstellen</string>
     <string name="menu_default_screen_preview_outer_display">Außenbildschirm (Standard) einstellen</string>
-    <string name="menu_edit">Startbildschirm bearbeiten</string>
-    <string name="menu_exit_scene">Mi Space beenden</string>
     <string name="menu_finish">Fertig</string>
     <string name="menu_lock">Symbolpositionen sperren</string>
     <string name="menu_more">Mehr</string>
@@ -434,7 +426,6 @@
     <string name="menu_no_word_setting_tip" formatted="false">%d×%d-Layout ohne Text verwenden</string>
     <string name="menu_only_widget_no_word">Text aus Widgets entfernen</string>
     <string name="menu_pc_open">Am PC öffnen</string>
-    <string name="menu_reset_scene">Standardlayout</string>
     <string name="menu_search">Suchen</string>
     <string name="menu_settings">Einstellungen</string>
     <string name="menu_trans_effect">Übergangseffekt</string>
@@ -602,8 +593,6 @@
     <string name="open_personal_assistant_title_synonyms">Negativer Bildschirm</string>
     <string name="out_of_space">Kein Platz auf Startbildschirm</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
-    <string name="perfect_icons_switch_summary">Drittanbieter-App-Symbole neu zeichnen</string>
-    <string name="perfect_icons_switch_title">Globale Symbolanimationen</string>
     <string name="permdesc_install_shortcut">Erlaubt einer App, Verknüpfungen ohne Eingriff des Benutzers hinzuzufügen</string>
     <string name="permdesc_install_widget">Erlaubt einer App, Widgets ohne Eingriff des Benutzers hinzuzufügen</string>
     <string name="permdesc_read_settings">Erlaubt einer App, Einstellungen und Verknüpfungen der Startseite zu lesen</string>
@@ -686,7 +675,6 @@
     <string name="reset_description_first_time">Sie können das %1$s-Layout innerhalb von 2 Stunden wiederherstellen</string>
     <string name="reset_description_others">Sie können das %1$s-Layout wiederherstellen</string>
     <string name="reset_fail">Wiederherstellen fehlgeschlagen</string>
-    <string name="reset_scene_prompt">Standardlayout zurücksetzen</string>
     <string name="reset_title">Wiederherstellen</string>
     <string name="resource_canary_leak_tip">Es gibt einen Leak!</string>
     <string name="resource_canary_wait_for_heapdump_message">Dumping Heap-Schnappschuss…</string>
@@ -833,7 +821,6 @@
     <string name="toast_split_app_unsupported">Diese App unterstützt keinen geteilten Bildschirm</string>
     <string name="toast_split_select_app">Auf eine App tippen, um den geteilten Bildschirm zu verwenden</string>
     <string name="today">Heute</string>
-    <string name="toggle_select_title">Schalter wählen</string>
     <string name="toggle_title">Schalter</string>
     <string name="tomorrow">Morgen</string>
     <string name="tuesday">Dienstag</string>

@@ -64,6 +64,7 @@
     <string name="abnormal_consume_type_cpu">Hohe CPU-Auslastung</string>
     <string name="abnormal_consume_type_wakelock">System ruht nicht</string>
     <string name="about_autostart">Über Autostart</string>
+    <string name="about_autostart_gloabl">Über Autostart im Hintergrund</string>
     <string name="ac_enter_applock">App-Sperre eingeben</string>
     <string name="ac_firstUseApplock_subTitle">Bessere Sicherheitstools auf Systemebene verwenden</string>
     <string name="ac_firstUseApplock_title">Apps mit einem Passwort schützen</string>
@@ -105,7 +106,7 @@
     <string name="activity_title_antispam">Sperrliste</string>
     <string name="activity_title_antivirus">Virenscanner</string>
     <string name="activity_title_antivirus_kddi">Sicherheitsscan</string>
-    <string name="activity_title_create_shortcut">Verknüpfungen verwalten</string>
+    <string name="activity_title_auto_start_manager_global">Autostart im Hintergrund</string>
     <string name="activity_title_garbage_cleanup">Bereinigung</string>
     <string name="activity_title_license_manager">Rechte</string>
     <string name="activity_title_networkassistants">Datennutzung</string>
@@ -970,7 +971,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="beauty_fun_screen_light">Bildschirmfüllendes Licht</string>
     <string name="beauty_fun_settings_light">Helligkeit des Aufhellungslichts</string>
     <string name="beauty_fun_video_effect">Video verschönern</string>
-    <string name="beauty_portrait_center">Gesichter zentriert halten</string>
     <string name="beauty_portrait_center_desc">Identifizieren und zentrieren Sie Gesichter in Videoanrufen und Meetings automatisch. Diese Funktion wird von einigen Apps nicht unterstützt.</string>
     <string name="beauty_settings">Einstellungen</string>
     <string name="begin_date">Zurückgesetzt am</string>
@@ -1452,6 +1452,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_skt_roaming_warning_title">Daten-Roaming-Vereinbarung</string>
     <string name="dialog_title_attention">Achtung</string>
     <string name="dialog_title_auto_start_declare">Über Autostart</string>
+    <string name="dialog_title_auto_start_declare_global">Über Autostart im Hintergrund</string>
     <string name="dialog_title_stop_virus_scan">Virenscan stoppen</string>
     <string name="disable_air_mode">Zuerst Flugmodus ausschalten</string>
     <string name="disable_sensitive_permissions">Sensible Berechtigungen eingeschränkt</string>
@@ -2661,6 +2662,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="input_aviable_traffic">Datenlimit einstellen</string>
     <string name="input_celluar_data_quota_hint">Datenlimit eingeben</string>
     <string name="input_cellular_data_warn_hint">Warngrenze für Datennutzung eingeben</string>
+    <string name="input_hint_search_app">Apps suchen</string>
     <string name="input_password_hint_text">Passwort eingeben</string>
     <string name="input_phone_num_hint">SIM-Rufnummer bearbeiten</string>
     <string name="input_title">Zum Einstellen tippen</string>
@@ -3470,6 +3472,10 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_battery_history_total_consumption_title">Gesamte Leistungsaufnahme</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_close_notifi_action">Ausschalten</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Stromsparen wird ausgeschaltet, wenn %1$s %2$s ist oder voll geladen</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Stromsparen eingeschaltet bei %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s Akku ist weniger als %2$s. Stromsparen einschalten, um %3$s %4$s hinzuzufügen.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s Akku ist schwach</string>
     <string name="pc_emergency_call">Notfall</string>
     <string name="pc_endurance_calculation">Berechnen…</string>
     <string name="pc_entered_extreme_mode">Ruhezustand ist an</string>
@@ -4232,7 +4238,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_flares_recent_detail_more">App nutzte eine sensible Berechtigung</string>
     <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, auf die Warnung tippen.</string>
     <string name="privacy_guide_permission_guide_text">Sie können eine Warnung in der Statusleiste erhalten, wenn Apps auf Ihren Standort zugreifen, Audio aufnehmen oder Fotos machen.</string>
-    <string name="privacy_guide_permission_use_text">MIUI zählt und zeigt an, wie oft eine App sensible Berechtigungen verwendet, inkl. Standort-, Kontakte-, Anruflisten- und Speicherzugriff sowie Audioaufnahme. Sie können erfahren, wie oft jede App diese Berechtigungen verwendet, und feststellen, ob Sie Ihre Berechtigungseinstellungen anpassen müssen.</string>
     <string name="privacy_hide_other_permissions">Andere Berechtigungen ausblenden</string>
     <string name="privacy_informed_title">Statistik</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Geschützt</string>
