@@ -102,6 +102,7 @@
     <string name="invisible_mode_dialog_positive">Einstellungen</string>
     <string name="invisible_mode_dialog_title">Sie sind inkognito</string>
     <string name="keywords_search_compass">Kompass;Kompass kalibrieren;Luftdruck;Seehöhe;Breitengrad;Längengrad;MIUI Kompass;Kompass-App;MIUI Kompass-App;Wo ist der Kompass;Kompass herunterladen;Atmospärischer Druck;Länge;Breite;Wie ist die Seehöhe</string>
+    <string name="live_action">Live-Vorschau</string>
     <string name="location_east">OL</string>
     <string name="location_enable">Zulassen</string>
     <string name="location_enable_later">Später</string>
@@ -109,6 +110,8 @@
     <string name="location_not_enabled_summary">Kompass muss auf Ihren Standort zugreifen, um Koordinaten und Höhe anzuzeigen</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Kompass benötigt Standortzugriff, um Ihre aktuellen Koordinaten anzuzeigen.</string>
     <string name="location_not_enabled_title">Standortdienste aktivieren</string>
+    <string name="location_permission_tip_one">Tippen, um Standortberechtigung zu erteilen, um Breitengrad, Längengrad, Luftdruck und Höhe anzuzeigen.</string>
+    <string name="location_permission_tip_two">Tippen, um Standortberechtigung zu erteilen, um Breitengrad und Längengrad anzuzeigen.</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -168,7 +171,13 @@
     <string name="month_september_shortest">S</string>
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
+    <string name="network_dialog_message">Kompass benötigt eine Internetverbindung, um genauere Höhendaten abzurufen. Jetzt erlauben?</string>
+    <string name="network_dialog_negative">Nicht zulassen</string>
+    <string name="network_dialog_positive">Erlauben</string>
+    <string name="network_dialog_title">Berechtigungen erforderlich</string>
     <string name="new_cta_app_purpose">Wegbeschreibung und Koordinaten anzeigen</string>
+    <string name="new_cta_app_purpose_one">Willkommen bei Kompass! Mit dieser App können Sie Himmelsrichtungen, Breitengrad, Längengrad, Luftdruck und Höhe bestimmen. Diese App benötigt eine Internetverbindung, um ihre Dienste anzubieten.</string>
+    <string name="new_cta_app_purpose_two">Willkommen bei Kompass! Mit dieser App können Sie Himmelsrichtungen, Breitengrad und Längengrad bestimmen. Diese App benötigt eine Internetverbindung, um ihre Dienste anzubieten.</string>
     <string name="new_cta_v2_app_purpose">Anzeige von Richtungen, Koordinaten, Luftdruck und aktueller Höhe</string>
     <string name="new_permission_camera_desc">Zur Anzeige der Live-Vorschau</string>
     <string name="new_permission_location_desc">Zur Anzeige von Koordinaten</string>
@@ -278,6 +287,8 @@
     <string name="unit_degree">Grad</string>
     <string name="using_camera_confirm_cancel">Beenden</string>
     <string name="using_camera_confirm_ok">Zustimmen</string>
+    <string name="v2_permission_location_desc_one">Zur Anzeige von Breitengrad, Längengrad, Höhe und Luftdruck</string>
+    <string name="v2_permission_location_desc_two">Zur Anzeige von Breiten- und Längengrad</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="wednesday">Mittwoch</string>

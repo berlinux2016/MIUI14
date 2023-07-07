@@ -449,6 +449,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_headset_pull_hint">Kopfhörer jetzt trennen</string>
     <string name="cit_headset_right_hph_val">Impedanzwert rechter Kanal:</string>
     <string name="cit_hide_menu">Menü verbergen</string>
+    <string name="cit_horn_motor_test">Hornmotortest</string>
     <string name="cit_hvdcp_charger_in">Laden über (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Init-Fingerabdruck-Testumgebung</string>
     <string name="cit_kayboard_home_down">Taste: HOME</string>
@@ -1165,6 +1166,9 @@ Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weite
     <string name="test_cases">Testfälle</string>
     <string name="test_front_mic">Vorderes MIKRO</string>
     <string name="test_headset">Test Headset</string>
+    <string name="test_horn_motor_summary">"Sie werden zwei zufällige Zahlen hören.
+Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören.
+Wählen Sie die richtige Taste je nach den verschiedenen Vibrationsbedingungen."</string>
     <string name="test_main_mic">Haupt-MIKRO</string>
     <string name="test_receiver">Empfänger</string>
     <string name="test_receiver_summary">"Sie hören zwei Zufallszahlen.
