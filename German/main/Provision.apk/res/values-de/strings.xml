@@ -22,7 +22,7 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activate_esim_tips">Aktivieren fehlgeschlagen. Erneut versuchen.</string>
     <string name="activating_esim_tips">Aktivieren…</string>
-    <string name="address_dialing_introduction">Mit dieser App können Sie Anrufe tätigen, die Anrufliste einsehen und Kontakte verwalten.</string>
+    <string name="address_dialing_introduction">Mit dieser App können Sie telefonieren, die Anrufliste einsehen und Kontakte verwalten.</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Zustimmen</string>
     <string name="agree_and_next">Zustimmen</string>
@@ -152,7 +152,7 @@
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
     <string name="game_introduction">Das Spiele-Plugin erlaubt Ihnen, sich anzumelden, Bestellungen zu erstellen, Zahlungen abzuschließen, Coupons zu verwenden und an Werbeveranstaltungen teilzunehmen.</string>
-    <string name="google_service_introduction">Um normal zu arbeiten, muss Google Play eine Internetverbindung herstellen, auf Ihren Standort zugreifen, SMS und MMS senden, Audio aufnehmen, Anrufe tätigen und auf Kalendereinträge, Anrufliste, Sensoren, Speicher, Kamera, Geräteinformationen und Konten zugreifen.</string>
+    <string name="google_service_introduction">Um normal zu arbeiten, muss Google Play eine Internetverbindung herstellen, auf Ihren Standort zugreifen, SMS und MMS senden, Audio aufnehmen, telefonieren und auf Kalendereinträge, Anrufliste, Sensoren, Speicher, Kamera, Geräteinformationen und Konten zugreifen.</string>
     <string name="home_settings_miui_home">Klassisch</string>
     <string name="home_settings_poco_launcher">App-Übersicht</string>
     <string name="home_settings_title">Standard-Launcher auswählen</string>
@@ -379,7 +379,7 @@ Um diese Funktion zu steuern, suchen Sie in den Einstellungen nach \"Nutzung und
     <string name="permission_log_introduction">Zum Speichern von Protokollen</string>
     <string name="permission_login_introduction">Zur Systemkontenanmeldung und -Verwaltung</string>
     <string name="permission_make_a_call">Anrufen</string>
-    <string name="permission_make_a_call_fast_application_summary">Damit Quick Apps Anrufe tätigen können;</string>
+    <string name="permission_make_a_call_fast_application_summary">Damit Quick Apps telefonieren können;</string>
     <string name="permission_message_introduction">Zum Senden von Nachrichten an gesperrte Kontakte</string>
     <string name="permission_phone_imei_device">Für den Zugriff auf die IMEI zur Geräteidentifizierung</string>
     <string name="permission_phone_network">Für den Netzwerktypzugriff, um herunterladbare Elemente zu optimieren und anzupassen</string>

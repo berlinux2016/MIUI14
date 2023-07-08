@@ -84,7 +84,7 @@
         <item>Eigene</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Um über WLAN Anrufe zu tätigen und Nachrichten zu versenden, bitten Sie zunächst Ihren Mobilfunkanbieter, diesen Dienst einzurichten. Dann schalten Sie WLAN-Anrufe wieder über Einstellungen ein.</item>
+        <item>Um über WLAN zu telefonieren und Nachrichten zu versenden, bitten Sie zunächst Ihren Mobilfunkanbieter, diesen Dienst einzurichten. Dann schalten Sie WLAN-Anrufe wieder über Einstellungen ein.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Registrieren Sie sich bei Ihrem Mobilfunkanbieter</item>

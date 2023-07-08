@@ -557,7 +557,7 @@
     <string name="picture_message_video_max_num">Bis zu %1$s Video/s wählen</string>
     <string name="picture_not_crop_data">Keine beschnittenen Daten</string>
     <string name="picture_photo_camera">Foto, Fotografie</string>
-    <string name="picture_photo_pictures">Foto machen</string>
+    <string name="picture_photo_pictures">Foto aufnehmen</string>
     <string name="picture_photo_recording">Auslöser lange drücken</string>
     <string name="picture_photograph">Foto</string>
     <string name="picture_play_audio">Abspielen</string>

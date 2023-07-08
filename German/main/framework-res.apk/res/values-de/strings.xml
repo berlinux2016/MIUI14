@@ -1276,7 +1276,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
     <string name="permdesc_bindConditionProviderService">Erlaubt dem Inhaber, sich an die Oberfläche eines Bedingungsproviderdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
     <string name="permdesc_bindDreamService">Erlaubt der App, sich an die Oberfläche eines Dream-Dienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
     <string name="permdesc_bindNotificationListenerService">Erlaubt dem Inhaber, sich an die Oberfläche der obersten Ebene eines Notification-Listener-Dienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
-    <string name="permdesc_bind_connection_service">Erlaubt der App die Interaktion mit Telefondiensten, um Anrufe zu tätigen und zu empfangen</string>
+    <string name="permdesc_bind_connection_service">Erlaubt der App die Interaktion mit Telefondiensten, um Anrufe zu tätigen und anzunehmen</string>
     <string name="permdesc_bind_incall_service">App kann steuern, wann und wie der Benutzer den Anrufbildschirm sieht</string>
     <string name="permdesc_bluetooth">Erlaubt der App, die Bluetooth-Konfiguration des Telefons einzusehen und Verbindungen mit gekoppelten Geräten herzustellen und zu akzeptieren</string>
     <string name="permdesc_bluetoothAdmin">Erlaubt der App, das lokale Bluetooth-Telefon zu konfigurieren, Remote-Geräte zu erkennen und eine Verbindung zu diesen herzustellen</string>
@@ -1386,7 +1386,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
     <string name="permdesc_useDataInBackground">Diese App kann Daten im Hintergrund verwenden. Dies kann die Datennutzung erhöhen.</string>
     <string name="permdesc_useFaceAuthentication">Erlaubt der App, die Hardware für die Gesichtserkennung zu verwenden</string>
     <string name="permdesc_useFingerprint">Erlaubt der App, den Fingerabdruck zu Authentisierung zu verwenden</string>
-    <string name="permdesc_use_sip">Erlaubt der App das Tätigen und Empfangen von SIP-Anrufen</string>
+    <string name="permdesc_use_sip">Erlaubt der App das Tätigen und Annehmen von SIP-Anrufen</string>
     <string name="permdesc_uwb_ranging">Erlaubt der App, die relative Position zwischen nahegelegenen Ultrabreitbandgeräten zu bestimmen</string>
     <string name="permdesc_vibrate">Erlaubt der App, den Vibrationsalarm zu steuern</string>
     <string name="permdesc_vibrator_state">Erlaubt der App den Zugriff auf den Vibrationsstatus</string>
@@ -1581,9 +1581,9 @@ für Konto %2$s."</string>
     <string name="permlab_uninstall_shortcut">Verknüpfungen deinstallieren</string>
     <string name="permlab_useBiometric">Biometrische Hardware verwenden</string>
     <string name="permlab_useDataInBackground">Daten im Hintergrund nutzen</string>
-    <string name="permlab_useFaceAuthentication">Die Gesichtserkennungs-Hardware verwenden</string>
+    <string name="permlab_useFaceAuthentication">Gesichtserkennungs-Hardware verwenden</string>
     <string name="permlab_useFingerprint">Fingerabdruckhardware verwenden</string>
-    <string name="permlab_use_sip">SIP-Anrufe tätigen/empfangen</string>
+    <string name="permlab_use_sip">SIP-Anrufe tätigen/annehmen</string>
     <string name="permlab_uwb_ranging">Bestimmung der relativen Position zwischen nahegelegenen Ultrabreitbandgeräten</string>
     <string name="permlab_vibrate">Vibration steuern</string>
     <string name="permlab_videoWrite">Ihre Videosammlung ändern</string>

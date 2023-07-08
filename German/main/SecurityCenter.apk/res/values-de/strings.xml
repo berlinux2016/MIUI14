@@ -340,7 +340,7 @@
     <string name="app_behavior_no_recorder">Noch keine Elemente hier</string>
     <string name="app_behavior_notification_audio_now_one">\"%1s\"-Aufnahme</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s und %2s nehmen Audio auf</string>
-    <string name="app_behavior_notification_camera_one">\"%1s\"-Foto machen</string>
+    <string name="app_behavior_notification_camera_one">\"%1s\"-Foto aufnehmen</string>
     <string name="app_behavior_notification_camera_two" formatted="false">%1s und %2s machen Fotos</string>
     <string name="app_behavior_notification_location_one">\"%1s\"-Standort ermitteln</string>
     <string name="app_behavior_notification_location_two" formatted="false">%1s und %2s greifen auf Standort zu</string>
@@ -584,7 +584,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_permission_use_group_mic">Mikrofon</string>
     <string name="app_permission_use_group_mic_des">Audioaufnahme</string>
     <string name="app_permission_use_group_phone">Telefon</string>
-    <string name="app_permission_use_group_phone_des">Elemente lesen und zur Anrufliste hinzufügen, Anrufe tätigen und Zugriff auf den Anrufstatus</string>
+    <string name="app_permission_use_group_phone_des">Elemente lesen und zur Anrufliste hinzufügen, telefonieren und Zugriff auf den Anrufstatus</string>
     <string name="app_permission_use_group_sensor">Körpersensoren</string>
     <string name="app_permission_use_group_sensor_des">Von Körpersensoren erzeugte Daten lesen</string>
     <string name="app_permission_use_group_sms">Nachrichten</string>
@@ -819,7 +819,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_notify_task_cancel_count_down">Automatisierte Aktion wird in 5 Sekunden abgebrochen</string>
     <string name="auto_task_notify_task_cancel_count_down_new">Automatisierte Aktion wird in %d Sekunden abgebrochen</string>
     <string name="auto_task_notify_task_cancel_do">Aktion abbrechen</string>
-    <string name="auto_task_notify_task_canceled_summary">Sie können Anrufe tätigen und entgegennehmen</string>
+    <string name="auto_task_notify_task_canceled_summary">Sie können Anrufe tätigen und annehmen</string>
     <string name="auto_task_notify_task_canceled_summary2">Anscheinend spielen Sie jetzt ein Spiel</string>
     <string name="auto_task_notify_task_canceled_summary3">Durch Zweitprofil abgebrochen</string>
     <string name="auto_task_notify_task_canceled_summary4">Durch Hauptprofil abgebrochen</string>
@@ -1903,7 +1903,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter deaktiviert ist</string>
     <string name="first_aid_activity_title">Probleme lösen</string>
     <string name="first_aid_card_airplane_button">Ausschalten</string>
-    <string name="first_aid_card_airplane_summary">Deaktivieren Sie den Flugmodus, um Anrufe zu tätigen und eine Netzwerkverbindung herzustellen.</string>
+    <string name="first_aid_card_airplane_summary">Deaktivieren Sie den Flugmodus, um zu telefonieren und eine Netzwerkverbindung herzustellen.</string>
     <string name="first_aid_card_airplane_title">Anrufen oder Netzwerkverbindung nicht möglich</string>
     <string name="first_aid_card_apn_button">Beheben</string>
     <string name="first_aid_card_apn_summary">APNs wurden geändert. Ein Fehler wurde behoben, sodass eine Netzwerkverbindung hergestellt werden kann.</string>
@@ -3566,7 +3566,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permgroupdesc_contacts">Auf Kontakte zugreifen</string>
     <string name="permgroupdesc_location">Auf Standortinfomation zugreifen</string>
     <string name="permgroupdesc_microphone">Audio aufnehmen</string>
-    <string name="permgroupdesc_phone">Anrufe tätigen und Gespräche verwalten</string>
+    <string name="permgroupdesc_phone">Telefonieren und Gespräche verwalten</string>
     <string name="permgroupdesc_readmediaimages">Zugriff auf Fotos und Videos</string>
     <string name="permgroupdesc_readmediavideo">Zugriff auf Musik und Audio</string>
     <string name="permgroupdesc_recognition">Auf Gesundheits- &amp; Aktivitätsdaten zugreifen</string>
@@ -3597,7 +3597,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_background_start">Diese Berechtigung erlaubt Apps, Popups ohne Ihre Bestätigung anzuzeigen. Diese Popups können Ihren Bildschirm vollständig verdecken und den normalen Gebrauch beeinträchtigen.</string>
     <string name="permission_instruction_bluetooth_admin">Diese Berechtigung erlaubt Apps, Bluetooth ohne Ihre Bestätigung ein- und auszuschalten.</string>
     <string name="permission_instruction_body_sensors">Diese Berechtigung erlaubt Apps, auf die von den Sensoren gesammelten Informationen über Ihren Körper zuzugreifen (z. B. Herzfrequenz). Bedenken Sie, dass die Informationen über Ihren Körper persönlich sind.</string>
-    <string name="permission_instruction_call_phone">Diese Berechtigung erlaubt Apps, ungebetene Anrufe zu tätigen, was zusätzliche Kosten verursachen kann. Beachten Sie, dass diese Berechtigung Apps nicht erlaubt, Notrufnummern anzurufen. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtige Anrufe zu tätigen.</string>
+    <string name="permission_instruction_call_phone">Diese Berechtigung erlaubt Apps, ungebeten zu telefonieren, was zusätzliche Kosten verursachen kann. Beachten Sie, dass diese Berechtigung Apps nicht erlaubt, Notrufnummern anzurufen. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtig zu telefonieren.</string>
     <string name="permission_instruction_camera">Diese Berechtigung erlaubt Apps, die Kamera zum Fotografieren oder Aufnehmen von Videos zu verwenden.</string>
     <string name="permission_instruction_change_wifi_state">Diese Berechtigung erlaubt Apps, WLAN ohne Ihre Bestätigung ein- und ausschalten.</string>
     <string name="permission_instruction_device_admin">Diese Berechtigung erlaubt Apps, Ihr Gerät zu steuern, was das Löschen von Daten, Entsperren des Geräts und Ändern von Passwörtern umfassen kann. Dies ist eine Berechtigung mit hohem Risiko.</string>
@@ -4191,7 +4191,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_description_camera_mic">%1s verwendet Kamera und Mikrofon im Hintergrund. Sie können den Schalter unten umstellen, um diese Aktivität einzuschränken.</string>
     <string name="privacy_description_mic">%1s verwendet das Mikrofon im Hintergrund. Sie können den Schalter unten umstellen, um diese Aktivität einzuschränken.</string>
     <string name="privacy_dialog_call_item_1">Zugriff auf Geräteinfos</string>
-    <string name="privacy_dialog_call_item_2">Anrufe tätigen</string>
+    <string name="privacy_dialog_call_item_2">Telefonieren</string>
     <string name="privacy_dialog_call_item_3">Zugriff auf Gerätestatus</string>
     <string name="privacy_dialog_call_message">Standardmäßig erlaubt MIUI den Drittanbieter-Apps nicht, Folgendes zu tun:</string>
     <string name="privacy_dialog_call_result">Sie können weiterhin Drittanbieter-Apps und -Dienste normal nutzen. Sollten Sie dennoch auf Probleme stoßen, können Sie uns gerne eine Nachricht senden.</string>
@@ -4271,7 +4271,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_permission_desc">Berechtigungsdetails</string>
     <string name="privacy_permission_location">Standortzugriff</string>
     <string name="privacy_permission_management">Berechtigungen verwalten</string>
-    <string name="privacy_permission_management_summary">Apps, die Berechtigungen verwenden, die es erlauben, Anrufe zu tätigen, SMS zu senden und auf Kontakte zuzugreifen</string>
+    <string name="privacy_permission_management_summary">Apps, die Berechtigungen verwenden, die es erlauben, zu telefonieren, SMS zu senden und auf Kontakte zuzugreifen</string>
     <string name="privacy_permission_record">Audioaufnahme</string>
     <string name="privacy_permission_relate">Berechtigungen</string>
     <string name="privacy_permission_right">Datenschutz</string>

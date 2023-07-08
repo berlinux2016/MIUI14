@@ -3201,7 +3201,7 @@ Dieser Schritt ist erforderlich, um mit Ihrem Gerät zu bezahlen."</string>
     <string name="privacy_permission_answer_phone_calls">Telefon</string>
     <string name="privacy_permission_ble_calendar_read">Kalenderzugriff</string>
     <string name="privacy_permission_calendar_habit">Zum Hinzufügen von Gewohnheitsplänen zum Kalender</string>
-    <string name="privacy_permission_call_phone">Anrufe tätigen</string>
+    <string name="privacy_permission_call_phone">Telefonieren</string>
     <string name="privacy_permission_calllog_des">Zum Aufrufen und Anzeigen eingehender Anrufe auf Ihrem tragbaren Gerät</string>
     <string name="privacy_permission_camera">Kamerazugriff</string>
     <string name="privacy_permission_camera_des">Für das Scannen von QR-Codes</string>

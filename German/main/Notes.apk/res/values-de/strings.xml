@@ -314,7 +314,7 @@
     <string name="hide_arrow_description">Verstecken</string>
     <string name="hint_cannot_view_hidden_note_content">Inhalt der versteckten Notizen kann nicht angezeigt werden</string>
     <string name="hint_foler_name">Name</string>
-    <string name="hover_camera">Foto machen</string>
+    <string name="hover_camera">Foto aufnehmen</string>
     <string name="hover_gallery">Galerie</string>
     <string name="hybrid_provider">Bereitgestellt durch %1$s</string>
     <string name="icon_content_description">Dialogsymbol</string>

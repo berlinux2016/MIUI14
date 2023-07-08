@@ -3180,7 +3180,7 @@
     <string name="user_guide_for_toggle_list">Schalter verwalten</string>
     <string name="user_image_choose_photo">Bild wählen</string>
     <string name="user_image_photo_selector">Foto wählen</string>
-    <string name="user_image_take_photo">Foto machen</string>
+    <string name="user_image_take_photo">Foto aufnehmen</string>
     <string name="user_info_settings_title">Benutzerinfo</string>
     <string name="user_limit_reached_title">Benutzerlimit erreicht</string>
     <string name="user_logout_notification_action">BENUTZER ABMELDEN</string>

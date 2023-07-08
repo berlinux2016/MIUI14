@@ -786,7 +786,7 @@
     <string name="empty_recommend_back">Zurück</string>
     <string name="empty_recommend_face_page_view">Keine weiteren Empfehlungen</string>
     <string name="empty_relation">Gruppenname kann nicht leer sein</string>
-    <string name="empty_tip_btn">Foto machen</string>
+    <string name="empty_tip_btn">Foto aufnehmen</string>
     <string name="empty_title_no_cards">Momente</string>
     <string name="empty_title_no_photos">Keine Fotos oder Videos</string>
     <string name="enable_auto_upload_tip">Synchronisation mit der Cloud für dieses Album einschalten?</string>
@@ -1242,7 +1242,7 @@
     <string name="home_page_camera">Kamera</string>
     <string name="home_page_custom">Benutzerdefiniert</string>
     <string name="home_page_empty">Leer</string>
-    <string name="home_page_empty_action">Foto machen</string>
+    <string name="home_page_empty_action">Foto aufnehmen</string>
     <string name="home_page_empty_action_new">Vom alten Gerät importieren</string>
     <string name="home_page_label">Fotos</string>
     <string name="home_sdcard_op_tip_msg">Diese Aktion wurde nicht für alle gewählten Bilder abgeschlossen. SD-Karte aus- und wieder einhängen.</string>

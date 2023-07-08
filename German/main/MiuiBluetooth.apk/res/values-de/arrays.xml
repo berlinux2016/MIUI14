@@ -23,7 +23,7 @@
         <item>Vibrieren, wenn der Wecker klingelt</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
-        <item>Ein Foto machen</item>
+        <item>Foto aufnehmen</item>
         <item>Telefon finden</item>
         <item>Mi Key finden</item>
     </string-array>

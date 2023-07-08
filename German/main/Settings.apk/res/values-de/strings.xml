@@ -610,7 +610,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="ai_settings_single_click_title">Drücken</string>
     <string name="ai_settings_single_press_des">KI-Taste drücken, um mit Google Assistant zu sprechen, dann loslassen für die Antwort</string>
     <string name="airplane_mode">Flugmodus</string>
-    <string name="airplane_mode_summary">Einschalten, um das Gerät vom Mobilfunknetz zu trennen. Wenn diese Funktion an ist, können Sie keine Anrufe tätigen, keine Textnachrichten senden und empfangen und keine mobilen Daten verwenden.</string>
+    <string name="airplane_mode_summary">Einschalten, um das Gerät vom Mobilfunknetz zu trennen. Wenn diese Funktion an ist, können Sie nicht telefonieren, keine Textnachrichten senden und empfangen und keine mobilen Daten verwenden.</string>
     <string name="alarm_ringtone_title">Standardweckton</string>
     <string name="alarm_sound_dialog_title">Weckton wählen</string>
     <string name="alarm_sound_title">Weckton</string>
@@ -2069,7 +2069,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="call_and_contact">Anrufe &amp; Kontakte</string>
     <string name="call_category">Anrufen</string>
     <string name="call_connected_tones_title">Mit Anrufen verbundene Töne</string>
-    <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie Ihre Anrufe getätigt werden</string>
+    <string name="call_manager_enable_summary">Diesem Dienst die Verwaltung erlauben, wie telefoniert wird</string>
     <string name="call_manager_enable_title">Anrufmanager aktivieren</string>
     <string name="call_manager_title">Anrufmanager</string>
     <string name="call_records_summary_1">9:35 | 26 Sek</string>
@@ -2086,13 +2086,13 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="calls_preference">Anrufeinstellung</string>
     <string name="calls_preference_title">Anrufe</string>
     <string name="calls_sms_calls_preferred">Bevorzugt für Anrufe</string>
-    <string name="calls_sms_footnote">Bei WLAN-Anrufen werden Anrufe über WLAN ohne Netzbetreiber getätigt und empfangen. <annotation id="url">Mehr erfahren</annotation></string>
+    <string name="calls_sms_footnote">Bei WLAN-Anrufen werden Anrufe über WLAN ohne Netzbetreiber getätigt und angenommen. <annotation id="url">Mehr erfahren</annotation></string>
     <string name="calls_sms_no_sim">Keine SIM</string>
     <string name="calls_sms_preferred">Bevorzugt</string>
     <string name="calls_sms_sms_preferred">Bevorzugt für SMS</string>
     <string name="calls_sms_temp_unavailable">Temporär nicht verfügbar</string>
     <string name="calls_sms_unavailable">Nicht verfügbar</string>
-    <string name="calls_sms_wfc_summary">Anrufe über WLAN tätigen und empfangen</string>
+    <string name="calls_sms_wfc_summary">Anrufe über WLAN tätigen und annehmen</string>
     <string name="calls_title">Anrufe</string>
     <string name="camera_double_tap_power_gesture_desc">Kamera schnell öffnen, ohne Bildschirm zu entsperren</string>
     <string name="camera_double_tap_power_gesture_title">Power-Taste zweimal betätigen, um die Kamera zu starten</string>
@@ -3375,9 +3375,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="edge_mode_clean_summary">An beiden Kanten gleichzeitig schieben, um den Systemcache zu säubern</string>
     <string name="edge_mode_guide_title">Hervorgehobene Fläche berühren, um die Kantensteuerung zu nutzen</string>
     <string name="edge_mode_notification_summary">Tippen, um mehr zu erfahren</string>
-    <string name="edge_mode_notification_title">Nutze Kantensteuerung</string>
-    <string name="edge_mode_photo">Ein Foto machen</string>
-    <string name="edge_mode_photo_summary">Tippen Sie in der Kamera auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen Sie erneut, um ein Foto zu machen</string>
+    <string name="edge_mode_notification_title">Kantensteuerung nutzen</string>
+    <string name="edge_mode_photo">Foto aufnehmen</string>
+    <string name="edge_mode_photo_summary">Tippen Sie in der Kamera auf den Rand des Telefons, um den Blendenverschluss auszulösen und tippen Sie erneut, um ein Foto aufzunehmen</string>
     <string name="edge_mode_screenshot_summary">2x auf beide Kanten tippen, um Screenshot zu erstellen</string>
     <string name="edge_mode_state_summary">Bereich um gewölbte Kanten reagiert nicht auf Berührung</string>
     <string name="edge_mode_state_title">Versehentliche Berührungen an den Kanten ignorieren</string>
@@ -3476,7 +3476,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="enable_service_title">Dienst führt diese Aktionen durch</string>
     <string name="enable_sizecompat_freeform">Skalierbare Fenster erzwingen</string>
     <string name="enable_sizecompat_freeform_summary">Apps mit Kompatibilitätseinschränkungen in skalierbaren Fenstern zulassen</string>
-    <string name="enable_snapshot_screenlock">Zurücktaste lange gedrückt halten, um ein Foto zu machen</string>
+    <string name="enable_snapshot_screenlock">Zurücktaste lange gedrückt halten, um ein Foto aufzunehmen</string>
     <string name="enable_snpn">SNPN aktivieren</string>
     <string name="enable_tcp_rtt_support">TCP RTT anzeigen</string>
     <string name="enable_tcp_rtt_support_summary">Bewertung der Leistung der Qualität der Netzwerkkommunikation</string>
@@ -7651,7 +7651,7 @@ Xiaomi Cloud öffnen und Elemente von dort wiederherstellen."</string>
     <string name="radioInfo_menu_viewFDN">Zugelassene Rufnummern anzeigen</string>
     <string name="radioInfo_menu_viewSDN">Servicerufnummern anzeigen</string>
     <string name="radioInfo_phone_idle">Ruhezustand</string>
-    <string name="radioInfo_phone_offhook">Anruf wird getätigt</string>
+    <string name="radioInfo_phone_offhook">Anruf läuft</string>
     <string name="radioInfo_phone_ringing">Klingeln</string>
     <string name="radioInfo_roaming_not">Kein Roaming</string>
     <string name="radioInfo_service_emergency">Nur Notrufe</string>
@@ -9145,7 +9145,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="sort_order_recent_notification">Letzte</string>
     <string name="sort_order_size">Nach Größe sortieren</string>
     <string name="sos_phone_call_privacy_dialog_message">"Um Ihre Notfallkontakte anzurufen und SOS-Aufnahmen abzuspielen, benötigt diese App folgende Berechtigungen:
-• Anrufe tätigen
+• Telefonieren
 Für Anrufe bei Ihren Notfallkontakten
 • Überwachung des Gerätestatus
 Zum Abspielen der SOS-Aufnahme, wenn Ihre Notfallkontakte abheben

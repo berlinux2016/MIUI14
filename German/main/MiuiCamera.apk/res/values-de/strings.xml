@@ -112,6 +112,7 @@
     <string name="accessibility_flash_soft_light_off">Softblitz ist aus</string>
     <string name="accessibility_flash_soft_light_touch">Softblitz ist im Blitzlichtmodus an</string>
     <string name="accessibility_flash_torch">Blitz ist an, Lampenmodus</string>
+    <string name="accessibility_focal_lens">%s mm äquivalente Brennweite</string>
     <string name="accessibility_focus_face_pos_bottom">Nahe dem unteren Rand</string>
     <string name="accessibility_focus_face_pos_left">Nahe dem linken Rand</string>
     <string name="accessibility_focus_face_pos_left_bottom">Nahe dem unteren linken Rand</string>
@@ -217,6 +218,7 @@
     <string name="accessibility_skin_beautify_opened">Haut verschönern ist an</string>
     <string name="accessibility_status_bar_micphone">Mikrofon verbunden</string>
     <string name="accessibility_stereo_button">Fokussierung</string>
+    <string name="accessibility_street_ev_panel_on">Belichtungswerte anzeigen</string>
     <string name="accessibility_super_eis_off">EIS ist aus</string>
     <string name="accessibility_super_eis_on">EIS ist an</string>
     <string name="accessibility_super_eis_pr_on">EIS PRO ist an</string>
@@ -1508,7 +1510,7 @@
     <string name="not_set">Nicht festgelegt</string>
     <string name="object_track_enable_toast">Um ein Motiv auszuwählen, tippen Sie gleichzeitig zwei diagonale Punkte um seine Grenze</string>
     <string name="only_mimoji_multi_window_mode_not_supported">Diese Funktion kann im Mehrfenstermodus nicht verwendet werden</string>
-    <string name="oobe_body">Richten Sie Ihre Kamera aus und tippen Sie, um einen Anruf zu tätigen, eine E-Mail zu senden, einen QR-Code zu scannen und vieles mehr. Schalten Sie es jederzeit in den Einstellungen aus.</string>
+    <string name="oobe_body">Richten Sie Ihre Kamera aus und tippen Sie, um zu telefonieren, eine E-Mail zu senden, einen QR-Code zu scannen und vieles mehr. Schalten Sie es jederzeit in den Einstellungen aus.</string>
     <string name="oobe_continue">Fortfahren</string>
     <string name="oobe_expandable">Google Lens ist nicht allwissend und nicht immer richtig, wenn es darum geht, bestimmte Objekte, Textauswahlen oder andere Dinge zu erkennen. Das Objektiv hört auf zu analysieren, was Sie sehen, wenn Sie die Kamera-App schließen. Sie können das Objektiv in den Kameraeinstellungen deaktivieren oder wieder aktivieren.</string>
     <string name="oobe_headline">Von Google Lens vorgeschlagene Maßnahmen</string>
@@ -1935,8 +1937,8 @@
     <string name="pref_camera_super_resolution_title">SR einschalten</string>
     <string name="pref_camera_suspend_shutter_button_summary">Auslöser hochziehen, um einen zusätzlichen Popup-Auslöser zu erstellen</string>
     <string name="pref_camera_suspend_shutter_button_title">Zusätzlicher Auslöser</string>
-    <string name="pref_camera_tap_shoot_summary">Auf den Vorschaubildschirm tippen, um ein Foto zu machen</string>
-    <string name="pref_camera_tap_shoot_title">Tippen, um ein Foto zu machen</string>
+    <string name="pref_camera_tap_shoot_summary">Auf den Vorschaubildschirm tippen, um ein Foto aufzunehmen</string>
+    <string name="pref_camera_tap_shoot_title">Tippen, um ein Foto aufzunehmen</string>
     <string name="pref_camera_tilt_shift_default">Kreis</string>
     <string name="pref_camera_tilt_shift_entry_circle">Kreis</string>
     <string name="pref_camera_tip_doc">Dokumentscanner</string>
@@ -2373,15 +2375,22 @@
     <string name="spaceIsLow_content_primary_storage_priority">Speicherplatz auf USB-Speicher wird knapp</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority">Anscheinend ist der Speicherplatz erschöpft. Bildaufnahme wurde gestoppt.</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Anhalten wegen unzureichendem Speicher…</string>
-    <string name="speech_shutter_open_tip">Sagen Sie \"Mach ein Foto\" oder \"Aubergine\", um ein Foto zu machen</string>
+    <string name="speech_shutter_open_tip">Sagen Sie \"Mach ein Foto\" oder \"Aubergine\", um ein Foto aufzunehmen</string>
     <string name="speech_shutter_tip">Sprachauslöser</string>
     <string name="sticker_tab1">Süß</string>
     <string name="sticker_tab2">Lustig</string>
     <string name="stop_save_low_battery">Speichern (%ds)</string>
     <string name="stop_tracing">Verfolgung stoppen</string>
+    <string name="street_auto_desc">Automatischer Fokussierabstand</string>
+    <string name="street_far_desc">%1$s-Meter Fokussierabstand</string>
+    <string name="street_middle_desc">%1$s-Meter Fokussierabstand</string>
+    <string name="street_near_desc">%1$s-Meter Fokussierabstand</string>
+    <string name="street_preferred_description">Um diese Funktion zu aktivieren, gehen Sie zu Einstellungen > Kamera starten und wählen Sie \"Foto aufnehmen\"</string>
     <string name="street_tip_far">Objekt innerhalb von %d Metern platzieren</string>
     <string name="street_tip_middle">Objekt innerhalb von %d Metern platzieren</string>
     <string name="street_tip_near">Objekt innerhalb von %1$s Metern platzieren</string>
+    <string name="street_top_tip">Tiefenschärfe: %1$sm - %2$sm</string>
+    <string name="street_top_tip_infinity">Tiefenschärfe: %1$sm - %2$s</string>
     <string name="subtitle_network_exception_tips">Netzwerkverbindung fehlgeschlagen. Umwandeln nicht möglich.</string>
     <string name="success_image_saved_camera">Auf der Kamera gespeichertes Bild.</string>
     <string name="success_message_import_from_account">Importiert</string>
@@ -2410,7 +2419,7 @@
     <string name="super_night_hint">Bildoptimierung… Gerät ruhig halten.</string>
     <string name="super_night_owl_toast">Halten Sie Ihr Telefon ruhig</string>
     <string name="super_night_se_tip">Nachtmodus</string>
-    <string name="super_night_toast">Halten Sie Ihr Telefon ruhig, während Sie ein Foto machen.</string>
+    <string name="super_night_toast">Halten Sie Ihr Telefon ruhig, während Sie ein Foto aufnehmen.</string>
     <string name="tap_to_exposure">Berühren, um Belichtung einzustellen</string>
     <string name="tap_to_focus">Zum Fokussieren berühren</string>
     <string name="tap_to_share">Hier tippen, um Ihren Verfolgungsverlauf zu teilen</string>
@@ -2457,6 +2466,7 @@
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">Valentinstag</string>
     <string name="the_water_lantern_festival">Laternenfestival</string>
+    <string name="theme_title">Themen-CV</string>
     <string name="thursday">Donnerstag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
