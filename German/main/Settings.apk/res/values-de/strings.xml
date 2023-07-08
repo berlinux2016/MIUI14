@@ -5909,7 +5909,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_rename">Umbenennen</string>
     <string name="miheadset_rename_device">Umbenennen</string>
     <string name="miheadset_same_account_incall">Anrufe von allen synchronisierten Geräten annehmen</string>
-    <string name="miheadset_same_account_incall_summary">Kopfhörer mit anderen synchronisierten Geräten verbinden, um eingehende Anrufe entgegenzunehmen</string>
+    <string name="miheadset_same_account_incall_summary">Kopfhörer mit anderen synchronisierten Geräten verbinden, um eingehende Anrufe anzunehmen</string>
     <string name="miheadset_shared_contacts">Kontakt teilen</string>
     <string name="miheadset_shared_contacts_summary">Zum Kontakte teilen</string>
     <string name="miheadset_single_ear_indicate">Beide Ohrhörer tragen, um die Rauschunterdrückung zu verwenden</string>
@@ -5965,7 +5965,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_lab_ai_cloud_closed">KI-Vorladung ist noch nicht verfügbar</string>
     <string name="miui_lab_ai_preload_desc">KI-Vorladung erhöht die Geschwindigkeit des App-Starts</string>
     <string name="miui_lab_ai_preload_title">KI-Vorladung</string>
-    <string name="miui_lab_aiasst_call_screen_desc">Transformieren Sie Sprache und Text, um Anrufe lautlos entgegenzunehmen</string>
+    <string name="miui_lab_aiasst_call_screen_desc">Transformieren Sie Sprache und Text, um Anrufe lautlos anzunehmen</string>
     <string name="miui_lab_aiasst_call_screen_title">KI-Anrufassistent</string>
     <string name="miui_lab_drive_mode_desc">Sprachsteuerung verwenden &amp; WeChat-Nachrichten abhören</string>
     <string name="miui_lab_drive_mode_desc_new">Sprachsteuerung verwenden</string>
@@ -6732,7 +6732,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="notification_animation_style">Spezialeffekte</string>
     <string name="notification_app_settings_button">Benachrichtigungseinstellungen</string>
     <string name="notification_app_switch_label">Alle %1$s-Benachrichtigungen</string>
-    <string name="notification_assistant_security_warning_summary">Verbesserte Benachrichtigungen haben die adaptiven Android-Benachrichtigungen in Android 12 ersetzt. Diese Funktion zeigt empfohlene Aktionen und Antworten an und organisiert Ihre Benachrichtigungen. \n\nVerbesserte Benachrichtigungen können auf den Benachrichtigungsinhalt zugreifen, inkl. persönlicher Daten wie Kontaktnamen und Nachrichten. Mit dieser Funktion können Sie auch Benachrichtigungen ablehnen oder darauf reagieren, z. B. Anrufe entgegennehmen, und \"Nicht stören\" steuern.</string>
+    <string name="notification_assistant_security_warning_summary">Verbesserte Benachrichtigungen haben die adaptiven Android-Benachrichtigungen in Android 12 ersetzt. Diese Funktion zeigt empfohlene Aktionen und Antworten an und organisiert Ihre Benachrichtigungen. \n\nVerbesserte Benachrichtigungen können auf den Benachrichtigungsinhalt zugreifen, inkl. persönlicher Daten wie Kontaktnamen und Nachrichten. Mit dieser Funktion können Sie auch Benachrichtigungen ablehnen oder darauf reagieren, z. B. Anrufe annehmen, und \"Nicht stören\" steuern.</string>
     <string name="notification_assistant_security_warning_title">%1$s den Benachrichtigungszugriff erlauben?</string>
     <string name="notification_assistant_summary">Vorschläge für Aktionen, Antworten und mehr erhalten</string>
     <string name="notification_assistant_title">Adaptive Benachrichtigungen</string>
@@ -8071,7 +8071,7 @@ UT Interface: %5$s"</string>
     <string name="screen_on_proximity_sensor_title">Fehlbedienung verhindern</string>
     <string name="screen_optimize">Farben</string>
     <string name="screen_optimize_disabled">Farbschema im Lesemodus anpassen nicht möglich</string>
-    <string name="screen_optimize_summary">Sprache und Text transformieren, um Anrufe lautlos entgegenzunehmen</string>
+    <string name="screen_optimize_summary">Sprache und Text transformieren, um Anrufe lautlos anzunehmen</string>
     <string name="screen_paper_mode_adjust_level">Stärke</string>
     <string name="screen_paper_mode_apps_loading">Einen Moment…</string>
     <string name="screen_paper_mode_apps_title">Lesemodus verwenden</string>

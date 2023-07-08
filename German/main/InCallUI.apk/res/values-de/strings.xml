@@ -69,7 +69,7 @@
     <string name="call_progress_info_call_forwarding">Dieser Anruf wurde weitergeleitet</string>
     <string name="call_progress_info_call_rejected">Der andere Teilnehmer ist gerade beschäftigt. Bitte rufen Sie später zurück.</string>
     <string name="call_progress_info_call_waiting">Der andere Teilnehmer führt gerade ein Gespräch. Bitte warten Sie…</string>
-    <string name="call_progress_info_no_answer_from_user">Ihr Anruf wurde nicht entgegengenommen</string>
+    <string name="call_progress_info_no_answer_from_user">Ihr Anruf wurde nicht angenommen</string>
     <string name="call_progress_info_no_user_responding">Die von Ihnen gewählte Nummer ist vorübergehend nicht erreichbar</string>
     <string name="call_progress_info_nonuser_call_rejected">Die von Ihnen gewählte Nummer ist derzeit nicht erreichbar</string>
     <string name="call_progress_info_remote_available">Der andere Teilnehmer wird über Ihren Anruf informiert. Bitte warten Sie…</string>
@@ -334,7 +334,7 @@
     <string name="relay_grant_permissions_on_phone">Aufnahme von Audio auf Ihrem Telefon zulassen</string>
     <string name="relay_known">Verstanden</string>
     <string name="relay_network_error">Netzwerkfehler</string>
-    <string name="relay_network_error_msg">Wegen eines Netzwerkfehlers können Sie auf diesem Gerät keine Anrufe entgegennehmen. Wechseln Sie daher zurück zu Ihrem Telefon.</string>
+    <string name="relay_network_error_msg">Wegen eines Netzwerkfehlers können Sie auf diesem Gerät keine Anrufe annehmen. Wechseln Sie daher zurück zu Ihrem Telefon.</string>
     <string name="remind_unlock_message">Ihr Gerät ist jetzt gesperrt. Nach Entsperrung des Geräts wird \"%s\" verfügbar sein. Jetzt entsperren?</string>
     <string name="remind_unlock_screen_message">Gerät entsperren, um \"%s\" zu verwenden. Jetzt entsperren?</string>
     <string name="respond_via_sms_custom_message">Eigene SMS</string>

@@ -197,7 +197,7 @@ Drehen Sie das Gerät so, dass der Kopfhörereingang nach unten zeigt. Sprechen 
     <string name="cit_audio_loopback_previous">Voriger</string>
     <string name="cit_audio_loopback_summary_dualmic_earpiece">"Umgebungsgeräusch-Minderungstest.
 
-Halten Sie das Gerät so, als ob Sie einen Anruf entgegennehmen, sprechen Sie in das Mikrofon. Sie sollten Ihre Stimme mit reduziertem Rauschen im Hintergrund über den Receiver hören."</string>
+Halten Sie das Gerät so, als ob Sie einen Anruf annehmen, sprechen Sie in das Mikrofon. Sie sollten Ihre Stimme mit reduziertem Rauschen im Hintergrund über den Receiver hören."</string>
     <string name="cit_audio_rcv_type">"Anbieter von Audioempfängern: "</string>
     <string name="cit_audio_rcv_usetime">"Nutzungszeit des Audioempfängers: "</string>
     <string name="cit_audio_right_caldata">"Rechte PA kalibrierte Daten: "</string>

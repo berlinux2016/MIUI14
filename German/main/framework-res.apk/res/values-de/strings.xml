@@ -1130,7 +1130,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
     <string name="nas_upgrade_notification_content">Vorgeschlagene Aktionen und Antworten werden jetzt durch erweiterte Benachrichtigungen bereitgestellt. Adaptive Android-Benachrichtigungen werden nicht mehr unterstützt.</string>
     <string name="nas_upgrade_notification_disable_action">Ausschalten</string>
     <string name="nas_upgrade_notification_learn_more_action">Mehr erfahren</string>
-    <string name="nas_upgrade_notification_learn_more_content">Erweiterte Benachrichtigungen haben die adaptiven Android-Benachrichtigungen in Android 12 ersetzt. Diese Funktion zeigt vorgeschlagene Aktionen und Antworten an und organisiert Ihre Benachrichtigungen.\n\nErweiterte Benachrichtigungen können auf den Benachrichtigungsinhalt zugreifen, inkl. persönlicher Informationen wie Kontaktnamen und Nachrichten. Mit dieser Funktion können Sie auch Benachrichtigungen ablehnen oder darauf reagieren, z. B. Anrufe entgegennehmen, und die Funktion \"Nicht stören\" steuern.</string>
+    <string name="nas_upgrade_notification_learn_more_content">Erweiterte Benachrichtigungen haben die adaptiven Android-Benachrichtigungen in Android 12 ersetzt. Diese Funktion zeigt vorgeschlagene Aktionen und Antworten an und organisiert Ihre Benachrichtigungen.\n\nErweiterte Benachrichtigungen können auf den Benachrichtigungsinhalt zugreifen, inkl. persönlicher Informationen wie Kontaktnamen und Nachrichten. Mit dieser Funktion können Sie auch Benachrichtigungen ablehnen oder darauf reagieren, z. B. Anrufe annehmen, und die Funktion \"Nicht stören\" steuern.</string>
     <string name="nas_upgrade_notification_title">Erweiterte Benachrichtigungen</string>
     <string name="needPuk">Ihre SIM-Karte ist mit einem PUK gesperrt. Geben Sie zum Entsperren den PUK-Code ein.</string>
     <string name="needPuk2">Geben Sie zum Entsperren der SIM-Karte den PUK2 ein</string>
@@ -1267,7 +1267,7 @@ Versuchen Sie es in %2$d Sekunden erneut."</string>
     <string name="permdesc_access_notification_policy">Erlaubt der App, die \"Nicht stören\"-Konfiguration zu lesen</string>
     <string name="permdesc_activityRecognition">Diese App kann Ihre körperliche Aktivität erkennen.</string>
     <string name="permdesc_addVoicemail">Erlaubt der App, Nachrichten zu Ihrem Mailbox-Posteingang hinzuzufügen</string>
-    <string name="permdesc_answerPhoneCalls">Erlaubt der App, einen eingehenden Anruf entgegenzunehmen.</string>
+    <string name="permdesc_answerPhoneCalls">Erlaubt der App, einen eingehenden Anruf anzunehmen.</string>
     <string name="permdesc_audioWrite">Erlaubt der App, Ihre Musiksammlung zu ändern</string>
     <string name="permdesc_backgroundCamera">Diese App kann jederzeit Fotos und Videos mit der Kamera aufnehmen.</string>
     <string name="permdesc_bindCarrierMessagingService">Erlaubt dem Inhaber, sich an die Top-Level-Schnittstelle eines Mobilfunkanbieter-Nachrichtendienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
