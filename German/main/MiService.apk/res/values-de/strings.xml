@@ -135,7 +135,7 @@ Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern un
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
     <string name="permission_agree">Zustimmen</string>
-    <string name="permission_china_version_msg">&lt;Data>Vor dem Verwenden von \"Dienste &amp; Feedback\", müssen Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> lesen und akzeptieren. Diese App benötigt auch eine Internetverbindung, um normal zu funktionieren.&lt;/Data></string>
+    <string name="permission_china_version_msg">&lt;Data>Vor dem Verwenden von \"Dienste &amp; Feedback\" müssen Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> lesen und akzeptieren. Diese App benötigt auch eine Internetverbindung, um normal zu funktionieren.&lt;/Data></string>
     <string name="permission_complete">Fertig</string>
     <string name="permission_contacts_info">Zugriff auf Kontodaten</string>
     <string name="permission_contacts_introduce">Für die Anmeldung mit dem Xiaomi-Konto</string>
