@@ -8,7 +8,6 @@
     <string name="March">März</string>
     <string name="May">Mai</string>
     <string name="October">Oktober</string>
-    <string name="Share_to">Teilen mit</string>
     <string name="Updated_at">"Aktualisiert: "</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -27,11 +26,9 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="accept_failure">Einladung wurde nicht angenommen~</string>
     <string name="account_and_cloud">Konto</string>
     <string name="account_bind_secure_email_title">Wiederherstellungs-E-Mail hinzufügen</string>
     <string name="account_bind_secure_phone_title">Wiederherstellungsrufnummer hinzufügen</string>
-    <string name="account_blocked_by_user_tips">Sie wurden von der anderen Partei blockiert und können folgendes Verhalten nicht ausführen</string>
     <string name="account_logout">Abmelden</string>
     <string name="action_item_add">Hinzufügen</string>
     <string name="action_item_add_song">Zur Wiedergabeliste hinzufügen</string>
@@ -55,8 +52,6 @@
     <string name="action_settings">Einstellungen</string>
     <string name="action_update_phone">Rufnummer ändern</string>
     <string name="actionbar_button_up_description">Zurück</string>
-    <string name="activity_Premium_family">Premium-Familie</string>
-    <string name="activity_Premium_family_Description">"1. Die Premium-Familie wird offiziell ausgewählt und erscheint auf dem Banner. \n\n2. Treten Sie einer Premium-Familie bei, dann können Sie an Familienaktivitäten mit anderen Familienmitgliedern teilnehmen und große Geschenke erhalten. \n\n3. Premium-Familien erhalten offizielle Unterstützung. Jede Familie hat verschiedene Themen, darunter Fußball, Spiele, Musik und so weiter. \n\n4. Wählen Sie die Familie, der Sie beitreten möchten, und spielen Sie jetzt mit ihr!"</string>
     <string name="ad_close">Schließen</string>
     <string name="ad_data_exception">Datenfehler</string>
     <string name="ad_recommend">Werbung anzeigen</string>
@@ -66,7 +61,6 @@
     <string name="add_songs_manually_bottom">Hinzufügen</string>
     <string name="add_songs_manually_home">Titel manuell hinzufügen</string>
     <string name="add_songs_manually_setting">Titel manuell hinzufügen</string>
-    <string name="add_to_group_notify">%1$s ist der Familie beigetreten</string>
     <string name="add_to_last_of_playlist">Am Ende der Wiedergabeliste hinzufügen</string>
     <string name="add_to_playlist">Zur Warteschlange hinzufügen</string>
     <string name="add_to_playlist_successful">Erfolgreich hinzugefügt</string>
@@ -176,7 +170,7 @@
     <string name="avoid_to_use_traffic_summary">Mobile Datenverbindung zum Streamen nicht verwenden</string>
     <string name="avoid_to_use_traffic_title">Warnen, bevor Sie Titel mit mobilen Daten abspielen</string>
     <string name="back">Zurück</string>
-    <string name="back_confirm">Noch mal tippen, um die App in den Hintergrund zu verschieben</string>
+    <string name="back_confirm">Erneut tippen zum Beeenden</string>
     <string name="backpack_frame">Rahmen</string>
     <string name="backup_complete">Alle Titel in der Xiaomi Cloud gesichert</string>
     <string name="backup_empty_button">Keine Titel ausgewählt</string>
@@ -1207,8 +1201,12 @@
     <string name="joox_search_subtitle_prefix_song">Titel</string>
     <string name="joox_vip_check_to_pay">Kaufen</string>
     <string name="joox_vip_expired_hint">Ihre VIP-Mitgliedschaft ist abgelaufen. Die von JOOX heruntergeladenen Titel werden nur in Ihren Downloads angezeigt.</string>
+    <string name="jump_to_ytb_dialog_cancel">Abbrechen</string>
+    <string name="jump_to_ytb_dialog_desc">Sie verlassen jetzt Mi Music und öffnen YouTube. YouTube jetzt öffnen?</string>
+    <string name="jump_to_ytb_dialog_ok">Bestätigen</string>
+    <string name="jump_to_ytb_dialog_title">Mi Music verlassen</string>
     <string name="just_a_second">Einen Moment…</string>
-    <string name="just_hit_next">JEinfach auf Weiter drücken</string>
+    <string name="just_hit_next">Einfach auf Weiter drücken</string>
     <string name="karaoke_message">Karaoke-Plugin herunterladen und installieren, um diese Funktion zu nutzen</string>
     <string name="karaoke_my_studio">Mein Studio</string>
     <string name="karaoke_negative_text">Später</string>

@@ -4766,6 +4766,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keyboard_skin_follow_system_enable">Zusammen mit dem System in den Dark Mode wechseln</string>
     <string name="keyguard_advance_setting_title">Weitere Einstellungen</string>
     <string name="keyguard_double_tap_to_sleep_title">2x tippen für Standby</string>
+    <string name="keyguard_multi_window_tip">"Diese Seite kann im geteilten Bildschirm nicht angezeigt werden. Sie können stattdessen zur Vollbildversion zurückkehren."</string>
     <string name="keyguard_notification_status_title">Wenn Benachrichtigungen ankommen und der Bildschirm aus ist</string>
     <string name="keyguard_security_setting_others">Andere</string>
     <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>

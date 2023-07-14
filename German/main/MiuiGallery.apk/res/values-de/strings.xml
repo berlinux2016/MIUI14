@@ -1221,6 +1221,7 @@
     <string name="hdr_show_hint">Anzeige anpassen, um mehr Details in den Schatten und Lichtern von Objekten mit hohem Dynamikumfang zu zeigen</string>
     <string name="hdr_show_title">HDR anzeigen</string>
     <string name="hdr_switch_show_hint">HDR verwenden, um mehr Details in Lichtern und Schatten zu zeigen</string>
+    <string name="hdr_switch_show_title">Pro HDR Display</string>
     <string name="header_help">Hilfe</string>
     <string name="help">Geräte nicht gefunden?</string>
     <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
@@ -1797,6 +1798,7 @@
     <string name="operation_back">Zurück</string>
     <string name="operation_cast_connected_format">Übertragen - %s</string>
     <string name="operation_cast_connecting_format">Verbinden mit %s</string>
+    <string name="operation_copy_to_clipboard">Kopieren</string>
     <string name="operation_delete">Löschen</string>
     <string name="operation_delete_all_albums_from_rubbish_page_tip">Sie können die Alben nach dem Löschen nicht mehr wiederherstellen. Trotzdem löschen?</string>
     <string name="operation_disable_auto_upload">Synchronisation mit der Cloud ausschalten</string>
@@ -1951,6 +1953,7 @@
     <string name="passport_user_id_hint">E-Mail/Rufnummer/Xiaomi-Konto-ID</string>
     <string name="passport_user_id_intro">Passwort für %1$s eingeben</string>
     <string name="passport_user_password_hint">Passwort</string>
+    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon (&lt;font color=#1F93FF>%s&lt;/font>) gesendet.</string>
     <string name="passport_wechat_not_install">Erst WeChat installieren</string>
     <string name="passport_wrong_captcha">Eingegebener Code ist falsch</string>
     <string name="passport_wrong_phone_number_format">Format der eingegebenen Rufnummer ist ungültig</string>
