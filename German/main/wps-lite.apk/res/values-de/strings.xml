@@ -298,7 +298,7 @@
     <string name="public_replace">Ersetzen</string>
     <string name="public_request_senior_password">Passwort mit höchster Berechtigung eingeben</string>
     <string name="public_revoke">%s widerrufen</string>
-    <string name="public_revoke_privacy_content">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS). Wir werden aufhören, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb eines bestimmten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Ihr Widerruf der Zustimmung wird als Ablehnung der von Mi Doc Viewer (Powered by WPS) angebotenen Dienste angesehen.</string>
+    <string name="public_revoke_privacy_content">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS). Wir werden aufhören, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb eines bestimmten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Ihr Widerruf der Zustimmung wird als Ablehnung der von Mi Doc Viewer (Powered by WPS) angebotenen Dienste angesehen.</string>
     <string name="public_revoke_privacy_desc">Widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS)</string>
     <string name="public_revoke_privacy_title">Widerruf Zustimmung</string>
     <string name="public_ribbon_font">Schriftart</string>

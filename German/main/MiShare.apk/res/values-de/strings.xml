@@ -227,7 +227,7 @@
     <string name="pc_xiaomi_device_model_name">Xiaomi-Laptop</string>
     <string name="permission_denied_hint">Erforderlichen Berechtigungen erteilen, um Mi Share zu verwenden.</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="purpose">Willkommen bei Mi Share! Sie können diese App verwenden, um Dateien zwischen Geräten zu übertragen. Wir schützen Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Richtlinien.\nBevor Sie Mi Share nutzen können, müssen Sie die folgenden Berechtigungen erteilen und zulassen, dass Mi Share die erforderlichen personenbezogenen Daten sammelt:</string>
+    <string name="purpose">Willkommen bei Mi Share! Sie können diese App verwenden, um Dateien zwischen Geräten zu übertragen. Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Richtlinien.\nBevor Sie Mi Share nutzen können, müssen Sie die folgenden Berechtigungen erteilen und zulassen, dass Mi Share die erforderlichen personenbezogenen Daten sammelt:</string>
     <string name="purpose_v12">Willkommen bei Mi Share! Mit dieser App können Sie Dateien zwischen Geräten übertragen.</string>
     <string name="queue_full">Beenden Sie laufende Übertragungen, bevor Sie neue hinzufügen.</string>
     <string name="receive_complete">Erfolgreich empfangen</string>

@@ -724,7 +724,7 @@
     <string name="passport_prev">Zurück</string>
     <string name="passport_privacy_policy">Datenschutzerklärung</string>
     <string name="passport_privacy_policy_required">Datenschutzerklärung (obligatorisch)</string>
-    <string name="passport_provision_input_email_register_prompt">Ihre persönlichen Daten werden in Übereinstimmung mit den Gesetzen und Vorschriften der von Ihnen gewählten Region gespeichert.</string>
+    <string name="passport_provision_input_email_register_prompt">Ihre persönlichen Daten werden gemäß den Gesetzen und Vorschriften der von Ihnen gewählten Region gespeichert.</string>
     <string name="passport_provision_password_req_notice">%1$d-%2$d Zeichen von mindestens %3$d der folgenden Typen: Buchstaben, Ziffern, Sonderzeichen</string>
     <string name="passport_pwd_generate_failure">Passwort wurde nicht erstellt</string>
     <string name="passport_pwd_generating">Erstellen…</string>
@@ -774,7 +774,7 @@
     <string name="passport_remove_confirm">Abmelden</string>
     <string name="passport_remove_unactivated_account_notice">Ihr Konto wurde nicht aktiviert</string>
     <string name="passport_request_agree">Zulassen</string>
-    <string name="passport_request_camera_permission_message">Wir schützen Ihre privaten Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen des Profilfotos)&lt;br>&lt;br>&lt;br>Wenn Sie diese Berechtigungen nicht erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
+    <string name="passport_request_camera_permission_message">Wir schützen Ihre privaten Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen des Profilfotos)&lt;br>&lt;br>&lt;br>Wenn Sie diese Berechtigungen nicht erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
     <string name="passport_request_cancel">Abbrechen</string>
     <string name="passport_request_error_invalid_token">Verifizieren nicht möglich</string>
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -946,7 +946,7 @@
     <string name="restart_phone_bind_message">Empfang von SMS kann einige Zeit dauern. Trotzdem neu beginnen?</string>
     <string name="restart_phone_bind_title">Wiederherstellungstelefon ändern</string>
     <string name="revoke_privacy_policy">Zustimmung widerrufen</string>
-    <string name="revoke_privacy_policy_instructions">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Xiaomi-Konto Datenschutzerklärung. Wir werden aufhören, Ihre personenbezogenen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Xiaomi-Konto seine Dienstleistungen auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Xiaomi-Konto-Dienste gewertet. Zustimmung jetzt widerrufen?</string>
+    <string name="revoke_privacy_policy_instructions">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Xiaomi-Konto Datenschutzerklärung. Wir werden aufhören, Ihre personenbezogenen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Xiaomi-Konto seine Dienstleistungen auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Xiaomi-Konto-Dienste gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="revoke_privacy_policy_title">Zustimmung widerrufen</string>
     <string name="risky_pwd_not_allow">Neues Passwort ist nicht sicher. Ein anderes verwenden.</string>
     <string name="same_new_and_old_pwd">Darf nicht mit dem aktuellen Passwort identisch sein</string>

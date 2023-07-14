@@ -360,7 +360,7 @@
     <string name="dialog_open">Zustimmen</string>
     <string name="dialog_permission_loading_msg">Prüfen…</string>
     <string name="dialog_permission_title">Erforderliche Berechtigungen</string>
-    <string name="dialog_privacy_link">Willkommen bei Xiaomi Health! Mit dieser App können Sie Ihre Aktivitäten erfassen, Ihren Schlaf verfolgen und vieles mehr.\nXiaomi Health benötigt eine Netzwerkverbindung sowie die Erfassung, Verarbeitung und Nutzung Ihrer persönlichen Daten, um normal zu arbeiten.\nIhre persönlichen Daten werden in Übereinstimmung mit den geltenden Gesetzen und Vorschriften erhoben, verarbeitet und verwendet.\nLesen Sie unsere &lt;font color=\"#0000FF\">&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a >&lt;/font> und\n&lt;font color=\"#0000FF\">&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a >&lt;/font> für weitere Details.</string>
+    <string name="dialog_privacy_link">Willkommen bei Xiaomi Health! Mit dieser App können Sie Ihre Aktivitäten erfassen, Ihren Schlaf verfolgen und vieles mehr.\nXiaomi Health benötigt eine Netzwerkverbindung sowie die Erfassung, Verarbeitung und Nutzung Ihrer persönlichen Daten, um normal zu arbeiten.\nIhre persönlichen Daten werden gemäß den geltenden Gesetzen und Vorschriften erhoben, verarbeitet und verwendet.\nLesen Sie unsere &lt;font color=\"#0000FF\">&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a >&lt;/font> und\n&lt;font color=\"#0000FF\">&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a >&lt;/font> für weitere Details.</string>
     <string name="dialog_privacy_policy_statement">Datenschutzerklärung</string>
     <string name="dialog_privacy_title">Allgemeine Geschäftsbedingungen</string>
     <string name="dialog_read_phone_perm_desc">Zur Identifizierung Ihres Gerätes</string>

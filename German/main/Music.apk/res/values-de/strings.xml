@@ -288,7 +288,7 @@
     <string name="choose_to_signin">Ja</string>
     <string name="choose_to_signup">Nein, ich werde eins erstellen</string>
     <string name="clause_content_first">Aufgrund gesetzlicher Bestimmungen benötigt Mi Music Ihre Zustimmung, um Ihnen die entsprechenden Dienste anzubieten.</string>
-    <string name="clause_content_second">Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den Sicherheitsnormen der Branche.</string>
+    <string name="clause_content_second">Wir schützen Ihre persönlichen Daten gemäß den Sicherheitsnormen der Branche.</string>
     <string name="clause_content_third">Sie können Ihre Zustimmung jederzeit in Einstellungen widerrufen.</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
@@ -1850,7 +1850,7 @@
     <string name="passport_reload_ph_ticket">Erneut senden</string>
     <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
     <string name="passport_request_agree">Zulassen</string>
-    <string name="passport_request_camera_permission_message">Wir schützen Ihre privaten Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen des Profilfotos)&lt;br>&lt;br>&lt;br>Wenn Sie diese Berechtigungen nicht erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
+    <string name="passport_request_camera_permission_message">Wir schützen Ihre privaten Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen des Profilfotos)&lt;br>&lt;br>&lt;br>Wenn Sie diese Berechtigungen nicht erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
     <string name="passport_request_cancel">Abbrechen</string>
     <string name="passport_request_error_invalid_token">Verifizieren nicht möglich</string>
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

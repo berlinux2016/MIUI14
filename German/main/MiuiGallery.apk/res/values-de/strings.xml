@@ -2255,7 +2255,7 @@
     <string name="privacy_permission_disagree">Nicht gewährt</string>
     <string name="privacy_permission_location">Standort</string>
     <string name="privacy_permission_location_detail">Zur Anzeige von Fotos und Videos auf der Karte</string>
-    <string name="privacy_permission_request_message"><Data>Galerie benötigt Zugriff auf %3$s. Die von uns gesammelten Informationen werden in Übereinstimmung mit unseren &lt;a href=\"%1$s\">\"Nutzungsbedingungen\"&lt;/a> und der &lt;a href=\"%2$s\">\"Datenschutzerklärung\"&lt;/a> verwendet. Zulassen?</Data></string>
+    <string name="privacy_permission_request_message"><Data>Galerie benötigt Zugriff auf %3$s. Die von uns gesammelten Informationen werden gemäß unseren &lt;a href=\"%1$s\">\"Nutzungsbedingungen\"&lt;/a> und der &lt;a href=\"%2$s\">\"Datenschutzerklärung\"&lt;/a> verwendet. Zulassen?</Data></string>
     <string name="privacy_permission_request_negative">Einschränken</string>
     <string name="privacy_permission_request_positive">Erlauben</string>
     <string name="privacy_permission_request_title">Erforderliche Rechte</string>
@@ -2360,7 +2360,7 @@
     <string name="rename_from_contact">Name eines Kontakts</string>
     <string name="renren_description">Zur Verfügung gestellt von RenRen</string>
     <string name="request_agree">Zulassen</string>
-    <string name="request_camera_permission_message">Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
+    <string name="request_camera_permission_message">Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
     <string name="request_cancel">Abbrechen</string>
     <string name="request_error_invalid_token">Verifizieren nicht möglich</string>
     <string name="request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

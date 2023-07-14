@@ -83,7 +83,7 @@
     <string name="cancel_network">Beenden</string>
     <string name="cancel_service">Dienste kündigen</string>
     <string name="cancel_service_running">Dienste kündigen…</string>
-    <string name="cancel_service_summary">Wenn Sie fortfahren, werden Sie die Dienste von Hintergrundkarussell kündigen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Dienste trotzdem kündigen?</string>
+    <string name="cancel_service_summary">Wenn Sie fortfahren, werden Sie die Dienste von Hintergrundkarussell kündigen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Dienste trotzdem kündigen?</string>
     <string name="carousel_declaration_btn_text">Hintergrundkarussell einschalten</string>
     <string name="carousel_declaration_cta">"Hintergrundkarussell benötigt eine Internetverbindung, um normal zu funktionieren. Um Zugang zu Online-Inhalten zu erhalten, müssen Sie unsere &lt;a href='http://www.miui.com/res/doc/privacy/de.html'>Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?"</string>
     <string name="carousel_declaration_cta_btn_text">Zustimmen und einschalten</string>
@@ -187,6 +187,8 @@
     <string name="declaration_title">Allgemeine Geschäftsbedingungen</string>
     <string name="delete_pic">Bild löschen</string>
     <string name="deny_des">Hintergrundkarussell benötigt Galeriezugriff, um normal zu arbeiten.</string>
+    <string name="detail_ad_download_btn">Herunterladen</string>
+    <string name="detail_ad_open_btn">Öffnen</string>
     <string name="detail_ad_type_ad">Werbung</string>
     <string name="detail_ad_type_close_ad">Werbung schließen</string>
     <string name="detail_ad_type_video">Beliebte Videos</string>
@@ -800,7 +802,7 @@ dd.MM."</string>
     <string name="passport_remove_confirm">Abmelden</string>
     <string name="passport_remove_unactivated_account_notice">Ihr Konto wurde nicht aktiviert</string>
     <string name="passport_request_agree">Erlauben</string>
-    <string name="passport_request_camera_permission_message">Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
+    <string name="passport_request_camera_permission_message">Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
     <string name="passport_request_cancel">Abbrechen</string>
     <string name="passport_request_error_invalid_token">Verifizieren nicht möglich</string>
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -970,7 +972,7 @@ dd.MM."</string>
     <string name="revoke_failed_service_confirm">Verstanden</string>
     <string name="revoke_privacy">Zustimmung widerrufen</string>
     <string name="revoke_privacy_running">Zustimmung widerrufen…</string>
-    <string name="revoke_privacy_summary">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung des Hintergrundkarussells. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der festgelegten Frist in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Hintergrundkarussell seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von Hintergrundkarussell gewertet. Zustimmung jetzt widerrufen?</string>
+    <string name="revoke_privacy_summary">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung des Hintergrundkarussells. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der festgelegten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Hintergrundkarussell seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von Hintergrundkarussell gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="rv_with_footer_empty">Hier ist noch nichts</string>
     <string name="rv_with_footer_loading"><CDATA>Einen Moment…</CDATA></string>
     <string name="rv_with_footer_pull_load_more">Herunterziehen, um mehr anzuzeigen</string>

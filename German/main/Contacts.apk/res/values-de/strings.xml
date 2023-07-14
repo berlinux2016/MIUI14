@@ -596,13 +596,13 @@ Kontaktkarten sind ausgeschaltet."</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Wichtiger Hinweis:
 Durch tippen auf \"Zustimmen\" unten akzeptieren Sie die &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Xiaomi-Konto-Servicevereinbarung&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi Roaming-Nutzervereinbarung&lt;/a>&lt;/font>, und &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Datenschutzerklärung&lt;/a>&lt;/font>. Lesen und verstehen Sie diese Dokumente und die damit verbundenen allgemeinen Geschäftsbedingungen sorgfältig und vollständig, bevor Sie zustimmen.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
-Mi Roaming benötigt eine Internetverbindung und Zugriff auf Ihre Standortdaten, um normal zu arbeiten. Zusätzlich kann Mi Roaming Ihre persönlichen Daten sammeln, verwenden und weitergeben. Sie werden in Übereinstimmung mit den örtlichen Gesetzen und Vorschriften geschützt."</string>
+Mi Roaming benötigt eine Internetverbindung und Zugriff auf Ihre Standortdaten, um normal zu arbeiten. Zusätzlich kann Mi Roaming Ihre persönlichen Daten sammeln, verwenden und weitergeben. Sie werden gemäß den örtlichen Gesetzen und Vorschriften geschützt."</string>
     <string name="cta_dialog_cancel">Beenden</string>
     <string name="cta_dialog_ok">Zustimmen</string>
     <string name="cta_dialog_title">Allgemeine Geschäftsbedingungen</string>
     <string name="cta_newcontent_seg1"><Data>"Wir haben die &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Xiaomi-Konto-Servicevereinbarung&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi Roaming-Nutzervereinbarungt&lt;/a>&lt;/font>, und &lt;font color=#33aaff>&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'>Datenschutzerklärung&lt;/a>&lt;/font> aktualisiert. &lt;strong>Lesen und verstehen Sie diese Dokumente und die damit verbundenen allgemeinen Geschäftsbedingungen sorgfältig und vollständig, bevor Sie zustimmen.&lt;/strong>"</Data></string>
     <string name="cta_newcontent_seg2">"
-Mi Roaming kann Ihre persönlichen Daten sammeln, verwenden und weitergeben. Sie werden in Übereinstimmung mit den lokalen Gesetzen und Vorschriften geschützt.
+Mi Roaming kann Ihre persönlichen Daten sammeln, verwenden und weitergeben. Sie werden gemäß den lokalen Gesetzen und Vorschriften geschützt.
 "</string>
     <string name="cta_newcontent_seg3"><Data>"&lt;strong>Wichtiger Hinweis:
 Durch tippen auf \"Zustimmen\" unten akzeptieren Sie die allgemeinen Geschäftsbedingungen in den oben genannten Dokumenten.&lt;/strong>"</Data></string>

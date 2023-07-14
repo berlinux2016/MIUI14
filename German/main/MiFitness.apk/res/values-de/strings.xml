@@ -38,7 +38,7 @@
     <string name="about_open_vitality_theme_desc">Einschalten, um Ihren Profilcharakter zu sehen</string>
     <string name="about_port_health_service">Synchronisation mit der Cloud</string>
     <string name="about_privacy_experience_program_title">Benutzererfahrungsprogramm</string>
-    <string name="about_privacy_improvement_desc">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie Ihre Nutzungsstatistiken mit uns teilen. Wir schützen Ihre personenbezogenen Daten in Übereinstimmung mit der Datenschutzerklärung.</string>
+    <string name="about_privacy_improvement_desc">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie Ihre Nutzungsstatistiken mit uns teilen. Wir schützen Ihre personenbezogenen Daten gemäß der Datenschutzerklärung.</string>
     <string name="about_privacy_license_agreement">Nutzervereinbarung</string>
     <string name="about_privacy_participate_improvement_plan">Anmeldung zum Benutzererfahrungsprogramm</string>
     <string name="about_privacy_revoke_account_confirm">Autorisierung widerrufen?</string>
@@ -2358,8 +2358,8 @@ Beginnen Sie von vorn."</string>
     <string name="login_privacy_optional_agree_use_location">&lt;Data>Ich stimme der &lt;a href=\"%1$s\">Erhebung von Standortdaten&lt;/a> zu (optional).&lt;/Data></string>
     <string name="login_privacy_required_agree_collect_info">&lt;Data>Ich stimme den &lt;a href=\"%1$s\">Informationen zur Erhebung und Verwendung personenbezogener Daten&lt;/a> zu (verpflichtend).&lt;/Data></string>
     <string name="login_privacy_required_agree_policy">&lt;Data>Ich stimme der &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> zu (verpflichtend).&lt;/Data></string>
-    <string name="login_privacy_rights_des">Willkommen bei Mi Fitness. Sie können diese App zur Verwaltung Ihrer Geräte, Verfolgung Ihrer Workouts und Ansicht Ihrer Fitnessdaten verwenden. Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den entsprechenden Gesetzen, Vorschriften und Datenschutzerklärung schützen. Damit diese App normal funktioniert, ist eine Internetverbindung erforderlich.</string>
-    <string name="login_privacy_rights_kr_des">Willkommen bei Mi Fitness. Sie können diese App zur Verwaltung Ihrer Geräte, Verfolgung Ihrer Workouts und Ansicht Ihrer Fitnessdaten verwenden. Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den entsprechenden Gesetzen, Vorschriften und Datenschutzerklärung schützen.</string>
+    <string name="login_privacy_rights_des">Willkommen bei Mi Fitness. Sie können diese App zur Verwaltung Ihrer Geräte, Verfolgung Ihrer Workouts und Ansicht Ihrer Fitnessdaten verwenden. Wir werden Ihre personenbezogenen Daten gemäß den entsprechenden Gesetzen, Vorschriften und Datenschutzerklärung schützen. Damit diese App normal funktioniert, ist eine Internetverbindung erforderlich.</string>
+    <string name="login_privacy_rights_kr_des">Willkommen bei Mi Fitness. Sie können diese App zur Verwaltung Ihrer Geräte, Verfolgung Ihrer Workouts und Ansicht Ihrer Fitnessdaten verwenden. Wir werden Ihre personenbezogenen Daten gemäß den entsprechenden Gesetzen, Vorschriften und Datenschutzerklärung schützen.</string>
     <string name="login_privacy_rights_statement">Geschäftsbedingungen</string>
     <string name="login_privacy_update_tips">&lt;Data>Unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> wurde aktualisiert. Um Ihre Rechte als Nutzer sowie die Art und Weise, wie Ihre Daten von uns verwendet werden, vollständig zu verstehen, lesen und akzeptieren Sie die neue Version der Datenschutzerklärung, bevor Sie fortfahren.&lt;/Data></string>
     <string name="login_privacy_update_title">Aktualisierte Datenschutzerklärung</string>
@@ -3247,7 +3247,7 @@ Dieser Schritt ist erforderlich, um mit Ihrem Gerät zu bezahlen."</string>
     <string name="register_by_local_phone_short_text">Konto erstellen</string>
     <string name="reject">Ablehnen</string>
     <string name="request_agree">Zulassen</string>
-    <string name="request_camera_permission_message">Wir schützen Ihre personenbezogenen Informationen in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (für die Einstellung eines Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können Berechtigungen jederzeit einschränken oder Ihre Berechtigung in den Einstellungen widerrufen.</string>
+    <string name="request_camera_permission_message">Wir schützen Ihre personenbezogenen Informationen gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (für die Einstellung eines Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können Berechtigungen jederzeit einschränken oder Ihre Berechtigung in den Einstellungen widerrufen.</string>
     <string name="request_cancel">Abbrechen</string>
     <string name="request_error_invalid_token">Verifizierung nicht möglich</string>
     <string name="request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

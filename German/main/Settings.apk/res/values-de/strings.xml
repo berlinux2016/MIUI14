@@ -9159,7 +9159,7 @@ Wenn Sie diese Berechtigung nicht erteilen, können Sie einige Funktionen dieser
     <string name="sos_privacy_dialog_message">"Lesen und akzeptieren Sie unsere %s, bevor Sie diese Funktion nutzen.
 Diese Funktion benötigt Berechtigungen, um auf Ihren Standort zuzugreifen, Mobilfunknetze zu nutzen und Ihre Kontakte zu lesen. Zustimmen?"</string>
     <string name="sos_privacy_dialog_message_new_version">"Mit Notfall-SOS können Sie Ihren Standort in Echtzeit mitteilen und Textnachrichten an Ihre Notfallkontakte senden.
-Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen.
+Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen.
 Beachten Sie, dass diese App eine Internetverbindung und die folgenden Berechtigungen benötigt, um Ihre persönlichen Daten zu erfassen:
 • Speicherzugriff
 Zum Speichern von Notfallkontakten
@@ -9172,7 +9172,7 @@ Zum Teilen Ihres Standorts mit Notfallkontakten
 Wenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre persönlichen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. In solchen Fällen können Sie Notfall-SOS ausschalten oder nicht verwenden.
 Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"Mit Notfall-SOS können Sie Ihren Standort in Echtzeit mitteilen und Textnachrichten an Ihre Notfallkontakte senden.
-Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen.
+Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen.
 Beachten Sie, dass diese App eine Internetverbindung und die folgenden Berechtigungen benötigt, um Ihre persönlichen Daten zu erfassen:
 • Speicherzugriff
 Zum Speichern von Notfallkontakten
@@ -9195,7 +9195,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_policy_no_net_message">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="sos_privacy_policy_no_net_title">Netzwerkverbindung nicht möglich</string>
     <string name="sos_privacy_policy_revoke">Widerruf Zustimmung</string>
-    <string name="sos_privacy_policy_revoke_message_reject">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zu der Datenschutzerklärung von Notfall-SOS. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\n\nDa Notfall-SOS seine Dienste auf der Grundlage der Erhebung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Sicherheitsdienste gewertet.\n\nZustimmung %s jetzt widerrufen?</string>
+    <string name="sos_privacy_policy_revoke_message_reject">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zu der Datenschutzerklärung von Notfall-SOS. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\n\nDa Notfall-SOS seine Dienste auf der Grundlage der Erhebung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Sicherheitsdienste gewertet.\n\nZustimmung %s jetzt widerrufen?</string>
     <string name="sos_privacy_policy_revoke_title_reject">Achtung</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Ein Serverfehler ist aufgetreten. Einen Momnet warten und erneut versuchen.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Zustimmung widerrufen nicht möglich</string>

@@ -182,6 +182,9 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Abbrechen</string>
+    <string name="super_clipboard_send_file">Datei aus der Zwischenablage einfügen?</string>
+    <string name="super_clipboard_send_image">Bild aus der Zwischenablage einfügen?</string>
     <string name="sync_phrase_label">Häufige Sätze</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>

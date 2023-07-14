@@ -1415,7 +1415,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="report_content_sexy">Sexuell eindeutiger Inhalt</string>
     <string name="report_content_violence">Hassrede</string>
     <string name="report_success">Erfolgreich gemeldet</string>
-    <string name="request_camera_permission_message">Wir schützen Ihre persönlichen Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt die folgenden Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie der Erteilung solcher Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
+    <string name="request_camera_permission_message">Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt die folgenden Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie der Erteilung solcher Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
     <string name="resend_active_email">Erneut senden</string>
     <string name="resend_email_reach_limit_message">Zu viele Verifizierungs-E-Mails wurden angefordert. Prüfen Sie, ob sich die Verifizierungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
     <string name="resend_email_reach_limit_title">Zu viele Versuche</string>
@@ -1664,7 +1664,7 @@ Es zeigt nichts an."</string>
     <string name="tip_play_a_video">%d. Video abspielen.</string>
     <string name="tip_playlist_guide_hint_a">Videos aus Ihren Google-Wiedergabelisten anzeigen</string>
     <string name="tip_playlist_guide_hint_b">Videos aus Ihren YouTube-Wiedergabelisten werbefrei abspielen</string>
-    <string name="tip_pop"><com.miui.video.biz.livetv.data.mnc.information.Data>Inhalte von Moments werden von Firework zur Verfügung gestellt. Um Ihr Seherlebnis zu verbessern und relevante Inhaltsempfehlungen zu erhalten, erlauben Sie Firework, Ihre persönlichen Daten in Übereinstimmung mit seiner Datenschutzerklärung zu sammeln, zu verarbeiten und zu nutzen. Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Firework Datenschutzerklärung&lt;/a>, bevor Sie seine Dienste nutzen.</com.miui.video.biz.livetv.data.mnc.information.Data></string>
+    <string name="tip_pop"><com.miui.video.biz.livetv.data.mnc.information.Data>Inhalte von Moments werden von Firework zur Verfügung gestellt. Um Ihr Seherlebnis zu verbessern und relevante Inhaltsempfehlungen zu erhalten, erlauben Sie Firework, Ihre persönlichen Daten gemäß seiner Datenschutzerklärung zu sammeln, zu verarbeiten und zu nutzen. Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Firework Datenschutzerklärung&lt;/a>, bevor Sie seine Dienste nutzen.</com.miui.video.biz.livetv.data.mnc.information.Data></string>
     <string name="tip_storage_used_space" formatted="false">%.2f GB/%.2f GB belegt</string>
     <string name="tip_subscribe_guide_hint_a">Autoren aus Ihren Google-Abonnements anzeigen</string>
     <string name="tip_subscribe_guide_hint_b">Updates von Ihren abonnierten YouTube-Kanälen werbefrei ansehen</string>

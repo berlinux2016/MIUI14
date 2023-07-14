@@ -348,6 +348,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="other_settings_pref_title">Weitere Einstellungen</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="path_soundrecorder_setting">Einstellungen/System-Apps/Rekorder</string>
+    <string name="pause_status_focus_notification">Angehalten</string>
     <string name="pay_error_cancel">Zahlung abgebrochen</string>
     <string name="pay_error_null">Zahlungsfehler, Konto prüfen</string>
     <string name="pay_error_unknown">Unbekannter Fehler</string>
@@ -491,6 +492,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="recording_quality_high">Hohe Qualität</string>
     <string name="recording_quality_low">Niedrige Qualität</string>
     <string name="recording_quality_standard">Standardqualität</string>
+    <string name="recording_status_focus_notification">Aufnahme</string>
     <string name="recording_stopped">Aufnahme beendet</string>
     <string name="recovery">Wiederherstellen</string>
     <string name="recovery_failed_dialog_button">Verstanden</string>
@@ -576,6 +578,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="status_bar_back">Zurück mit Antippen</string>
     <string name="status_bar_recording">Aufnahme läuft…</string>
     <string name="status_bar_recording_pause">Aufnahme angehalten</string>
+    <string name="stop_status_focus_notification">Beendet</string>
     <string name="storage_permission_dialog_title">Speicherberechtigungen erforderlich</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>

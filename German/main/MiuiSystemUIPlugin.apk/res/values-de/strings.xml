@@ -425,6 +425,7 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="super_volume_toast">Lautstärkeerhöhung ist an</string>
     <string name="switch_bar_off">Aus</string>
     <string name="switch_bar_on">AN</string>
     <string name="system_update">System-Update</string>

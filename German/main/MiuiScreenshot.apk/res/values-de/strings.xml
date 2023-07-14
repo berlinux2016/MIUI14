@@ -38,6 +38,7 @@
     <string name="confirm_cancel_task_files">Dateien an %1$s senden abbrechen?</string>
     <string name="confirm_cancel_task_images">Bilder an %1$s senden abbrechen?</string>
     <string name="copy">Kopieren</string>
+    <string name="copy_success_toast">Erfolgreich kopiert</string>
     <string name="cta_agree_desc">Dieser App erlauben, sich mit dem Internet zu verbinden und die oben aufgeführten obligatorischen Berechtigungen gewähren.</string>
     <string name="cta_btn_agree">Zustimmen</string>
     <string name="cta_btn_disagree">Nicht zustimmen</string>

@@ -1005,7 +1005,7 @@
     <string name="system_permission_declare_exit">Beenden</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Willkommen bei %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Willkommen bei Mi Message!</string>
-    <string name="system_permission_declare_no_say_no">Wir werden Ihre personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.\nWenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen.</string>
+    <string name="system_permission_declare_no_say_no">Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.\nWenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen.</string>
     <string name="system_permission_declare_rcs">Willkommen bei 5G Messaging!</string>
     <string name="system_permission_declare_revoke_path">In den Nachrichteneinstellungen können Sie Ihre Autorisierung widerrufen und Dienste deaktivieren.</string>
     <string name="system_permission_declare_single_link">Lesen und akzeptieren Sie unsere %1s, bevor Sie diese Funktion nutzen.</string>
