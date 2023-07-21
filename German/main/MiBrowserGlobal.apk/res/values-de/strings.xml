@@ -428,6 +428,7 @@
     <string name="contextmenu_webpage_pdf">Als PDF speichern</string>
     <string name="contextmenu_webpage_snapshot">Seite speichern</string>
     <string name="continue_reading">Weiterlesen</string>
+    <string name="continue_watch_video">Weiterschauen</string>
     <string name="copy">Kopieren</string>
     <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="copy_url">URL kopieren</string>
@@ -1458,6 +1459,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="notification_download_completed">Erfolgreich heruntergeladen</string>
     <string name="notification_download_failed">Herunterladen fehlgeschlagen</string>
     <string name="notification_wechat_expired_empty">WeChat hat diese Videoclips bereits gelöscht.</string>
+    <string name="notify_rencet_play">Kürzlich abgespielt</string>
     <string name="novel_continue_read_popup">Lesen</string>
     <string name="novel_tab_popup">Sehen Sie Ihre neuesten Bücher hier</string>
     <string name="occupy" formatted="false">%d% belegt</string>
@@ -2144,6 +2146,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="snapshot_failed">Seite wurde nicht gespeichert</string>
     <string name="snapshot_successed">Lesezeichen/Verlauf -&gt; LOKAL öffnen, um die Seite anzuzeigen</string>
     <string name="sniff_ask_every_times">Jedes Mal fragen</string>
+    <string name="sniff_description">Eingabeaufforderung, wenn eine Webseite herunterladbare Elemente enthält</string>
     <string name="sniff_detect_resource">Wir haben auf dieser Seite herunterladbare Inhalte entdeckt. Jetzt anzeigen?</string>
     <string name="sniff_dialog">Herunterladbare Inhalte</string>
     <string name="sniff_no_resource">Keine herunterladbaren Inhalte gefunden</string>

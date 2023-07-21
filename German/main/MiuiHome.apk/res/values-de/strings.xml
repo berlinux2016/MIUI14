@@ -183,7 +183,7 @@
     <string name="cate_order_reset">Zurücksetzen</string>
     <string name="category_already_exists">Diese Kategorie existiert bereits</string>
     <string name="category_cannot_empty">Zuerst Kategorie eingeben</string>
-    <string name="category_choose_no_app_select_tip">Jede Kategorie muss mind. 1 App enthalten</string>
+    <string name="category_choose_no_app_select_tip">Jede Kategorie muss mind. %d App enthalten</string>
     <string name="category_drawer_name_hint">Kategoriename eingeben</string>
     <string name="category_edit_back_confirm_dialog_content">Änderungen jetzt speichern?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Nicht speichern</string>
@@ -672,8 +672,8 @@
     <string name="request_permission_title">Berechtigungen erforderlich</string>
     <string name="reset_cate_tip_content">Wenn Sie fortfahren, werden die Standard-App-Gruppen wiederhergestellt. Trotzdem fortfahren?</string>
     <string name="reset_cate_tip_title">Standardgruppen wiederherstellen</string>
-    <string name="reset_description_first_time">Sie können das %1$s-Layout innerhalb von 2 Stunden wiederherstellen</string>
-    <string name="reset_description_others">Sie können das %1$s-Layout wiederherstellen</string>
+    <string name="reset_description_first_time">Sie können das Layout von %2$s innerhalb von %1$d Stunden wiederherstellen</string>
+    <string name="reset_description_others">Sie können das Layout von %1$s wiederherstellen</string>
     <string name="reset_fail">Wiederherstellen fehlgeschlagen</string>
     <string name="reset_title">Wiederherstellen</string>
     <string name="resource_canary_leak_tip">Es gibt einen Leak!</string>

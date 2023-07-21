@@ -92,6 +92,7 @@
     <string name="cancel_moving_dialog_message">Importieren jetzt stoppen?</string>
     <string name="cancel_moving_dialog_title">Importieren stoppen</string>
     <string name="cancel_tranfer">Abbrechen</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" bietet bereits Systemsicherungsdienste an. Deinstallieren Sie es und starten Sie Ihr Gerät neu, um Mi Mover verwenden zu können.</string>
     <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Anscheinend ist QQ Downloader Ihr Systemsicherungsdienst. Deinstallieren Sie ihn und starten Sie Ihr Gerät neu, um Mi Mover zu verwenden.</string>
     <string name="cannot_use_mi_huanji_button">Verstanden</string>
     <string name="cannot_use_mi_huanji_summary">Anscheinend sichert MIUI jetzt Daten. Laufende Sicherungen beenden oder Gerät neu starten, damit Mi Mover mit der Übertragung beginnen kann.</string>
@@ -630,8 +631,10 @@ Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vors
     <string name="receiver_finish_detail_button">Bericht anzeigen</string>
     <string name="receiver_finish_detail_fail">Übertragen nicht möglich</string>
     <string name="receiver_finish_detail_success">Übertragene Elemente</string>
+    <string name="receiver_finish_not_transferred">Nicht übertragen</string>
     <string name="receiver_finish_title">Es ist alles bereit!</string>
-    <string name="receiver_video_summary">Entsperren Sie Ihr altes Gerät, tippen Sie auf \"Übertragen\", und scannen Sie dieses Bild</string>
+    <string name="receiver_finish_transferred">Übertragen</string>
+    <string name="receiver_video_summary">Entsperren Sie Ihr altes Gerät, tippen Sie auf \"Übertragen\", und scannen Sie dieses Bild.</string>
     <string name="receiver_video_title">Vom alten Gerät übertragen</string>
     <string name="recent_one_year">Das letzte Jahr</string>
     <string name="recent_seven_days">Die letzten 7 Tage</string>

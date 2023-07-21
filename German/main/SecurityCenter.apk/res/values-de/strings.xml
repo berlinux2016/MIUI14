@@ -235,7 +235,7 @@
     <string name="antivirus_third_privacy_title">Datenschutzerklärung von Drittanbietern</string>
     <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
     <string name="antivirus_toast_network_unavailable">Keine Netzwerkverbindung</string>
-    <string name="antivirus_toast_update_failed">Unsere Server sind ausgelastet. Etwas warten und erneut versuchen.</string>
+    <string name="antivirus_toast_update_failed">Einen Moment warten und erneut versuchen</string>
     <string name="antivirus_toast_update_success">Aktualisieren erfolgreich</string>
     <string name="antivirus_toast_updating">Aktualisieren…</string>
     <string name="antivirus_update_btn_contiue">Fortsetzen</string>
@@ -434,6 +434,7 @@
     <string name="app_install_intercept">Installation blockieren</string>
     <string name="app_install_tips_go_to">Öffnen</string>
     <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
+    <string name="app_management_empty_desc">Diese App unterstützt diese Funktion nicht</string>
     <string name="app_manager_advanced_setting">Erweiterte Einstellungen</string>
     <string name="app_manager_allow">Ja</string>
     <string name="app_manager_anomaly_analysis">Probleme mit Drittanbieter-Apps analysieren</string>
@@ -887,7 +888,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
     <string name="back_sound_fail">Einstellen nicht möglich. Die Einstellungen des Mobilfunkanbieters wurden geändert. Aktuelle SIM-Karte als Ihre Datenkarte einstellen, mit dem Netzwerk verbinden und erneut versuchen.</string>
     <string name="back_sound_success">Erfolgreich gesetzt</string>
-    <string name="back_sound_support">Aktueller Mobilfunkanbieter unterstützt diese Einstellung nicht.</string>
+    <string name="back_sound_support">Erst WLAN ausschalten</string>
+    <string name="back_sound_support_china">Erst WLAN ausschalten</string>
     <string name="background_restrict_app_dialog_message">Einschränkung des Hintergrundnetzwerkzugriffs kann die richtige Funktion der App, den Nachrichtenempfang, das Herunterladen etc. beeinträchtigen. Trotzdem einschränken?</string>
     <string name="background_traffic">Hintergrund %s</string>
     <string name="backsound_set_hint">Abwesenheitsnachricht in %s ändern?</string>
@@ -1145,6 +1147,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="cancal_to_setting_fingerprint">Abbrechen</string>
     <string name="cancel">Abbrechen</string>
     <string name="cancel_button">Abbrechen</string>
+    <string name="card_main_apkclean_title">APKs löschen</string>
+    <string name="card_main_appdataclean_title">App-Daten löschen</string>
     <string name="card_main_applock_action">Einschalten</string>
     <string name="card_main_applock_summary">Ausgewählte Apps mit einem Passwort schützen.</string>
     <string name="card_main_applock_title">App-Sperre</string>
@@ -1157,6 +1161,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_main_deepclean_wechat_summary">WeChat Cache bereinigen, um Speicherplatz freizugeben</string>
     <string name="card_main_deepclean_wechat_title">WeChat Cache</string>
     <string name="card_main_deepclean_whatsapp_title">WhatsApp Cleaner</string>
+    <string name="card_main_facebookclean_title">Facebook-Cleaner</string>
+    <string name="card_main_galleryclean_title">Fotos löschen</string>
     <string name="card_main_gamebooster_summary">Netzwerkstabilität erhöhen</string>
     <string name="card_main_hbassistant_summary">Verwenden Sie dieses Tool, um Umschläge schneller zu packen</string>
     <string name="card_main_hbassistant_title">Roter Umschlagsassistent</string>
@@ -1173,6 +1179,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_main_private_space_summary">Ein Zweitprofil zu verwenden ist, als ob Sie 2 Geräte hätten</string>
     <string name="card_main_private_space_title">Zweitprofil</string>
     <string name="card_main_sectool_title">Werkzeuge</string>
+    <string name="card_main_whatsappclean_title">WhatsApp-Cleaner</string>
     <string name="card_main_xspace_action">Erstellen</string>
     <string name="card_main_xspace_summary">Erstellen Sie ein zweites Konto für eine beliebige App</string>
     <string name="card_main_xspace_title">Dual Apps</string>
@@ -1232,6 +1239,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="cleaned">Bereinigt</string>
     <string name="clear_garbage">Papierkorb leeren, um Speicherplatz zu schaffen</string>
     <string name="clear_immediately">Bereinigen</string>
+    <string name="clear_instant_app_confirmation">Möchten Sie diese Instant-App entfernen?</string>
+    <string name="clear_instant_app_data">App löschen</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="click_to_charge_bill">Guthaben aufladen</string>
@@ -1306,6 +1315,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="cs_pickup_single_title">Einzelner Teilnehmer</string>
     <string name="cs_pickup_surround_desc">Verwendet AI zur Rauschunterdrückung für einen klaren und deutlichen Klang</string>
     <string name="cs_pickup_surround_title">Mikrofon-Rauschunterdrückung</string>
+    <string name="cs_screen_translation_title">Bildschirmübersetzung</string>
     <string name="cs_title_pickup">Rauschunterdrückung</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra HD-Modus</string>
@@ -1420,7 +1430,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_button_yes">Ja</string>
     <string name="dialog_change_package_type_summary">Änderung des Datentarifs setzt alle Einstellungen zur Datennutzung (z. B. Datenlimits) auf die Standardwerte zurück. Datentarif jetzt ändern?</string>
     <string name="dialog_change_package_type_title">Datentarif ändern</string>
-    <string name="dialog_msg_auto_start_declare">Einige Apps können falsch anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie Berechtigungen, die einzelnen Apps unter Einstellungen &gt; Apps gewährt wurden.</string>
+    <string name="dialog_msg_auto_start_declare">Einige Apps können falsch anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie die Berechtigungen, die einzelnen Apps unter Einstellungen &gt; Apps gewährt wurden.</string>
+    <string name="dialog_msg_auto_start_declare_global">Einige Apps können falsch anzeigen, dass MIUI sie am Starten gehindert hat. Prüfen Sie die Berechtigungen, einzelnen Apps in den Einstellungen gewährt wurden.</string>
     <string name="dialog_msg_create_icon_content">Startbildschirm-Verknüpfung jetzt hinzufügen?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Nicht mehr anzeigen</string>
     <string name="dialog_msg_delete_icon_content_pad">Mit Sicherheit können Sie den Papierkorb auf Ihrem Gerät leeren, Viren finden und neutralisieren, den Akku schonen, Berechtigungen verwalten und vieles mehr.</string>
@@ -2550,6 +2561,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gtb_exit_game_to_home">Zurück zum Startbildschirm</string>
     <string name="gtb_garbage_clean">Speicherplatz freigeben</string>
     <string name="gtb_garbage_cleaned_tip">%1$s freigeben, um die Leistung zu steigern</string>
+    <string name="gtb_guide_accelerate">Tippen Sie auf \"Steigern\", um Ihr Spiel zu optimieren</string>
+    <string name="gtb_guide_accelerated_tips">Game Turbo optimiert jetzt Ihr Spielerlebnis</string>
     <string name="gtb_guide_finish">Überspringen</string>
     <string name="gtb_guide_game_mode_tips">Bevorzugten Spielmodus wählen</string>
     <string name="gtb_guide_gtb_button_done">Fertig</string>
@@ -2559,6 +2572,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gtb_guide_gtb_game_effected">Angewandt</string>
     <string name="gtb_guide_gtb_game_new">Neu</string>
     <string name="gtb_guide_gtb_line_new">Leistungsmodus in Game Turbo probieren!</string>
+    <string name="gtb_guide_gtb_line_new_global">Wischen, um Game Turbo zu öffnen</string>
     <string name="gtb_guide_gtb_line_xspace">Steigern Sie Ihr Spiel mit dem brandneuen Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Andere Apps während des Spiels verwenden</string>
     <string name="gtb_guide_small_window_app_title">Popups</string>
@@ -2671,7 +2685,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="input_used_max_hint">Datenvolumen eingeben (weniger als %s)</string>
     <string name="install">Installieren</string>
     <string name="install_sucess">%s erfolgreich installiert</string>
+    <string name="install_text">Installieren</string>
     <string name="install_title">Via USB installieren</string>
+    <string name="install_type_instant">Instant-App</string>
     <string name="installing">Installieren</string>
     <string name="international_Ad">Werbung</string>
     <string name="international_roaming_setting">Datenroaming</string>
@@ -2891,6 +2907,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="menu_charge_bill">Guthaben aufladen</string>
     <string name="menu_charge_traffic">Datenvolumen kaufen</string>
     <string name="menu_edit">Bearbeiten</string>
+    <string name="menu_hide_work_profile_text">Arbeits-Apps ausblenden</string>
     <string name="menu_item_about_privacy_title">Datenschutzerklärung</string>
     <string name="menu_item_about_title">Über</string>
     <string name="menu_item_app_permissions_control">Rechtemanager</string>
@@ -2913,6 +2930,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="menu_remove">Löschen</string>
     <string name="menu_report">Fehler melden</string>
     <string name="menu_setting_traffic">Manuell einstellen</string>
+    <string name="menu_show_work_profile_text">Arbeits-Apps anzeigen</string>
     <string name="menu_sms">SMS senden</string>
     <string name="menu_summary_antispam">Anrufe und Nachrichten blockieren</string>
     <string name="menu_summary_antispam_2">Gesperrte Anrufe und Nachrichten</string>
@@ -3106,7 +3124,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="network_changed_noti_summary">Nutzung mobiler Daten</string>
     <string name="network_changed_noti_title">Vom WLAN getrennt</string>
     <string name="network_connected_exception_title">Netzwerk testen</string>
-    <string name="network_control">App-Einstellungen anzeigen</string>
+    <string name="network_control">Netzwerkverbindung verwalten</string>
     <string name="network_diagnostics">Netzwerkdiagnose</string>
     <string name="network_disable_dialog_btn_text">Verstanden</string>
     <string name="network_disable_dialog_content">Ihr Gerät benötigt eine Netzwerkverbindung, um Ihre Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -3344,7 +3362,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="om_settings_memory_occupy_notify_never">Niemals</string>
     <string name="om_settings_notify_manage">Benachrichtigungen</string>
     <string name="om_settings_speed_up_auto">Automatisch optimieren</string>
-    <string name="om_settings_title">Einstellungen</string>
+    <string name="om_settings_title">Einstellungen Speed Boost</string>
     <string name="om_shortcut_added_toast_text">Erfolgreich hinzugefügt</string>
     <string name="om_shortcut_dialog_summary">RAM Jet erlaubt Ihnen die RAM-Freigabe und Geschwindigkeitssteigerung Ihres Geräts mit einem Fingertipp. RAM Jet zu Ihrem Startbildschirm hinzufügen?</string>
     <string name="once_settings_camera_ttile">Teilen ohne Meta-Daten</string>
@@ -3515,6 +3533,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_high_temp_protection_noti_summary2">Hotspots können jetzt nicht verwendet werden</string>
     <string name="pc_high_temp_protection_noti_tile">Ihr Gerät ist überhitzt</string>
     <string name="pc_install_manager">Installation via USB</string>
+    <string name="pc_low_batterty_got_it">Verstanden</string>
+    <string name="pc_low_battery_fast_charge">Laden beschleunigen</string>
+    <string name="pc_low_battery_fast_charge_summary">Schließen Sie das mitgelieferte Ladegerät an, um den Ladevorgang zu beschleunigen, wenn der Bildschirm aus und der Akku leer ist. Diese Funktion kann Ihr Gerät aufheizen.</string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s Min hinzugefügt, ca. %2$s T betriebsbereit</string>
     <string name="pc_main_battery_text_day_hour">%1$s Min hinzugefügt, ca. %2$s T %3$s Std betriebsbereit</string>
@@ -3539,6 +3560,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_search_keywords_capacity">Akkukapazität</string>
     <string name="pc_search_keywords_property">Leistung</string>
     <string name="pc_settings_title">Akku</string>
+    <string name="pc_smart_discharge_checkbox_summary">Bei Verwendung von Navigations-Apps wird der Ladevorgang automatisch beendet, wenn der Akku einen bestimmten Wert erreicht. Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiviert ist.</string>
+    <string name="pc_smart_discharge_checkbox_title">Laden automatisch trennen</string>
+    <string name="pc_smart_discharge_drop_down_title">Einstellungen automatisches Trennen</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">Um den Akku zu schützen, wird der Ladevorgang bei der Verwendung von Navigations-Apps automatisch bei einem bestimmten Wert beendet</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Laden automatisch trennen ist an</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d Std %2$d Min bleiben</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d Std %2$d Min seit letztem Laden</string>
     <string name="pc_statistics_battery_use_summary">%s seit letztem Laden</string>
@@ -3666,6 +3692,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="phone_manage_clean_title">Bereinigung</string>
     <string name="phone_manage_electric_summary">Ihr Gerät optimieren, um den Akku zu schonen</string>
     <string name="phone_manage_electric_title">Akku</string>
+    <string name="phone_manage_privacy_title">Datenschutz</string>
     <string name="phone_manage_recent_use">Zuletzt verwendet</string>
     <string name="phone_manage_special_summary">Unsere zusätzlichen Funktionen entdecken</string>
     <string name="phone_manage_special_title">Spezielle Funktionen</string>
@@ -3683,8 +3710,10 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pm_root_success_notification_title">Root-Zugriff gewährt</string>
     <string name="popular_action_anti_spam_summary">SMS und Telefon</string>
     <string name="popular_action_anti_spam_title">Belästigung stoppen </string>
+    <string name="popular_action_anti_spam_title_global">Anrufe und Nachrichten blockieren</string>
     <string name="popular_action_app_lock_summary">Privatsphäre ist sicherer</string>
     <string name="popular_action_app_lock_title">App verschlüsseln</string>
+    <string name="popular_action_app_lock_title_global">Apps mit App-Sperre schützen</string>
     <string name="popular_action_app_manager_summary">Aktualisieren und deinstallieren</string>
     <string name="popular_action_app_manager_title">App-Verwaltung</string>
     <string name="popular_action_auto_launch_manager_summary">Selbststartende App</string>
@@ -3692,9 +3721,12 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="popular_action_card_title">"Jeder benutzt "</string>
     <string name="popular_action_first_aid_summary">Ein-Klick-Erkennung</string>
     <string name="popular_action_first_aid_title">Telefonproblem</string>
+    <string name="popular_action_first_aid_title_global">Für neue Nutzer</string>
     <string name="popular_action_hb_assistant_summary">Schnappen Sie sich die roten Umschläge einen Schritt schneller</string>
+    <string name="popular_action_net_assistant_title_global">Geschwindigkeit der Netzwerkverbindung überwachen</string>
     <string name="popular_action_video_box_summary">Beim Chatten</string>
     <string name="popular_action_video_box_title">Video ansehen</string>
+    <string name="popular_action_video_clean_title_global">Video-Cache löschen, um Speicherplatz freizugeben</string>
     <string name="power_20s_shutdown">Telefon schaltet sich in %d Sekunden aus</string>
     <string name="power_ambient_display">Always-on Display</string>
     <string name="power_analysis_consume_title">Akkuverbrauch</string>
@@ -5099,6 +5131,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="stop_collecting_data_detail">Die Tastatur sammelt keine Daten, um die Worterkennung zu verbessern und häufige Ausdrücke auf der Grundlage Ihrer Gewohnheiten vorzuschlagen.</string>
     <string name="stop_milink_connect">Übertragen anhalten</string>
     <string name="storage_activity_title">Speicherplatz</string>
+    <string name="storage_activity_title_personage">Persönlich</string>
+    <string name="storage_activity_title_work">Arbeit</string>
     <string name="storage_app_detail_activity_title">Belegter Speicher</string>
     <string name="storage_app_detail_clear_all_data">Alle Daten löschen</string>
     <string name="storage_app_detail_clear_all_dialog_message">Alle App-Daten, inkl. Dateien, Einstellungen, Konten und Cache, werden dauerhaft gelöscht.</string>
