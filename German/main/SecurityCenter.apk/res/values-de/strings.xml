@@ -1153,14 +1153,12 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_main_applock_summary">Ausgewählte Apps mit einem Passwort schützen.</string>
     <string name="card_main_applock_title">App-Sperre</string>
     <string name="card_main_deepclean_action">Bereinigen</string>
-    <string name="card_main_deepclean_facebook_title">Facebook Cleaner</string>
-    <string name="card_main_deepclean_qq_title">QQ Cleaner</string>
+    <string name="card_main_deepclean_qq_title">QQ-Cleaner</string>
     <string name="card_main_deepclean_summary">Unnötige Dateien löschen</string>
     <string name="card_main_deepclean_title">Tiefenreinigung</string>
     <string name="card_main_deepclean_wechat_action">Bereinigen</string>
     <string name="card_main_deepclean_wechat_summary">WeChat Cache bereinigen, um Speicherplatz freizugeben</string>
     <string name="card_main_deepclean_wechat_title">WeChat Cache</string>
-    <string name="card_main_deepclean_whatsapp_title">WhatsApp Cleaner</string>
     <string name="card_main_facebookclean_title">Facebook-Cleaner</string>
     <string name="card_main_galleryclean_title">Fotos löschen</string>
     <string name="card_main_gamebooster_summary">Netzwerkstabilität erhöhen</string>
@@ -4694,7 +4692,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="shield_keyboard_summary">Tasten und Vollbildgesten während des Spiels einschränken</string>
     <string name="shield_keyboard_title">Tasten und Gesten einschränken</string>
     <string name="shortcut_title_scan">Scannen</string>
-    <string name="shortcut_title_whatsapp_clean">WhatsApp Cleaner</string>
+    <string name="shortcut_title_whatsapp_clean">WhatsApp-Cleaner</string>
     <string name="show_system_app">System-Apps anzeigen</string>
     <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Datennutzungseinstellungen jederzeit ändern.</string>
     <string name="show_traffic_dialog_title">Nutzung in der Statusleiste anzeigen</string>
@@ -5150,7 +5148,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="storage_app_detail_uninstall_dialog_message">Alle App-Daten werden auch gelöscht, wenn Sie die App deinstallieren.</string>
     <string name="storage_app_detail_uninstall_dialog_title">Jetzt deinstallieren?</string>
     <string name="storage_app_detail_uninstall_done">Erfolgreich deinstalliert</string>
-    <string name="storage_app_detail_wechat_cleaner">WeChat Cleaner</string>
+    <string name="storage_app_detail_wechat_cleaner">WeChat-Cleaner</string>
     <string name="storage_app_detail_wechat_session">"WeChat's Chat-Verlauf löschen"</string>
     <string name="storage_app_list_activity_title">App-Details</string>
     <string name="storage_app_list_desc">Belegter Speicher: %s</string>

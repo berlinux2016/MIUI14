@@ -58,7 +58,7 @@
     <string name="app_description_title">Über Bereinigung</string>
     <string name="app_name">Einstellung</string>
     <string name="app_reset">Zurücksetzen</string>
-    <string name="app_specific_clean">App Cleaner</string>
+    <string name="app_specific_clean">App-Cleaner</string>
     <string name="app_unload">Deinstallieren</string>
     <string name="app_usage_never">Seit langem nicht benutzt</string>
     <string name="app_usage_recently">Vor kurzem verwendet</string>
@@ -261,10 +261,10 @@
     <string name="dc_item_title_app_data">App-Daten löschen</string>
     <string name="dc_item_title_image">Fotos löschen</string>
     <string name="dc_item_title_large_file">Dateien löschen</string>
-    <string name="dc_item_title_qq">QQ Cleaner</string>
+    <string name="dc_item_title_qq">QQ-Cleaner</string>
     <string name="dc_item_title_uninstall_app">Apps deinstallieren</string>
     <string name="dc_item_title_video">Videos löschen</string>
-    <string name="dc_item_title_wechat">WeChat Cleaner</string>
+    <string name="dc_item_title_wechat">WeChat-Cleaner</string>
     <string name="dc_item_title_wechat_chat">WeChat-Verlauf löschen</string>
     <string name="dc_storage_cleaned">%s freigeben</string>
     <string name="dc_storage_info">%1$s | %2$s</string>
@@ -360,9 +360,9 @@
     <string name="facebook_clean_exit_confirm_msg">Noch nicht fertig mit Scannen von Facebook. Jetzt Scannen anhalten?</string>
     <string name="facebook_clean_exit_confirm_ok">Anhalten</string>
     <string name="facebook_clean_exit_confirm_title">Scannen anhalten?</string>
-    <string name="facebook_cleaner">Facebook Cleaner</string>
+    <string name="facebook_cleaner">Facebook-Cleaner</string>
     <string name="facebook_function_summery">Löschen der Facebook-Elemente im Cache</string>
-    <string name="facebook_function_title">Facebook Cleaner</string>
+    <string name="facebook_function_title">Facebook-Cleaner</string>
     <string name="facebook_group_cache">Cache-Dateien</string>
     <string name="facebook_group_image">Bilder</string>
     <string name="fallback_menu_item_copy_link">Link kopieren</string>
@@ -414,8 +414,8 @@
     <string name="global_wa_item_title_image">Bilder</string>
     <string name="global_wa_main_clean_btn_forward_result">Ergebnisse anzeigen</string>
     <string name="global_wa_main_cleaning">Bereinigen…</string>
-    <string name="global_wa_main_header_cleaning_hints">WhatsApp Cleaner gibt Platz auf Ihrem Gerät frei…</string>
-    <string name="global_wa_main_header_scanning_hints">WhatsApp Cleaner scannt Ihr Gerät…</string>
+    <string name="global_wa_main_header_cleaning_hints">WhatsApp-Cleaner gibt Platz auf Ihrem Gerät frei…</string>
+    <string name="global_wa_main_header_scanning_hints">WhatsApp-Cleaner scannt Ihr Gerät…</string>
     <string name="global_wa_main_item_desc_cache">Cache-Bereingung hat keinen Einfluss auf regelmäßige Nutzung</string>
     <string name="global_wa_main_item_desc_chat">Sie können die Anhänge auf der nächsten Seite durchgehen</string>
     <string name="global_wa_main_item_title_cache">App-Cache</string>
@@ -427,7 +427,7 @@
     <string name="global_wa_result_finish_hint_zero">%s freigegeben</string>
     <string name="global_wa_setting_alert_dialog_btn">Öffnen</string>
     <string name="global_wa_setting_alert_dialog_content">Sie können %s freigeben</string>
-    <string name="global_wa_setting_alert_pref_category_title">WhatsApp Cleaner-Erinnerungen</string>
+    <string name="global_wa_setting_alert_pref_category_title">Erinnerungen WhatsApp-Cleaner</string>
     <string name="global_wa_setting_alert_pref_size_title">Papierkorbgröße</string>
     <string name="global_wa_setting_alert_pref_switch_title">An Elemente löschen erinnern</string>
     <string name="global_wa_setting_alert_pref_time_title">Intervall</string>
@@ -448,7 +448,7 @@
     <string name="global_wa_shortcut_dialog_cancel">Abbrechen</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">Nicht wieder anzeigen</string>
     <string name="global_wa_shortcut_dialog_confirm">Erstellen</string>
-    <string name="global_wa_shortcut_dialog_content">Startbildschirm-Verknüpfung für WhatsApp Cleaner erstellen, um diese Funktion leicht zugänglich zu machen.</string>
+    <string name="global_wa_shortcut_dialog_content">Startbildschirm-Verknüpfung für WhatsApp-Cleaner erstellen, um diese Funktion leicht zugänglich zu machen.</string>
     <string name="global_wa_shortcut_dialog_title">Startbildschirm-Verknüpfung</string>
     <string name="global_wa_shortcut_toast">Startbildschirm-Verknüpfung wurde erfolgreich erstellt</string>
     <string name="global_wa_wrapper">Bildschirmhintergründe</string>
@@ -884,7 +884,7 @@
     <string name="storage_app_detail_third_clean_size">%s freigeben</string>
     <string name="storage_app_detail_total">Gesamt belegter Speicher</string>
     <string name="storage_app_detail_uninstall_app">App deinstallieren</string>
-    <string name="storage_app_detail_wechat_cleaner">WeChat Cleaner</string>
+    <string name="storage_app_detail_wechat_cleaner">WeChat-Cleaner</string>
     <string name="storage_app_detail_wechat_session">"WeChat's Chat-Verlauf löschen"</string>
     <string name="storage_app_list_activity_title">App-Details</string>
     <string name="storage_app_list_desc">Belegter Speicher: %s</string>
@@ -1045,13 +1045,13 @@
     <string name="video_clean_notification_title">%s freigeben</string>
     <string name="video_clean_personal_settings_title">Weitere Einstellungen</string>
     <string name="video_clean_qq_clean_summary">Papierkorb löschen, um Speicherplatz freizugeben</string>
-    <string name="video_clean_qq_clean_title">QQ Cleaner</string>
+    <string name="video_clean_qq_clean_title">QQ-Cleaner</string>
     <string name="video_clean_remind_settings_title">An Bereinigung erinnern</string>
     <string name="video_clean_scan_app_tip">Apps scannen: %1$d/%2$d</string>
     <string name="video_clean_video_manager_summary">Alle auf Ihrem Gerät gespeicherten Videos verwalten</string>
     <string name="video_clean_video_manager_title">Video-Manager</string>
     <string name="video_clean_wechat_clean_summary">Papierkorb löschen, um Geschwindigkeit zu erhöhen</string>
-    <string name="video_clean_wechat_clean_title">WeChat Cleaner</string>
+    <string name="video_clean_wechat_clean_title">WeChat-Cleaner</string>
     <string name="virus_scan">Virenscan</string>
     <string name="wechat_cache_files">WeChat-Cache</string>
     <string name="wechat_chat_data_type_cache">WeChat-Cache</string>

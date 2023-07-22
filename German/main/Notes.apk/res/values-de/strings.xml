@@ -625,7 +625,6 @@
     <string name="pc_todo_set_remind_time_hint">Zeit festlegen</string>
     <string name="permdesc_accessNote">Schadhafte Apps können auf Ihre Daten zugreifen</string>
     <string name="permission_data_shared_desc">Hinweise zur Erklärung über die gemeinsame Nutzung von Daten durch Dritte</string>
-    <string name="permission_get_account_desc">Synchronisieren von Notizen mit der Cloud</string>
     <string name="permission_intro_contact">Zur Markierung von Notizen, die während eines Anrufs gemacht werden</string>
     <string name="permission_intro_microphone">Zur Aufnahme von Sprachnotizen</string>
     <string name="permission_intro_phone">Zur Markierung von Notizen, die während eines Anrufs gemacht werden</string>
