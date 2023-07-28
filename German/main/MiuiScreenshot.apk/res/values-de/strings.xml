@@ -249,6 +249,8 @@
     <string name="screen_talkback_shape">Form</string>
     <string name="screen_talkback_small">Extra klein</string>
     <string name="screen_talkback_text">Text</string>
+    <string name="screenshot_detected_multiple_template">Mehrere Apps inkl. %1$s haben den Screenshot erkannt</string>
+    <string name="screenshot_detected_template">%1$s hat diesen Screenshot erkannt</string>
     <string name="screenshot_edit">Bearbeiten</string>
     <string name="screenshot_failed_in_landscape_mode">Im Querformat-Modus sind scrollende Screenshots nicht möglich</string>
     <string name="screenshot_failed_to_capture_title">Diese App gestattet keine Screenshots</string>

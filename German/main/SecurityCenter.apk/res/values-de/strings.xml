@@ -2480,6 +2480,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tippen Sie auf eine App in der Seitenleiste, um sie in einem Popup zu öffnen.
 · Halten Sie den Indikator gedrückt, um das Fenster zu bewegen."</string>
     <string name="global_satisfaction_notification_button">Bewerten</string>
+    <string name="global_satisfaction_notification_channel">Umfrage zur Nutzerzufriedenheit</string>
     <string name="global_satisfaction_notification_subhead">Erzählen Sie uns von Ihrer Erfahrung</string>
     <string name="global_satisfaction_notification_title">Bewerten Sie dieses Gerät</string>
     <string name="global_wa_setting_alert_dialog_content">Sie können %s freigeben</string>
@@ -2822,7 +2823,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="main_primary_message_leisure_overlimit">Über dem Datennutzungslimit</string>
     <string name="main_primary_message_leisure_remain">Datennutzungslimit</string>
     <string name="main_primary_message_traffic_overlimit">Über dem Limit</string>
-    <string name="main_primary_message_traffic_remain">Mobile Daten</string>
+    <string name="main_primary_message_traffic_remain">Verbleibende Daten</string>
     <string name="main_primary_message_traffic_warning">Mobile Datenwarnung</string>
     <string name="main_purchase_tips">Rabatt</string>
     <string name="main_tc_over">Erfolreich kalibriert</string>
@@ -3630,6 +3631,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_external_storage">Diese Berechtigung erlaubt Apps den Zugriff auf Fotos, Medien und Dateien auf Ihrem Gerät. Seien Sie vorsichtig mit dieser Berechtigung, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_gallery">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_get_accounts">Diese Berechtigung erlaubt Apps den Zugriff auf die Liste der auf Ihrem Gerät gespeicherten Konten. Diese Liste könnte alle Ihre persönlichen Konten enthalten, die durch installierte Apps erstellt wurden, sowie die Konten von Social Media-Plattformen und Kommunikationstools.</string>
+    <string name="permission_instruction_get_identifier">Zugriff auf Gerätekennung</string>
     <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen am Startbildschirm zu erstellen.</string>
     <string name="permission_instruction_install_unknown_source">Diese Berechtigung erlaubt Apps, andere Apps auf Ihrem Gerät zu installieren. Bösartige Apps nutzen diese Berechtigung, um Apps ohne Ihre Bestätigung zu installieren.</string>
     <string name="permission_instruction_location">Wenn Sie diese Berechtigung erteilen, verwenden Apps Netzwerke oder Satellitenortung, um auf Ihren Standort zuzugreifen. Sie können Apps, die diese Funktion unterstützen, erlauben, nur auf Ihren ungefähren Standort zuzugreifen.</string>
@@ -3646,13 +3648,16 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_read_calllog">Diese Berechtigung erlaubt Apps den Zugriff auf den Anrufverlauf, der detaillierte Informationen über Ihre ein- und ausgehenden Anrufe enthalten kann. Diese Berechtigung erlaubt Apps auch, Aufnahmen des Anrufverlaufs zu speichern. Bösartige Apps können diese Berechtigung nutzen, um Ihren Anrufverlauf an Dritte weiterzugeben oder für Betrug zu verwenden.</string>
     <string name="permission_instruction_read_clipboard">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Daten enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
     <string name="permission_instruction_read_contacts">Diese Berechtigung erlaubt Apps den Zugriff auf die auf Ihrem Gerät gespeicherten Kontaktinformationen. Diese Informationen können die Häufigkeit Ihrer Kommunikation mit bestimmten Kontakten über Anrufe, E-Mails und andere Methoden enthalten. Diese Berechtigung erlaubt Apps auch, Kontakte zu speichern. Bösartige Apps können diese Berechtigung verwenden, um Kontakte ohne Ihre Zustimmung freizugeben.</string>
+    <string name="permission_instruction_read_history">Zugriff auf Browserverlauf</string>
     <string name="permission_instruction_read_media_pic">Wenn Sie diese Berechtigung erteilen, kann die App auf Fotos und Videos auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_read_notify_sms">Diese Berechtigung erlaubt Apps, auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherte Benachrichtigungstexte zu lesen.</string>
     <string name="permission_instruction_read_phone_state">Diese Berechtigung erlaubt Apps den Zugriff auf Ihre Rufnummer, IMEI, IMSI und andere Gerätekennungen. Apps verwenden diese Berechtigung normalerweise, um festzustellen, ob Ihre Anrufe weitergeleitet werden. Wenn Sie eine virtuelle Geräte-ID verwenden, können Apps nicht auf Ihre tatsächlichen Gerätekennungen zugreifen.</string>
     <string name="permission_instruction_read_sms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Text- und Multimedia-Nachrichten lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere private Daten enthalten.</string>
     <string name="permission_instruction_read_write_calendar">Diese Berechtigung erlaubt Apps den Zugriff auf Ihren Kalender sowie das Lesen, Hinzufügen, Entfernen, Bearbeiten, Freigeben und Speichern von Kalendereinträgen. Bösartige Anps können diese Berechtigung verwenden, um Nachrichten in Ihrem Namen zu senden oder Kalendereinträge ohne Ihre Zustimmung zu bearbeiten.</string>
     <string name="permission_instruction_receive_mms">Diese Berechtigung erlaubt Apps, alle auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherten Multimedia-Nachrichten zu lesen. Solche Nachrichten können Passwörter, Bankkontodaten und andere private Daten enthalten.</string>
+    <string name="permission_instruction_receive_sms">SMS und MMS empfangen</string>
     <string name="permission_instruction_record_audio">Diese Berechtigung erlaubt Apps, das Mikrofon für Audioaufnahmen zu verwenden. Bedenken Sie, dass diese Berechtigung Apps erlaubt, alles aufzunehmen, inkl. Ihrer Gespräche mit anderen. Am besten erlauben Sie Apps die Verwendung dieser Berechtigung nur während der App-Nutzung.</string>
+    <string name="permission_instruction_record_screen">Zugriff auf Bildschirminhalt</string>
     <string name="permission_instruction_running_background">Diese Berechtigung erlaubt Apps, im Hintergrund zu arbeiten. Dabei können Apps Daten sammeln und Dienste anbieten. Bedenken Sie, dass solche Aktivitäten den Stromverbrauch erhöhen.</string>
     <string name="permission_instruction_running_exceed_data">Diese Berechtigung erlaubt Apps, Nutzungsbeschränkungen für mobile Daten zu ignorieren.</string>
     <string name="permission_instruction_scoped">Neuer Mechanismus zum Datenschutz bei partitioniertem Systemspeicher, wobei die ersten Apps so angepasst werden, dass sie eine detailliertere Kontrolle der Speicherzugriffsrechte unterstützen</string>
@@ -3664,6 +3669,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_sociality">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die in Social Media-Apps erzeugten Dateien zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_storage">Wenn Sie Apps erlauben, auf Dateien in ihren eigenen Ordnern zuzugreifen, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie und auf Dateien, die in Social Media-Apps erstellt wurden, zugreifen dürfen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_touch_pay">Diese Berechtigung erlaubt Apps, kontaktlose Zahlungen durchzuführen.</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Daten an andere Geräte übertragen</string>
     <string name="permission_instruction_use_sip">Diese Berechtigung erlaubt Apps die Verwendung von SIP-Videodiensten.</string>
     <string name="permission_instruction_vr_assistant">Diese Berechtiung erlaubt Apps, VR-Assistentendienste zu nutzen.</string>
     <string name="permission_instruction_wall_paper">Erteilen Sie diese Berechtigung, damit Apps die Standarddienste für dynamische Hintergründe ändern und im Hintergrund weiterlaufen können.</string>
