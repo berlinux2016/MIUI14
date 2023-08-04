@@ -99,8 +99,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Rufnummer vom Netzbetreiber für die Anmeldung abfragen</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Wenn Sie sich jetzt nicht mit Tippen anmelden konnten, zurück zur Anmeldeseite gehen und erneut versuchen.</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Diese App möchte für die Anmeldung Ihre Rufnummer vom Netzbetreiber erhalten. Zustimmen?</string>
-    <string name="HIPS_Perm_operator_shake">Zugriff auf Beschleunigungssensordaten</string>
-    <string name="HIPS_Perm_operator_shake_Desc">Beschleunigungssensordaten werden für die Verfolgung der Ausrichtung und Bewegung (z. B. Schütteln, Kippen und Drehen) verwendet</string>
+    <string name="HIPS_Perm_operator_shake">Zugriff auf Bewegung und Ausrichtung des Geräts</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Zur Erkennung der Position des Geräts im Raum, zur Erkennung von Erschütterungen und zur Bereitstellung interaktiver sensorischer Funktionen</string>
     <string name="HIPS_Perm_operator_wall_paper">Dynamischer Hintergrund-Dienste</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Dynamischer Hintergrund-Dienste des Systems bearbeiten</string>
     <string name="HIPS_Perm_process_nfc_Desc">Zugriff auf NFC-Hardware</string>
@@ -330,7 +330,7 @@
     <string name="permdesc_recognition">%1$s erlauben, auf Ihre Aktivitätsdatento zuzugreifen?</string>
     <string name="permdesc_send_sms">%1$s erlauben, Textnachrichten zu senden?</string>
     <string name="permdesc_sensors">%1$s erlauben, von den Körpersensoren erzeugte Daten zu lesen?</string>
-    <string name="permdesc_shake">%1$s den Zugriff auf Beschleunigungssensordaten erlauben?</string>
+    <string name="permdesc_shake">%1$s die Verwendung von Gerätesensoren erlauben, um Schütteln zu erkennen und interaktive sensorische Funktionen bereitzustellen</string>
     <string name="permdesc_use_sip">%1$s erlauben, das Session Initiation Protocol zum Streamen von Videos zu verwenden?</string>
     <string name="permdesc_write_calendar">%1$s erlauben, Kalenderteinträge zu erstellen und zu speichern?</string>
     <string name="permdesc_write_call_log">%1$s erlauben, die Anrufliste zu bearbeiten?</string>
