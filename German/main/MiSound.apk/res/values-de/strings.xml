@@ -51,8 +51,8 @@
     <string name="effect_3dsurround">Immersiver Klang</string>
     <string name="effect_3dsurround_summary">Klangtiefe für Wiedergabe über Kopfhörer und Lautsprecher verbessern</string>
     <string name="effect_3dsurround_summary_headphone">Klangtiefe für Wiedergabe über Kopfhörer verbessern</string>
-    <string name="effect_none">Nichts</string>
     <string name="effect_selection">Klangeffekte</string>
+    <string name="effect_selection_headset">Kopfhörer-Effekte</string>
     <string name="effect_virtual_surround">Virtueller immersiver Klang</string>
     <string name="effect_virtual_surround_summary">Klangtiefe für Audio- und Videowiedergabe über Kopfhörer verbessern (Diese Funktion funktioniert nicht, wenn %.1f-Audio abgespielt wird)</string>
     <string name="effect_virtual_surround_summary_spk">Mehr Klangtiefe für Audio- und Videowiedergabe</string>

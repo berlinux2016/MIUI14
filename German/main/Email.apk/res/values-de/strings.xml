@@ -298,6 +298,7 @@
     <string name="auto_remind_discribe_text">Aktivieren, um Erinnerungen automatisch zu erhalten</string>
     <string name="auto_remind_text">Automatische Erinnerungen</string>
     <string name="auto_remind_unbind">Abbrechen</string>
+    <string name="auto_start_open_prompt">Erlauben Sie der App den Autostart, damit sie Ihre E-Mails synchronisieren kann. Sie können diese Erlaubnis in den Einstellungen erteilen.</string>
     <string name="auto_sync_off">Automatische Synchronisation ist ausgeschaltet</string>
     <string name="automatic_remind_text">Automatisch erinnern</string>
     <string name="bContact_list_search_hint">Nach blockierten Kontakten suchen</string>
@@ -338,6 +339,7 @@
     <string name="calendar_skip_no_account_alert">Konto finden nicht möglich</string>
     <string name="cancel">Abbrechen</string>
     <string name="cancel_action">Abbrechen</string>
+    <string name="cancel_edit">Bearbeitung beenden</string>
     <string name="cancel_pop3_attchemt_downloading">Bei einem POP3-Konto kann der Download des Anhangs nicht abgebrochen werden</string>
     <string name="cant_move_or_change_labels">Elemente von mehreren Konten können nicht verschoben werden</string>
     <string name="cc">CC</string>
@@ -580,6 +582,7 @@
     <string name="drive_card_code">"Zugangscode: "</string>
     <string name="drive_card_tips">%s hat ein in der Cloud gespeichertes Element mit Ihnen geteilt.</string>
     <string name="drive_card_title">URL des Cloud-Speichers</string>
+    <string name="drop_sign_operation">Bearbeitung beenden und alle Änderungen verwerfen?</string>
     <string name="dtend">Beendet</string>
     <string name="dtstart">Beginnt</string>
     <string name="due">Fällig</string>
@@ -1204,6 +1207,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="open_pdf_error">PDF-Datei öffnen nicht möglich. Einen PDF-Reader installieren und erneut versuchen.</string>
     <string name="operation_settging">Aktionen</string>
     <string name="optimization_suggestion">Optimierungsvorschlag</string>
+    <string name="other_pdf_open">Öffnen mit…</string>
     <string name="others_mail">Andere</string>
     <string name="others_mail_des">Dies gilt für andere private oder gewerbliche E-Mail-Dienste</string>
     <string name="outbox_alert_button_no_resend">Nicht senden</string>
@@ -1268,6 +1272,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="pdf_has_signature_prompt_confirm">Signierte Kopie</string>
     <string name="pdf_has_signature_prompt_message">Anscheinend hat dieser Anhang eine signierte Kopie. Stattdessen diese öffnen?</string>
     <string name="pdf_save_error">In PDF konvertieren nicht möglich. Diese Meldung ist zu lang.</string>
+    <string name="pdf_save_local">"Erfolgreich auf dem Gerät gespeichert: "</string>
     <string name="pdf_save_no_body">Vor der Konvertierung in PDF warten, bis die Nachricht vollständig geladen ist</string>
     <string name="pdf_save_to">"Gespeichert in "</string>
     <string name="pdf_signature_add">Neue Signatur hinzufügen</string>
@@ -1314,6 +1319,7 @@ Versuchen Sie einen anderen Posteingang."</string>
     <string name="photo_load_failed">Bild wurde nicht geladen</string>
     <string name="pl_select_age">Alter wählen</string>
     <string name="please_fill_in_your_mailbox_information2">Mailbox-Infos eingeben</string>
+    <string name="please_save_sign_first">Zuerst Signatur speichern</string>
     <string name="pls_parse_bill_discribe">"Analysiert Rechnungen und Reiseinfos in Ihren E-Mails, um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
     <string name="policy_app_blacklist">Bestimmte Apps verbieten</string>
     <string name="policy_app_whitelist">Nur bestimmte Apps erlauben</string>
@@ -1525,6 +1531,7 @@ oder sehen Sie sich die Nachricht auf Ihrem Computer an."</string>
     <string name="save_draft_failed">Entwurf wurde nicht gespeichert</string>
     <string name="save_power_summary">Stromsparzeit einstellen</string>
     <string name="save_power_title">Stromsparen</string>
+    <string name="save_sign_pdf">Auf Gerät speichern</string>
     <string name="save_this_new_signature">Neue Signatur speichern?</string>
     <string name="saved">Gespeichert,  %s</string>
     <string name="saving">Speichern…</string>
@@ -1778,6 +1785,7 @@ App öffnen und Bestätigungs-SMS manuell senden."</string>
     <string name="train_card_title_change_arrival">Ziel erfolgreich geändert</string>
     <string name="train_card_title_refund">Ticket erfolgreich storniert</string>
     <string name="train_travel_refund_info" formatted="false">Rückerstattungskosten ¥%s, erstattungsfähige Kosten ¥%s</string>
+    <string name="translated_text_too_long">Weniger Text zum Kopieren wählen und erneut versuchen</string>
     <string name="translation_loading">Einen Moment…</string>
     <string name="translation_no_result">Keine Ergebnisse</string>
     <string name="translation_pronunciation_other">Modul</string>

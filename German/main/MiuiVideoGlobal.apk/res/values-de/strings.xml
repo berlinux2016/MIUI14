@@ -1236,15 +1236,9 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="phone_number">Rufnummer</string>
     <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
     <string name="pip_not_supported_toast">MIUI aktualisieren, um Bild-im-Bild zu verwenden</string>
-    <string name="play_list_delete_title">Diese Wiedergabeliste jetzt löschen?</string>
-    <string name="play_list_detial_add">Videos hinzufügen</string>
-    <string name="play_list_detial_delete">Löschen</string>
-    <string name="play_list_detial_play">Abspielen</string>
-    <string name="play_list_detial_rename">Umbenennen</string>
     <string name="play_list_save_dialog_create">Wiedergabeliste erstellen</string>
     <string name="play_list_save_dialog_title">Zur Wiedergabeliste hinzufügen</string>
     <string name="play_list_sign_in_dialog_message">Mit Ihrem Google-Konto anmelden, um alle Ihre Wiedergabelisten anzuzeigen.</string>
-    <string name="play_list_user_local">Lokal</string>
     <string name="playlist_create">Erstelen</string>
     <string name="playlist_detail_recomm_title">Empfohlene Wiedergabelisten</string>
     <string name="playlist_finish">Fertig</string>
@@ -1744,7 +1738,6 @@ Es zeigt nichts an."</string>
     <string name="v_save">Speichern</string>
     <string name="v_search">Suchen</string>
     <string name="v_set_password">Passwort setzen, um versteckte Videos anzuzeigen</string>
-    <string name="v_txt_login">Anmelden, um Favoriten zu synchronisieren</string>
     <string name="version_update_install_apk_fail">Installation fehlgeschlagen</string>
     <string name="video_already_download_tip">Sie haben dieses Element bereits heruntergeladen</string>
     <string name="video_download_btn">Herunterladen</string>

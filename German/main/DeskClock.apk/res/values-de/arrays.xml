@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>Wecker in weniger als einer Minute</item>
-        <item>Wecker in %1$s</item>
-        <item>Wecker in %2$s</item>
-        <item>Wecker in %1$s %2$s</item>
-        <item>Wecker in %3$s</item>
-        <item>Wecker in %1$s %3$s</item>
-        <item>Wecker in %2$s %3$s</item>
-        <item>Wecker in %1$s %2$s %3$s</item>
-    </string-array>
     <string-array name="alarm_in_furture_new_array">
         <item>Wecker in weniger als %d Minute</item>
         <item>Wecker in %1$s</item>
@@ -34,16 +24,6 @@
         <item>Mo - Fr</item>
         <item>Eigene</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Wecker klingelt in weniger als einer Minute</item>
-        <item>Wecker klingelt in %1$s</item>
-        <item>Wecker klingelt in %2$s</item>
-        <item>Wecker klingelt in %1$s %2$s</item>
-        <item>Wecker klingelt in %3$s</item>
-        <item>Wecker klingelt in %1$s %3$s</item>
-        <item>Wecker klingelt in %2$s %3$s</item>
-        <item>Wecker klingelt in %1$s %2$s %3$s</item>
-    </string-array>
     <string-array name="alarm_set_new_array">
         <item>Wecker klingelt in weniger als %d Minute.</item>
         <item>Wecker klingelt in %1$s.</item>
@@ -61,16 +41,6 @@
         <item>Schlecht</item>
         <item>Sehr schlecht</item>
         <item>Ernst</item>
-    </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Nie</item>
-        <item>1 Minute</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>20 Minuten</item>
-        <item>25 Minuten</item>
-        <item>30 Minuten</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Mo - Fr</item>
@@ -380,11 +350,6 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Weiß</item>
-        <item>Schwarz</item>
-        <item>Automatisch</item>
-    </string-array>
     <string-array name="countries_names_miui">
         <item>Elfenbeinküste</item>
         <item>Ghana</item>
@@ -672,31 +637,6 @@
         <item>Honduras</item>
         <item>Suriname</item>
         <item>Ecuador</item>
-    </string-array>
-    <string-array name="days_of_week">
-        <item>So</item>
-        <item>Mo</item>
-        <item>Di</item>
-        <item>Mi</item>
-        <item>Do</item>
-        <item>Fr</item>
-        <item>Sa</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>Zur eingestellten Zeit</item>
-        <item>15 Minuten vorher</item>
-        <item>15 Minuten vorher</item>
-        <item>1 Stunde vorher</item>
-        <item>Nichts</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 Minute</item>
-        <item>5 Minuten</item>
-        <item>10 Minuten</item>
-        <item>15 Minuten</item>
-        <item>20 Minuten</item>
-        <item>25 Minuten</item>
-        <item>30 Minuten</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Gesamt %1$s</item>

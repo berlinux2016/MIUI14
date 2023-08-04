@@ -4323,7 +4323,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_pop_record">Audioaufnahme heute</string>
     <string name="privacy_pop_storage">Speicherzugriff heute</string>
     <string name="privacy_prompt_tc_sms_report_message">Ihre Rufnummer und Mobilfunkanbieterdetails werden verschlüsselt und auf den Mi Server hochgeladen, um Ihre Datennutzungsdetails zu aktualisieren.</string>
-    <string name="privacy_prompt_traffic_adjust_message">Wenn Sie mit der Kalibrierung beginnen, verbindet sich MIUI mit dem Netzwerk, kodiert die Daten Ihres Mobilfunkanbieters, Rufnummer, IMEI und Xiaomi-Konto und lädt diese Elemente auf die Mi Server hoch. Dies geschieht, um die Kalibriervorlage des Mobilfunkanbieters zu erhalten und zu erfahren, ob es möglich ist, Daten an Ihrem Standort zu erwerben.\nWährend der Kalibrierung sendet MIUI eine Textnachricht an Ihren Mobilfunkanbieter, um die Kalibriervorlage zu erhalten.</string>
     <string name="privacy_prompt_upload">Hochladen</string>
     <string name="privacy_protect_summary">Ihre persönlichen Daten schützen</string>
     <string name="privacy_protect_title">Datenschutz</string>
@@ -5963,6 +5962,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="virus_app_size_text">Größe: %s</string>
     <string name="virus_app_type_installed">Installiert</string>
     <string name="virus_auto_update_engine">Automatische Updates: %s</string>
+    <string name="virus_auto_update_engine_1">Definitionen automatisch aktualisieren</string>
     <string name="virus_clear_dialog_title">Schädliche Apps löschen</string>
     <string name="virus_detail_app">Enthält Viren</string>
     <string name="virus_detail_title">Viren</string>

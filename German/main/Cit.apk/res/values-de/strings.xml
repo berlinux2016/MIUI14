@@ -395,6 +395,7 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_front_rear_dual_camera_check_title">Bokeh-Kamera vorne</string>
     <string name="cit_front_rear_sub_camera_check_title">Hilfskamera vorne</string>
     <string name="cit_front_sub_camera_check_title">Front-Hilfskamera</string>
+    <string name="cit_front_sub_camera_check_title_fold">Unterbildschirm-Frontkamera</string>
     <string name="cit_get_signature_failed">Signatur erhalten FEHLGESCHLAGEN</string>
     <string name="cit_goodix_sensor_check_summary">Goodix-Sensortest, drücken Sie die Taste und warten Sie, bis die grün markierte Bestanden-Info korrekt ist.</string>
     <string name="cit_goodix_sensor_check_title">Goodix Fingerabdrucksensor</string>
@@ -1179,6 +1180,7 @@ Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="test_speaker">Lautsprecher</string>
     <string name="test_speaker_summary">"Sie hören zwei Zufallszahlen.
 Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
+    <string name="test_sub_front_camera">Unterbildschirm-Frontkamera</string>
     <string name="test_top_mic">Oberes MIKRO</string>
     <string name="testagain">Sie können die HOME-Taste drücken, um erneut zu testen</string>
     <string name="testing">Automatischer Test läuft…</string>
@@ -1218,5 +1220,6 @@ Bitte die richtige Taste für die verschiedenen Vibrationsbedingungen wählen."<
     <string name="wait_test">Auf Test warten</string>
     <string name="waiting">4 Sek warten</string>
     <string name="warm_light_title">Warmes Licht</string>
+    <string name="wifi_power_test_testing">WLAN-Leistungstest…</string>
     <string name="yes">Ja</string>
     </resources>

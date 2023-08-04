@@ -37,14 +37,6 @@
         <item quantity="other">%d Tage</item>
         <item quantity="one">%d Tag</item>
     </plurals>
-    <plurals name="delete_alarm_confirm">
-        <item quantity="other">Ausgewählte Wecker löschen?</item>
-        <item quantity="one">Diesen Wecker löschen?</item>
-    </plurals>
-    <plurals name="delete_timezone_confirm">
-        <item quantity="other">Ausgewählte Zeitzonen löschen?</item>
-        <item quantity="one">Diese Zeitzone löschen?</item>
-    </plurals>
       <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
@@ -68,17 +60,9 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
     </plurals>
-    <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$d Tage</item>
-        <item quantity="one">%1$d Tag</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="other">%d Minuten</item>
         <item quantity="one">%d Minute</item>
-    </plurals>
-    <plurals name="minute_text">
-        <item quantity="other">" Min"</item>
-        <item quantity="one">" Min"</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
@@ -116,18 +100,10 @@
         <item quantity="other">%1$s-mal ausschalten</item>
         <item quantity="one">%1$s-mal ausschalten</item>
     </plurals>
-    <plurals name="snooze_duration_desc">
-        <item quantity="other">Alle %1$s Min %2$s-mal ausschalten</item>
-        <item quantity="one">Alle %1$s Min %2$s-mal ausschalten</item>
-    </plurals>
       <plurals name="snooze_duration_min">
         <item quantity="other">Alle %1$s Min</item>
         <item quantity="one">Alle %1$s Min</item>
       </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">für %1$s Min | Wecker %2$sx auslösen</item>
-        <item quantity="one">für %1$s Min, Wecker %2$sx auslösen</item>
-    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">%d Minuten schlummern</item>
         <item quantity="one">%d Minute schlummern</item>

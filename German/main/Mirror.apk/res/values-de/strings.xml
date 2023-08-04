@@ -423,6 +423,9 @@
     <string name="settings_how_use">Übergabe verwenden</string>
     <string name="settings_log_options">Protokolle</string>
     <string name="settings_more_help">Hilfe</string>
+    <string name="settings_nfc_transfer_desc1">· Bringen Sie ein an Ihrem Xiaomi-Konto angemeldetes Telefon in die Nähe des NFC-Moduls dieses Geräts, um Bildschirminhalte zu teilen oder die im Dateimanager oder in der Galerie ausgewählten Elemente zu übertragen.</string>
+    <string name="settings_nfc_transfer_desc2">· Sie können die Liste der kompatiblen Geräte hier einsehen: %s</string>
+    <string name="settings_nfc_transfer_title">Elemente über NFC übertragen</string>
     <string name="settings_pad_handoff_title">Automatisch verbinden</string>
     <string name="settings_pc_handoff_title">Mit Computer verbinden</string>
     <string name="settings_pc_history_title">Verbindungsverlauf</string>
