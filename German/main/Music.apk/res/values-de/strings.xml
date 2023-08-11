@@ -1492,6 +1492,7 @@
     <string name="song_offline">Dieser Titel nicht mehr verfügbar</string>
     <string name="song_picker_complete">Erledigt</string>
     <string name="song_quality_category">Musik</string>
+    <string name="song_swipe_navigation">Nach links oder rechts wischen, um den Titel zu wechseln</string>
     <string name="songgroup_pick_album">Alben</string>
     <string name="songgroup_pick_playlist">Wiedergabeliste</string>
     <string name="sort_by_time">Datum</string>

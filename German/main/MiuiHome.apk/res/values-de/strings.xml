@@ -213,6 +213,7 @@
     <string name="common_home_search_delete_cancle">Abbrechen</string>
     <string name="common_home_search_delete_confirm">Entfernen</string>
     <string name="common_home_search_delete_content">Sie können die Schnellsuche nicht mehr verwenden, wenn Sie die Suchleiste von Ihrem Startbildschirm entfernen. Trotzdem entfernen?</string>
+    <string name="content_center">Inhaltsverzeichnis</string>
     <string name="content_description_button_add">Tippen, um zu aktuellen Apps hinzuzufügen</string>
     <string name="content_description_button_disable">Weitere aktuelle Apps hinzufügen nicht möglich</string>
     <string name="content_description_button_remove">Tippen, um aus aktuellen Apps zu entfernen</string>
@@ -357,6 +358,11 @@
     <string name="in_app_result_by">In-App-Ergebnisse von</string>
     <string name="install">Installieren</string>
     <string name="intelligent_exposed_button_summary_text">Smarte Vorschläge basierend auf Ihrer App-Nutzung verwenden, um Apps in vergrößerten Ordnern hervorzuheben</string>
+    <string name="international_home_pull_down_content">Auf Startbildschirm herunterwischen, um auf diesem Gerät und im Internet zu suchen.</string>
+    <string name="international_home_pull_down_sub_content">Sie können diese Geste ändern, um stattdessen das Kontrollzentrum zu öffnen: Einstellungen > Startbildschirm > Auf Startbildschirm herunterwischen.</string>
+    <string name="international_home_pull_down_up_btn_get">Verstanden</string>
+    <string name="international_home_pull_up_content">Auf Startbildschirm hochwischen, um das Inhaltsverzeichnis zu öffnen.</string>
+    <string name="international_home_pull_up_sub_content">Um die Suche zu öffnen, von der Mitte des Startbildschirms herunterwischen.</string>
     <string name="jeejen_description">Größere UI-Elemente.\nBesser zugängliche Anrufe.\nErhöhte Sicherheit.</string>
     <string name="key_shortcut_settings_title">Tastenverknüpfungen</string>
     <string name="label">Beschriftung</string>

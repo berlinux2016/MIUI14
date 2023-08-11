@@ -2686,6 +2686,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="install_sucess">%s erfolgreich installiert</string>
     <string name="install_text">Installieren</string>
     <string name="install_title">Via USB installieren</string>
+    <string name="install_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, installieren Sie das Plugin Telefontastenkomponente.</string>
+    <string name="install_tvm_component_title">Plugin Telefontastenkomponente installieren</string>
     <string name="install_type_instant">Instant-App</string>
     <string name="installing">Installieren</string>
     <string name="international_Ad">Werbung</string>
@@ -5190,8 +5192,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="storage_dialog_unmountable">^1 ist fehlerhaft.\n\nUm ^1 zu verwenden, bitte zuerst einrichten.</string>
     <string name="storage_dialog_unmounted">^1 wurde sicher entfernt, ist aber immer noch verfügbar.\n\nUm ^1 zu verwenden, bitte zuerst einhängen.</string>
     <string name="storage_dialog_unsupported">Dieses Gerät unterstützt ^1 nicht.\n\nUm ^1 mit diesem Gerät zu verwenden, müssen Sie es zuerst einrichten.</string>
-    <string name="storage_fbo_clear">FBO-Speicheraktualisierung</string>
-    <string name="storage_fbo_des">Der interne Speicher ist fragmentiert, was Ihr Gerät erheblich verlangsamen kann. Die FBO-Speicheraktualisierung funktioniert automatisch, wenn Sie das Gerät nicht verwenden. Sie organisiert Ihre Dateien physisch in die kleinste Anzahl von Fragmenten und reduziert so die Verzögerung.</string>
+    <string name="storage_fbo_clear">Speicheraktualisierung</string>
+    <string name="storage_fbo_des">Der interne Speicher ist fragmentiert, was Ihr Gerät erheblich verlangsamen kann. Speicheraktualisierung funktioniert automatisch, wenn Sie das Gerät nicht verwenden. Sie organisiert Ihre Dateien physisch in die kleinste Anzahl von Fragmenten und reduziert so die Verzögerung.</string>
     <string name="storage_fbo_number_tip">Verarbeitet am %1$s</string>
     <string name="storage_fbo_tools">Speicheroptimierung</string>
     <string name="storage_file_delete_tip">Ausgewählte Elemente dauerhaft löschen? Einige von ihnen können bei Bedarf wieder geladen werden.</string>
@@ -5814,6 +5816,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="turn_off_auto_correction">Autom. Synchronisierung ausschalten</string>
+    <string name="tvm_install_failed">Plugin installieren nicht möglich</string>
+    <string name="tvm_install_successed">Plugin erfolgreich installiert</string>
+    <string name="tvm_version_too_low">Plugin Telefontastenkomponente erst aktualisieren</string>
     <string name="two_address_choose_hint">%1$s und %2$s</string>
     <string name="type_face_condition_summary">Textgröße und Schriftgrad anpassen</string>
     <string name="unable_connect_internet">Keine Internetverbindung</string>
@@ -5843,6 +5848,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="untrust_app_perm_title">App von einer unbekannten Quelle</string>
     <string name="untrust_app_perm_warn">Diese App stammt aus einer unbekannten Quelle und stellt evtl. ein Sicherheitsrisiko dar. Sie kann die unten aufgeführten Berechtigungen verwenden, die Ihre Privatsphäre zu gefährden. Gewähren Sie diese Berechtigungen nur nach reiflicher Überlegung.</string>
     <string name="updating_diagnostic_botton">Daten analysieren…</string>
+    <string name="upgrade_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, aktualisieren Sie das Plugin Telefontastenkomponente.</string>
+    <string name="upgrade_tvm_component_title">Plugin Telefontastenkomponente aktualisieren</string>
     <string name="usage_sorted_activity_lable">Datennutzung</string>
     <string name="usage_sorted_empty_text">Leer</string>
     <string name="usage_sorted_loading_text">Einen Moment…</string>
