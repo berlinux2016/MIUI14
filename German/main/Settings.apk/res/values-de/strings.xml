@@ -3323,10 +3323,10 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="dream_preview_button_title">Vorschau</string>
     <string name="dream_setup_description">Wählen Sie aus, was auf Ihrem Bildschirm angezeigt wird, wenn Ihr Tablet angedockt ist. Ihr Gerät verbraucht ggf. mehr Energie, wenn ein Bildschirmschoner verwendet wird.</string>
     <string name="dream_setup_title">Bildschirmschoner wählen</string>
-    <string name="dsda_close_toast">Dualer aktiver Modus ist aus. Gerät neu starten, um Änderungen zu übernehmen.</string>
-    <string name="dsda_open_toast">Dualer aktiver Modus ist an. Gerät neu starten, um Änderungen zu übernehmen.</string>
+    <string name="dsda_close_toast">Dual-Aktivmodus ist aus. Gerät neu starten, um Änderungen zu übernehmen.</string>
+    <string name="dsda_open_toast">Dual-Aktivmodus ist an. Gerät neu starten, um Änderungen zu übernehmen.</string>
     <string name="dsda_switch_summary">In einer 5G-Netzwerkumgebung beiden SIM-Karten die gleichzeitige Nutzung von mobilen Daten und Anrufen erlauben</string>
-    <string name="dsda_switch_title">Dualer aktiver Modus</string>
+    <string name="dsda_switch_title">Dual-Aktivmodus</string>
     <string name="dsds_activation_failure_body_msg1">SIM-Karte herausnehmen und erneut einlegen. Wenn das Problem weiterhin besteht, starten Sie Ihr Gerät neu.</string>
     <string name="dsds_activation_failure_body_msg2">Versuchen, die SIM-Karte erneut einzuschalten. Wenn das Problem weiterhin besteht, starten Sie Ihr Gerät neu.</string>
     <string name="dsds_activation_failure_title">SIM aktivieren nicht möglich</string>
