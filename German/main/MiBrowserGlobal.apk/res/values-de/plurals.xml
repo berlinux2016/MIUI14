@@ -54,6 +54,18 @@
         <item quantity="other">Nächstes Video wird in %d Sek abgespielt</item>
         <item quantity="one">Nächstes Video wird in %d Sek abgespielt</item>
     </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Sie haben Ihr Gerät seit %d Tagen nicht mehr gescannt. Jetzt scannen?</item>
+        <item quantity="one">Sie haben Ihr Gerät seit %d Tag nicht mehr gescannt. Jetzt scannen?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">Tage</item>
+        <item quantity="one">Tag</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Sie haben Ihr Gerät seit %d Tagen nicht mehr optimiert. Jetzt optimieren?</item>
+        <item quantity="one">Sie haben Ihr Gerät seit %d Tag nicht mehr optimiert. Jetzt optimieren?</item>
+    </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s gefällt das</item>
         <item quantity="one">%s gefällt das</item>

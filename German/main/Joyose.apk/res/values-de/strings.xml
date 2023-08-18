@@ -19,7 +19,6 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="action_settings">Einstellungen</string>
     <string name="actionbar_button_up_description">Zurück</string>
-    <string name="activity_title_fakecell">Schutz vor gefälschten Basisstationen</string>
     <string name="add_Ovrride_Config">Daten hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
     <string name="booster_config_version">Aktuelle Version:</string>
@@ -32,7 +31,6 @@
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="delDialog">Warnung: Löschvorgang</string>
     <string name="delDialog_msg">Diesen Spielparameter löschen</string>
-    <string name="detect_fakecell">SMS von gefälschten Basisstationen erkennen</string>
     <string name="dynamic_fps">Leistungsmodus:</string>
     <string name="dynamic_fps_M">Gleichgewichtsmodell:</string>
     <string name="early_morning">Morgen</string>
@@ -66,8 +64,6 @@
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="forbidden_fakecell">Keine Verbindung zu gefälschten Basisstationen herstellen</string>
-    <string name="forbidden_fakecell_summary">Verhindern Sie, dass sich Ihr Telefon mit gefälschten Basisstationen verbindet</string>
     <string name="foreground_text">Nutzung von neuen Diensten zur Erhöhung der Priorität</string>
     <string name="foreground_title">Vordergrunddienste</string>
     <string name="friday">Freitag</string>
@@ -135,13 +131,11 @@
     <string name="noon">Mittag</string>
     <string name="not_resurge_title">Wiederbelebung</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="not_support_forbidden_fakecell">Ihr Gerät unterstützt keinen Chip-Level-Schutz vor gefälschten Basisstationen</string>
     <string name="open_cta">Dieser App erlauben, sich unter Sicherheit mit dem Internet zu verbinden.</string>
     <string name="package_name">Paketname:</string>
     <string name="permstep_description">Dieser App erlauben, auf Ihre Schrittzahl zuzugreifen.</string>
     <string name="permstep_label">Zugriff auf Schrittzahl</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="restart_details">Ein- und Ausschalten dieser Funktion erfordert den Neustart des Geräts. Jetzt neu starten?</string>
     <string name="restart_later">Später</string>
     <string name="restart_now">Jetzt neu starten</string>
     <string name="resurged_content">Na los!</string>
@@ -181,7 +175,6 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
-    <string name="support_forbidden_fakecell">Hinweis: Beschränkung der Verbindung auf gefälschte Basisstationen kann das Signal in Bereichen mit schlechter Abdeckung verringern.</string>
     <string name="switch_international">Auf globalen Server wechseln</string>
     <string name="switch_to_official">Auf offiziellen Server wechseln</string>
     <string name="switch_to_russia">Zum russischen Server wechseln</string>

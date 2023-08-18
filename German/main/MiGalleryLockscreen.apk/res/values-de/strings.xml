@@ -549,15 +549,15 @@ dd.MM."</string>
     <string name="pager_load_hd">Originalbild anzeigen</string>
     <string name="passport_access_denied">Zugriff verweigert</string>
     <string name="passport_account_crop_user_avatar">Foto zuschneiden</string>
-    <string name="passport_account_empty_user_name">Benutzername eingeben</string>
-    <string name="passport_account_error_all_space_user_name">Benutzername darf nicht leer sein</string>
+    <string name="passport_account_empty_user_name">Name eingeben</string>
+    <string name="passport_account_error_all_space_user_name">Name darf nicht leer sein</string>
     <string name="passport_account_error_invalid_user_name">Name darf &lt;, &gt; oder / nicht enthalten</string>
     <string name="passport_account_error_longer_user_name">Name darf max. %d Zeichen haben</string>
     <string name="passport_account_error_shorter_user_name">Name muss mehr als %d Zeichen haben</string>
     <string name="passport_account_error_user_name">Dieser Spitzname ist ungültig. Einen anderen versuchen.</string>
     <string name="passport_account_hint_text">E-Mail/Rufnummer/Xiaomi-Konto-ID</string>
     <string name="passport_account_identity_title">Verifizieren Sie Ihre Identität</string>
-    <string name="passport_account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
+    <string name="passport_account_invalid_user_avatar">Dieses Foto ist ungültig. Ein anderes versuchen.</string>
     <string name="passport_account_label">Xiaomi-Konto</string>
     <string name="passport_account_name">Konto: %1$s</string>
     <string name="passport_account_no_set">Nichts</string>
@@ -566,7 +566,7 @@ dd.MM."</string>
     <string name="passport_account_not_activated">Konto wurde nicht aktiviert</string>
     <string name="passport_account_not_actived">Ihr Konto wurde nicht aktiviert</string>
     <string name="passport_account_secure_info_pref_title">Kontodaten</string>
-    <string name="passport_account_security_info_pref_title">Sicherheitsinfos</string>
+    <string name="passport_account_security_info_pref_title">Sicherheitsinfo</string>
     <string name="passport_account_set_password">Passwort setzen</string>
     <string name="passport_account_set_password_prompt">Legen Sie das Passwort für Ihr Konto fest, um sich das nächste Mal anzumelden.</string>
     <string name="passport_account_set_password_title">Passwort setzen</string>
@@ -732,7 +732,7 @@ dd.MM."</string>
     <string name="passport_message_dialog_title">SMS mit Verifizierungscodes</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
-    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten</string>
+    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in Ihrem Browser öffnen.</string>
     <string name="passport_network_timeout">Netzwerkverbindung nicht möglich. Erneut versuchen.</string>
     <string name="passport_next">Weiter</string>

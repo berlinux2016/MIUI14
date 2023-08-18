@@ -619,12 +619,12 @@
     <string name="passport_access_denied">Zugriff verweigert</string>
     <string name="passport_account_crop_user_avatar">Foto zuschneiden</string>
     <string name="passport_account_empty_user_name">Name eingeben</string>
-    <string name="passport_account_error_all_space_user_name">Name darf nicht nur Leerzeichen enthalten</string>
+    <string name="passport_account_error_all_space_user_name">Name darf nicht leer sein</string>
     <string name="passport_account_error_invalid_user_name">Name darf kein &lt;, > oder / enthalten</string>
     <string name="passport_account_error_longer_user_name">Name darf nicht länger als %d Zeichen sein</string>
     <string name="passport_account_error_shorter_user_name">Name muss länger als %d Zeichen sein</string>
     <string name="passport_account_error_user_name">Dieser Spitzname ist ungültig. Versuchen Sie einen anderen.</string>
-    <string name="passport_account_invalid_user_avatar">Dieses Foto ist ungültig. Versuchen Sie ein anderes.</string>
+    <string name="passport_account_invalid_user_avatar">Dieses Foto ist ungültig. Ein anderes versuchen.</string>
     <string name="passport_account_name">"Konto: %1$s "</string>
     <string name="passport_account_no_set">Nichts</string>
     <string name="passport_account_none_bind_info">Nichts</string>

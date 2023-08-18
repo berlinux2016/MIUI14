@@ -179,6 +179,13 @@
     <string name="autologin_bar_login_text">Anmelden</string>
     <string name="autologin_bar_text">Anmelden als</string>
     <string name="back_description">Zurück</string>
+    <string name="back_dialog_antivirus_primary_btn">Scannen</string>
+    <string name="back_dialog_health_check_primary_btn">Optimieren</string>
+    <string name="back_dialog_storage_content">%1$s Ihres Gerätespeichers ist belegt. Jetzt löschen?</string>
+    <string name="back_dialog_storage_primary_btn">Löschen</string>
+    <string name="back_dialog_title_antivirus">Sicherheitsscan</string>
+    <string name="back_dialog_title_health_check">Gerät optimieren</string>
+    <string name="back_dialog_title_storage">Speicher verwalten</string>
     <string name="back_home">Freigabe für Startseite</string>
     <string name="batch_download">Herunterladen</string>
     <string name="batch_download_tip">Anscheinend werden mehrere Elemente gleichzeitig heruntergeladen. Diese Downloads blockieren?</string>
@@ -222,6 +229,7 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Zum Schließen hochwischen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="branch_app_suggestion">Empfohlen</string>
+    <string name="branch_app_title">Apps suchen</string>
     <string name="branch_contacts">Kontakte</string>
     <string name="branch_function_search_for_more">Mit der verbesserten Suche können Sie Elemente in Einstellungen, Kontakten, Nachrichten und mehr finden.</string>
     <string name="branch_give_relevant_permissions">Mi Browser die entsprechenden Berechtigungen in den Einstellungen erteilen</string>
@@ -430,6 +438,7 @@
     <string name="continue_reading">Weiterlesen</string>
     <string name="continue_watch_video">Weiterschauen</string>
     <string name="copy">Kopieren</string>
+    <string name="copy_success">Erfolgreich kopiert</string>
     <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="copy_url">URL kopieren</string>
     <string name="core_functions_of_browser">Die wichtigsten Funktionen auf Knopfdruck</string>
@@ -491,8 +500,19 @@
     <string name="detail_guide_tips">Hochwischen für weitere verwandte Elemente</string>
     <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen. Erneut versuchen.</string>
     <string name="diagnosis_log_sent_format">Diagnoseprotokoll wurde gesendet.\nID: %s\nBitte senden Sie diesen Code dem Techniker.</string>
+    <string name="dialog_ad_callback_cancel">Abbrechen</string>
+    <string name="dialog_ad_callback_fraud_info">Betrug oder Schwindel</string>
+    <string name="dialog_ad_callback_inappropriate_picture">Unangemessene Bilder</string>
+    <string name="dialog_ad_callback_others">Anderes</string>
+    <string name="dialog_ad_callback_title">Problem melden</string>
     <string name="dialog_channel_cancel">Abbrechen</string>
     <string name="dialog_channel_remove_content">Das Entfernen aller Kanäle entfernt auch den Inhaltsfeed.</string>
+    <string name="dialog_dislike_reason_cancel">Abbrechen</string>
+    <string name="dialog_dislike_reason_not_interested">Ich bin nicht interessiert</string>
+    <string name="dialog_dislike_reason_others">Anderer Grund</string>
+    <string name="dialog_dislike_reason_poor_quality">Schlechte Qualität</string>
+    <string name="dialog_dislike_reason_repetitive">Wiederholend</string>
+    <string name="dialog_dislike_title">Warum gefällt Ihnen diese Werbung nicht?</string>
     <string name="dialog_game_close">Abbrechen</string>
     <string name="dialog_game_play">Spielen</string>
     <string name="display__quick_entry_of_search">Funktionskürzel in der Benachrichtigungsleiste anzeigen</string>
@@ -694,8 +714,6 @@
     <string name="exo_download_paused_for_network">Downloads warten auf Netzwerk</string>
     <string name="exo_download_paused_for_wifi">Downloads warten auf WLAN</string>
     <string name="exo_download_removing">Downloads löschen</string>
-    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Abwechselnd</string>
     <string name="exo_track_role_commentary">Kommentar</string>
     <string name="exo_track_role_supplementary">Ergänzend</string>
@@ -2055,6 +2073,8 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="search_file_type_music">Musik</string>
     <string name="search_file_type_picture">Foto</string>
     <string name="search_for_anything">Nach allem suchen</string>
+    <string name="search_for_anything_test_1">Im Internet oder auf Ihrem Gerät suchen</string>
+    <string name="search_for_anything_test_2">Nach Apps und mehr suchen</string>
     <string name="search_hint">Suchen</string>
     <string name="search_menu_title">Suchen</string>
     <string name="search_settings">Sucheinstellungen</string>

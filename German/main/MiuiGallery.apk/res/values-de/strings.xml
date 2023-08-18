@@ -645,6 +645,7 @@
     <string name="creativity_title">Kreativität</string>
     <string name="crop_label">Zuschneiden</string>
     <string name="cta_agreement_declare"><Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor Sie diese App nutzen.</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">Um Lösungen für die häufigsten Probleme zu sehen, lassen Sie diese App zuerst eine Netzwerkverbindung herstellen.</string>
     <string name="cta_network_declare">Um Fotos und Videos mit der Xiaomi Cloud zu synchronisieren, benötigt diese App eine Internetverbindung.</string>
     <string name="cta_screenthrow_declare">Um den Bildschirm dieses Geräts auf externe Monitore zu übertragen, muss diese App mit dem Internet verbunden sein.</string>
     <string name="custom_select_title_deselect_all">Keine auswählen</string>
@@ -1921,7 +1922,7 @@
     <string name="passport_input_voice_hint">Sprachcode eingeben</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
-    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten</string>
+    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in Ihrem Browser öffnen.</string>
     <string name="passport_next">Weiter</string>
     <string name="passport_page_load_failed">Seite öffnen nicht möglich</string>
@@ -2220,6 +2221,7 @@
     <string name="picker_title_specify_format">%d Fotos ausgewählt</string>
     <string name="picker_title_specify_format_one">%d Foto ausgewählt</string>
     <string name="picker_title_unlimit">Foto auswählen</string>
+    <string name="picture_not_support_privacy_watermark">Wasserzeichen hinzufügen nicht möglich. Dieses Bild ist zu klein.</string>
     <string name="places_album_empty_title">Fotos können nach Standorten sortiert werden</string>
     <string name="play_gif_desc">GIF abspielen</string>
     <string name="play_video_desc">Video abspielen</string>
@@ -2451,6 +2453,7 @@
     <string name="search_clear_histories">Suchverlauf löschen</string>
     <string name="search_connection_error">Keine Netzwerkverbindung</string>
     <string name="search_connection_error_and_set">Tippen, um die Netzwerkeinstellungen zu prüfen</string>
+    <string name="search_domestic_edit_hint">Fotos und Videos suchen</string>
     <string name="search_edit_hint">Nach Dateien oder Alben suchen</string>
     <string name="search_empty_title">Finden Sie Fotos mit bestimmten Personen, Orten und Objekten in Ihrer Galerie</string>
     <string name="search_error">Ein Fehler ist aufgetreten</string>

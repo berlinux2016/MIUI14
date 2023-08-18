@@ -359,6 +359,8 @@
     <string name="pa_guide_dialog_desc">Widget gedrückt halten, um es neu anzuordnen. Auf das Plus tippen, um weitere Widgets hinzuzufügen.</string>
     <string name="pa_guide_dialog_sure">Verstanden</string>
     <string name="pa_guide_dialog_title">Besuchen Sie unseren Widget Store</string>
+    <string name="pa_global_search_description">Suchen</string>
+    <string name="pa_global_search_hint">Suchen…</string>
     <string name="pa_horizontal_center">Horizontales Layout. Zentriert ausgerichtet.</string>
     <string name="pa_horizontal_left">Horizontales Layout. Linksbündig.</string>
     <string name="pa_horizontal_right">Horizontales Layout. Rechtsbündig.</string>
