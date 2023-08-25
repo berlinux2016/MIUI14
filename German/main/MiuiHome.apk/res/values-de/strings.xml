@@ -764,6 +764,7 @@
     <string name="switch_personal_assistant_app_vault">Infoassistent</string>
     <string name="switch_personal_assistant_google">Google Assistant</string>
     <string name="switch_personal_assistant_none">Nichts</string>
+    <string name="switch_personal_assistant_summary">Auf dem Startbildschirm nach rechts wischen, um Google Discover zu öffnen</string>
     <string name="switch_screen_button_order">Tasten spiegeln</string>
     <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
     <string name="system_shortcuts_edit">Bearbeiten</string>
@@ -851,7 +852,7 @@
     <string name="uninstall_xspace_dialog_title_format">Dual \"%s\" deinstallieren</string>
     <string name="unnamed_folder_name">Unbenannter Ordner</string>
     <string name="unstable_dialog_content">Dies ist eine Vorschauversion des Android-Systemabbildes und kann sich ändern. Die Verwendung dieses Systemabbildes unterliegt dem Android SDK Preview License Agreement. Das Android-Vorschau-Systemabbild ist keine stabile Version und kann Fehler und Mängel enthalten, die zu Schäden an Ihren Computersystemen, Geräten oder Daten führen können. Das Android-Vorschau-Systemabbild unterliegt nicht den gleichen Tests wie das Werksbetriebssystem und kann dazu führen, dass dieses Gerät, installierte Dienste oder Apps nicht mehr funktionieren.</string>
-    <string name="unstable_dialog_message">Dieses Gerät ist für das Android 12 Developer Preview Program angemeldet. Das Programm ermöglicht Android-Entwicklern und -Enthusiasten, Vorabversionen von Android 12 auszuprobieren. Diese Vorabversionen können Fehler und Defekte enthalten, die die normale Funktion Ihres Geräts beeinträchtigen können.</string>
+    <string name="unstable_dialog_message">Dieses Gerät ist für das Android 14 Developer Preview Program angemeldet. Das Programm ermöglicht Android-Entwicklern und -Enthusiasten, Vorabversionen von Android 14 auszuprobieren. Diese Vorabversionen können Fehler und Defekte enthalten, die die normale Funktion Ihres Geräts beeinträchtigen können.</string>
     <string name="unstable_dialog_title">Android-Entwickler-Vorschauprogramm</string>
     <string name="upgrade_remove_small_window_in_recents">Sie können die Seitenleiste verwenden, um Apps in Popups zu öffnen</string>
     <string name="use_theme_screen_cells_title">Erlaubt dem Thema, das Bildschirmlayout zu überschreiben</string>

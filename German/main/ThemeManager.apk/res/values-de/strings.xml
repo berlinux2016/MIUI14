@@ -1256,6 +1256,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="selected_resource_file_invalid">Ausgewählte Datei fehlerhaft</string>
     <string name="send">Senden</string>
     <string name="server_internal_error">Serverfehler. Etwas warten und erneut versuchen.</string>
+    <string name="server_message">Kundendienst-Hotline: 400–100–5678</string>
     <string name="service_btn_text_know">Verstanden</string>
     <string name="service_btn_text_try">Ausprobieren</string>
     <string name="set_as_colorring">Als eigenen Rufton einstellen</string>
@@ -1713,6 +1714,10 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_settings_page_title">Hintergründe</string>
     <string name="wallpaper_share_alert">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="wallpaper_static">Statisch</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Einstellungen</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Anwenden</string>
+    <string name="warning_miui_optimization_closed_dialog_message">Anscheinend haben Sie die MIUI-Optimierung nicht aktiviert. Ohne sie wird dieses Thema beim Anwenden nicht richtig funktionieren. Sie können es trotzdem anwenden oder die MIUI-Optimierung in den Einstellungen aktivieren.</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Achtung</string>
     <string name="warning_subscribe_wallpaper_group_content">Sie haben Diashow am Startbildschirm eingeschaltet. %1$s wird am Startbildschirm angewendet.</string>
     <string name="wechat_not_found">Erst WeChat installieren</string>
     <string name="wednesday">Mittwoch</string>

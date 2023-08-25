@@ -27,6 +27,7 @@
     <string name="auto_disable_screenbuttons_ask">Auf Nachfrage deaktivieren</string>
     <string name="auto_disable_screenbuttons_auto">Immer deaktivieren</string>
     <string name="auto_disable_screenbuttons_cancel">Abbrechen</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Bildschirmtasten für %s deaktivieren?</string>
     <string name="auto_disable_screenbuttons_no">Niemals deaktivieren</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Wenn Gerät im Querformat ist, werden die Navigationstasten gesperrt</string>
     <string name="auto_disable_screenbuttons_rotation_title">Navigationstasten im Querformat sperren</string>
