@@ -165,6 +165,7 @@
     <string name="keyboard_function_summary_first_line">· Gedrückt halten, um Verknüpfungen anzuzeigen.</string>
     <string name="keyboard_function_summary_second_line">· Berühren Sie den NFC-Bereich der Tastatur mit einem Telefon, das am selben Konto angemeldet ist, um den Bildschirm zu übertragen. Wählen Sie eine Datei oder ein Foto für die einfache Übertragung zwischen Geräten.</string>
     <string name="keyboard_funtion_key">Funktionstaste</string>
+    <string name="keyboard_layout_arabic">Arabisch</string>
     <string name="keyboard_layout_default_label">Standard</string>
     <string name="keyboard_layout_dialog_setup_button">Tastaturlayout einrichten</string>
     <string name="keyboard_layout_dialog_switch_hint">Zum Umschalten STRG + Leertaste drücken</string>

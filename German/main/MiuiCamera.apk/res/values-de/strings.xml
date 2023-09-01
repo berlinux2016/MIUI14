@@ -799,6 +799,7 @@
     <string name="dialog_privacy_watermark_button_input">Eingabe</string>
     <string name="dialog_privacy_watermark_msg">Text eingeben</string>
     <string name="dialog_privacy_watermark_title">Wasserzeichenschutz</string>
+    <string name="dialog_truecolor_setting_open">Einschalten</string>
     <string name="dirty_tip_toast">Linse ist verschmutzt. Reinigen Sie sie.</string>
     <string name="disable_video_snapshot_hint">Videoschnappschuss ist aus, wenn Spezialeffekte aktiviert sind</string>
     <string name="dismiss_button_content_description">In der Nähe der Kamera</string>
@@ -1107,6 +1108,7 @@
     <string name="friend_mode_searching_tips_china">Verbinden Sie zwei Geräte mit demselben WLAN oder Hotspot und öffnen Sie Hilfskamera, um mit einem Gerät vom anderen aus Fotos zu machen.</string>
     <string name="friend_mode_select_device">Hilfsgerät wählen</string>
     <string name="friend_mode_transfer_picture">Fotos übertragen…</string>
+    <string name="frind_sign_button_accessibility">Hilfskamera ausschalten</string>
     <string name="fromkeyguard_not_permission">Um diese Funktion zu nutzen, müssen Sie Ihr Gerät zuerst entsperren.</string>
     <string name="front_camera_hint_text_confirm">Verstanden</string>
     <string name="front_camera_hint_text_place">Wenn Sie Ihr Telefon umdrehen, ist es einfacher, Selfies zu machen</string>
