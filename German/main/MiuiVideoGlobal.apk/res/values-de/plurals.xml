@@ -88,6 +88,10 @@
         <item quantity="other">%d Videos</item>
         <item quantity="one">%d Video</item>
    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Wiedergabe mit %sX Geschwindigkeit. Loslassen, um mit normaler Geschwindigkeit abzuspielen.</item>
+        <item quantity="one">Wiedergabe mit %sX Geschwindigkeit. Loslassen, um mit normaler Geschwindigkeit abzuspielen.</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d Ordner</item>
         <item quantity="one">%d Ordner</item>

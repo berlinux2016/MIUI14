@@ -127,8 +127,11 @@
     <string name="ad_floating_window_title">Popup zum Entsperren schließen</string>
     <string name="ad_split_screen_title">Zum Entsperren geteilten Bildschirm verlassen</string>
     <string name="ad_text_adx">Werbung</string>
+    <string name="ad_text_btn_cancel">Abbrechen</string>
     <string name="ad_text_btn_download">Installieren</string>
+    <string name="ad_text_btn_resume">Wiederaufnehmen</string>
     <string name="ad_text_develop">Entwickler: %1$s</string>
+    <string name="ad_text_introduce">Über</string>
     <string name="ad_text_permission">Berechtigungen</string>
     <string name="ad_text_privacy">Datenschutz </string>
     <string name="ad_update_time">Zuletzt aktualisiert: %s</string>
@@ -431,6 +434,7 @@
     <string name="app_classification_suggest_app">Vorschläge</string>
     <string name="app_error_tip_for_launcher">Ihre Gerätehardware oder die Androidversion können Kompatibilitätsprobleme verursachen und einige Apps dazu bringen, sich falsch zu verhalten, einzufrieren oder abzustürzen. Wenn Sie auf solche Probleme stoßen, senden Sie Ihr Feedback an die App-Entwickler.</string>
     <string name="app_error_tip_for_store">Ihre Gerätehardware oder die Androidversion können Kompatibilitätsprobleme verursachen, sodass einige Apps nicht installiert werden können. Wenn Sie auf solche Probleme stoßen oder einige Apps sich falsch verhalten, einfrieren oder abstürzen, warten Sie, bis die App-Entwickler Bugs behoben haben und versuchen Sie, die App erneut zu installieren.</string>
+    <string name="app_info_all_services_label">Alle Dienste</string>
     <string name="app_install_intercept">Installation blockieren</string>
     <string name="app_install_tips_go_to">Öffnen</string>
     <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
@@ -502,7 +506,7 @@
     <string name="app_manager_mobile_slot">Mobile Daten (SIM%d)</string>
     <string name="app_manager_mobile_slot1">Mobile Daten (SIM1)</string>
     <string name="app_manager_mobile_slot2">Mobile Daten (SIM2)</string>
-    <string name="app_manager_net_control_title">Datennutzung erlauben</string>
+    <string name="app_manager_net_control_title">Verbindungsmethode</string>
     <string name="app_manager_net_mobile">Mobile Daten</string>
     <string name="app_manager_net_wifi">WLAN</string>
     <string name="app_manager_not_allow">Nein</string>
@@ -532,6 +536,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_manager_reset_app_preferences_title">App-Voreinstellungen zurücksetzen?</string>
     <string name="app_manager_restricted_settings_title">Eingeschränkte Einstellungen zulassen</string>
     <string name="app_manager_search_prompt">Keine Ergebnisse gefunden? Versuchen Sie, Ergebnisse aus allen Apps anzuzeigen.</string>
+    <string name="app_manager_shortcut_manager">Verknüpfungen auf Startbildschirm verwalten</string>
     <string name="app_manager_show_all_apps">Alle Apps anzeigen</string>
     <string name="app_manager_show_all_apps_opened">Ergebnisanzeige aller Apps…</string>
     <string name="app_manager_show_detail_infos">Alle zeigen</string>
@@ -639,8 +644,15 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_statusbar_audio_now">Aufnahme</string>
     <string name="app_statusbar_camera_now">Fotografieren</string>
     <string name="app_statusbar_location_now">Positionierung</string>
+    <string name="app_usage_half_year">Letzte %d Monate</string>
+    <string name="app_usage_more_year">Vor mehr als %d Jahr/en</string>
     <string name="app_usage_never">Lange nicht verwendet</string>
+    <string name="app_usage_never_1">Niemals verwendet</string>
+    <string name="app_usage_one_day">Heute</string>
+    <string name="app_usage_one_month">Letzte %d Tage</string>
+    <string name="app_usage_one_week">Letzte %d Tage</string>
     <string name="app_usage_recently">Zuletzt verwendet</string>
+    <string name="app_usage_year">Innerhalb von %d Jahr/en</string>
     <string name="app_version">"Version: "</string>
     <string name="app_wifi">WLAN</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">%s des WeChat-Cache löschen, um Speicherplatz freizugeben</string>
@@ -1158,7 +1170,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_main_deepclean_title">Tiefenreinigung</string>
     <string name="card_main_deepclean_wechat_action">Bereinigen</string>
     <string name="card_main_deepclean_wechat_summary">WeChat Cache bereinigen, um Speicherplatz freizugeben</string>
-    <string name="card_main_deepclean_wechat_title">WeChat Cache</string>
+    <string name="card_main_deepclean_wechat_title">WeChat-Cleaner</string>
     <string name="card_main_facebookclean_title">Facebook-Cleaner</string>
     <string name="card_main_galleryclean_title">Fotos löschen</string>
     <string name="card_main_gamebooster_summary">Netzwerkstabilität erhöhen</string>
@@ -1177,6 +1189,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_main_private_space_summary">Ein Zweitprofil zu verwenden ist, als ob Sie 2 Geräte hätten</string>
     <string name="card_main_private_space_title">Zweitprofil</string>
     <string name="card_main_sectool_title">Werkzeuge</string>
+    <string name="card_main_video_manage_title">Videos verwalten</string>
     <string name="card_main_whatsappclean_title">WhatsApp-Cleaner</string>
     <string name="card_main_xspace_action">Erstellen</string>
     <string name="card_main_xspace_summary">Erstellen Sie ein zweites Konto für eine beliebige App</string>
@@ -1332,12 +1345,16 @@ Sie verlieren keine App-Daten."</string>
     <string name="cta_settings">Internetverbindung und Standortzugriff erlauben</string>
     <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Für die Verwendung der Sperrliste und Anrufe an Notfallkontakte bei Erdbebenwarnungen</string>
+    <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Zur Verwaltung der Autorisierung bei der geräteübergreifenden Identitätsüberprüfung, beim USB-Debugging und bei der Wiederherstellung des Passworts für den Datenschutz und der App-Sperre</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Zur Anzeige von blockierten Anrufen in Ihrer Anrufliste</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Zur Verwendung der Sperrliste</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Zur Erkennung des Anrufstatus bei hoher Temperatur oder niedrigem Akkustand</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Für die Verwendung der Sperrliste und die Erkennung von Nachrichten von Ihrem Anbieter</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Zur Verwendung der Sperrliste und zum Senden von Kalibrierungsmeldungen an Ihren Anbieter</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Zum Löschen von Nachrichten aus Ihrer Sperrliste</string>
+    <string name="custom_define_permission_desc_android.permission.group.SENSORS">Zum Erkennen seismischer Wellen für die Erdbebenüberwachung</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Für die Bereitstellung der für Ihren Standort relevanten Funktionen in der MIUI-Warnzentrale, Notfall-SOS, App-Stromsparen, Zahlungssicherheitsscanner und ungefähre Standortbestimmung</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Für die Audioaufnahme bei Verwendung von Game Turbo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Zum Leeren des Papierkorbs und zur Durchführung von Antiviren-Scans</string>
     <string name="customize_limit_pkg">%s (benutzerdefiniert)</string>
     <string name="customizer_mode_user_define_name">Meine Regeln</string>
@@ -1533,6 +1550,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="domestic_roaming_setting">Nationales Roaming</string>
     <string name="dont_bore">Lassen Sie sich nicht von Tasten und Benachrichtigungen ablenken</string>
     <string name="download">Herunterladen</string>
+    <string name="download_tvm_title">Telefonschlüssel-Komponenten-Plugin</string>
     <string name="downloading">Herunterladen</string>
     <string name="doze_optimization_summary">Berührungsreaktion und Empfindlichkeit erhöhen</string>
     <string name="doze_optimization_title">Berührungssteuerung optimieren</string>
@@ -1906,7 +1924,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="firewall_restrict_notify_title">%s hat keinen Internetzugriff</string>
     <string name="firewall_restrict_wlan">WLAN-Verbindung einschränken</string>
     <string name="firewall_rule_group_title_roaming">Datenroaming</string>
-    <string name="firewall_system_title">Datennutzung für System-Apps</string>
+    <string name="firewall_system_title">System-App-Verbindungen</string>
     <string name="firewall_temp_rule_reason">%2$s hat die Internetverbindung für %1$s eingeschränkt</string>
     <string name="firewall_wifi">WLAN</string>
     <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter deaktiviert ist</string>
@@ -2187,6 +2205,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_audition_play_instruction">Kopfhörer verwenden für den besten Effekt</string>
     <string name="gb_award_noti_message">Aktivieren Sie die Hintergrundaktualisierung von Game for Peace in Game Turbo, um Belohnungen zu erhalten</string>
     <string name="gb_award_noti_title">Die Game for Peace-Belohnungen sind da!</string>
+    <string name="gb_barrage_app_manger">Apps verwalten</string>
     <string name="gb_barrage_chat_desc">Glaube immer daran, dass etwas Wunderbares passieren wird</string>
     <string name="gb_barrage_chat_pre_desc">Vorschau</string>
     <string name="gb_barrage_chat_text_color">Farbe</string>
@@ -2198,6 +2217,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_barrage_chat_text_speed_moderate">Mittel</string>
     <string name="gb_barrage_chat_text_speed_slow">Langsam</string>
     <string name="gb_barrage_dnd_conflict_toast">Um Bildschirmkommentare zu verwenden, erst DND ausschalten</string>
+    <string name="gb_barrage_guide_text">Auf einen Kommentar tippen, um zu antworten oder ein Popup zu öffnen</string>
     <string name="gb_beauty_cold_light">Kalt</string>
     <string name="gb_beauty_face">Verschönern</string>
     <string name="gb_beauty_light">Licht auffüllen</string>
@@ -2482,7 +2502,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="global_satisfaction_notification_button">Bewerten</string>
     <string name="global_satisfaction_notification_channel">Umfrage zur Nutzerzufriedenheit</string>
     <string name="global_satisfaction_notification_subhead">Erzählen Sie uns von Ihrer Erfahrung</string>
-    <string name="global_satisfaction_notification_title">Bewerten Sie dieses Gerät</string>
+    <string name="global_satisfaction_notification_summary">Sagen Sie uns, was Sie von diesem Gerät halten</string>
+    <string name="global_satisfaction_notification_title">Bewerten Sie Ihre Erfahrung</string>
     <string name="global_wa_setting_alert_dialog_content">Sie können %s freigeben</string>
     <string name="gmscore_support_remind">Aktivieren Sie diese Funktion, wenn Probleme bei der Verwendung von Google Mail, Google Maps und anderen Google Apps auftreten. Die Akkudauer wird dadurch geringfügig verkürzt.</string>
     <string name="gmscore_support_service">Google Dienste</string>
@@ -2490,7 +2511,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="go_to_mi_sim">Tippen, um Mi SIM zu verwenden.</string>
     <string name="go_to_send">Zum Senden</string>
     <string name="go_to_setting_fingerprint">Einstellungen</string>
-    <string name="google_base_app_fail">Herunterladen nicht möglich. Prüfen Sie, ob Sicherheit die Internetverbindung erlaubt ist.</string>
     <string name="google_base_app_install_choice">App benötigt Google Service Framework, um richtig zu funktionieren. Jetzt herunterladen und installieren?</string>
     <string name="google_base_app_installed">Erfolgreich installiert</string>
     <string name="google_base_app_installing">Installieren…</string>
@@ -2686,7 +2706,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="install_sucess">%s erfolgreich installiert</string>
     <string name="install_text">Installieren</string>
     <string name="install_title">Via USB installieren</string>
-    <string name="install_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, installieren Sie das Plugin Telefontastenkomponente.</string>
+    <string name="install_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, installieren Sie das Plugin Telefontastenkomponente über Sicherheit.</string>
     <string name="install_tvm_component_title">Plugin Telefontastenkomponente installieren</string>
     <string name="install_type_instant">Instant-App</string>
     <string name="installing">Installieren</string>
@@ -2833,7 +2853,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="main_tc_wait_result">Auf Antwort des\nAnbieters warten</string>
     <string name="main_today_used">Heute genutzt</string>
     <string name="main_toolbar_custom_service">Kundendienst</string>
-    <string name="main_toolbar_firewall">Datennutzung einschränken</string>
+    <string name="main_toolbar_firewall">Netzwerkverbindung verwalten</string>
     <string name="main_toolbar_internet_by_mobiledata">Mobile Daten</string>
     <string name="main_toolbar_internet_by_pc_brige">USB-Internet</string>
     <string name="main_toolbar_purchase">Aufladen</string>
@@ -2938,7 +2958,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="menu_summary_antivirus">Gerät auf Viren prüfen</string>
     <string name="menu_summary_antivirus_2">Mögliche Risiken gefunden</string>
     <string name="menu_summary_antivirus_3">Gerät wurde nicht gescannt</string>
-    <string name="menu_summary_app_manager">Aktualisieren &amp; deinstallieren</string>
+    <string name="menu_summary_app_manager">App-Einstellungen verwalten</string>
     <string name="menu_summary_app_manager_2">Updates verfügbar</string>
     <string name="menu_summary_garbage_cleanup">Kein Müll gefunden</string>
     <string name="menu_summary_garbage_cleanup_2">Papierkorbgröße</string>
@@ -3490,6 +3510,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_battery_history_rank_percent_menu_item">Prozent</string>
     <string name="pc_battery_history_total_consumption_title">Gesamte Leistungsaufnahme</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
+    <string name="pc_category_charge_settings">Ladeeinstellungen</string>
     <string name="pc_close_notifi_action">Ausschalten</string>
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Stromsparen wird ausgeschaltet, wenn %1$s %2$s ist oder voll geladen</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Stromsparen eingeschaltet bei %s</string>
@@ -3529,6 +3550,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_hidemode_performance">Leistung</string>
     <string name="pc_hidemode_performance_title">Leistungsmodus</string>
     <string name="pc_hidemode_power_save">Stromsparen</string>
+    <string name="pc_hight_refresh_rate_reminder_content">Ihr Gerät verwendet eine höhere Bildwiederholrate für ein besseres Seherlebnis. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
+    <string name="pc_hight_refresh_rate_reminder_summary">Verwendung einer höheren Bildwiederholrate. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
+    <string name="pc_hight_refresh_rate_reminder_title">Video mit hoher Bildrate ansehen</string>
     <string name="pc_high_temp_protection_noti_bt_text">Verstanden</string>
     <string name="pc_high_temp_protection_noti_summary">Hotspots, mobile Daten und Standortdienste können jetzt nicht verwendet werden</string>
     <string name="pc_high_temp_protection_noti_summary2">Hotspots können jetzt nicht verwendet werden</string>
@@ -3565,6 +3589,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_smart_discharge_checkbox_title">Laden automatisch trennen</string>
     <string name="pc_smart_discharge_drop_down_title">Einstellungen automatisches Trennen</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Um den Akku zu schützen, wird der Ladevorgang bei der Verwendung von Navigations-Apps automatisch bei einem bestimmten Wert beendet</string>
+    <string name="pc_smart_discharge_protect_notifi_summary2">Um den Akku zu schützen, wird der Ladevorgang bei der Verwendung von Navigations-Apps automatisch bei einem bestimmten Wert beendet</string>
     <string name="pc_smart_discharge_protect_notifi_title">Laden automatisch trennen ist an</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d Std %2$d Min bleiben</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d Std %2$d Min seit letztem Laden</string>
@@ -4645,7 +4670,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="securityadd_update_tips_message">Aktualisieren Sie das Sicherheitsdienst-Plugin, um Zugriff auf die neuesten Gaming-Funktionen zu erhalten. %1$d MB werden heruntergeladen.</string>
     <string name="securityadd_update_tips_now">Aktualisieren</string>
     <string name="securityadd_update_tips_title">Aktualisieren</string>
-    <string name="securitycenter_tab_title">Sicherheit</string>
     <string name="see_all_app_behavior_record">Alle App-Verhaltensweisen anzeigen</string>
     <string name="see_more_content">Spiele für weitere Highlights aktualisieren</string>
     <string name="select_app_title_default">App öffnen</string>
@@ -4962,6 +4986,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="special_perm_intercept_analyze_title">Analysieren Sie Ihre Präferenzen und Ihr Verhalten</string>
     <string name="special_perm_intercept_app_msg">Inkl. Benachrichtigungen von Social Media- und Banking-Apps</string>
     <string name="special_perm_intercept_app_title">Alle Benachrichtigungen lesen</string>
+    <string name="special_perm_intercept_autostart_msg">App erlauben, jederzeit ohne Einschränkungen im Hintergrund zu starten</string>
+    <string name="special_perm_intercept_autostart_title">Unbegrenzter Autostart</string>
     <string name="special_perm_intercept_barrier_free">Eingabehilfen</string>
     <string name="special_perm_intercept_camera_msg">Jegliche Kameraaktivität einschränken</string>
     <string name="special_perm_intercept_camera_title">Kameranutzung einschränken</string>
@@ -5848,7 +5874,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="untrust_app_perm_title">App von einer unbekannten Quelle</string>
     <string name="untrust_app_perm_warn">Diese App stammt aus einer unbekannten Quelle und stellt evtl. ein Sicherheitsrisiko dar. Sie kann die unten aufgeführten Berechtigungen verwenden, die Ihre Privatsphäre zu gefährden. Gewähren Sie diese Berechtigungen nur nach reiflicher Überlegung.</string>
     <string name="updating_diagnostic_botton">Daten analysieren…</string>
-    <string name="upgrade_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, aktualisieren Sie das Plugin Telefontastenkomponente.</string>
+    <string name="upgrade_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, aktualisieren Sie das Plugin Telefontastenkomponente über Sicherheit.</string>
     <string name="upgrade_tvm_component_title">Plugin Telefontastenkomponente aktualisieren</string>
     <string name="usage_sorted_activity_lable">Datennutzung</string>
     <string name="usage_sorted_empty_text">Leer</string>
@@ -5890,11 +5916,14 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
 1. Während Sie Spiele spielen, werden alle eingehenden Anrufe auf die SIM-Karte ohne mobilen Datendienst automatisch abgewiesen.
 2. Sie sehen Benachrichtigungen über verpasste Anrufe und die andere Person hört eine Audiobotschaft, die besagt, dass Sie im Moment beschäftigt sind.
 3. Diese Funktion wird nur von Mobilfunkbetreibern in China unterstützt."</string>
+    <string name="vb_power_performance_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn der Leistungsmodus aktiviert ist</string>
+    <string name="vb_power_save_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn der Stromsparen an ist</string>
     <string name="vb_quick_func_auto_bgm">Hintergrundmusik erkennen</string>
     <string name="vb_quick_func_hangup_listening">Videoton abspielen bei ausgeschaltetem Bildschirm</string>
     <string name="vb_quick_func_screen_record">Aufnahme</string>
     <string name="vb_quick_func_screening">Übertragung</string>
     <string name="vb_settings">Einstellungen</string>
+    <string name="vb_super_power_save_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn Ultra-Stromsparen an ist</string>
     <string name="vb_ve_settings_ai_stronger">KI</string>
     <string name="vb_ve_settings_display_style_tips">*Diese Effekte werden auf den gesamten Bildschirm angewendet</string>
     <string name="vb_ve_settings_display_style_tips_new">*Effekte werden nur auf den Videowiedergabebereich angewendet</string>

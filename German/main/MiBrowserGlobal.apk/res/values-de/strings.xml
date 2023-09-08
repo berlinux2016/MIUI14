@@ -2186,6 +2186,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="sign_message">http://%s benötigt Ihren Benutzernamen und Ihr Passwort.</string>
     <string name="sign_out">Abmelden</string>
     <string name="simple_page_toast">Sie können unter Einstellungen > Startseiten-Einstellungen auf Standard umschalten</string>
+    <string name="site_content_has_update">Seiteninhalt aktualisiert</string>
     <string name="skip">Überspringen</string>
     <string name="skip_current_version">Diese Version überspringen</string>
     <string name="sku_price_everymonth">%1$s jeden Monat</string>
@@ -2365,6 +2366,9 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
+    <string name="time_segmented_evening_title">Abendliches Chillen</string>
+    <string name="time_segmented_morning_title">Guten Morgening</string>
+    <string name="time_segmented_noon_title">Nachmittagsauswahl</string>
     <string name="tip_drag">Langes Drücken zum Bearbeiten und Ziehen zum Sortieren</string>
     <string name="tip_not_support_external_sdcard_modify">Auf der SD-Karte gespeicherte Dateien können nicht bearbeitet werden</string>
     <string name="tip_sync_disabled_by_incognito">Elemente können im Inkognito-Modus nicht synchronisiert werden</string>

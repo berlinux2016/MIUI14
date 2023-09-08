@@ -97,6 +97,9 @@
     <string name="auth_fail_warning">Sitzung abgelaufen. Erneut anmelden.</string>
     <string name="auto_play_next_off">Autoplay ist aus</string>
     <string name="auto_play_next_on">Autoplay ist an</string>
+    <string name="back_recommend_exchange">Anzeigen</string>
+    <string name="back_recommend_exit">Beenden</string>
+    <string name="back_recommend_title">Weitere beliebte Videos ansehen</string>
     <string name="back_to_mainpage">Entdecken</string>
     <string name="background_playback_enabled">Hintergrundwiedergabe ist an</string>
     <string name="before_yestoday">Vor 2 Tagen</string>
@@ -625,6 +628,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="have_learned">Verstanden</string>
     <string name="hidden_channels">Folgende Kanäle werden auf der Startseite nicht angezeigt.</string>
     <string name="hide">Verbergen</string>
+    <string name="hide_video_toast">Dieses Element wurde ausgeblendet. Sie können ausgeblendete Elemente unter Lokal > Ordner > Versteckte Elemente finden und verwalten.</string>
     <string name="hint_icon_ad_title">Empfohlen</string>
     <string name="hint_in_mivideo">Sie können jetzt in der Seitenleiste nach zusätzlichen Funktionen suchen</string>
     <string name="history">Verlauf</string>
@@ -720,6 +724,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="local_hide_folder_dialog_title">Ausgeblendete Videos</string>
     <string name="local_hide_folder_setting_goto">Einstellungen</string>
     <string name="local_hide_folder_setting_tip">Sie können Ihre ausgeblendeten Videos verwalten unter Profil > Einstellungen > Ausgeblendete Videos verwalten.</string>
+    <string name="local_new_user_speed_guide">Drücken, halten und schieben, um die Wiedergabegeschwindigkeit anzupassen</string>
     <string name="local_play_end_camera_title">Weitere Videos ansehen</string>
     <string name="local_play_end_close_tip">Heute werden keine Empfehlungen mehr angezeigt</string>
     <string name="local_play_end_download_drag_up_guide">Tippen oder wischen zum Herunterladen</string>
@@ -730,6 +735,14 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="local_push_setting_power_tag">Benachrichtigungen über lokale Videos</string>
     <string name="local_push_title">Heute beliebt</string>
     <string name="local_push_video_title">Nach neuen lokalen Videos suchen</string>
+    <string name="local_reset_confirm">Erneut eingeben</string>
+    <string name="local_reset_error_dif_info">Neue PIN kann nicht dieselbe wie die alte sein</string>
+    <string name="local_reset_error_wrong_info">PINs stimmen nicht überein. Erneut versuchen.</string>
+    <string name="local_reset_new_password">Neue PIN eingeben</string>
+    <string name="local_reset_old_password">Aktuelle PIN eingeben</string>
+    <string name="local_reset_password_done">PIN erfolgreich geändert</string>
+    <string name="local_reset_password_title">PIN ändern</string>
+    <string name="local_reset_tips">%d-stellige PIN eingeben</string>
     <string name="local_stretch_zoom_mode">Bild ist gestreckt</string>
     <string name="local_subtitle_choose_language_text">Sprache</string>
     <string name="local_subtitle_exemption_hint">Nach Untertiteln suchen auf opensubtitle.org</string>

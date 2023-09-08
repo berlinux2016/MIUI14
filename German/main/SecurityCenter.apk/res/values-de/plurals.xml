@@ -133,6 +133,10 @@
         <item quantity="other">Updates für %d Apps sind verfügbar</item>
         <item quantity="one">Updates für %d App sind verfügbar</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">%d Apps aktualisieren</item>
+        <item quantity="one">%d App aktualisieren</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Vor %d Tagen verwendet</item>
         <item quantity="one">Gestern verwendet</item>

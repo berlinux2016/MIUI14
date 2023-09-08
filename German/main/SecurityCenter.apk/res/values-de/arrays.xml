@@ -206,29 +206,15 @@
         <item>Datennutzung</item>
         <item>Telefonguthaben</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Nach Status sortieren</item>
+    <string-array name="sort_title_new">
         <item>Nach App-Name sortieren</item>
-        <item>Nach Nutzungshäufigkeit sortieren</item>
+        <item>Nach zuletzt verwendet sortieren</item>
         <item>Nach genutztem Speicher sortieren</item>
         <item>Nach Installationszeitpunkt sortieren</item>
     </string-array>
-    <string-array name="sort_title_new">
-        <item>Nach App-Name sortieren</item>
-        <item>Nach Nutzungshäufigkeit sortieren</item>
-        <item>Nach Speicherverwendung sortieren</item>
-        <item>Nach Installationszeit sortieren</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Status</item>
-        <item>App-Name</item>
-        <item>Nutzungshäufigkeit</item>
-        <item>Genutzter Speicher</item>
-        <item>Installationszeitpunkt</item>
-    </string-array>
     <string-array name="sort_type_new">
         <item>App-Name</item>
-        <item>Nutzungshäufigkeit</item>
+        <item>Kürzlich verwendet</item>
         <item>Speicherverwendung</item>
         <item>Installationszeit</item>
     </string-array>
