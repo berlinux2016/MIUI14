@@ -200,6 +200,7 @@
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Installationsstatus: %3$s. Die Taste \"Wechseln\" ist unten.\nDoppeltipp zum Wechseln.</string>
     <string name="pa_accessibility_picker_home_widget_slected">%1$s, %2$s, Installationsstatus: %3$s\nDoppeltipp für Details.\nDoppeltipp und halten zum Verschieben.</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">%1$s, %2$s, Installationsstatus: %3$s.\nDoppeltipp, um Details anzuzeigen.</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">%1$s, %2$s, Installationsstatus: %3$s.\nDoppeltipp, um Details anzuzeigen.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">%1$s, Zeile %2$d, Nr. %3$d.\nDoppeltipp, um Details anzuzeigen.</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Themen öffnen</string>
     <string name="pa_accessibility_picker_search_cancel">Widget-Suchleiste. Doppeltipp zum Abbrechen.</string>
@@ -418,9 +419,11 @@
     <string name="pa_picker_detail_add_maml_net_unavailable">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="pa_picker_detail_add_to_home">Zum Startbildschirm hinzufügen</string>
     <string name="pa_picker_detail_add_to_minus">Zu Infoassistent hinzufügen</string>
+    <string name="pa_picker_detail_add_to_stack">Zur Gruppe hinzufügen</string>
     <string name="pa_picker_detail_add_widget_success">Erfolgreich hinzugefügt</string>
     <string name="pa_picker_detail_app_not_in_market">Diese App bietet derzeit keine Widgets an</string>
     <string name="pa_picker_detail_app_not_off_shelf">Widgets dieser App sind nicht mehr verfügbar</string>
+    <string name="pa_picker_detail_app_widget_in_dev">Dieses Widget ist noch nicht verfügbar. Sie können sich stattdessen andere Widgets ansehen.</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Startbildschirm</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Infoassistent</string>
     <string name="pa_picker_detail_bottom_bt_text">Zu %s hinzufügen</string>
@@ -457,6 +460,7 @@
     <string name="pa_picker_detail_theme_app_cta_pre">"Um dieses Widget zu verwenden, müssen Sie Themen zunächst eine Internetverbindung herstellen lassen. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Anmelden</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Melden Sie sich erst bei Ihrem Xiaomi Konto an. "</string>
+    <string name="pa_picker_detail_view_more">Mehr anzeigen</string>
     <string name="pa_picker_detail_vp2_indicator">Seite %1$d von %2$d ausgewählt</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Dieses Element wird über WLAN heruntergeladen</string>
     <string name="pa_picker_empty">Widgets sind in dieser Version der App nicht verfügbar. n\Bleiben Sie dran!</string>
@@ -504,6 +508,8 @@
     <string name="pa_picker_search_result_empty">Keine Ergebnisse gefunden</string>
     <string name="pa_picker_search_result_type_recommend">Empfohlen</string>
     <string name="pa_picker_search_result_type_suit">Widget-Sets</string>
+    <string name="pa_picker_stack_operate_empty_title">Hier ist noch nichts.\nWidgets hinzufügen, um loszulegen.</string>
+    <string name="pa_picker_stack_operate_title">Gruppe bearbeiten</string>
     <string name="pa_picker_suit_list_activity_title">Personalisierungspakete</string>
     <string name="pa_picker_tab_title_category">Kategorien</string>
     <string name="pa_picker_tab_title_fun">Entdecken</string>
@@ -511,6 +517,7 @@
     <string name="pa_picker_theme_app_version_error">Ein Fehler ist aufgetreten</string>
     <string name="pa_picker_tips_count_limit_forbidden">Zu Infoassistent können keine weiteren Widgets hinzugefügt werden. Ältere Widgets löschen, um neue hinzuzufügen.</string>
     <string name="pa_picker_toast_add_successfully">Erfolgreich hinzugefügt</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Bis zu 10 Elemente hinzufügen</string>
     <string name="pa_picker_toast_count_limit_forbidden">Weitere Widgets hinzuzufügen nicht möglich</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Keine weiteren Widgets dieses Typs hinzufügen möglich</string>
     <string name="pa_picker_toast_count_limit_warning">Erfolgreich hinzugefügt. Beachten Sie, dass zu viele Widgets am Startbildschirm Ihr Gerät verlangsamen können.</string>
@@ -667,6 +674,8 @@
     <string name="pa_sports_unstalled_tip_hupu">Erst Hupu installieren</string>
     <string name="pa_sports_widget_empty_football">Fußball</string>
     <string name="pa_sports_widget_empty_recommend">Empfohlen</string>
+    <string name="pa_stack_summary">Widgets mit neuen Infos nach oben schieben</string>
+    <string name="pa_stack_text">Aktualisierte Elemente nach oben schieben</string>
     <string name="pa_stock_add_stock_button">Hinzufügen</string>
     <string name="pa_stock_change_cp_code_alert">Dieser Vorgang kann dazu führen, dass die Daten nicht richtig angezeigt werden.</string>
     <string name="pa_stock_change_cp_code_error">Datenquelle wechseln nicht möglich</string>
@@ -709,7 +718,10 @@
     <string name="pa_vertical_right">Vertikales Layout. Rechtsbündig.</string>
     <string name="pa_widget_advert_loading_dialog_message">Einen Moment…</string>
     <string name="pa_widget_menu_edit">Bearbeiten</string>
+    <string name="pa_widget_menu_edit_card_in_stack">\"%s\" bearbeiten</string>
+    <string name="pa_widget_menu_edit_stack">Gruppe bearbeiten</string>
     <string name="pa_widget_menu_remove">Entfernen</string>
+    <string name="pa_widget_menu_remove_card_in_stack">\"%s\" entfernen</string>
     <string name="pa_widget_menu_replace">Wechseln</string>
     <string name="pa_widget_need_download_dialog_cancel">Abbrechen</string>
     <string name="pa_widget_need_download_dialog_message_install">Um Widgets zu verwenden, zuerst \"%s\" installieren.</string>
