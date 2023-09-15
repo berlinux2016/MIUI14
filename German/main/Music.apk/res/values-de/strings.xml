@@ -555,8 +555,9 @@
     <string name="friday_shortest">F</string>
     <string name="gcm_fallback_notification_channel_label">Sonstiges</string>
     <string name="get_more_favorite_content_after_login">Anmelden, um weitere Titel und Videos zu entdecken</string>
-    <string name="get_one_day_vip">Sie haben %d-Tag/es VIP!</string>
-    <string name="get_one_hour_vip">Sie haben %d-Stunde/n VIP!</string>
+    <string name="get_one_day_vip">Sie haben %d-Tag VIP!</string>
+    <string name="get_one_hour_vip">Sie haben %d-Stunde VIP!</string>
+    <string name="get_one_minute_vip">Sie haben %d-Minute VIP verdient!</string>
     <string name="get_ph_ticket">Code abrufen</string>
     <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Xiaomi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_vip">VIP erhalten</string>
@@ -975,8 +976,9 @@
     <string name="offline_opt_in_decline">Nein danke</string>
     <string name="offline_opt_in_message">Wir schicken Ihnen eine Link-Benachrichtigung zur Webseite des Inserenten.</string>
     <string name="offline_opt_in_title">Werbung öffnen, wenn Sie wieder online sind.</string>
-    <string name="one_day_vip">%d-Tag/es VIP</string>
-    <string name="one_hour_vip">%d-Stunde/n VIP</string>
+    <string name="one_day_vip">%d-Tags VIP</string>
+    <string name="one_hour_vip">%d-Stunde VIP</string>
+    <string name="one_minute_vip">%d-Minute VIP</string>
     <string name="online_apk_acquired">%d%% geladen</string>
     <string name="online_apk_acquiring">Laden… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Download wegen zu wenig Speicher nicht möglich</string>
@@ -1345,6 +1347,7 @@
     <string name="retry_after_network_available">Keine Netzwerkverbindung. Prüfen Sie Ihre Datenverbindung und versuchen Sie es erneut.</string>
     <string name="retry_download">Wiederholen</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Online-Titel werden nicht mit Hungama synchronisiert</string>
+    <string name="reward_received">Sie haben sich eine VIP-Mitgliedschaft verdient!</string>
     <string name="ringtone_editing">Klingeltoneditor</string>
     <string name="ringtone_not_support">Audioformat wird nicht unterstützt</string>
     <string name="ringtone_selected">Ausgewählt</string>
@@ -1451,6 +1454,7 @@
     <string name="similar_songs">Ähnliche Titel</string>
     <string name="similar_videos">Ähnliche Videos</string>
     <string name="skip">Überspringen</string>
+    <string name="skip_ad">Überspringen</string>
     <string name="sleep_mode">Schlummerfunktion</string>
     <string name="sleep_mode_canceled">Schlummerfunktion ausgeschaltet</string>
     <string name="sleep_mode_summary">Player nach einer bestimmten Zeit schließen</string>
@@ -1693,6 +1697,7 @@
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="v_code_title">Verifizierungscode eingeben</string>
+    <string name="video_loading_fail">Video wurde nicht geladen</string>
     <string name="video_play_cellular">Ihr Gerät ist nicht mit WLAN verbunden. Mobile Daten verwenden?</string>
     <string name="video_replay_btn">Erneut abspielen</string>
     <string name="video_retry_btn">Erneut versuchen</string>
@@ -1701,6 +1706,8 @@
     <string name="vip_required_with_song">%s ist nur für Gold-Mitglieder verfügbar. Titel wurde vorerst übersprungen.</string>
     <string name="voice_search_first_hint">Sprachsuche ausprobieren!</string>
     <string name="watch_video">Video ansehen</string>
+    <string name="web_reward_dialog_cancle">Abbrechen</string>
+    <string name="web_reward_dialog_ok">Beenden</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
@@ -1716,11 +1723,6 @@
     <string name="whitelist_title">Dateiausnahmen</string>
     <string name="wifi_required_body" formatted="false">Mit WLAN verbinden, um diesen %s-Download abzuschließen.\n%s antippen, um den Download zu starten, sobald Sie mit WLAN verbunden sind.</string>
     <string name="wifi_required_title">Sie sollten sich mit WLAN verbinden, um diese Datei herunterzuladen.</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Downloadmanager fehlgeschlagen, bitte prüfen Sie den Status des Downloadmanagers im App-Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">Vorstellung der Version %1$s\nGröße: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">Vorstellung der Version %1$s\nGröße Delta-Update: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte prüfen Sie die SD-Karte</string>
     <string name="yesterday">Gestern</string>
     <string name="you_can_switch_mode_in_settings">In Einstellungen können Sie zwischen den Modi wechseln</string>
     <string name="you_may_like">Das könnte Ihnen auch gefallen</string>
@@ -1738,4 +1740,6 @@
     <string name="youtube_share_guide_tip">Sie können jetzt Videos mit Freunden teilen</string>
     <string name="youtube_tab_explore">Entdecken</string>
     <string name="youtube_tab_playlist">Wiedergabelisten</string>
+    <string name="youtube_tab_shorts">Kurzvideos</string>
+    <string name="youtube_tab_trend">Trends</string>
 </resources>

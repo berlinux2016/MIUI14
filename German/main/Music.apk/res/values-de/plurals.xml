@@ -208,6 +208,10 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="other">%d Follower</item>
         <item quantity="one">%d Follower</item>
     </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">VIP-Mitgliedschaft in %d Sek</item>
+        <item quantity="one">VIP-Mitgliedschaft in %d Sek</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d Titel senden</item>
         <item quantity="one">%d Titel senden</item>
@@ -239,6 +243,10 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">Noch %d Tage</item>
         <item quantity="one">Noch %d Tag</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">Wenn Sie %d Sek zusehen, erhalten Sie eine VIP-Mitgliedschaft als Belohnung. Trotzdem beenden?</item>
+        <item quantity="one">Wenn Sie %d Sek zusehen, erhalten Sie eine VIP-Mitgliedschaft als Belohnung. Trotzdem beenden?</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">%d Dateien hinzugefügt</item>
