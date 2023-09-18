@@ -34,10 +34,10 @@
     <string name="auto_disable_screenbuttons_summary">Bei bestimmten Apps Navigationstasten automatisch deaktivieren. Zweimal antippen, um die Tasten wieder zu aktivieren.</string>
     <string name="auto_disable_screenbuttons_title">Navigationstasten automatisch deaktivieren</string>
     <string name="back_button">Zurück</string>
-    <string name="back_double_tap">Doppeltipp zurück</string>
+    <string name="back_double_tap">Doppeltipp Rückseite</string>
     <string name="back_key">Zurück</string>
-    <string name="back_tap">Zurück tippen</string>
-    <string name="back_triple_tap">Dreifachtipp zurück</string>
+    <string name="back_tap">Rückseite antippen</string>
+    <string name="back_triple_tap">Dreifachtipp Rückseite</string>
     <string name="bt_enable_pair_connect_cancel">Abbrechen</string>
     <string name="bt_enable_pair_connect_fail">Verbinden fehlgeschlagen. Erenut versuchen.</string>
     <string name="bt_enable_pair_connect_line">Xiaomi Pad-Tastatur</string>
