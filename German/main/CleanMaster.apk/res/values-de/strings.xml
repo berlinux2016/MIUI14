@@ -132,6 +132,7 @@
     <string name="auto_clean_trigger_percent_sixty">Wenn 60% belegt sind</string>
     <string name="auto_cleaner_open">Einschalten</string>
     <string name="back">Zurück</string>
+    <string name="be_figuring">Berechnung…</string>
     <string name="browser_scan_history_desc">Browser-Verlauf</string>
     <string name="browser_search_history_desc">Gesuchte Elemente</string>
     <string name="btn_text_done">Fertig</string>
@@ -268,6 +269,7 @@
     <string name="dc_item_title_wechat_chat">WeChat-Verlauf löschen</string>
     <string name="dc_storage_cleaned">%s freigeben</string>
     <string name="dc_storage_info">%1$s | %2$s</string>
+    <string name="dc_storage_info_new">%1$s verfügbar</string>
     <string name="deep_clean_completed_tips">Erfolgreich bereinigt</string>
     <string name="deep_clean_data_path_clean_title">Internen Speicher bereinigen</string>
     <string name="deep_clean_uninstall_completed_tips">Erfolgreich deinstalliert</string>

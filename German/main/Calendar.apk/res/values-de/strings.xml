@@ -479,7 +479,7 @@
     <string name="gas_detail_title">Gaszahlung</string>
     <string name="gas_event_delete_successfully">Gasrechnung erfolgreich gelöscht</string>
     <string name="gas_interval_label">Abrechnungszeitraum</string>
-    <string name="glance_card_sub_title">Erhalten Sie spannende Geschichten mit jeder Freischaltung</string>
+    <string name="glance_card_sub_title">Erhalten Sie spannende Geschichten auf dem Sperrbildschirm</string>
     <string name="global_action_text_card_manager">Weitere Kategorien</string>
     <string name="global_cricket_no_match">Heute stehen keine Cricket-Matches an. Sehen Sie an anderen Tagen nach.</string>
     <string name="global_football_final">Finale</string>

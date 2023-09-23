@@ -310,6 +310,7 @@
     <string name="backup_automatically_title">Automatisch synchronisieren</string>
     <string name="backup_battery_low_desc">Sie können nach wie vor Inhalte zur Synchronisation auswählen</string>
     <string name="backup_battery_low_title">Sicherung wegen niedrigem Ladestand angehalten</string>
+    <string name="backup_category_title">SICHERUNG</string>
     <string name="backup_close">Backup schließen</string>
     <string name="backup_cloud_space_low_btn_text">Mehr erhalten</string>
     <string name="backup_cloud_space_low_desc">%1$s auf Xiaomi Cloud | Verfügbar %2$s</string>
@@ -325,7 +326,10 @@
     <string name="backup_dirty_num">Gesamt: %s</string>
     <string name="backup_dirty_tip">Nicht gesicherte Fotos und Videos</string>
     <string name="backup_disable_message">Galerie muss den App-Cache löschen, weil Sie die Synchronisierung mit der Cloud deaktiviert haben.</string>
+    <string name="backup_display">Speichererinnerung</string>
     <string name="backup_file_over_size_desc">Fotos die größer als %1$s und Videos die größer als %2$s sind, können nicht gesichert werden.</string>
+    <string name="backup_google_description">Schützen Sie Ihre Fotos, indem Sie sie in Ihrem Google-Konto sichern</string>
+    <string name="backup_google_name">Google Fotos</string>
     <string name="backup_immediately">Sichern</string>
     <string name="backup_need_sync_desc">Taste antippen, um fortzufahren</string>
     <string name="backup_need_sync_title">Sicherung angehalten</string>
@@ -335,6 +339,8 @@
     <string name="backup_no_wifi_btn_text">Daten verwenden</string>
     <string name="backup_no_wifi_desc">Sie können Daten auch über die mobile Datenverbindung sichern</string>
     <string name="backup_no_wifi_title">Tippen, um WLAN einzuschalten</string>
+    <string name="backup_off_des">Aktivieren Sie die Synchronisation mit der Cloud, um Fotos und Videos automatisch zu sichern</string>
+    <string name="backup_onedrive_description">Schützen Sie Ihre Fotos in der Cloud und greifen Sie mit jedem Gerät darauf zu</string>
     <string name="backup_only_in_wifi">Nur WLAN verwenden, um Fotos und Videos zu synchronisieren</string>
     <string name="backup_only_in_wifi_summary">Niemals mobile Daten verwenden, um Fotos und Videos zu synchronisieren</string>
     <string name="backup_only_wifi_dialog_message">Mobile Daten verwenden, um Fotos und Videos zu synchronisieren?</string>
@@ -1196,6 +1202,8 @@
     <string name="get_user_info_edit_text_hint">Telefon/E-Mail/Xiaomi-Konto</string>
     <string name="get_user_info_failed_hint">Diese Person wurde nicht gefunden</string>
     <string name="get_user_info_top_hint_text">Über Xiaomi-Konto einladen</string>
+    <string name="global_cloud_action_upgrade_onedrive">OneDrive upgraden</string>
+    <string name="global_cloud_full_space_tip_message">Erweitern Sie Ihren Cloud-Speicher, damit Sie alle Ihre Fotos und Videos in der Cloud sichern können.</string>
     <string name="global_pad">Mein Tablet</string>
     <string name="global_pc">Mein Laptop</string>
     <string name="global_phone">Mein Telefon</string>
@@ -1788,6 +1796,7 @@
     <string name="online_video_vip_tip">Werden Sie VIP-Mitglied, um Videos zu streamen, ohne sie vollständig vorzuladen</string>
     <string name="online_video_vip_transcoding">Gleich beginnt das VIP-Streaming…\nUmwandlung kann einige Zeit in Anspruch nehmen, wenn Sie diese Funktion zum ersten Mal verwenden.</string>
     <string name="open">Einschalten</string>
+    <string name="open_backup">Einschalten</string>
     <string name="open_public_message">Link erstellen und an andere senden</string>
     <string name="open_public_title">Freigeben</string>
     <string name="open_settings">Einstellungen</string>
@@ -2534,6 +2543,7 @@
     <string name="see_ignore_faces">Ignorierte Personen anzeigen</string>
     <string name="see_more_settings">Zusätzliche Einstellungen</string>
     <string name="select_all">Alle auswählen</string>
+    <string name="select_backup">Sicherung wählen</string>
     <string name="select_image_operation">Fotos hinzufügen</string>
     <string name="select_item_face">"Ist das '%s'?"</string>
     <string name="select_origin_tip">Originaldatei (%s)</string>

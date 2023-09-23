@@ -9806,7 +9806,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="system_navigation_title">Systemnavigation</string>
     <string name="system_package">Systemupdates können nicht auf externen Datenträgern installiert werden</string>
     <string name="system_print_service_help">Über Drucken</string>
-    <string name="system_shortcut_wake">Aufwecken mit Tastenkombinationen</string>
+    <string name="system_shortcut_wake">Aufwecken m. Tastenkombination</string>
     <string name="system_storage">Systemspeicher</string>
     <string name="system_touch">Haptisches Feedback</string>
     <string name="system_ui_settings">SystemUI Tuner anzeigen</string>

@@ -54,6 +54,7 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="ad_close">Schließen</string>
     <string name="ad_data_exception">Datenfehler</string>
+    <string name="ad_flag_text">WERBUNG</string>
     <string name="ad_recommend">Werbung anzeigen</string>
     <string name="ad_setting">Zusätzliche Einstellungen</string>
     <string name="add">Hinzufügen</string>
