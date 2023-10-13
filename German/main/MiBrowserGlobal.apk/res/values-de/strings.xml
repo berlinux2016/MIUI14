@@ -250,12 +250,16 @@
     <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z. B. Suchen oder Einkäufe).</string>
     <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
     <string name="browser_wallpaper">Hintergründe</string>
+    <string name="browser_wallpaper_activity">Werbeaktionen</string>
     <string name="browser_wallpaper_application">Anwenden</string>
     <string name="browser_wallpaper_art">Kunst</string>
     <string name="browser_wallpaper_currently_in_use">Angewendet</string>
+    <string name="browser_wallpaper_gallery">Meine Fotos</string>
     <string name="browser_wallpaper_landscape">Szenerie</string>
     <string name="browser_wallpaper_more_btn">Mehr anzeigen</string>
+    <string name="browser_wallpaper_my">Meine Hintergründe</string>
     <string name="browser_wallpaper_preview">Vorschau</string>
+    <string name="browser_wallpaper_sub">Erhalten Sie Empfehlungen für Feiertagsthemen und besondere Hintergründe</string>
     <string name="browser_wallpaper_subtitle">Mi Browser mit schönen Hintergründen personalisieren</string>
     <string name="browser_wallpaper_system_default">Standard</string>
     <string name="browser_wallpaper_title">Hintergründe</string>
@@ -2200,6 +2204,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="skip_current_version">Diese Version überspringen</string>
     <string name="sku_price_everymonth">%1$s jeden Monat</string>
     <string name="slide_card">Wischen für mehr</string>
+    <string name="slide_next_video_text">"Nächstes Video: "</string>
     <string name="smart_subtitle">Erhalten Sie eine KI-generierte Zusammenfassung des Artikelinhalts, um die wichtigsten Punkte auf einen Blick zu sehen.</string>
     <string name="smart_summary">Smarte Zusammenfassung</string>
     <string name="sms_send_success">Erfolgreich gesendet</string>

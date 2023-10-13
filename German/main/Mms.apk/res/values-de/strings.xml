@@ -37,7 +37,9 @@
     <string name="add_smiley">Smiley</string>
     <string name="add_timing">Zeitplan</string>
     <string name="add_to_block_by_number">%s zur Sperrliste hinzugefügt</string>
+    <string name="add_to_block_by_number_failed">%s wurde nicht zur Sperrliste hinzugefügt.\nErneut versuchen.</string>
     <string name="add_to_block_by_tag">Nachrichten, die \"%s\" enthalten, zur Sperrliste hinzugefügt</string>
+    <string name="add_to_block_by_tag_failed">Nachrichten, die \"%s\" enthalten, wurden nicht zur Sperrliste hinzugefügt.\nErneut versuchen.</string>
     <string name="add_to_browser_favorite_failed">Fehlgeschlagen</string>
     <string name="add_to_browser_favorite_success">Erfolgreich hinzugefügt</string>
     <string name="add_video">Video hinzufügen</string>
@@ -113,6 +115,7 @@
     <string name="click_to_update">Tippen, um nach Updates zu suchen</string>
     <string name="click_to_view">Tippen zum Anzeigen</string>
     <string name="close">Schließen</string>
+    <string name="cloud_space_not_enough">Cloud-Speicher voll. Aktualisieren Sie Ihre Mitgliedschaft, um die neuesten Elemente zu synchronisieren.</string>
     <string name="cloud_state_disabled">Synchronisierung mit der Cloud einschalten, um Nachrichten zu synchronisieren</string>
     <string name="cm_privacy_dialog_allow">Zustimmen</string>
     <string name="cm_privacy_dialog_cancel">Abbrechen</string>
@@ -164,6 +167,8 @@
     <string name="converting_to_text_message">In SMS umwandeln…</string>
     <string name="converting_vcard_failed">Kontakt wurde nicht konvertiert</string>
     <string name="copy">Kopieren</string>
+    <string name="copy_message">Kopieren</string>
+    <string name="copy_message_success">Erfolgreich kopiert</string>
     <string name="copy_message_text">Text kopieren</string>
     <string name="copy_message_text_success">Erfolgreich kopiert</string>
     <string name="copy_to_sdcard">Anhang speichern</string>
@@ -176,9 +181,10 @@
     <string name="debug_about_mms">Über MMS</string>
     <string name="debug_category_db">Datenbank</string>
     <string name="debug_category_others">Anderes</string>
-    <string name="debug_close_success">Debug nicht verfügbar</string>
-    <string name="debug_enable_success">Debug verfügbar</string>
+    <string name="debug_close_success">Debuggen nicht verfügbar</string>
+    <string name="debug_enable_success">Debuggen verfügbar</string>
     <string name="debug_export_db">Datenbank exportieren</string>
+    <string name="debug_title">Debuggen</string>
     <string name="delete">Löschen</string>
     <string name="delete_block_conversation">Diese Unterhaltung löschen</string>
     <string name="delete_bookmark">Aus Favoriten entfernen</string>
@@ -198,7 +204,7 @@
     <string name="dialog_complain_tips">Nachrichten die Netzwerkverbindung erlauben, um Elemente zu melden</string>
     <string name="dialog_message_correct_as_ad">Alle Nachrichten von %s (außer Verifizierungscodes) werden als Werbung festgelegt.</string>
     <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Rufnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
-    <string name="dialog_message_mx">Mi Message erlaubt Ihnen, Nachrichten an andere MIUI-Benutzer zu senden, ohne dass Ihnen Kosten entstehen. Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht Kosten in Rechnung stellen. Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie Mi Message nutzen können.</string>
+    <string name="dialog_message_mx">Mi Message erlaubt Ihnen, Nachrichten an andere Xiaomi-Benutzer zu senden, ohne dass Ihnen Kosten entstehen. Für die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen für diese Nachricht Kosten in Rechnung stellen. Sie müssen unsere %1$s und %2$s akzeptieren, bevor Sie Mi Message nutzen können.</string>
     <string name="dialog_quit">Beenden</string>
     <string name="dialog_revoke">Widerrufen</string>
     <string name="dialog_sim_locked_message">Ihre SIM-Karte ist mit diesem Telefon nicht voll funktionsfähig, da sie nicht den Bedingungen Ihres Abonnements entspricht. Wenn Sie Fragen haben oder weitere Informationen zu diesem Thema benötigen, wenden Sie sich bitte an die Xiaomi-Servicezentren oder den Shop, der Ihnen Produkte verkauft hat.</string>
@@ -244,6 +250,7 @@
     <string name="expire_on">Ablaufdatum: %s</string>
     <string name="exporting_progress_private_message">Exportieren…</string>
     <string name="fail_to_add_attachment">Anhang wurde nicht hinzugefügt</string>
+    <string name="fail_to_add_image">Kein Zugriff auf kopierte Elemente</string>
     <string name="fail_to_view_attachment">Anhang nicht verfügbar</string>
     <string name="failed_to_add_media">%1$s wurde nicht zur Nachricht hinzugefügt</string>
     <string name="failed_to_resize_image">Bildgröße nicht angepasst</string>
@@ -483,8 +490,8 @@
     <string name="mx_btn_enable_now">Einschalten</string>
     <string name="mx_count_dspt">Sie haben %1$d SMS und %2$d MMS kostenlos gesendet</string>
     <string name="mx_current_status">Einstellungen</string>
-    <string name="mx_dspt">Senden Sie kostenlos SMS und MMS an andere MIUI-Benutzer, wenn Sie mit WLAN verbunden sind.</string>
-    <string name="mx_dspt_listview">Senden Sie kostenlos Nachrichten an andere MIUI-Benutzer.</string>
+    <string name="mx_dspt">Senden Sie kostenlos SMS und MMS an andere Xiaomi-Geräte, wenn Sie mit WLAN verbunden sind.</string>
+    <string name="mx_dspt_listview">Senden Sie kostenlos Nachrichten an andere Xiaomi-Geräte.</string>
     <string name="mx_dspt_provision_ex2">Datenschutzerklärung</string>
     <string name="mx_filter_message_from_stranger">Mi-Nachrichten von unbekannten Nummern blockieren</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Sie können weiterhin normale SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Mi Message &gt; Einstellungen ein-/ausschalten.</string>
@@ -810,8 +817,8 @@
     <string name="recipients_contain_sub_sim_number">Anscheinend gibt es eine 2. SIM-Nummer unter den Empfängern. Senden Sie diese Nachricht mit der sekundären SIM-Karte.</string>
     <string name="recipients_over_size">Zu viele Empfänger</string>
     <string name="recommend_bar_cancel">Ignorieren</string>
-    <string name="recommend_bar_message_mx">Mit Mi Message können Sie Nachrichten kostenlos an andere MIUI-Geräte senden.</string>
-    <string name="recommend_bar_message_mx_rcs">Mit Mi Message können Sie Nachrichten kostenlos an andere MIUI-Geräte und China Mobile-Benutzer senden.</string>
+    <string name="recommend_bar_message_mx">Mit Mi Message können Sie Nachrichten kostenlos an andere Xiaomi-Benutzer senden.</string>
+    <string name="recommend_bar_message_mx_rcs">Mit Mi Message können Sie Nachrichten kostenlos an andere Xiaomi-Benutzer und China Mobile-Benutzer senden.</string>
     <string name="recommend_bar_message_rcs">China Mobile Messaging erlaubt Ihnen, Nachrichten kostenlos an andere Benutzer zu senden.</string>
     <string name="recommend_bar_message_smart_message">Einmalpasswörter kopieren, Pakete verfolgen, smarte Menüs verwenden und mehr</string>
     <string name="recommend_bar_ok">Einschalten</string>
@@ -880,6 +887,7 @@
     <string name="search_menu_title">Suchen</string>
     <string name="search_setting_description">Text in Ihren Nachrichten</string>
     <string name="search_show_more_results">Mehr anzeigen</string>
+    <string name="search_sms">Nachrichten durchsuchen</string>
     <string name="second_mms_introduction">Wechseln Sie zum Zweitprofil</string>
     <string name="second_mms_switch">Benutzer wechseln</string>
     <string name="secs">Sek</string>
@@ -1095,6 +1103,7 @@
     <string name="title_show_list_avatar">Profilfotos anzeigen</string>
     <string name="title_show_photo_word">Kontaktbilder zuordnen</string>
     <string name="title_timed_message_dialog">Zeitgesteuerte Nachricht einstellen</string>
+    <string name="title_timed_remind_message_dialog">Erinnerungszeit festlegen</string>
     <string name="title_use_gsm_alphabet">GSM-Alphabet verwenden</string>
     <string name="to_address_label">"An: "</string>
     <string name="to_send_wrapper">Wird um %s gesendet</string>

@@ -745,6 +745,13 @@
     <string name="lyric_label">Songtexte</string>
     <string name="lyric_open_other_connect">Songtexte über mobile Datenverbindung laden</string>
     <string name="lyric_setting">Songtext Einstellungen</string>
+    <string name="lyrics_guide_button_text">Probieren Sie es aus</string>
+    <string name="lyrics_guide_four">Zurück zur Seite mit den Songtexten</string>
+    <string name="lyrics_guide_one">Ein Suchergebnis antippen, um es auszuwählen</string>
+    <string name="lyrics_guide_three">Den Songtext bearbeiten und speichern</string>
+    <string name="lyrics_guide_title">Wie man Songtexte sucht und speichert</string>
+    <string name="lyrics_guide_two">Gewünschten Songtext auswählen und kopieren</string>
+    <string name="lyrics_popup_title">Tippen, um Songtexte zu durchsuchen</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_selection">Stunde auswählen</string>
     <string name="material_hour_suffix">%1$s Uhr</string>
@@ -1395,6 +1402,7 @@
     <string name="select_local_cover">Lokales Cover auswählen</string>
     <string name="select_local_lyric">Datei wählen</string>
     <string name="select_local_lyric_file">Lokale Songtextdatei auswählen</string>
+    <string name="select_lyrics_copy">Songtext auswählen und kopieren</string>
     <string name="select_none">Alles abwählen</string>
     <string name="select_one_language">Mind. %d Sprache wählen</string>
     <string name="select_three_languages">Sie können bis zu %d Sprachen wählen</string>

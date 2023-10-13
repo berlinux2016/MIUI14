@@ -51,6 +51,7 @@
     <string name="ad_experience_now">Öffnen</string>
     <string name="ad_in_downloading">Herunterladen</string>
     <string name="ad_in_installing">Installieren</string>
+    <string name="ad_installing">Installieren</string>
     <string name="add">Hinzufügen</string>
     <string name="add_home_icon_success">Erfolgreich hinzugefügt</string>
     <string name="add_resource_detail_fail">Ressource kann nicht hinzugefügt werden</string>

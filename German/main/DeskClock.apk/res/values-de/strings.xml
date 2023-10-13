@@ -37,6 +37,7 @@
     <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
     <string name="alarm_permanent_alert">Klingeln</string>
     <string name="alarm_repeat">Wiederholen</string>
+    <string name="alarm_repeat_self_define_button">Anpassen</string>
     <string name="alarm_ringtone_picker">Wecker</string>
     <string name="alarm_set_new">Wecker klingelt in weniger als %d Minute.</string>
     <string name="alert">Klingelton</string>
@@ -200,6 +201,7 @@
     <string name="life_post_weather_no_network">Mit Netzwerk verbinden, um Wetterdaten zu aktualisieren</string>
     <string name="listen_news_msg">Uhr benötigt eine Internetverbindung, um den morgendlichen Nachrichtendienst anzubieten. Sind Sie damit einverstanden?</string>
     <string name="listen_news_privacy"><Data>Um personalisierte Dienste anzubieten und Morgennachrichten in Ihre Wecker aufzunehmen, braucht die Uhr eine Internetverbindung. Vor Nutzung der Uhr müssen Sie auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
+    <string name="look_sleep_data">Schlafdaten anzeigen</string>
     <string name="midnight">Nacht</string>
     <string name="minute">1 Min</string>
     <string name="minutes">%d Min</string>
@@ -318,6 +320,10 @@
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> Stunde im Voraus</string>
     <string name="notification_adv_time_entries5">Keine</string>
     <string name="notification_permission_desc">Wenn Sie die Berechtigung für Benachrichtigungen nicht erteilen, können Sie Wecker nicht ausschalten, wenn sie klingeln. Berechtigung jetzt erteilen?</string>
+    <string name="notification_permission_dialog_content">Dieser App erlauben, Benachrichtigungen zu senden, um Weckerbenachrichtigungen zu erhalten. Sie können diese Berechtigung in den Einstellungen erteilen.</string>
+    <string name="notification_permission_dialog_not_open">Jetzt nicht</string>
+    <string name="notification_permission_dialog_open">Einstellungen</string>
+    <string name="notification_permission_dialog_title">Berechtigungen erforderlich</string>
     <string name="oneshot_alarm">Löschen, sobald der Wecker klingelt</string>
     <string name="open_keep_screen">Bildschirm bleibt eingeschaltet</string>
     <string name="open_notification_permission_remind">Benachrichtigungen erlauben, um Wecker auszuschalten</string>
@@ -390,6 +396,7 @@
     <string name="sleep_remind">Schlafenszeit-Erinnerung</string>
     <string name="sleep_time">Einschlafen</string>
     <string name="slider_text_new">Hochwischen zum Stoppen</string>
+    <string name="snooze_alarm_alert">Schlummern bis %s</string>
     <string name="snooze_duration">Schlummern</string>
     <string name="snooze_duration_title">Schlummern</string>
     <string name="snooze_duration_value">Intervall (Minuten)</string>
@@ -520,6 +527,7 @@
     <string name="tv_world_clock_edit_title2">Andere gespeicherte Orte</string>
     <string name="upcoming_alarm">Anstehender Wecker: %s</string>
     <string name="upcoming_alarm_hint">Sie können diesen Wecker jetzt beenden</string>
+    <string name="upcoming_alarm_new">Anstehender Wecker: %s</string>
     <string name="update_health_app_desc_new">Schlaferfassung wird von Mi Fitness bereitgestellt. Mi Fitness auf die neueste Version aktualisieren, um auf entsprechende Funktionen zuzugreifen.</string>
     <string name="update_health_app_new">Mi Fitness aktualisieren</string>
     <string name="update_it">Aktualisieren</string>
