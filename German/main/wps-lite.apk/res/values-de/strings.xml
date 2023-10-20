@@ -179,6 +179,7 @@
     <string name="ppt_video_install_videoplayer_tip">Video-Player installieren</string>
     <string name="ppt_volume_is_too_low_tip">Setzen Sie Ihre Kopfhörer auf oder drehen Sie die Lautstärke hoch</string>
     <string name="projection_fail">Übertragen fehlgeschlagen. Externen Monitor prüfen und erneut versuchen.</string>
+    <string name="public_2pic">Als Bild exportieren</string>
     <string name="public_amazon_autosave_finished">Dokument wurde automatisch gespeichert</string>
     <string name="public_bad_doc_to_process">Ungültiges Dokument. Vorgang kann nicht durchgeführt werden.</string>
     <string name="public_bookmark">Lesezeichen</string>
@@ -218,6 +219,7 @@
     <string name="public_error_parse_path_toast">Bitte wählen Sie die richtige Datei zum Öffnen im Dateimanager</string>
     <string name="public_exit_phonemode">Mobile Ansicht verlassen</string>
     <string name="public_exit_play">Beenden</string>
+    <string name="public_export_pdf">Als PDF exportieren</string>
     <string name="public_fileNotExist">Datei ist nicht mehr vorhanden. Sie wurde eventuell von anderen Programmen umbenannt, verschoben oder gelöscht.</string>
     <string name="public_file_cant_write_tips">Datei kann nicht im aktuellen Verzeichnis gespeichert werden. Als neue Datei in einem anderen Verzeichnis speichern?</string>
     <string name="public_file_download">Datei laden…</string>
@@ -271,6 +273,8 @@
     <string name="public_other_app">Mit anderer App öffnen</string>
     <string name="public_outline">Inhalte</string>
     <string name="public_paste">Einfügen</string>
+    <string name="public_pdf2word">PDF zu Word</string>
+    <string name="public_pdfFillForm">Formular ausfüllen</string>
     <string name="public_pdf_converter_normal">Normal</string>
     <string name="public_pdf_converter_open_tip">Dieses Dokument öffnen?</string>
     <string name="public_pdf_converter_success">"Exportieren nach "</string>
@@ -288,6 +292,7 @@
     <string name="public_picture_savefail">Bild ist beschädigt und kann nicht gespeichert werden</string>
     <string name="public_play">Wiedergeben</string>
     <string name="public_ppt_label">Mi PPT-Viewer</string>
+    <string name="public_privacy_policy">Datenschutzerklärung</string>
     <string name="public_privacy_update">&lt;Data>Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, sollten Sie die neue Version unserer &lt;a href=\"%s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren, bevor Sie fortfahren.&lt;/Data></string>
     <string name="public_re_licensing">Autorisierung erteilen</string>
     <string name="public_readOnlyMode">Schreibgeschützt</string>
@@ -348,6 +353,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Dokument wurde von anderen Apps gelöscht und von WPS-Cloud-Dokumente wiederhergestellt.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">Zuletzt bearbeiteter Inhalt wurde nicht gespeichert und von WPS-Cloud-Dokumente wiederhergestellt.</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Dokument sicher speichern</string>
+    <string name="public_writer2pic">Als reine Bilddatei exportieren</string>
     <string name="public_writer_font_enlarge">Schrift vergrößern</string>
     <string name="public_writer_font_narrow">Schrift verkleinern</string>
     <string name="public_writer_label">Mi Text-Viewer</string>
