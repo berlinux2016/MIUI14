@@ -1,11 +1,11 @@
 # ![logo](https://i41.servimg.com/u/f41/18/23/59/53/miui-112.png)
-# MIUI V14 German Translation on Xiaomi.eu
+# MIUI V14 - German Translation on Xiaomi.eu
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI14.svg)](https://github.com/berlinux2016/MIUI14/issues "GitHub issues")
 
 ## Introduction
 
-This repository contains the german translation of the MIUI V14 Weekly ROM Releases from [xiaomi.eu](https://xiaomi.eu/community/forums/miui-rom-releases.103/) and other MIUI custom ROMs.
+This repository contains the German translation of the MIUI V14 Weekly/Stable ROM releases from [xiaomi.eu](https://xiaomi.eu/community/forums/miui-rom-releases.103/) and other MIUI custom ROMs.
 
 All strings were translated by the community - special thanks go to:
 
