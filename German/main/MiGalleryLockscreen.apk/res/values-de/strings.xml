@@ -40,14 +40,14 @@
     <string name="add">Hinzufügen</string>
     <string name="add_cw_fail_tip">Hintergrund wurde nicht hinzugefügt</string>
     <string name="add_cw_success_tip">Hintergrund erfolgreich hinzugefügt</string>
-    <string name="add_first_cw_toast1">Erfolgreich hinzugefügt. Hintergrundkarussell eingeschaltet und Diashow gestartet.</string>
-    <string name="add_first_cw_toast2">Einige Elemente erfolgreich hinzugefügt. Hintergrundkarussell eingeschaltet und Diashow gestartet.</string>
-    <string name="add_first_cw_toast3">Hintergründe erfolgreich hinzugefügt. Hintergrundkarussell eingeschaltet und Diashow gestartet.</string>
-    <string name="add_first_cw_toast4">Hintergrundkarussell eingeschaltet und Diashow gestartet</string>
+    <string name="add_first_cw_toast1">Erfolgreich hinzugefügt. Zeigt Ihre ausgewählten Hintergründe.</string>
+    <string name="add_first_cw_toast2">Einige ausgewählte Hintergründe erfolgreich hinzugefügt</string>
+    <string name="add_first_cw_toast3">Hintergründe erfolgreich hinzugefügt.</string>
+    <string name="add_first_cw_toast4">Hintergrundkarussell ist eingeschaltet. Zeigt Ihre ausgewählten Hintergründe an.</string>
     <string name="add_launch_hint_text">Verknüpfung zum Startbildschirm hinzufügen</string>
     <string name="add_local_picture">Galerie</string>
     <string name="add_online_picture">Online-Bilder</string>
-    <string name="add_to_cw">Zur Diashow hinzufügen</string>
+    <string name="add_to_cw">Zur eigenen Diashow hinzufügen</string>
     <string name="add_to_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
     <string name="add_wallpaper">Hintergrund hinzufügen</string>
     <string name="addcw_apply_btn_txt">Hintergrund hinzufügen</string>
@@ -61,6 +61,7 @@
     <string name="app_self_upgrade_dlg_postive_btn">Jetzt aktualisieren</string>
     <string name="app_self_upgrade_dlg_title">Update verfügbar</string>
     <string name="app_self_upgrade_toast_downloading_install">Download starten und neue Version installieren</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Erfolgreich zu Ihrer Diashow hinzugefügt. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Anzeigen&lt;/font>&lt;/a>"</string>
     <string name="apply">Anwenden</string>
     <string name="apply_to_above_all">Als beides einstellen</string>
     <string name="apply_to_screenlock">Als Sperrbildschirm einstellen</string>
@@ -149,9 +150,9 @@
     <string name="custom_wallpaper_des">Hintergrundkarussell einschalten, Ihre Fotos und Online-Bilder zum Mix hinzufügen, damit sie automatisch in der Diashow auftauchen</string>
     <string name="cw_add">Hinzufügen</string>
     <string name="cw_add2">Hinzufügen (%1$d)</string>
-    <string name="cw_add_fail">Hinzufügen zur Diashow nicht möglich</string>
-    <string name="cw_add_num_tip">Mehr Elemente können der Diashow nicht hinzugefügt werden</string>
-    <string name="cw_add_success">Erfolgreich zur Diashow hinzugefügt</string>
+    <string name="cw_add_fail">Hinzufügen nicht möglich</string>
+    <string name="cw_add_num_tip">Mehr Hintergründe können nicht hinzugefügt werden</string>
+    <string name="cw_add_success">Erfolgreich hinzugefügt</string>
     <string name="cw_add_tip_fail">Hinzufügen nicht möglich</string>
     <string name="cw_add_wallpaper">Hintergrund hinzufügen</string>
     <string name="cw_add_wallpaper_more_recomm">Mehr Empfehlungen</string>
@@ -176,8 +177,8 @@
     <string name="cw_my_fav">Favoriten</string>
     <string name="cw_permission_tip">Hintergrundkarussell den Speicherzugriff in Einstellungen &gt; App-Einstellungen erlauben</string>
     <string name="cw_wallpaper_empty_dlg_btn">Verstanden</string>
-    <string name="cw_wallpaper_empty_dlg_content">Sie haben Ihrer Diashow keine Elemente hinzugefügt. Auf Empfehlungen umgestellt.</string>
-    <string name="cw_wallpaper_empty_dlg_title">Keine Elemente</string>
+    <string name="cw_wallpaper_empty_dlg_content">Sie haben Ihrer eigenen Diashow keine Hintergründe hinzugefügt. Hintergrundkarussell wird stattdessen empfohlene Hintergründe anzeigen.</string>
+    <string name="cw_wallpaper_empty_dlg_title">Keine Elemente hinzugefügt</string>
     <string name="cw_wallpaper_manager">Hintergründe verwalten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -234,9 +235,9 @@
     <string name="double_click_to_exit_activity">Erneut tippen zum Beenden</string>
     <string name="early_morning">Morgen</string>
     <string name="edit_wallpaper">Hintergründe verwalten</string>
-    <string name="enable_toast_ar">Auf Empfehlungen umgeschaltet</string>
-    <string name="enable_toast_cw">Auf Diashow umgeschaltet</string>
-    <string name="enable_toast_cwo">Hintergrundkarussell eingeschaltet und Diashow gestartet</string>
+    <string name="enable_toast_ar">Empfohlene Hintergründe anzeigen</string>
+    <string name="enable_toast_cw">Eigene Diashow anzeigen</string>
+    <string name="enable_toast_cwo">Hintergrundkarussell und eigene Diashow sind eingeschaltet</string>
     <string name="enable_toast_subscribe">Hintergrundkarussell eingeschaltet und Abonnements aktiviert</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
@@ -246,7 +247,7 @@
     <string name="explorer_activity_title">Hintergrundkarussell</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="external_storage_permission">Speicherzugriff</string>
-    <string name="external_storage_permission_summary">Zur Auswahl benutzerdefinierter Hintergründe und zum Speichern heruntergeladener Elemente</string>
+    <string name="external_storage_permission_summary">Diese App kann auf Dateien auf Ihrem Gerät zugreifen, um eigene Hintergründe zu Hintergrundkarussell hinzuzufügen und heruntergeladene Inhalte auf Ihrem Gerät zu speichern.</string>
     <string name="failed_dup_secure_phone_number">Diese Rufnummer ist bereits mit einem anderen Xiaomi-Konto verbunden.</string>
     <string name="favor_list_no_data">Hier gibt es keine Elemente</string>
     <string name="favor_list_title">Favoriten</string>
@@ -311,7 +312,7 @@
     <string name="lks_cta_ok">Zustimmen</string>
     <string name="lks_cta_reject">"Ablehnen</string>
     <string name="lks_cta_summary1">Hintergrundkarussell bietet folgende Funktionen:</string>
-    <string name="lks_cta_summary2">"1. Automatisch aktualisierte Hintergründe&lt;br>2. Frische Bilder und Geschichten auf Ihrem Sperrbildschirm&lt;br>3. Anpassungsmöglichkeiten&lt;br>Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren.&lt;br>&lt;br>Um zusätzliche Dienste anzubieten, bitten wir Sie ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern. Lesen und akzeptieren Sie unsere &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Nutzerverinbarung&lt;/font>&lt;/a> und &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Datenschutzerklärung&lt;/font>&lt;/a>, bevor Sie fortfahren."</string>
+    <string name="lks_cta_summary2">"1. Automatisch aktualisierte Hintergründe&lt;br>2. Frische Bilder und Geschichten auf Ihrem Sperrbildschirm&lt;br>3. Anpassungsmöglichkeiten&lt;br>Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren.&lt;br>&lt;br>Um zusätzliche Dienste anzubieten, bitten wir Sie ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern. Lesen und akzeptieren Sie unsere &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Nutzervereinbarung&lt;/font>&lt;/a> und &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Datenschutzerklärung&lt;/font>&lt;/a>, bevor Sie fortfahren."</string>
     <string name="lks_cta_title">Geschäftsbedingungen</string>
     <string name="lks_current_lks_wallpaper">Aktueller Sperrbildschirm</string>
     <string name="lks_data_warning_toast_1">Sie verwenden mobile Daten, um nach Hintergründen zu suchen.\nDies kann zu Zusatzkosten führen.</string>
@@ -544,7 +545,6 @@ dd.MM."</string>
     <string name="open_guid_des">Gehen Sie zu Einstellungen &gt; Rechte &gt; Andere Rechte &gt; Hintergrundkarussell und geben Sie der App alle erforderlichen Berechtigungen.</string>
     <string name="open_sub_title">Kategorien wählen</string>
     <string name="open_title">Hintergrundkarussell</string>
-    <string name="open_unable">Hintergrundkarussell funktioniert nur mit dem MIUI Standard-Sperrbildschirm</string>
     <string name="opened">An</string>
     <string name="pager_load_hd">Originalbild anzeigen</string>
     <string name="passport_access_denied">Zugriff verweigert</string>
@@ -945,6 +945,7 @@ dd.MM."</string>
     <string name="pull_to_refresh_pull_up_label">Zum Aktualisieren hochziehen</string>
     <string name="pull_to_refresh_refreshing_label">Aktualisieren</string>
     <string name="pull_to_refresh_release_label">Zum Aktualisieren loslassen</string>
+    <string name="reach_custom_limitation">"Weitere Hintergründe können nicht hinzugefügt werden. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Verwalten&lt;/font>&lt;/a>"</string>
     <string name="recommend_switch_desc">Inhaltsempfehlungen erhalten basierend auf Ihren Präferenzen</string>
     <string name="recommend_switch_dlg_close">Ausschalten</string>
     <string name="recommend_switch_dlg_desc">Sie können keine Empfehlungen basierend auf Ihren Präferenzen erhalten, wenn Sie diese Funktion deaktivieren.</string>
@@ -955,7 +956,7 @@ dd.MM."</string>
     <string name="remove">Löschen</string>
     <string name="req_permission_dis_tip">Berechtigungen erforderlich</string>
     <string name="require_permission">Berechtigungen erforderlich</string>
-    <string name="require_permission_text">Hintergrundkarussell den Speicherzugriff erlauben, um Elemente speichern und anzuzeigen</string>
+    <string name="require_permission_text">Diese App benötigt die Berechtigung, auf Dateien auf Ihrem Gerät zuzugreifen, um Ihre eigenen Hintergründe zum Hintergrundkarussell hinzuzufügen und heruntergeladene Inhalte auf Ihrem Gerät zu speichern.</string>
     <string name="resend_active_email">Erneut senden</string>
     <string name="resend_email_success">Erfolgreich gesendet</string>
     <string name="resource_apply">Anwenden</string>
@@ -992,6 +993,7 @@ dd.MM."</string>
     <string name="see_detail">Anzeigen</string>
     <string name="see_more">Weitere anzeigen</string>
     <string name="see_more_content">Mehr anzeigen</string>
+    <string name="select_at_least_one_mode">Wählen Sie einen Hintergrundkarussell-Modus</string>
     <string name="select_package">Version wählen</string>
     <string name="select_photo_album">Bilder wählen</string>
     <string name="select_picture">Bilder wählen</string>
@@ -1003,10 +1005,12 @@ dd.MM."</string>
     <string name="set_success">Erfolgreich geändert</string>
     <string name="setting_about_item_title">Über Hintergrundkarussell</string>
     <string name="setting_des">Diashowdienste werden von Hintergrundkarussell bereitgestellt. In den App-Einstellungen nach \"Hintergrundkarussell\" suchen, um alle verfügbaren Optionen anzuzeigen.</string>
+    <string name="setting_des_custom_only">Unsere Diashow-Funktion ist jetzt vollständig anpassbar. Sie können unter Einstellungen > Sperrbildschirm > Hintergrundkarussell-Einstellungen festlegen, wie oft der Hintergrund wechselt.</string>
+    <string name="setting_des_recommend_selected">Unsere Diashow-Funktion ist jetzt vollständig anpassbar. Erhalten Sie Empfehlungen für Bilder, die Ihnen gefallen, und fügen Sie Ihre eigenen hinzu. Wie oft der Hintergrund wechselt, können Sie unter Einstellungen > Sperrbildschirm > Hintergrundkarussell-Einstellungen anpassen.</string>
     <string name="setting_head">Einstellungen</string>
     <string name="setting_ok">Einstellungen</string>
     <string name="setting_tip">Nicht mehr anzeigen</string>
-    <string name="setting_title">Diashow</string>
+    <string name="setting_title">Erfolgreich hinzugefügt</string>
     <string name="settings">Einstellungen</string>
     <string name="share">Teilen</string>
     <string name="share_today_morning">Teilen</string>
@@ -1055,7 +1059,7 @@ dd.MM."</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="sst_auto_recommand_desc">Abonnieren Sie Ihre Lieblingskategorien, um täglich neue Bilder und Geschichten auf Ihrem Sperrbildschirm zu erhalten.</string>
-    <string name="sst_auto_recommand_title">Empfehlungen für individuelle Hintergründe erhalten</string>
+    <string name="sst_auto_recommand_title">Hintergründe empfehlen</string>
     <string name="sst_change_wallpaper_desc">Auswählen, wo Sie den Hintergrund anwenden möchten</string>
     <string name="sst_change_wallpaper_desk">Startbildschirm</string>
     <string name="sst_change_wallpaper_lock">Sperrbildschirm</string>
@@ -1066,7 +1070,7 @@ dd.MM."</string>
     <string name="sst_cover_chg_enable_title">Anzeigen beim Laden</string>
     <string name="sst_custom_wallpaper_desc">Bilder aus der Galerie und Empfehlungen auswählen</string>
     <string name="sst_custom_wallpaper_title">Individuelle Diashow</string>
-    <string name="sst_custom_wallpaper_title2">Diashow</string>
+    <string name="sst_custom_wallpaper_title2">Meine Hintergründe wählen</string>
     <string name="sst_disable_unopen">Beta-Funktion</string>
     <string name="sst_effect_next_wallpaper">Neuen Hintergrund erstellen, um Änderungen zu übernehmen</string>
     <string name="sst_favor_desc">Meine Lieblingshintergründe</string>
@@ -1104,13 +1108,13 @@ dd.MM."</string>
     <string name="sst_subscrible_manager_title_bar_text">Abonnements verwalten</string>
     <string name="sst_subscripted">Abonniert</string>
     <string name="sst_subscripted2">Verfügbare Kategorien</string>
-    <string name="sst_switch_wallpaper_order_desc">Reihenfolge wählen, in der die Hintergründe aktualisiert werden</string>
+    <string name="sst_switch_wallpaper_order_desc">Reihenfolge der Dias wählen</string>
     <string name="sst_switch_wallpaper_order_fixed">Reihenfolge</string>
     <string name="sst_switch_wallpaper_order_random">Zufällig</string>
     <string name="sst_switch_wallpaper_order_title">Aktualisierungsreihenfolge</string>
     <string name="sst_wallpaper_define_desc">Verwalten</string>
-    <string name="sst_wallpaper_define_title">Meine Diashow</string>
-    <string name="sst_wallpaper_define_title2">Bilder hinzufügen</string>
+    <string name="sst_wallpaper_define_title">Eigene Diashow</string>
+    <string name="sst_wallpaper_define_title2">Dias hinzufügen</string>
     <string name="sst_wallpaper_history_des">Aktuelle Empfehlungen anzeigen</string>
     <string name="sst_wallpaper_history_title">Verlauf</string>
     <string name="sst_wifi_only_desc">Ausschalten, um Daten zu sparen</string>
@@ -1232,7 +1236,7 @@ dd.MM."</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="understand_band_story">Mehr erfahren</string>
-    <string name="uninstall_introducation_text_desc">Hintergrundkarussell liefert Bilder in neuer Qualität direkt auf Ihren Bildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
+    <string name="uninstall_introducation_text_desc">Hintergrundkarussell liefert Bilder in neuer hoher Qualität direkt auf Ihren Sperrbildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
     <string name="uninstall_introduction_text_title">Über Hintergrundkarussell</string>
     <string name="uninstall_warning_text_desc">Ohne Hintergrundkarussell können Sie nicht regelmäßig neue Sperrbildschirmhintergründe erhalten. Sie können die App jedoch erneut herunterladen und installieren. Hintergrundkarussell löschen?</string>
     <string name="uninstall_warning_text_title">Hintergrundkarussell löschen</string>

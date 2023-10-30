@@ -29,6 +29,10 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-Sek-Timer für den Nachtmodus</item>
+        <item quantity="one">%d-Sek-Timer für den Nachtmodus</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Fokussiert, %d Gesichter erkannt</item>
         <item quantity="one">Fokussiert, %d Gesicht erkannt</item>
@@ -72,14 +76,6 @@
     <plurals name="exit_version_hint">
         <item quantity="other">&lt;Data>Die von Ihnen verwendete Kameraversion ist nicht mit Ihrem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
         <item quantity="one">&lt;Data>Die von Ihnen verwendete Kameraversion ist nicht mit Ihrem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
-    </plurals>
-    <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Schnellvorlauf %d Sek</item>
-        <item quantity="one">Schnellvorlauf %d Sek</item>
-    </plurals>
-    <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">%d Sek zurückspulen</item>
-        <item quantity="one">%d Sek zurückspulen</item>
     </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d Min</item>

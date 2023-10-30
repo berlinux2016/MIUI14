@@ -73,6 +73,12 @@
     <string name="bottomsheet_drag_handle_clicked">Ziehen handhaben Doppeltipp</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehen handhaben</string>
     <string name="btn_know">Verstanden</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
     <string name="cancel">Abbrechen</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
@@ -314,7 +320,6 @@
     <string name="side_sheet_accessibility_pane_title">Beiblatt</string>
     <string name="signature">Signatur</string>
     <string name="signature_default_content">Glaubt immer daran, dass etwas\nWunderbares passieren wird.</string>
-    <string name="smart_style_summary">Elemente immer anzeigen, außer wenn sich das Gerät in einer Tasche befindet, das Umgebungslicht lange Zeit schwach ist oder Sie nicht auf das Gerät schauen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>

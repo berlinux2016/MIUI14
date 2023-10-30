@@ -341,9 +341,9 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="logout_account">Abmelden</string>
     <string name="member_menu_vipname_extend_package">Cloud-Speicher hinzufügen</string>
     <string name="micloud_space_applist_detail">Sie können Sicherungen des Startbildschirm-Layouts auf Ihrem Mobilgerät anzeigen.</string>
-    <string name="micloud_space_duokan_detail">Öffnen Sie Duokan auf Ihrem Telefon und gehen Sie zu Bücherregal &gt; Cloud-Speicherplatz, um Speicherplatz zu verwalten.\nStellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto verwenden.</string>
+    <string name="micloud_space_duokan_detail">Öffnen Sie Duokan auf Ihrem Telefon und gehen Sie zu Bücherregal &gt; Cloud-Speicherplatz, um Speicherplatz zu verwalten.\nStellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr Systemkonto verwenden.</string>
     <string name="micloud_space_duokan_title">Duokan-Speicherplatz</string>
-    <string name="micloud_space_soundrecorder_detail">Öffnen Sie Rekorder auf Ihrem Mobilgerät und wählen Sie den Ordner mit den in der Cloud gespeicherten Elementen.\nStellen Sie sicher, dass Sie das aktuelle Xiaomi-Konto als Ihr MIUI-Systemkonto verwenden.</string>
+    <string name="micloud_space_soundrecorder_detail">Öffnen Sie die Rekorder-App auf Ihrem Xiaomi-Gerät und wählen Sie den Ordner mit den in der Cloud gespeicherten Elementen.\nStellen Sie sicher, dass Sie das zugehörige Xiaomi-Konto als Ihr Systemkonto verwenden.</string>
     <string name="micloud_space_soundrecorder_title">Audioaufnahmen</string>
     <string name="midnight">Nacht</string>
     <string name="midrive_guide1_desc">Elemente in der Cloud sichern, um Speicherplatz auf Ihrem Gerät freizugeben.</string>

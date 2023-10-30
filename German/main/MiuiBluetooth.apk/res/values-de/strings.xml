@@ -438,6 +438,15 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="guest_resetting">Gast zurücksetzen…</string>
     <string name="hdcp_checking_dialog_title">HDCP-Prüfverhalten festlegen</string>
     <string name="hdcp_checking_title">HDCP-Prüfung</string>
+    <string name="headset_autoswitch_connect_button">Verbinden</string>
+    <string name="headset_autoswitch_connect_title">Kopfhörer verbinden</string>
+    <string name="headset_autoswitch_connected">Verbunden</string>
+    <string name="headset_autoswitch_connecting">Verbinden…</string>
+    <string name="headset_autoswitch_disconnected">Verbunden mit %1$s</string>
+    <string name="headset_autoswitch_fialed">Verbinden nicht möglich</string>
+    <string name="headset_autoswitch_test_connecting">Verbinden…</string>
+    <string name="headset_autoswitch_test_no_alert_permission">Keine Warnung zur Anzeigeberechtigung</string>
+    <string name="headset_autoswitch_test_no_device">Kein Gerät verfügbar, 3 Sekunden warten</string>
     <string name="headset_battery_fw_failed">Akku schwach</string>
     <string name="headset_battery_low">Akku schwach. Laden Sie die Ohrhörer jetzt auf.</string>
     <string name="headset_connect_device">Gerät verbinden</string>
