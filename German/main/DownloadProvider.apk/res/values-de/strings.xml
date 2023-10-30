@@ -215,7 +215,6 @@
     <string name="permlab_downloadManager">Auf Downloadmanager zugreifen</string>
     <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Downloadmanagers</string>
     <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
-    <string name="permlab_seeAllExternal">Alle Downloads im USB-Speicher anzeigen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_notif_content">Tippen, um Details anzuzeigen</string>
     <string name="privacy_notif_title">Xunlei-Downloadbeschleuniger ist an</string>

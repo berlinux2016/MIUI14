@@ -22,10 +22,15 @@
     <string name="adding_or_updating_account">Konto aktualisieren…</string>
     <string name="afternoon">Nachmittag</string>
     <string name="app_name">Gerät finden</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
     <string name="change_find_device_status_failed">Entsperren fehlgeschlagen. %s.</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
-    <string name="copy">Kopieren</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Für den Zugriff auf die Rufnummer, um das Gerät zu orten, wenn es nicht mit dem Internet verbunden ist</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Zur Ortung dieses Geräts, wenn es nicht mit dem Internet verbunden ist</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Zum Auffinden Ihres Geräts und zum Umschalten in den Verloren-Modus</string>
@@ -47,8 +52,6 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="evening">Nachmittag</string>
-    <string name="expand_button_title">Erweitert</string>
-    <string name="find_device">Gerät finden</string>
     <string name="find_device_capture_done_notification_content">Foto auf i.mi.com ansehen</string>
     <string name="find_device_capture_done_notification_title">Gerät finden hat ein Foto aus der Ferne aufgenommen</string>
     <string name="find_device_capture_notification_content">Eine Anfrage zur Fernaufnahme eines Fotos mit diesem Gerät wurde von Ihrem Konto übermittelt</string>
@@ -56,7 +59,7 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="find_device_crash">Gerät finden wurde unerwartet beendet</string>
     <string name="find_device_error_access_denied">Zugriff verweigert</string>
     <string name="find_device_error_account_sys_timeout">Nicht mit Xiaomi-Konto verbunden</string>
-    <string name="find_device_error_account_unknown_error">Xiaomi-Konto-Fehler (%s)</string>
+    <string name="find_device_error_account_unknown_error">Fehler Xiaomi-Konto (%s)</string>
     <string name="find_device_error_network">Netzwerkfehler</string>
     <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert</string>
     <string name="find_device_error_server">Serverfehler (%s)</string>
@@ -160,8 +163,8 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="morning">Morgen</string>
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
-    <string name="not_set">Nicht festgelegt</string>
     <string name="open_wifi_settings">WLAN-Einstellungen öffnen</string>
+    <string name="open_wifi_settings_china">WLAN-Einstellungen öffnen</string>
     <string name="passport_checking_vcode">Passwort prüfen…</string>
     <string name="passport_error_empty_vcode">Verifizierungscode eingeben</string>
     <string name="passport_notification_need_unlock_again">Entsperren nochmals versuchen</string>
@@ -173,7 +176,6 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="phone_locked">Dieses Gerät ist mit einem Xiaomi-Konto (%s) verknüpft. Passwort eingeben, um Gerät zu aktivieren.</string>
     <string name="phone_locked_account_email">, verknüpfte E-Mail: %s</string>
     <string name="phone_locked_account_phone">, verknüpfte Rufnummer: %s</string>
-    <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="return_to_call">Zurück zum Anruf</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -278,27 +280,31 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="unlock_error_device_id">Geräte-ID kann nicht ermittelt werden</string>
     <string name="unlock_error_interrupted">Unterbrochen</string>
     <string name="unlock_error_network">Keine Netzwerkverbindung</string>
-    <string name="unlock_error_passport_sdk_timeout">Xiaomi-Konto SDK antwortet nicht</string>
     <string name="unlock_error_rpc">RPC-Fehler</string>
     <string name="unlock_error_server">Serverfehler</string>
-    <string name="unlock_error_ssl_hand_shake">Keine Server-Verbindung. Datum und Uhrzeit manuell einstellen.</string>
     <string name="unlock_error_unknown">Anmeldung nicht möglich</string>
     <string name="unlock_error_user_name">Ungültiger Benutzername</string>
     <string name="unlock_error_wrong_vcode">Eingegebener Code ist falsch</string>
     <string name="unlock_help">"Netzwerkverbindung herstellen.
-Legen Sie eine funktionierende SIM-Karte ein und stellen Sie keine Verbindung zu ungültigen WLANs her.
+Legen Sie eine funktionierende SIM-Karte ein und verbinden Sie sich nicht mit einem ungültigen WLAN.
 
 Passwort vergessen?
 Gehen Sie auf id.mi.com, wählen Sie \"Passwort vergessen?\" und folgen Sie den Anweisungen.
 
 Gerät lässt sich nicht aktivieren?
-Gehen Sie zu i.mi.com/ss und senden Sie einen Antrag zum Freischalten des Geräts."</string>
+Gehen Sie zu i.mi.com/ss und übermitteln Sie Ihren Antrag auf Entsperrung des Geräts."</string>
+    <string name="unlock_help_china">"Netzwerkverbindung herstellen.
+Legen Sie eine funktionierende SIM-Karte ein und verbinden Sie sich nicht mit einem ungültigen WLAN.
+
+Passwort vergessen?
+Gehen Sie auf id.mi.com, wählen Sie \"Passwort vergessen?\" und folgen Sie den Anweisungen.
+
+Gerät lässt sich nicht aktivieren?
+Gehen Sie auf i.mi.com/ss und übermitteln Sie Ihren Antrag auf Entsperrung des Geräts."</string>
     <string name="unlock_help_title">Entsperrhilfe:</string>
     <string name="unlock_number">Entsperr-Code: %s</string>
     <string name="unlock_wrong_captcha">Eingegebener Code ist falsch</string>
     <string name="unlocking">Aktivieren…</string>
-    <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">AN</string>
     <string name="verifing_account">Passwort verifizieren…</string>
     <string name="verify_password_failed">Xiaomi-Konto-ID wurde nicht verifiziert. %s.</string>
     <string name="wednesday">Mittwoch</string>
