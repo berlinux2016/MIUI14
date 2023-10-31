@@ -204,6 +204,7 @@
     <string name="permission_storage_description_for_manage_files">Zur Aufnahmeverwaltung</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_settings">Datenschutz</string>
+    <string name="protect_oneself_when_recording">Gesprächsaufnahme. Schützen Sie Ihre Privatsphäre und die anderer Personen, wenn Sie diese Funktion verwenden.</string>
     <string name="quit_recording">Bildschirmaufnahme beenden</string>
     <string name="record_item_title_multi_choice">Auswählen</string>
     <string name="record_item_title_remark">Bemerkung hinzufügen</string>

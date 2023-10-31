@@ -68,6 +68,8 @@
     <string name="freeform_demo_title_skip">Überspringen</string>
     <string name="freeform_guide_free_drag_summary">Ziehen Sie Text, Bilder oder Dateien zwischen den verschiedenen Fenstern der unterstützten Apps</string>
     <string name="freeform_guide_free_drag_title">Elemente über Fenster ziehen</string>
+    <string name="freeform_guide_free_drag_title_phone">Ziehen zum Kopieren in andere Apps</string>
+    <string name="freeform_guide_how_to_free_drag_summary_phone">Drücken und halten Sie das Bild und ziehen Sie es in eine andere App</string>
     <string name="freeform_guide_multiple_window_summary">Drücken und halten Sie ein App-Symbol im Dock, um ein neues Fenster zu öffnen.\n*Diese Funktion funktioniert mit Notizen, Mail, Browser und WPS.</string>
     <string name="freeform_guide_multiple_window_title">Mehrere Fenster öffnen</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Ecke ziehen, um eine App zu minimieren</string>
@@ -84,7 +86,13 @@
     <string name="fullscreen_slide_to_small_freeform">App minimieren</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Vom unteren Bildschirmrand zur oberen rechten Ecke wischen</string>
     <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Vom unteren zum oberen Bildschirmrand wischen</string>
+    <string name="gesture_fullscreen_to_splitscreen">Zum geteilten Bildschirm wechseln</string>
+    <string name="gesture_split_left_to_right_summary">Mit drei Fingern nach rechts wischen</string>
+    <string name="gesture_split_right_to_left_summary">Mit drei Fingern nach links wischen</string>
+    <string name="gesture_to_split_screen">Gesten</string>
     <string name="how_to_close_or_fullscreen_freeform">Popups schließen oder zum Vollbildmodus wechseln</string>
+    <string name="how_to_create_split_screen_combination">Kombination für geteilten Bildschirm erstellen</string>
+    <string name="how_to_create_split_screen_combination_summary">Drücken und halten Sie die Kombination und fügen Sie sie dem Startbildschirm hinzu</string>
     <string name="how_to_drop_down_to_fullscreen">Zum Vollbildmodus wechseln</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Aktionsleiste eines Popups gedrückt halten und dann runterziehen</string>
     <string name="how_to_hang_freeform">Popup minimieren</string>
@@ -98,6 +106,8 @@
     <string name="how_to_open_freeform">Benachrichtigungen in einem Popup öffnen</string>
     <string name="how_to_slide_up_to_close">Popup schließen</string>
     <string name="how_to_slide_up_to_close_summary">Aktionsleiste eines Popups hochziehen</string>
+    <string name="how_to_split_screen_combination">Kombination geteilter Bildschirm</string>
+    <string name="how_to_split_screen_combination_summary_pad">Verknüpfungen für Kombinationen für geteilten Bildschirm mit App-Dock erstellen</string>
     <string name="how_to_use_freeform">Wie Sie Popups verwenden</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
@@ -236,6 +246,8 @@
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">Valentinstag</string>
     <string name="the_water_lantern_festival">Laternenfestival</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Mit drei Fingern horizontal über den inneren Bildschirm streichen, um den geteilten Bildschirm zu öffnen</string>
+    <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Mit drei Fingern horizontal wischen, um den geteilten Bildschirm zu öffnen</string>
     <string name="thursday">Donnerstag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>

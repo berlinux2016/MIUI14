@@ -80,7 +80,7 @@
     <string name="action_menu_text_snapshot">Seite speichern</string>
     <string name="action_menu_text_speed_test">Netzwerk testen</string>
     <string name="action_menu_text_video_download">Videos herunterladen</string>
-    <string name="action_menu_text_web_mode">Desktopmodus</string>
+    <string name="action_menu_text_web_mode">Desktop-Modus</string>
     <string name="action_menu_useful_page">Verknüpfung hinzufügen</string>
     <string name="action_menu_useful_page_added">Zur Startseite hinzugefügt</string>
     <string name="action_mode_deselect_all">Alle abwählen</string>
