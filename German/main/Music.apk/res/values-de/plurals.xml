@@ -156,6 +156,10 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Weniger als %1$ds</item>
+        <item quantity="one">Weniger als %1$ds</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
     </plurals>

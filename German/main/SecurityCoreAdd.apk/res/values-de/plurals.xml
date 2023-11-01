@@ -29,6 +29,14 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nie für %d Apps deaktivieren</item>
+        <item quantity="one">Nie für %d App deaktivieren</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Immer für %d Apps deaktivieren</item>
+        <item quantity="one">Immer für %d App deaktivieren</item>
+    </plurals>
     <plurals name="fileCount">
         <item quantity="other">%d Elemente</item>
         <item quantity="one">%d Element</item>
@@ -59,6 +67,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>

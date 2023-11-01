@@ -65,6 +65,7 @@
     <string name="ad_bar_notification_setting_sub_title">Ereignisse in der Benachrichtigungsleiste anzeigen</string>
     <string name="ad_bar_notification_setting_title">Ereignisse</string>
     <string name="ad_buy">Kaufen</string>
+    <string name="ad_click_to_play">Tippen zum Abspielen</string>
     <string name="ad_download">Herunterladen</string>
     <string name="ad_join">Der Community beitreten</string>
     <string name="ad_left_time">Verbleibende Sek in der Werbung</string>
@@ -732,6 +733,16 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="local_play_end_drag_up_guide">Tippen oder wischen Sie hoch, um Shorts abzuspielen</string>
     <string name="local_play_recommend_guide_card_bottom">Mehr Videos</string>
     <string name="local_play_tip">Lokales Video abspielen</string>
+    <string name="local_push_random_title_1">Sehen Sie sich die beliebtesten Videos von heute an</string>
+    <string name="local_push_random_title_10">Sehen, genießen und teilen Sie die beliebtesten Videos von heute</string>
+    <string name="local_push_random_title_2">Sehen Sie, was heute in der Welt passiert</string>
+    <string name="local_push_random_title_3">Verpassen Sie nicht die Schlagzeilen von heute</string>
+    <string name="local_push_random_title_4">Sehen Sie sich die beliebtesten Videos in Ihrer Region an</string>
+    <string name="local_push_random_title_5">Verpassen Sie nicht die heißesten Videos dieser Woche</string>
+    <string name="local_push_random_title_6">Sehen Sie sich diese neuen und beliebten Videos an</string>
+    <string name="local_push_random_title_7">Sie werden nicht aufhören können, die besten Kurzvideos dieser Woche anzusehen!</string>
+    <string name="local_push_random_title_8">Sehen Sie sich die frischen, lustigen neuen Videos von heute an</string>
+    <string name="local_push_random_title_9">Diese Videos sind der Hammer!</string>
     <string name="local_push_setting_power_tag">Benachrichtigungen über lokale Videos</string>
     <string name="local_push_title">Heute beliebt</string>
     <string name="local_push_video_title">Nach neuen lokalen Videos suchen</string>
@@ -1051,6 +1062,9 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="music_new_user_dialog_tip">Willkommen bei Mi Video! Diese App bietet einen lokalen Video-Player und Online-Musik- und -Video-Streaming-Dienste.</string>
     <string name="my_favorite_channels">Meine Kanäle</string>
     <string name="my_feedback_title">Mein Feedback</string>
+    <string name="native_body">Körper</string>
+    <string name="native_headline">Schlagzeile</string>
+    <string name="native_media_view">Medienansicht</string>
     <string name="need_update_app">Mi Video aktualisieren, um alle Funktionen zu verwenden</string>
     <string name="network_connect_info">Netzwerkverbindung wurde nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="network_error_and_retry_tip">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -1092,6 +1106,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="notification_last_played_status">Wiedergabeverlauf</string>
     <string name="notification_open_tip">Benachrichtigungen erhalten, wenn neue lokale Videos gefunden werden</string>
     <string name="notification_promotion">Empfehlungen</string>
+    <string name="notification_pupular_today_open_tip">Beliebte Videos anzeigen</string>
     <string name="notification_recall_action">Einschalten</string>
     <string name="notification_recall_desc">Mi Video kann Sie über beliebte Videos und Ihre Abonnements informieren</string>
     <string name="notification_recall_title">Benachrichtigungen einschalten</string>
@@ -1249,7 +1264,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="phone_num_use_for">Rufnummer wird verwendet für:</string>
     <string name="phone_number">Rufnummer</string>
     <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
-    <string name="pip_not_supported_toast">MIUI aktualisieren, um Bild-im-Bild zu verwenden</string>
+    <string name="pip_not_supported_toast">Aktualisieren Sie auf die neueste Systemversion, um Bild-in-Bild verwenden zu können.</string>
     <string name="play_list_save_dialog_create">Wiedergabeliste erstellen</string>
     <string name="play_list_save_dialog_title">Zur Wiedergabeliste hinzufügen</string>
     <string name="play_list_sign_in_dialog_message">Mit Ihrem Google-Konto anmelden, um alle Ihre Wiedergabelisten anzuzeigen.</string>
@@ -1490,6 +1505,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="sign_in_mi_account">Mit Xiaomi-Konto anmelden</string>
     <string name="sign_in_progress">Anmelden…</string>
     <string name="sign_in_title">Mit Xiaomi-Konto anmelden</string>
+    <string name="skip_ad">Überspringen</string>
     <string name="slid_fail_message">Speichern nicht möglich</string>
     <string name="slide_save_message">Video erstellen…</string>
     <string name="small_video_load_more_hint">Hochwischen, um mehr Videos abzuspielen</string>

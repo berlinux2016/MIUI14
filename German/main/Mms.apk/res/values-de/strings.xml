@@ -888,7 +888,7 @@
     <string name="search_setting_description">Text in Ihren Nachrichten</string>
     <string name="search_show_more_results">Mehr anzeigen</string>
     <string name="search_sms">Nachrichten durchsuchen</string>
-    <string name="second_mms_introduction">Wechseln Sie zum Zweitprofil</string>
+    <string name="second_mms_introduction">Zum Zweitprofil wechseln, um private Nachrichten sehen zu können</string>
     <string name="second_mms_switch">Benutzer wechseln</string>
     <string name="secs">Sek</string>
     <string name="security_alert_desc">&lt;font color=\"#7f000000\">Absender ist nicht in Ihren Kontakten.&lt;/font></string>

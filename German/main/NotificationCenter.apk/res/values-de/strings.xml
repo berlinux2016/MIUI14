@@ -54,7 +54,6 @@
     <string name="error_icon_content_description">Fehler</string>
     <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Erweitert</string>
-    <string name="expand_top_notification">Top-Benachrichtigung erweitern</string>
     <string name="expandable_under_keyguard">Benachrichtigungsleiste auf Sperrbildschirm öffnen</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="feedback_tip_cancel">Benachrichtigungsdaten werden nicht gesammelt.</string>

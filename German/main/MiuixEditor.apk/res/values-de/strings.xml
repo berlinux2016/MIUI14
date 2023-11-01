@@ -2,6 +2,12 @@
 <resources>
     <string name="add_frequent_phrases">Häufige Sätze hinzufügen</string>
     <string name="call">Anrufen</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
     <string name="edit_frequent_phrases">Häufige Sätze bearbeiten</string>
     <string name="floating_toolbar_close_overflow_description">Überlauf schließen</string>
     <string name="floating_toolbar_open_overflow_description">Mehr Optionen</string>

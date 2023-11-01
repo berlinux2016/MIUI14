@@ -104,13 +104,13 @@
     <string name="disagreement_location_service_abnormal">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie die Standortdienste nicht nutzen. Sie können Standortdienste jederzeit unter Einstellungen &gt; Datenschutz ein- oder ausschalten.</string>
     <string name="disagreement_mi_account_abnormal">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie die Xiaomi-Konto-Dienste nicht nutzen. Sie können die Xiaomi-Konto-Dienste jederzeit unter Einstellungen > Xiaomi-Konto ein- oder ausschalten.</string>
     <string name="disagreement_service_not_working_properly">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie diese App nicht nutzen.</string>
-    <string name="disagreement_terminate_bluetooth">Wenn Sie diese Berechtigungen nicht erteilen möchten, können Sie Bluetooth nicht verwenden. Sie können Bluetooth in den Einstellungen ein- und ausschalten und Bluetooth-Geräte hinzufügen.</string>
+    <string name="disagreement_terminate_bluetooth">Wenn Sie diese Berechtigungen nicht erteilen möchten, können Sie Bluetooth nicht verwenden. In Einstellungen > Bluetooth können Sie Bluetooth ein- und ausschalten und Bluetooth-Geräte hinzufügen.</string>
     <string name="disagreement_terminate_miuidaemon">Wir verwenden die Berechtigungen nur, wenn Sie mit der Übertragung von Daten von Ihrem Gerät beginnen, wenn der Bildschirm beschädigt ist. Wenn Sie nicht zustimmen, diese Berechtigungen zu gewähren, können Sie diese App nicht verwenden.</string>
     <string name="disagreement_terminate_service">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen. In solchen Fällen können Sie in den Einstellungen die Berechtigungen deinstallieren, abmelden oder einschränken.</string>
     <string name="download_introduction">Downloads ist eine von Xunlei bereitgestellte App zum Herunterladen und Verwalten von heruntergeladenen Inhalten (inkl. App-Store-Inhalten, Videos, System-Updates, Themen und Browser-Inhalten) für Benutzer von Xiaomi-Geräten.</string>
     <string name="early_morning">Morgen</string>
     <string name="enable_accessibility_canceled">Eingabehilfen deaktiviert</string>
-    <string name="enable_accessibility_dialog_message">Sie haben TalkBack aktiviert, indem Sie den Bildschirm mit zwei Fingern länger als 10 Sekunden gedrückt haben. TalkBack liefert Sprachfeedback für Personen mit Sehbehinderung. Wenn Sie diese Funktion versehentlich aktiviert haben, tippen Sie auf Abbrechen und dann 2x auf den Bildschirm.</string>
+    <string name="enable_accessibility_dialog_message">Sie haben TalkBack aktiviert, indem Sie den Bildschirm mit %1$d Fingern länger als %2$d Sekunden gedrückt haben. TalkBack liefert Sprachfeedback für Personen mit Sehbehinderung. Wenn Sie diese Funktion versehentlich aktiviert haben, tippen Sie auf Abbrechen und dann 2x auf den Bildschirm.</string>
     <string name="enable_accessibility_dialog_negative_btn">Abbrechen</string>
     <string name="enable_or_disable_bluetooth">Bluetooth ein- und ausschalten</string>
     <string name="eras_ad">n. Chr.</string>
@@ -146,8 +146,8 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Standardtextgröße</string>
     <string name="font_hint_normal">Größerer Text</string>
-    <string name="framework_introduction">Mit Mi Services Framework können Sie Mi Account, Mi Push, Analytics und MIUI BI verwenden.</string>
-    <string name="framwork_base_service">Um Ihnen diese Dienste anzubieten, muss sich Mi Services Framework (MiAccount, Mi Push, Analytics, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät erlauben, Push-Benachrichtigungen zu erhalten</string>
+    <string name="framework_introduction">Mit Xiaomi Service Framework können Sie Xiaomi-Konto, Mi Push, Analytics und MIUI BI verwenden.</string>
+    <string name="framwork_base_service">Um Ihnen diese Dienste anzubieten, muss sich Xiaomi Service Framework (Xiaomi-Konto, Mi Push, Analytics, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät erlauben, Push-Benachrichtigungen zu erhalten</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -288,8 +288,8 @@ Wenn Sie nicht zustimmen, können Sie die Xiaomi Interconnectivity Services nich
     <string name="msim_setting_default_data">Daten-SIM</string>
     <string name="msim_setting_default_voice">Standard-SIM für Anrufe</string>
     <string name="multisim_settings_category">SIM-Einstellungen</string>
-    <string name="multisim_settings_sb_title">1 SIM-Karte erkannt</string>
-    <string name="multisim_settings_title">2 SIM-Karten erkannt</string>
+    <string name="multisim_settings_sb_title">%d SIM-Karte erkannt</string>
+    <string name="multisim_settings_title">%d SIM-Karten erkannt</string>
     <string name="navigation_picker_gesture_guide">Gestenanleitung</string>
     <string name="navigation_picker_radio_text_full_screen">Vollbildgesten</string>
     <string name="navigation_picker_radio_text_virtual_key">Tasten</string>
@@ -566,7 +566,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="service_name_recorder">Rekorder</string>
     <string name="service_name_screen_recording">Bildschirmaufnahme</string>
     <string name="service_name_security">Sicherheit</string>
-    <string name="service_name_service_framework">Mi Services Framework</string>
+    <string name="service_name_service_framework">XiaoXiaomi Service Framework</string>
     <string name="service_name_systemdesktop">Startbildschirm-Dienst-Plugin</string>
     <string name="service_policy"><Data>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.</Data></string>
     <string name="service_policy_adjust_content">Xunlei Datenschutzerklärung</string>
@@ -628,6 +628,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="switch_network">Netzwerk wechseln</string>
     <string name="system_navigation_mode">Tasten oder Gesten</string>
     <string name="systemdesktop_introduction">Das Startbildschirm-Service-Plugin bietet Ihnen grundlegende Funktionen wie Startbildschirm, System-UI und Screenshots.</string>
     <string name="term_condition_detail">Erhalten Sie täglich atemberaubende Bilder und spannende Geschichten auf Ihren Sperrbildschirm. Diese Funktion verwendet Ihre Daten nicht ohne Ihre Zustimmung zur Personalisierung. Lesen und akzeptieren Sie die &lt;a href =%1$s>Datenschutzerklärung&lt;/a> und &lt;a href =%2$s>Nutzervereinbarung&lt;/a> des Inhalte-Drittanbieters, bevor Sie diese Funktion nutzen.</string>
@@ -738,10 +739,6 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="user_agreement_declare_wifi_device_gmscore">Bevor Sie MIUI nutzen, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Apps und Dienste mit dem Netzwerk verbunden: Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Cloud-Backup, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet Communication Services, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI Einstellung und Updater. Die folgenden Apps und Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu: Smart Cards, Rechteverwaltung, ConfigUpdater und Smart Services.</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
-    <string name="voice_assist_advice">Mi KI erlaubt die Verwendung von Sprachsteuerung, verbraucht aber mehr Strom (+1% pro Stunde).</string>
-    <string name="voice_assist_condition">"In diesen Fällen können Sie Mi KI verwenden:
-1. Wenn der Bildschirm an ist.
-2. Wenn Sie bei ausgeschaltetem Bildschirm Musik hören."</string>
     <string name="voice_assist_desp">"Sagen Sie \"Mi KI\" in Ihr Telefon. Mi KI erkennt Ihre Stimme und ist in der Lage, Ihr Gerät zu steuern.</string>
     <string name="voice_assist_desp_screen_light">"Wenn der Bildschirm aufleuchtet, sagen Sie \"Mi KI\" in Ihr Telefon. Mi KI erkennt Ihre Stimme und kann Ihr Gerät steuern."</string>
     <string name="voice_assist_title">Aufwecken mit Stimme</string>

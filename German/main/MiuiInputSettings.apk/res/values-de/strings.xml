@@ -201,7 +201,7 @@
     <string name="ks_dialog_title">%s öffnen</string>
     <string name="ks_launch_control_center">Kontrollzentrum</string>
     <string name="ks_launch_notification_center">Benachrichtigungsleiste</string>
-    <string name="ks_launch_recents_tasks">Zuletzt verwendet öffnen</string>
+    <string name="ks_launch_recents_tasks">Letzte Apps öffnen</string>
     <string name="ks_lock_screen">Sperrbildschirm</string>
     <string name="ks_regional_screen_shot">Screenshot (partiell)</string>
     <string name="ks_reset_title">Standardeinstellungen wiederherstellen</string>
