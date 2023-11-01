@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Akzeptieren</string>
+    <string name="apm_enabled_first_time_message">Ihr Gerät merkt sich, dass WLAN im Flugmodus eingeschaltet bleibt. Schalten Sie WLAN aus, wenn Sie nicht möchten, dass es eingeschaltet bleibt.</string>
+    <string name="apm_enabled_first_time_title">WLAN bleibt an</string>
     <string name="decline">Ablehnen</string>
+    <string name="notification_channel_apm_alerts">APM-Warnungen</string>
     <string name="notification_channel_network_alerts">Netzwerkwarnungen</string>
     <string name="notification_channel_network_available">Netzwerk verfügbar</string>
     <string name="notification_channel_network_status">Netzwerkstatus</string>
@@ -16,8 +19,8 @@
     <string name="wifi_ca_cert_dialog_abort_text">Nein, nicht verbinden</string>
     <string name="wifi_ca_cert_dialog_continue_text">Ja, verbinden</string>
     <string name="wifi_ca_cert_dialog_message_contact_text">Kontakt:\n%1$s\n\n</string>
-    <string name="wifi_ca_cert_dialog_message_hint">Verbindung zu diesem Netzwerk nur zulassen, wenn die unten stehenden Informationen korrekt sind.\n\n</string>
     <string name="wifi_ca_cert_dialog_message_expiration_text">Zertifikatsablauf:\n%1$s\n</string>
+    <string name="wifi_ca_cert_dialog_message_hint">Verbindung zu diesem Netzwerk nur zulassen, wenn die unten stehenden Informationen korrekt sind.\n\n</string>
     <string name="wifi_ca_cert_dialog_message_issuer_name_text">Name des Verfassers:\n%1$s\n\n</string>
     <string name="wifi_ca_cert_dialog_message_organization_text">Organisation:\n%1$s\n\n</string>
     <string name="wifi_ca_cert_dialog_message_server_name_text">Servername:\n%1$s\n\n</string>
@@ -62,14 +65,26 @@
     <string name="wifi_enable_request_dialog_negative_button">Nicht erlauben</string>
     <string name="wifi_enable_request_dialog_positive_button">Erlauben</string>
     <string name="wifi_enable_request_dialog_title">%1$s erlauben, WLAN einzuschalten?</string>
+    <string name="wifi_enabled_apm_first_time_message">Wenn Sie WLAN eingeschaltet lassen, erinnert sich Ihr Gerät daran, dass es eingeschaltet bleibt, wenn Sie sich das nächste Mal im Flugmodus befinden</string>
+    <string name="wifi_enabled_apm_first_time_title">WLAN im Flugmodus an</string>
     <string name="wifi_interface_priority_approve">Erlauben</string>
+    <string name="wifi_interface_priority_interface_name_ap">WLAN-Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">WLAN-Hotspot</string>
     <string name="wifi_interface_priority_message">Dies kann bei %3$s zu Problemen führen.</string>
     <string name="wifi_interface_priority_message_plural">>Dies kann bei diesen Apps zu Problemen führen: %3$s.</string>
     <string name="wifi_interface_priority_reject">Nicht erlauben</string>
     <string name="wifi_interface_priority_title">%1$s möchte eine Netzwerkressource verwenden</string>
+    <string name="wifi_network_disabled_by_admin_button">Schließen</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s wurde von Ihrem Admin deaktiviert</string>
+    <string name="wifi_network_disabled_by_admin_title">Nicht verfügbares Netzwerk</string>
+    <string name="wifi_network_switch_dialog_negative_button">Nicht wechseln</string>
+    <string name="wifi_network_switch_dialog_positive_button">Wechseln</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s ist von schlechter Qualität. Zu %2$s wechseln?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">%1$s ist anscheinend nicht mit dem Internet verbunden. Zu %2$s wechseln?</string>
     <string name="wifi_p2p_enter_pin_message">Gewünschte PIN eingeben:</string>
     <string name="wifi_p2p_frequency_conflict_message">Telefon trennt vorübergehend die WLAN-Verbindung, während es mit %1$s verbunden ist</string>
     <string name="wifi_p2p_from_message">Von:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {In # Sek. annehmen.} other {In # Sek. annehmen.} }</string>
     <string name="wifi_p2p_invitation_sent_title">Einladung gesendet</string>
     <string name="wifi_p2p_invitation_to_connect_title">Einladung zum Verbinden</string>
     <string name="wifi_p2p_to_message">An:</string>

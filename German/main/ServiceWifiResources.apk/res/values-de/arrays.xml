@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem beim Verbinden mit Verizon Wi-Fi Access (Error = 16384).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem beim Verbinden mit Verizon Wi-Fi Access (Error = 16385).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s: Sie können keine Verbindung zu Verizon Wi-Fi Access von außerhalb des Verizon-Versorgungsbereichs herstellen (Error = 32760).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s: Sie haben kein Abo für Verizon Wi-Fi Access. Bitte rufen Sie uns unter 800-922-0204 an (Error = 32761).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem mit Ihrem Verizon Wi-Fi Access-Konto. Bitte rufen Sie uns unter 800-922-0204 an (Error = 32762).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s: Sie sind bereits mit Verizon Wi-Fi Access verbunden (Error = 32763).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem beim Verbinden mit Verizon Wi-Fi Access. Bitte rufen Sie uns unter 800-922-0204 an (Error = 32764).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem mit Ihrem Verizon Wi-Fi Access-Konto. Bitte rufen Sie uns unter 800-922-0204 an (Error = 32765).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s: Verizon Wi-Fi Access ist an Ihrem Standort nicht verfügbar. Später erneut versuchen oder von einem anderen Standort aus (Error = 32766).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem beim Verbinden mit Verizon Wi-Fi Access. Später erneut versuchen oder von einem anderen Standort aus (Error = 32767).</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s: Es gibt ein Problem beim Verbinden mit Verizon Wi-Fi Access (Error = Unknown)</item>
+    </string-array>
+</resources>

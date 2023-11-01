@@ -123,7 +123,7 @@
     <string name="google_assistant_guide_ok">Festlegen</string>
     <string name="google_assistant_guide_tip">*Power-Taste für %s Sekunden gedrückt halten, um das Menü zum Herunterfahren zu öffnen</string>
     <string name="home_key">Startbildschirm</string>
-    <string name="intelligence_suppression_summary">Größe des Bereichs in der Nähe der Ränder, in dem versehentliche Berührungen ignoriert werden, dynamisch an den Griff anpassen</string>
+    <string name="intelligence_suppression_summary">Größe des Bereichs in Randnähe, in dem versehentliche Berührungen ignoriert werden, dynamisch an den Griff anpassen</string>
     <string name="intelligence_suppression_title">Automatisch (empfohlen)</string>
     <string name="kddi_long_press_power_guide_assistant_message">Halten Sie die Einschalttaste für %ss gedrückt, um Google Assistant aufzuwecken</string>
     <string name="kddi_long_press_power_guide_assistant_title">Google Assistant aufwecken</string>
@@ -515,7 +515,7 @@
     <string name="v7_preference_on">AN</string>
     <string name="voice_assist">Mi KI</string>
     <string name="voice_category">Sprache</string>
-    <string name="wake_suppression_summary">Ihr Gerät reagiert besser auf zufällige Berührungen, reagiert aber auch auf die meisten Gestensteuerungen in der Nähe der Ränder.</string>
+    <string name="wake_suppression_summary">Ihr Gerät reagiert besser auf versehentliche Berührungen, aber auch auf die meisten Gestensteuerungen in Randnähe</string>
     <string name="wake_suppression_title">Kleiner Bereich</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>

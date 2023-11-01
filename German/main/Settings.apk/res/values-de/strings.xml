@@ -4666,7 +4666,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="instruction_privacy_password">Dieses Passwort schützt die folgenden Inhalte</string>
     <string name="instruction_title">Wichtige Sicherheitshinweise</string>
     <string name="insufficient_storage">Nicht genügend Speicher</string>
-    <string name="intelligence_suppression_summary">Größe des Bereichs in der Nähe der Ränder, in dem versehentliche Berührungen ignoriert werden, dynamisch an den Griff anpassen</string>
+    <string name="intelligence_suppression_summary">Größe des Bereichs in Randnähe, in dem versehentliche Berührungen ignoriert werden, dynamisch an den Griff anpassen</string>
     <string name="intelligence_suppression_title">Automatisch (empfohlen)</string>
     <string name="intelligent_keep_screen_on">Bildschirm bei Bedarf an lassen</string>
     <string name="intelligent_keep_screen_on_summary">Äußeren Bildschirm an lassen, wenn er nach oben gerichtet ist</string>
@@ -10988,7 +10988,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="vt_provisioned_switch_string">Videoanrufe bereitgestellt</string>
     <string name="wait_for_debugger">Auf Debugger warten</string>
     <string name="wait_for_debugger_summary">Debugged-App wartet auf den Debugger, bevor sie ausgeführt wird</string>
-    <string name="wake_suppression_summary">Ihr Gerät reagiert besser auf zufällige Berührungen, reagiert aber auch auf die meisten Gestensteuerungen in der Nähe der Ränder.</string>
+    <string name="wake_suppression_summary">Ihr Gerät reagiert besser auf versehentliche Berührungen, aber auch auf die meisten Gestensteuerungen in Randnähe</string>
     <string name="wake_suppression_title">Kleiner Bereich</string>
     <string name="wakeup_and_sleep_settings_category_name">Einstellungen Sperrbildschirm</string>
     <string name="wakeup_for_keyguard_notification_title">Bei Benachrichtigungen Bildschirm einschalten</string>
