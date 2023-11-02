@@ -717,7 +717,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren".</string>
     <string name="user_emergency_info_title">Notfalldaten</string>
     <string name="user_grant_admin_button">Zum Admin machen</string>
     <string name="user_grant_admin_message">Admins haben besondere Privilegien, die andere Benutzer nicht haben. Ein Admin kann alle Benutzer verwalten, dieses Gerät aktualisieren oder zurücksetzen, Einstellungen ändern, alle installierten Apps sehen und Admin-Rechte für andere gewähren oder entziehen.</string>
-    <string name="user_grant_admin_title">Diesen Benutzer zu einem Admin machen?</string>
+    <string name="user_grant_admin_title">Diesen Benutzer zum Admin machen?</string>
     <string name="user_guest">Gast</string>
     <string name="user_image_choose_photo">Bild wählen</string>
     <string name="user_image_photo_selector">Foto wählen</string>

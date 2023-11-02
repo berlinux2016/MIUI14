@@ -302,10 +302,10 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="user_switch_to_user">Zu %s wechseln</string>
     <string name="volume_dialog_ringer_guidance_ring">Anrufe und Benachrichtigungen werden klingeln (%1$s)</string>
     <string name="volume_dialog_title">%s Lautstärkeregler</string>
-    <string name="volume_odi_captions_content_description">Beschriftungen überlagern</string>
+    <string name="volume_odi_captions_content_description">Untertitel überlagern</string>
     <string name="volume_odi_captions_hint_disable">deaktivieren</string>
     <string name="volume_odi_captions_hint_enable">aktivieren</string>
-    <string name="volume_odi_captions_tip">Medien automatisch beschriften</string>
+    <string name="volume_odi_captions_tip">Medien automatisch untertiteln</string>
     <string name="volume_ringer_status_silent">Stumm</string>
     <string name="wifi_connected_no_internet">Kein Internet</string>
     <string name="wifi_enhanced_mac_randomization">WLAN-erweiterte MAC-Adress-Randomisierung</string>

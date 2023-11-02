@@ -2318,7 +2318,7 @@
     <string name="user_guide_for_toggle">Schalterliste kann auch horizontal bewegt werden</string>
     <string name="user_guide_for_toggle_list">Schalter verwalten</string>
     <string name="user_grant_admin_message">Admins haben besondere Privilegien, die andere Benutzer nicht haben. Ein Admin kann alle Benutzer verwalten, dieses Gerät aktualisieren oder zurücksetzen, Einstellungen ändern, alle installierten Apps sehen und Admin-Rechte für andere gewähren oder entziehen.</string>
-    <string name="user_grant_admin_title">Diesen Benutzer zu einem Admin machen?</string>
+    <string name="user_grant_admin_title">Diesen Benutzer zum Admin machen?</string>
     <string name="user_image_choose_photo">Bild wählen</string>
     <string name="user_image_photo_selector">Foto wählen</string>
     <string name="user_image_take_photo">Foto aufnehmen</string>
