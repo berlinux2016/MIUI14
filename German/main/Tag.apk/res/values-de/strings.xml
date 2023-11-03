@@ -4,6 +4,12 @@
     <string name="action_text">Text %s</string>
     <string name="app_name">Tags</string>
     <string name="button_done">Fertig</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
     <string name="call_phone_permission_denied">Diese App muss auf die Telefonberechtigung zugreifen, um anzurufen. Sie können die Tag-Berechtigung in den Einstellungen verwalten.</string>
     <string name="empty_tag_prompt">Dieser Tag ist leer</string>
     <string name="external_storage_permission_denied">Diese App muss auf den externen Speicher zugreifen, um auf Dateien zuzugreifen. Sie können die Tag-Berechtigung in den Einstellungen verwalten.</string>
