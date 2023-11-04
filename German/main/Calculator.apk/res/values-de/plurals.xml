@@ -29,18 +29,6 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d Tage</item>
-        <item quantity="one">%d Tag</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d Monate</item>
-        <item quantity="one">%d Monat</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">Jahre</item>
-        <item quantity="one">Jahr</item>
-    </plurals>
     <plurals name="delete_msg">
         <item quantity="other">%d Elemente jetzt löschen?</item>
         <item quantity="one">%d Element jetzt löschen?</item>
@@ -71,10 +59,6 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
-    </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Detaillierte Rückzahlungen (%d Jahre)</item>
-        <item quantity="one">Detaillierte Rückzahlung (%d Jahr)</item>
     </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Detaillierte Rückzahlungen (%d Jahre), CNY</item>

@@ -5311,8 +5311,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lockpassword_password_requires_symbols">{count, plural, =1 {Muss mind. 1 Sonderzeichen enthalten} other {Muss mind. # Sonderzeichen enthalten} }</string>
     <string name="lockpassword_password_requires_uppercase">{count, plural, =1 {Muss mind. 1 Großbuchstaben enthalten} other {Muss mind. # Großbuchstaben enthalten} }</string>
     <string name="lockpassword_password_set_toast">Passwort wurde festgelegt</string>
-    <string name="lockpassword_password_too_long">Passwort muss weniger als %d Zeichen enthalten</string>
-    <string name="lockpassword_password_too_short">Passwort muss mindestens %d Zeichen enthalten</string>
+    <string name="lockpassword_password_too_long">{count, plural, =1 {Muss weniger als # Zeichen haben} other {Muss weniger als # Zeichen haben} }</string>
+    <string name="lockpassword_password_too_short">{count, plural, =1 {Muss mind. # Zeichen haben} other {Muss mind. # Zeichen haben} }</string>
     <string name="lockpassword_password_too_short_all_numeric">{count, plural, =1 {Wenn nur Zahlen verwendet werden, müssen diese mind. 1-stellig sein.} other {Wenn nur Zahlen verwendet werden, müssen diese mind. #-stellig sein.} }</string>
     <string name="lockpassword_pattern_set_toast">Muster wurde festgelegt</string>
     <string name="lockpassword_pin_blacklisted_by_admin">Gängige PINs sind von Ihrem IT Admin gesperrt. Andere PIN versuchen.</string>
@@ -8593,7 +8593,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="security_status_title">Sicherheitsstatus</string>
     <string name="security_update">Sicherheitsupdate</string>
     <string name="see_all">Alle anzeigen</string>
-    <string name="see_all_apps_title">Alle %1$d Apps anzeigen</string>
+    <string name="see_all_apps_title">{count, plural, =1 {Alle Apps anzeigen} other {Alle # Apps anzeigen} }</string>
     <string name="see_backup_files_on_router">Sicherungen auf Mi Router %s anzeigen</string>
     <string name="see_more">Mehr anzeigen</string>
     <string name="seek_bar_info">Größe einstellen</string>

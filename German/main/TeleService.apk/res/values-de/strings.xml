@@ -231,7 +231,7 @@
     <string name="bad_pin2">Eingegebene alte PIN%d ist falsch</string>
     <string name="bad_pin2_old">Eingegebene alte PIN%d ist falsch</string>
     <string name="bad_puk">Eingegebene PUK ist falsch</string>
-    <string name="bad_puk2">Eingegebene PUK% ist falsch</string>
+    <string name="bad_puk2">Eingegebene PUK%d ist falsch</string>
     <string name="band_mode_failed">Erfolglos</string>
     <string name="band_mode_loading">Bandliste laden…</string>
     <string name="band_mode_set">Festlegen</string>
