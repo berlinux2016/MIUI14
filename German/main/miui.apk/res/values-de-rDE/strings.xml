@@ -49,13 +49,18 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="click_to_restore">Wiederherstellen von Systemelementen, um MIUI nach einem Werksreset normal zu verwenden. Zum Starten tippen.</string>
     <string name="close">Schließen</string>
+    <string name="com_android_deskclock">Uhr</string>
     <string name="com_android_email">E-Mail</string>
+    <string name="com_android_soundrecorder">Rekorder</string>
     <string name="com_mi_liveassistant">Live-Übertragungsassistent</string>
     <string name="com_miui_calculator">Rechner</string>
+    <string name="com_miui_cleanmaster">Bereinigung</string>
     <string name="com_miui_compass">Kompass</string>
+    <string name="com_miui_gallery">Galerie</string>
     <string name="com_miui_notes">Notizen</string>
     <string name="com_miui_screenrecorder">Bildschirmaufnahme</string>
     <string name="com_miui_weather2">Wetter</string>
+    <string name="com_xiaomi_calendar">Kalender</string>
     <string name="com_xiaomi_drivemode">Fahrzeugmodus</string>
     <string name="com_xiaomi_gamecenter">Spiele</string>
     <string name="compose_message_hint">Hier Schnellantworten eingeben</string>
@@ -95,6 +100,7 @@
     <string name="dialog_update_notes_positive_button">Aktualisieren</string>
     <string name="dialog_update_notes_title">Notizen aktualisieren</string>
     <string name="do_not_restore_temporarily">Jetzt nicht</string>
+    <string name="download_right_now">Herunterladen</string>
     <string name="early_morning"></string>
     <string name="email">E-Mail</string>
     <string name="eras_ad">n. Chr.</string>

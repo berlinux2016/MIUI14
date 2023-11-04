@@ -42,7 +42,7 @@
     <string name="autofill">"Autom. ausfüllen "</string>
     <string name="autofill_save_message">MIUI erlauben, Ihre Konten und Passwörter zu speichern?</string>
     <string name="autofill_save_ok">Erlauben</string>
-    <string name="autofill_save_sub_message">Sie können Ihre Passwörter unter Einstellungen &gt; Passwörter &amp; Sicherheit &gt; %s einsehen und verwalten.</string>
+    <string name="autofill_save_sub_message">Sie können Ihre Passwörter unter Einstellungen &gt; Fingerabdrücke, Gesichtsdaten und Bildschirmsperre &gt; %s anzeigen und verwalten.</string>
     <string name="autofill_save_title">Passwörter automatisch speichern</string>
     <string name="autofill_service_name">Passwörter verwalten</string>
     <string name="back_double_tap">Doppeltipp Rückseite</string>
@@ -167,6 +167,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein danke</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Anpassen</string>
     <string name="fp_nav_center_action_choose_dlg_title">Home-Taste anpassen</string>
+    <string name="free_form_recommend_tip">Popup</string>
     <string name="freeform_exchange_tip">Popup im Vollbildmodus öffnen</string>
     <string name="freeform_exchange_tip2">In die Ecke ziehen, um abzubrechen</string>
     <string name="freeform_exchange_tip3">Popup im Vollbildmodus öffnen</string>
@@ -347,10 +348,12 @@
     <string name="notificationxylophone">Benachrichtigung (Xylophon)</string>
     <string name="nps_ContentText">Tippen, um Details zu prüfen</string>
     <string name="nps_ContentTitle">Nach GPS suchen</string>
+    <string name="nps_blur_ContentText"> Standort verschleiern jetzt verwenden</string>
+    <string name="nps_close_blur_location">Berechtigung für hohe Genauigkeit einschalten</string>
     <string name="nps_close_mock_location">Falschen Standort deaktivieren</string>
     <string name="nps_description">GPS-Statusmeldung</string>
     <string name="nps_location_service_unavailable">Standortdienst nicht verfügbar</string>
-    <string name="nps_mock_description">Virtuellen Standort verwenden, wiederherstellen erfordert Neustart</string>
+    <string name="nps_mock_description">Jetzt gefälschten Standort verwenden</string>
     <string name="nps_monitor_name">GPS-Standort</string>
     <string name="onehour">30 Min</string>
     <string name="open_close_tip_action">OK</string>
@@ -420,11 +423,13 @@
     <string name="rescuepartyplus_config_reset_context">Einige Daten wurden ggf. gelöscht. Tippen , um Details anzuzeigen.</string>
     <string name="rescuepartyplus_config_reset_title">Systemreparatur abgeschlossen</string>
     <string name="resolver_app_recommend_flag">Empfohlen</string>
+    <string name="resolver_cast">Übertragen</string>
     <string name="resolver_checkbox_always">Immer</string>
     <string name="resolver_checkbox_once">Einmal</string>
     <string name="resolver_mi_browser">Mi Browser</string>
     <string name="resolver_offical_recommend">Offiziell</string>
     <string name="resolver_other_method">Andere Optionen</string>
+    <string name="resolver_print">Drucken</string>
     <string name="resolver_recommend_options_tag">Empfohlene Optionen</string>
     <string name="resource_select">Auswählen</string>
     <string name="reveries">Träumereien (Stereo)</string>
@@ -499,9 +504,11 @@
     <string name="small_freeform_memory_toast_game_type">Öffnen jetzt nicht möglich. Dieses Spiel benötigt zu viel Speicher, um zu funktionieren.</string>
     <string name="softap_notifif_summary">%d verbunden</string>
     <string name="softap_notifif_title">Hotspot \"%s\" ist aktiv</string>
+    <string name="softap_stat_toast">Hotspot aktiv</string>
     <string name="southwestmountain_preview">Berge</string>
     <string name="spaceage">Weltraumzeitalter</string>
     <string name="split_screen">Geteilten Bildschirm öffnen</string>
+    <string name="split_screen_recommend_tip">Geteilter Bildschirm</string>
     <string name="spring">Frühling</string>
     <string name="standard">Lautlos</string>
     <string name="standard_description">Eingehende Anrufe und Benachrichtigung stummschalten</string>
@@ -589,7 +596,6 @@
     <string name="wallpaper_group_curves_title">Kurven</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dynamischer Nebel</string>
     <string name="wallpaper_group_geometric_title">Geometrie</string>
-    <string name="wallpaper_group_glassy_light_title">Beschichtetes Glas</string>
     <string name="wallpaper_group_light_cycles_title">Neonkreise</string>
     <string name="wallpaper_group_macaron_title">Kiesel</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalismus</string>
@@ -599,10 +605,17 @@
     <string name="wallpaper_group_natural_texture_title">Naturmuster</string>
     <string name="wallpaper_group_petros_koublis_title">Tagträume</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universität von Arizona</string>
-    <string name="wallpaper_group_shadow_geometry_title">Geometrie der Schatten</string>
     <string name="waterdrop_preview">Tröpfchen</string>
     <string name="wifi_assistant_wifi_no_internet">Dieses WLAN hat keinen Zugang zum Internet.</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tippen, um Details anzuzeigen.</string>
+    <string name="wifi_disable_micar_p2p_dialog_message">Wenn Sie sich mit einem neuen WLAN verbinden, wird die Verbindung zwischen Ihrem Gerät und Ihrem Auto getrennt. Jetzt trennen?</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_carwith">Wenn Sie sich mit einem neuen WLAN verbinden, wird die Verbindung zwischen Ihrem Gerät und CarWith getrennt. Jetzt trennen?</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_carwith_china">Wenn Sie sich mit einem neuen WLAN verbinden, wird Ihr Gerät von CarWith getrennt. Jetzt trennen?</string>
+    <string name="wifi_disable_micar_p2p_dialog_message_china">Wenn Sie sich mit einem neuen WLAN verbinden, wird Ihr Gerät von Ihrem Auto getrennt. Jetzt trennen?</string>
+    <string name="wifi_disable_micar_p2p_dialog_negative_button">Abbrechen</string>
+    <string name="wifi_disable_micar_p2p_dialog_positive_button">Trennen</string>
+    <string name="wifi_disable_micar_p2p_dialog_title">Vom Auto trennen?</string>
+    <string name="wifi_disable_micar_p2p_dialog_title_carwith">Von CarWith trennen?</string>
     <string name="windchime">Windspiel</string>
     <string name="wireless_charging_notification_message1">Keine kabellosen Geräte zum Aufladen gefunden. Kabelloses Umkehrladen ist nun deaktiviert.</string>
     <string name="wireless_charging_notification_message2">Akku ist weniger als %s geladen. Kabelloses Umkehrladen ist nun deaktiviert.</string>
@@ -610,4 +623,6 @@
     <string name="wireless_charging_notification_titile">Kabelloses Umkehrladen ausgeschaltet</string>
     <string name="xspace_head">Dual App</string>
     <string name="xspace_resolver_activity_title">App wählen</string>
+    <string name="zone_volume_automatic_change_optimization_text">Es wird empfohlen, die After Sales-Inspektion aufzusuchen. Möchten Sie die Lautstärketasten blockieren und die Standardlautstärke verwenden?</string>
+    <string name="zone_volume_automatic_change_optimization_title">Bei der Lautstärketaste wurde eine Anomalie festgestellt</string>
 </resources>

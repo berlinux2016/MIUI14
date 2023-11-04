@@ -56,6 +56,10 @@
         <item quantity="other">%d neue Benachrichtigungen</item>
         <item quantity="one">%d neue Benachrichtigung</item>
     </plurals>
+    <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi KI hat %1$d Anrufe für Sie beantwortet</item>
+        <item quantity="one">Mi KI hat %1$d Anruf für Sie beantwortet</item>
+    </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Verpasste Anrufe</item>
         <item quantity="one">Verpasster Anruf</item>

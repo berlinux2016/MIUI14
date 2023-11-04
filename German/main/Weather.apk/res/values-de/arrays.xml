@@ -78,6 +78,30 @@
         <item>Ernsthaft verschmutzt</item>
         <item>Außerhalb des Messbereichs</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Tocken</item>
+        <item>Komfortabel</item>
+        <item>Feucht</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Hoch</item>
+        <item>Mäßig</item>
+        <item>Niedrig</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Kalt</item>
+        <item>Kühl</item>
+        <item>Komfortabel</item>
+        <item>Warm</item>
+        <item>Heiß</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Schwach</item>
+        <item>Mäßig</item>
+        <item>Stark</item>
+        <item>Sehr stark</item>
+        <item>Schwer</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Klar</item>
         <item>Bewölkt</item>
@@ -100,7 +124,7 @@
         <item>Starker Sandsturm</item>
         <item>Sandsturm</item>
         <item>Sand</item>
-        <item>Windig</item>
+        <item>Staubsturm</item>
         <item>Hagel</item>
         <item>Staub</item>
         <item>Dunst</item>

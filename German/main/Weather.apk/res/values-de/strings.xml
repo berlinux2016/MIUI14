@@ -162,6 +162,7 @@
     <string name="daily_forecast_add_city_add">Folgen</string>
     <string name="daily_forecast_add_city_message">Folgen Sie dem Wetter in %1$s für eine detailliertere Vorhersage.</string>
     <string name="daily_forecast_add_city_title">Folgen Sie dem Wetter in %1$s</string>
+    <string name="daily_forecast_card_title">%d-Tage-Vorschau</string>
     <string name="daily_forecast_detail">Vorhersage</string>
     <string name="daily_forecast_detail_date">dd.MM.</string>
     <string name="daily_forecast_no_data">Wetterdaten wurden nicht geladen.\nZum Aktualisieren nach unten ziehen oder die Netzwerkeinstellungen prüfen.</string>
@@ -229,8 +230,7 @@
     <string name="feedback_result_fail_same_type">Anscheinend unterscheidet sich Ihr Bericht nicht vom aktuellen Wetter. Erneut versuchen.</string>
     <string name="feedback_result_interval_time_too_short">%1$s Sekunden nach dem Feedback</string>
     <string name="feedback_result_success">Erfolgreich übermittelt. Danke für Ihr Feedback</string>
-    <string name="feedback_sand">Sand</string>
-    <string name="feedback_sandy">Sandig</string>
+    <string name="feedback_sandy">Staubsturm</string>
     <string name="feedback_sunny">Sonnig</string>
     <string name="first_start_network_msg">Diese App benötigt eine Internetverbindung und Ihren Standort, um ordnungsgemäß zu funktionieren.</string>
     <string name="first_start_network_title">Internetzugriff und Standortabfrage</string>
@@ -519,7 +519,6 @@
     <string name="share_menu_title">Teilen</string>
     <string name="share_subject">Teilen</string>
     <string name="share_title">Wetterbericht teilen</string>
-    <string name="share_weather_desc">\#MIUI Weather# Heute %1$s %2$s</string>
     <string name="share_weather_desc_split">", "</string>
     <string name="share_weather_save_pic_fail">Screenshot wurde nicht aufgenommen</string>
     <string name="shortcut_short_label_24_hour_forecast">%d-Std-Vorhersage</string>
