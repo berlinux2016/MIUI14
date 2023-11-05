@@ -153,7 +153,7 @@
     <string name="date_time_picker_has_not_set_alarm">Wecker ist nicht eingestellt</string>
     <string name="date_time_picker_has_set_alarm">Wecker erfolgreich eingestellt</string>
     <string name="db_downgrade_clear_button">App-Daten löschen</string>
-    <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere MIUI Version wechseln, müssen Sie die App-Daten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen in der Cloud gesichert haben.</string>
+    <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere Systemversion wechseln, müssen Sie die App-Daten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen in der Cloud gesichert haben.</string>
     <string name="default_folder_name">Ordner nicht benannt</string>
     <string name="default_update_documents">Update verfügbar. Jetzt aktualisieren?</string>
     <string name="delete_folder_dialog_tile">Ordner löschen</string>
@@ -327,6 +327,8 @@
     <string name="image_annotation_edit_hint">Bildbeschreibung</string>
     <string name="image_annotation_edit_length_warning">Bildbeschreibung kann bis zu %d Zeichen enthalten</string>
     <string name="info_note_enter_desktop">Zum Desktop hinzugefügt</string>
+    <string name="insert_image_menu_take_photo_by_local_device">Foto mit diesem Gerät machen</string>
+    <string name="insert_image_menu_take_photo_by_remote_device">Foto mit %1$s machen</string>
     <string name="insert_image_size_limit_tip">Dieses Bild ist über %d MB groß. Es wurde automatisch komprimiert.</string>
     <string name="last_excerpt_unfinish_hint">Der letzte Auszug ist unvollständig</string>
     <string name="loading_text">Einen Moment…</string>
@@ -409,6 +411,7 @@
     <string name="miui_penengine_setting_show_black_background">Schwarz</string>
     <string name="miui_penengine_setting_show_grid_background">Gepunktet</string>
     <string name="miui_penengine_setting_show_white_background">Weiß</string>
+    <string name="miui_penengine_toast_add_to_clip">Erfolgreich kopiert</string>
     <string name="miui_penengine_tool_brush">Ausgewähltes Werkzeug</string>
     <string name="miui_penengine_tool_brush_stroke1">Strichbreite 1</string>
     <string name="miui_penengine_tool_brush_stroke2">Strichbreite 2</string>
@@ -585,6 +588,7 @@
     <string name="option_menu_save_as_pic">Als Bild speichern</string>
     <string name="option_menu_share">Teilen</string>
     <string name="pad_collpase_navigation">Navigationsleiste ausblenden</string>
+    <string name="pad_dialog_take_photo_by_device">Foto mit %1$s machen</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Kamera verwenden…</string>
     <string name="pad_expand_navigation">Navigationsleiste anzeigen</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galerie</string>
@@ -641,8 +645,9 @@
     <string name="permission_storage_desc_pad_new_v12">Zum Hinzufügen von Bildern zu Notizen und zum Speichern von Notizen als Bilder</string>
     <string name="permission_storage_desc_pad_v12">Zum Hinzufügen von Bildern zu Notizen und zum Speichern von Notizen als Bilder</string>
     <string name="permission_storage_desc_v12">Zum Hinzufügen von Bildern zu Notizen und Speichern von Notizen als Bilder</string>
-    <string name="permission_xiaoai_desc"><Data>Mi KI sammelt Ihre Sprachaufnahmen und Geräte-IDs, um Audio umzuwandeln und Sprachnotizen zu erstellen. Mehr in Mi KI &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> erfahren.</Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Um Sprache-zu-Text-Transkriptionsdienste anzubieten, muss Mi KI Audioeingaben und Ihre Geräte-ID erfassen, die nach dem Zufallsprinzip generiert wird. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Hinweise zur Erklärung über die gemeinsame Nutzung von Daten durch Dritte&lt;/a>, bevor Sie fortfahren. Sie können auch mehr erfahren, indem Sie die Mi KI &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen.</Data></string>
+    <string name="permission_xiaoai_desc"><Data>Mi KI sammelt Ihre Sprachaufnahmen und Geräte-IDs, um Audio umzuwandeln und Sprachnotizen zu erstellen. Mehr dazu können Sie in der in Mi KI &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> erfahren.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>Um Sprache-zu-Text-Transkriptionsdienste anbieten zu können, muss Mi KI Audioeingaben und die IMEI Ihres Geräts erfassen. Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Notizen Erklärung zur Weitergabe von Daten an Dritte&lt;/a>, bevor Sie fortfahren. Mehr dazu könen Sie in der in der Mi KI &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> erfahren.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Um Sprache-zu-Text-Transkriptionsdienste anzubieten, muss Mi KI Audioeingaben und Ihre Geräte-ID erfassen, die nach dem Zufallsprinzip generiert wird. Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Notizen Erklärung zur Weitergabe von Daten an Dritte&lt;/a>, bevor Sie fortfahren. Mehr dazu können Sie in der in der Mi KI &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> erfahren.</Data></string>
     <string name="permission_xiaoai_title">Sprache-zu-Text</string>
     <string name="permlab_accessNote">Zugang zu Notizen</string>
     <string name="pref_category_title_quick_func">Schnellfunktionen</string>

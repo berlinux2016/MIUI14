@@ -1505,8 +1505,7 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="remove_blacklist">Nicht mehr blockieren</string>
     <string name="remove_blacklist_dialog_message">Diese Nummer entsperren?</string>
     <string name="remove_blacklist_dialog_title">Entsperren</string>
-    <string name="remove_duplicate">"MIUI hilft Ihnen, identische Kontakte zu finden.
-Drücken Sie auf Zusammenführen, um zu beginnen."</string>
+    <string name="remove_duplicate">Mit dieser Funktion können Sie doppelte Kontakte finden und zusammenführen. \nUm zu beginnen, tippen Sie auf \"Zusammenführen\" am unteren Bildschirmrand.</string>
     <string name="report_inquiry_mms">Bericht-SMS</string>
     <string name="residual_time_description">%1$s T %2$s Std</string>
     <string name="residual_time_description2">%1$d Std</string>
@@ -1516,8 +1515,7 @@ Drücken Sie auf Zusammenführen, um zu beginnen."</string>
     <string name="restore_app_description_content">Verknüpfung zum Startbildschirm hinzufügen, um schneller auf Ihre Kontakte zuzugreifen</string>
     <string name="restore_app_description_title">\"Kontakte\" zum Startbildschirm hinzufügen?</string>
     <string name="restore_nickname">Wiederherstellen</string>
-    <string name="ret_sign">"
-  "</string>
+    <string name="ret_sign">"\n  "</string>
     <string name="returnCall">Rückruf</string>
     <string name="return_call">Tippen, um zum Anruf zurückzukehren</string>
     <string name="return_call_calling">Laufendes Gespräch</string>
