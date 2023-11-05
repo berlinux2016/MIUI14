@@ -38,7 +38,7 @@
     <string name="act_weather_find_city_searching">Suchen…</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activity_find_city_dialog_cancel">Abbrechen</string>
-    <string name="activity_find_city_dialog_message">Wetter den Standorten, um genaue Standortdaten zu erhalten.</string>
+    <string name="activity_find_city_dialog_message">Wetter Standortzugriff erlauben, um genaue Standortdaten zu erhalten</string>
     <string name="activity_find_city_dialog_message_global">Schalten Sie Standortdienste ein und lassen Sie Ihr Gerät den Standort über Kabellosnetzwerke bestimmen.</string>
     <string name="activity_find_city_dialog_message_location_service">Um aktuelle Wetterdaten zu erhalten, erlauben Sie Wetter den Standortzugriff.</string>
     <string name="activity_find_city_dialog_set">Einstellungen</string>
