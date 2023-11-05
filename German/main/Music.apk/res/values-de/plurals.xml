@@ -31,8 +31,8 @@ Möchten Sie unsere Hilfe bei der Verlängerung?"</item>
         <item quantity="one">Sie möchten nicht automatisch nach Albumcovern und Texten für lokale Titel suchen. Info für %d Titel löschen?</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">erstellt am %1$s | insgesamt %2$d Titel</item>
-        <item quantity="one">erstellt am %1$s | insgesamt %2$d Titel</item>
+        <item quantity="other">erstellt am %1$s \ninsgesamt %2$d Titel</item>
+        <item quantity="one">erstellt am %1$s \ninsgesamt %2$d Titel</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
         <item quantity="other">%d Titel wurden nicht in Xiaomi Cloud gesichert. Jetzt aufhören?</item>

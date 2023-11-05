@@ -261,6 +261,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="install_failed">%1$s wurde nicht installiert</string>
     <string name="installing">Installieren…</string>
     <string name="insufficient_space">Nicht genügend Speicherplatz</string>
+    <string name="introduction">Über</string>
     <string name="invalid_address">Eingegebener Dateipfad ist ungültig</string>
     <string name="jump_rank_hint">Schauen Sie sich die heutige Downloadrangliste an &gt;</string>
     <string name="jump_rank_hint2">Top-Downloads anzeigen</string>
@@ -301,6 +302,9 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
     <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
+    <string name="miuix_navigator_content_switch_description">Seitenleiste anzeigen</string>
+    <string name="miuix_navigator_multiple_choice">Wählen</string>
+    <string name="miuix_navigator_navigator_switch_description">Seitenleiste ausblenden</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -572,7 +576,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="starting_analysis">Info abrufen…</string>
     <string name="storage_dialog_content">Downloads den Zugriff auf den Gerätespeicher erlauben, um dessen Funktionen zu nutzen</string>
     <string name="storage_dialog_go">Einstellungen</string>
-    <string name="storage_dialog_title">Zugriff auf Gerätespeicher</string>
+    <string name="storage_dialog_title">Berechtigungen erforderlich</string>
     <string name="storage_internal">Interner Speicher</string>
     <string name="storage_permission_deny">Speicherberechtigungen erforderlich</string>
     <string name="storage_sd_card">SD-Karte</string>
