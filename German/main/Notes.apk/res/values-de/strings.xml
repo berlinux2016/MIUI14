@@ -465,6 +465,9 @@
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
     <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
+    <string name="miuix_navigator_content_switch_description">Seitenleiste anzeigen</string>
+    <string name="miuix_navigator_multiple_choice">Wählen</string>
+    <string name="miuix_navigator_navigator_switch_description">Seitenleiste ausblenden</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -982,6 +985,7 @@
     <string name="toolbar_theme_description">Ein Thema wählen</string>
     <string name="toolbar_undo_description">Rückgängig</string>
     <string name="toolbar_voice_description">Stimme</string>
+    <string name="toolbar_voice_mark_description">Markieren</string>
     <string name="trash_folder_name">Papierkorb</string>
     <string name="trash_folder_reminder_new">Notizen werden %d Tage im Papierkorb aufbewahrt, bevor sie endgültig gelöscht werden</string>
     <string name="tuesday">Dienstag</string>

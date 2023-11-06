@@ -29,6 +29,14 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d Std</item>
+        <item quantity="one">%d Std</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d Min</item>
+        <item quantity="one">%d Min</item>
+    </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
         <item quantity="other">%1$d Geräte</item>
         <item quantity="one">%1$d Gerät</item>
@@ -36,6 +44,10 @@
     <plurals name="circulate_audio_group_title_format">
         <item quantity="other">%1$d Geräte</item>
         <item quantity="one">%1$d Gerät</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Geben Sie den Code von %1$s ein (%2$d Sek)</item>
+        <item quantity="one">Geben Sie den Code von %1$s ein (%2$d Sek)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>

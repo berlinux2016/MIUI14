@@ -7,8 +7,8 @@
     <string name="HIPS_Action_Reject">Verweigern</string>
     <string name="HIPS_Action_Reject_Once">Einmal verweigern</string>
     <string name="HIPS_Action_Reject_This">Einmal einschränken</string>
-    <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">Dieser App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
+    <string name="HIPS_Perm_Access_Gallery">Zugriff auf Fotos und Videos, die mit der Kamera gemacht wurden</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">Dieser App den Zugriff auf Fotos und Videos erlauben, die mit der System-Kamera-App gemacht wurden</string>
     <string name="HIPS_Perm_AudioRecorder">Audio aufnehmen</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">Audio aufnehmen</string>
     <string name="HIPS_Perm_AutoStart">Beim Start ausführen</string>
@@ -244,7 +244,7 @@
     <string name="grant_dialog_button_only_allow_foreground_locate">Vorerst einschränken</string>
     <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Immer einschränken</string>
     <string name="grant_dialog_storage_category_title">Diese App erfordert Zugriffsberechtigungen auf die Galerie und Nachrichten in Social Media-Apps</string>
-    <string name="grant_dialog_storage_gallery_title">Galerie</string>
+    <string name="grant_dialog_storage_gallery_title">Fotos und Videos, die mit der Kamera gemacht wurden</string>
     <string name="grant_dialog_storage_sociality_title">Nachrichten in Social Media-Apps</string>
     <string name="group_audio">Musi und Audio</string>
     <string name="group_call">Telefon</string>

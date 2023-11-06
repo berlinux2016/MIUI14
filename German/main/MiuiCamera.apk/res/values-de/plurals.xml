@@ -49,6 +49,14 @@
         <item quantity="other">Dauer: %d Sekunden</item>
         <item quantity="one">Dauer: %d Sekunde</item>
       </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Schnellvorlauf %d Sek</item>
+        <item quantity="one">Schnellvorlauf %d Sek</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Zurückspulen %d Sek</item>
+        <item quantity="one">Zurückspulen %d Sek</item>
+    </plurals>
     <plurals name="cinemaster_toast_camera_overflow">
         <item quantity="other">Sie können bis zu %d Kameras mit demselben Netzwerk verbinden</item>
         <item quantity="one">Sie können bis zu %d Kamera mit demselben Netzwerk verbinden</item>
@@ -115,6 +123,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>

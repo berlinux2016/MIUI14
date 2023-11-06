@@ -195,10 +195,15 @@
     <string name="gb_gputuner_lod_deviation">Mipmap LOD Bias</string>
     <string name="gb_gputuner_multi_render">Multithreaded-Rendering</string>
     <string name="gb_not_support_on_device">Diese App kann nicht am äußeren Bildschirm verwendet werden</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">Um diese Funktion zu nutzen, ändern Sie die Displayauflösung in Einstellungen auf WQHD+.</string>
+    <string name="gb_pannel_control_frame_rate_dialog_positive">Einstellungen</string>
+    <string name="gb_pannel_control_frame_rate_dialog_title">Displayauflösung ändern</string>
     <string name="gb_pannel_control_mode_balance">Ausgewogen</string>
     <string name="gb_pannel_control_mode_custom">Individuell</string>
+    <string name="gb_pannel_control_mode_frame_rate">Priorität Bildrate</string>
     <string name="gb_pannel_control_mode_high_quality">Hohe Qualität</string>
     <string name="gb_pannel_control_mode_normal">Standard</string>
+    <string name="gb_pannel_control_mode_picture">Bildpriorität</string>
     <string name="gb_pannel_control_mode_power_saving">Stromsparen</string>
     <string name="gb_web_panel_failure_retry">Element laden nicht möglich. Erneut versuchen.</string>
     <string name="gb_web_panel_game_loading">Einen Moment…</string>

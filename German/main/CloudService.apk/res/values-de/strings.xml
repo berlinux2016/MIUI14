@@ -203,7 +203,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="gallery_auto_sync_fail_noti_content">Nicht genügend Speicher in der Cloud. Aktualisieren Sie Ihren Speichertarif, um Fotos und Videos zu synchronisieren.</string>
+    <string name="gallery_auto_sync_fail_noti_content">Cloud-Speicher ist unzureichend. Fotos können nicht gespeichert werden.</string>
     <string name="gallery_data_transfer_ddl">Stichtag: %s</string>
     <string name="gallery_data_transfer_summary">Galerieelemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen und deren Dienste zu nutzen, um Ihre Elemente zu sichern.</string>
     <string name="gallery_data_transfer_title">Synchronisierte Fotos und Videos zu Google Fotos übertragen</string>

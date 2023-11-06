@@ -47,6 +47,7 @@
     <string name="app_name">Dateimanager</string>
     <string name="app_name_camera">Kamera</string>
     <string name="app_name_downloadedrom">Pakete</string>
+    <string name="app_name_miui">Systemressourcen</string>
     <string name="app_name_miuimusic">Musik</string>
     <string name="app_name_miuiringtone">Klingeltöne</string>
     <string name="app_name_miuiwallpaper">Hintergründe</string>

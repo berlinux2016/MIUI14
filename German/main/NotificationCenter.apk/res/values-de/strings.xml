@@ -61,7 +61,10 @@
     <string name="feedback_tip_title">Feedback zu den Benachrichtigungskategorien</string>
     <string name="float_notification_snooze_strategy">Temporär ausblenden</string>
     <string name="float_notification_snooze_summary">Auf einem Popup hochwischen, um kommende Benachrichtigungen vorübergehend auszublenden</string>
-    <string name="float_notifications">Popup</string>
+    <string name="float_notification_snooze_summary_1_min">Auf einer Popup-Benachrichtigung hochwischen, um anstehende für %d Min auszublenden</string>
+    <string name="float_notification_snooze_summary_always_float">Popup-Benachrichtigungen immer anzeigen</string>
+    <string name="float_notification_snooze_summary_until_unlock">Auf einer Popup-Benachrichtigung hochwischen, um anstehende zu verbergen, bis das Gerät gesperrt ist</string>
+    <string name="float_notifications">Popup-Benachrichtigungen</string>
     <string name="float_notifications_short">Popup</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>
