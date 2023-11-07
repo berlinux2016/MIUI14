@@ -30,10 +30,10 @@
     <string name="appcirculate_fragment_circulate_device_card_button">Jetzt einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Siehe Hilfe</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Nach dem Einschalten können Sie nach Geräten in der Nähe suchen.\nErleben Sie die Video- und Audio-Streaming-Funktion.</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Turn on WLAN and Bluetooth</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_1">WLAN und Bluetooth einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">WLAN und Bluetooth einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Bluetooth einschalten</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_title_3">Turn on WLAN</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_title_3">WLAN einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">WLAN einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_title">Ihre Geräte\nwurden nicht gefunden?"</string>
     <string name="appcirculate_fragment_circulate_device_content_description">Auf anderem Gerät öffnen: %1$s</string>
@@ -42,11 +42,11 @@
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Erneut suchen</string>
     <string name="appcirculate_fragment_circulate_device_list_text_none"><u>Ihre Geräte wurden nicht gefunden?</u></string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Suche nach Geräten in der Nähe…</string>
-    <string name="appcirculate_toast_busy">Es scheint, als würde ein anderes Gerät gerade Dateien übertragen. Warten, bis die Übertragung abgeschlossen ist und versuche es erneut.</string>
+    <string name="appcirculate_toast_busy">Anscheinend überträgt gerade ein anderes Gerät Dateien. Warten, bis die Übertragung abgeschlossen ist und erneut versuchen.</string>
     <string name="appcirculate_toast_cancel">Abgebrochen</string>
     <string name="appcirculate_toast_connected">Übertragung gestartet</string>
     <string name="appcirculate_toast_fail">Wechsel auf anderes Gerät fehlgeschlagen</string>
-    <string name="appcirculate_toast_loading">Wechsle auf anderes Gerät…</string>
+    <string name="appcirculate_toast_loading">Auf anderes Gerät wechseln…</string>
     <string name="appcirculate_toast_not_support_device_pad">Diese App kann auf Tablets nicht geöffnet werden</string>
     <string name="appcirculate_toast_not_support_device_pc">Diese App kann auf Computern nicht geöffnet werden</string>
     <string name="appcirculate_toast_not_support_device_phone">Diese App kann auf dem Telefon nicht geöffnet werden</string>
