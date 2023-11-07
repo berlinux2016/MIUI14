@@ -390,10 +390,11 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Deaktiviert</item>
-        <item>Gefiltert aktiviert</item>
+        <item>Gefiltert</item>
         <item>Aktiviert</item>
         <item>Kopfzeilen gefiltert aktiviert</item>
         <item>Media Pkts gefiltert aktiviert</item>
+        <item>Profile gefiltert aktiviert</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Nur ACL-Header belassen</item>

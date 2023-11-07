@@ -181,6 +181,18 @@
         <item quantity="other">Max. %d Prozesse</item>
         <item quantity="one">Max. %d Prozess</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d hinzugefügt</item>
+        <item quantity="one">%d hinzugefügt</item>
+    </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">WLAN wird automatisch eingeschaltet, wenn Ihr Gerät gespeicherte Netzwerke in der Nähe erkennt, und nach %d Min ausgeschaltet, wenn keine Verbindung hergestellt wird</item>
+        <item quantity="one">WLAN wird automatisch eingeschaltet, wenn Ihr Gerät gespeicherte Netzwerke in der Nähe erkennt, und nach %d Min ausgeschaltet, wenn keine Verbindung hergestellt wird</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d Elemente gewählt</item>
+        <item quantity="one">%d Element gewählt</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d neue Benachrichtigungen</item>
         <item quantity="one">%d neue Benachrichtigung</item>
@@ -212,6 +224,10 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Sie sind %1$d Schritte von den Fehlerberichten entfernt.</item>
         <item quantity="one">Sie sind %1$d Schritt von den Fehlerberichten entfernt.</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d Apps können unbeschränkt Daten verwenden</item>
+        <item quantity="one">1 App kann unbeschränkt Daten verwenden</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%s Apps dürfen keine Benachrichtigungen anzeigen</item>

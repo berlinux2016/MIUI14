@@ -492,6 +492,7 @@
     <string name="change_pin_succeeded">PIN für Sprachnachrichten aktualisiert</string>
     <string name="change_pin_system_error">PIN wurde nicht geändert</string>
     <string name="change_pin_title">PIN für Sprachnachrichten ändern</string>
+    <string name="checkbox_do_not_show_again">Nicht mehr anzeigen</string>
     <string name="china_mobile_palm_category">Betreiber-Service</string>
     <string name="choose_network_title">Netzwerk wählen</string>
     <string name="clear_all_set_button">Einstellungen löschen</string>
@@ -556,6 +557,7 @@
     <string name="clir_choices_show_number">Nummer anzeigen</string>
     <string name="close">Schließen</string>
     <string name="close_profile">Schließen</string>
+    <string name="close_smart_dual_sim">Abbrechen</string>
     <string name="close_volte">VoLTE ausschalten</string>
     <string name="cloud_antispam_title">Unbekannte Nummern identifizieren</string>
     <string name="cloud_sim_enabled_dual_4g_summary">Dual 4G ausschalten nicht möglich, während Mi Roaming genutzt wird</string>
@@ -711,6 +713,10 @@
     <string name="emm_cause_7_8_12_13_15_16_17_22">Sie können Roaming jetzt nicht nutzen. Gerät ausschalten, wieder einschalten und erneut versuchen. Wenn dieses Problem danach immer noch auftritt, wenden Sie sich an den Anbieter-Kundendienst (SKT: +%1$d-%2$d-%3$d-%4$d).</string>
     <string name="empty_networks_list">Kein Netzwerk gefunden</string>
     <string name="enable">Aktivieren</string>
+    <string name="enable_2g_dialog_title">Achtung</string>
+    <string name="enable_2g_dialog_warn_message">Wenn Sie 2G ausschalten und sich in einem Gebiet befinden, in dem 2G das einzige verfügbare Netz ist, können Sie keine Notrufe oder andere Anrufe führen. Trotzdem ausschalten?</string>
+    <string name="enable_2g_summary">2G-Netze sind weniger sicher, können aber an manchen Orten die Verbindungsqualität verbessern</string>
+    <string name="enable_2g_title">Verwendung von 2G zulassen</string>
     <string name="enable_antispam_strange_summary">Ersten Anruf einer unbekannten Nummer lautlos stellen</string>
     <string name="enable_antispam_strange_title">Erstes Klingeln stummschalten</string>
     <string name="enable_cdma_call_waiting_setting">Während eines Anrufs werden Sie über eingehende Anrufe benachrichtigt</string>
@@ -1243,7 +1249,6 @@
     <string name="msim_setting_sms_pop_text">Beim Senden von SMS auswählen</string>
     <string name="msim_sim_lock">Gesperrt</string>
     <string name="msim_sim_radio_off">Aus</string>
-    <string name="msim_switch_data_conn_toast">SIM-Karten getauscht. Netzwerktyp hat sich geändert.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM-Slot %d unterstützt nur GSM-Netze. Bevorzugte Netzwerkarte für diesen Slot wurde auf reines 2G abgeändert.</string>
     <string name="mtn_simlock_emergency">Notfall</string>
     <string name="mtn_simlock_text_tip">Die eingelegte SIM erfüllt nicht die Anforderungen. Sie müssen eine für den Vertrag erforderliche SIM einlegen, bevor Sie das Telefon verwenden können. Für weitere Informationen wenden Sie sich bitte an Ihren lokalen Anbieter.</string>
@@ -1297,6 +1302,7 @@
     <string name="no_active_esim_text">eSIM inaktiv</string>
     <string name="no_change">Keine Änderungen vorgenommen</string>
     <string name="no_checked_network">Sie können sich nicht mit einem Mobilfunknetz verbinden und telefonieren. Anderes Netzwerk wählen?</string>
+    <string name="no_ims_service_notification_content">Wenden Sie sich an Ihren Dienstanbieter, um dieses Problem zu lösen.</string>
     <string name="no_internet_available">Erst Internetverbindung prüfen, bevor Sie einen SIP-Anruf tätigen</string>
     <string name="no_mobile_data">Mobile Daten nicht verfügbar</string>
     <string name="no_mobile_data_roaming">Datenroaming nicht verfügbar</string>
@@ -1361,6 +1367,7 @@
     <string name="onscreenVideoCallText">Videoanruf</string>
     <string name="opconfig_info">OpConfig-Info anzeigen</string>
     <string name="open_miui">Einschalten</string>
+    <string name="open_smart_dual_sim">Einschalten</string>
     <string name="opened_dual_4g_confirm_prompt">Anscheinend haben Sie nur eine 4G SIM. Dual 4G wurde automatisch eingeschaltet.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM-%1$s unterstützt nur 4G. Um sicherzustellen, dass Ihre SIM normal funktioniert, wurde Dual 4G eingeschaltet.</string>
     <string name="operator">Mobilfunkanbieter</string>
@@ -1562,6 +1569,7 @@
     <string name="prompt_to_suggest_no_call_service_notification_content">Anrufe tätigen und annehmen nicht möglich. VoLTE-Service ist jetzt für Ihre SIM (China Telecom) deaktiviert.</string>
     <string name="prompt_to_suggest_no_call_service_notification_content2">Anrufe tätigen und annehmen nicht möglich. VoLTE-Service ist jetzt für SIM%d (China Telecom) deaktiviert.</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">Anrufe tätigen und annehmen nicht möglich.</string>
+    <string name="prompt_to_suggest_no_ims_service_notification_title">VoLTE-Dienst kann nicht verwendet werden</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">Anrufe nicht möglich. China Telecom kontaktieren, um VoLTE-Service einzuschalten.</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator2">Anrufe mit SIM%d nicht möglich. China Telecom kontaktieren, um VoLTE-Service zu aktivieren.</string>
     <string name="prompt_to_turnoff_volte_when_failed">VoLTE-Service nicht verfügbar. VoLTE deaktivieren, um zu telefonieren.</string>
@@ -1728,8 +1736,10 @@
     <string name="sat_location">Sat-Standort:</string>
     <string name="sat_sub_id">Sub-Id:</string>
     <string name="sat_version">Modemversion:</string>
+    <string name="satellite_findout_settings_title">Tiantong-Satellit ermitteln</string>
     <string name="satellite_mobile_settings_summary">Wird nur von China Telecom SIM-Karten unterstützt</string>
     <string name="satellite_mobile_settings_title">Satelliten öffnen</string>
+    <string name="satellite_tiantong_setting">Tiantong-Satellit</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
@@ -1822,6 +1832,8 @@
     <string name="skt_msim_emm_cause_7_8_15">SIM %1$d wurde nicht am Netz angemeldet. Gerät ausschalten, wieder einschalten und erneut versuchen. Wenn dieses Problem danach immer noch auftritt, wenden Sie sich an den Kundendienst (%2$d-%3$d%4$d%5$d).</string>
     <string name="smart_divert_summary">CFNRc Einstellungen</string>
     <string name="smart_divert_title">Smart Divert/Kluge Rufumleitung</string>
+    <string name="smart_dual_sim_available_message">Smart Dual SIM einschalten, um die Qualität von Videoanrufen zu verbessern. Jetzt einschalten?</string>
+    <string name="smart_dual_sim_available_title">Smart Dual SIM</string>
     <string name="smart_dual_sim_prompt">Ihr Gerät stellt über die zweite SIM eine Verbindung zu einem mobilen Datennetz her, wenn die aktuelle Verbindung schlecht ist. Dies kann zusätzliche Datenkosten verursachen. Legen Sie ein Limit für die Datennutzung fest, um zusätzliche Kosten zu vermeiden.</string>
     <string name="smart_dual_sim_prompt_ok">Einstellungen</string>
     <string name="smart_dual_sim_prompt_title">Datenverbrauchswarnung (SIM %s)</string>
@@ -2133,6 +2145,8 @@
     <string name="volte_provision_text">VoLTE-Anrufe bieten eine bessere Qualität als normale Anrufe. SMS zum Aktivieren senden?</string>
     <string name="volte_provision_title">VoLTE-Anrufe</string>
     <string name="volte_provisioned_switch_string">VoLTE-Kennzeichnung</string>
+    <string name="volte_switch_globalization_prompt">Dieses Mobilfunknetz wurde nicht für VoLTE auf diesem Gerät verifiziert. Die Aktivierung dieser Funktion kann sich auf die Akkulaufzeit, Anrufe, Nachrichten, Voicemail und mobile Datennutzung auswirken.</string>
+    <string name="volte_switch_globalization_prompt_title">Achtung</string>
     <string name="volte_switch_not_support_summary">VoLTE-Anrufe werden für diese SIM nicht unterstützt</string>
     <string name="volte_switch_not_support_summary2">VoLTE-Anrufe werden vom Mobilfunkanbieter nicht unterstützt.</string>
     <string name="volte_switch_summary">4G zur Verbesserung des Sprach- und Kommunikationsdienstes nutzen (empfohlen)</string>
