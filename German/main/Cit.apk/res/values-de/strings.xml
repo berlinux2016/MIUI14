@@ -43,6 +43,7 @@
     <string name="baterry_percent">"Höhe der Akkuladung: "</string>
     <string name="baterry_temperature">"Akkutemperatur: "</string>
     <string name="battery_authentic">Akku authentisch</string>
+    <string name="battery_auto_plug_wirelee_summary">Drahtloses Ladegerät erfolgreich verbunden, Test bestanden</string>
     <string name="battery_dual_connector">Zweiter Akku-Anschluss</string>
     <string name="battery_id">Akku-ID:</string>
     <string name="battery_info">Information zum Laden des Akkus</string>
@@ -255,6 +256,14 @@ Halten Sie das Gerät so, als ob Sie einen Anruf annehmen, sprechen Sie in das M
     <string name="cit_build_finger_passed">Fingerabdruck erstellen BESTANDEN</string>
     <string name="cit_button_light_off">Beleuchtete Tasten AUS</string>
     <string name="cit_button_light_on">Beleuchtete Tasten AN</string>
+    <string name="cit_btn_security_test_summary">"1. Bitte drücken Sie die Taste und warten Sie eine Weile; achten Sie darauf, den Netzwerkstatus zu prüfen.
+2. Wenn Update erfolgreich erscheint, bedeutet dies, dass das Widevine-Zertifikat erfolgreich aktualisiert wurde.
+3. Wenn Zertifikatsaktualisierung fehlgeschlagen erscheint, bedeutet dies, dass die Aktualisierung des Widevine-Zertifikats fehlgeschlagen ist.
+4. Dieses Tool wird nicht als regulärer Test verwendet.
+5. Dieses Tool funktioniert derzeit nur mit dem Xiaomi Pad 6."</string>
+    <string name="cit_btn_security_test_text">Update erfolgreich</string>
+    <string name="cit_btn_security_text">Widevine-Zertifikat-Update</string>
+    <string name="cit_btn_security_text_title">Sicherheitszertifikats-Update</string>
     <string name="cit_calibration_fail">Kalibrierung fehlgeschlagen</string>
     <string name="cit_calibration_finish">Kalibrierungsdaten schreiben abgeschlossen</string>
     <string name="cit_calibration_pass">Kalibrierung bestanden</string>
@@ -355,6 +364,7 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_finger_check_title">Fingerabdrucktest (FPC)</string>
     <string name="cit_flash_life_check_summary">Lebensdauer Geräteblitz abschätzen</string>
     <string name="cit_flash_life_check_title">Blitzlebensdauer</string>
+    <string name="cit_flash_timeout_tip">Test wurde abgebrochen, bitte Flash-Test erneut starten</string>
     <string name="cit_flicker_sensor_check_summary">Flicker-Werte sollten unten stehen</string>
     <string name="cit_flicker_sensor_check_title">Flicker-Sensor</string>
     <string name="cit_flip_board_bottom_speaker_test_title">Unterer Lautsprechertest auf Flip Board</string>
@@ -467,10 +477,15 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_keyboard_test_title">Tasten</string>
     <string name="cit_label">Hardwaretests</string>
     <string name="cit_lcdlight_brightness">Hintergrundbeleuchtung</string>
+    <string name="cit_lcdlight_title">Test Hintergrundbeleuchtung</string>
+    <string name="cit_led_change">LED-Strobe-Modus wählen</string>
     <string name="cit_led_check_backlight">Hinteres Licht</string>
     <string name="cit_led_check_charge_light">Lade-LED</string>
     <string name="cit_led_check_first_flash_light">Erste Blitz-LED</string>
     <string name="cit_led_check_second_flash_light">Zweite Blitz-LED</string>
+    <string name="cit_led_continue">immer hell</string>
+    <string name="cit_led_interval">herrlich</string>
+    <string name="cit_led_negative">negativ</string>
     <string name="cit_led_selected">Aktuell ausgewählt:</string>
     <string name="cit_leds_check_summary">Hintergrundbeleuchtung, Benachrichtigungslicht und Blitzlicht (hinten) sollten reagieren, wenn die entsprechende Taste gedrückt wird.</string>
     <string name="cit_leds_check_title">Benachrichtigungslicht (LED)</string>
@@ -1009,6 +1024,7 @@ Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
     <string name="mic1_spk_loop">Mikrofon-Lautsprecher-Loop</string>
     <string name="mic1test">MIK1</string>
     <string name="mic_check_rm_headset_tip">Nehmen Sie zunächst das Headset ab und nehmen Sie Ton auf.</string>
+    <string name="mic_reopen_tip">Bitte geben Sie diesen Prüfling erneut zur Prüfung ein</string>
     <string name="mic_tip">Bitte machen Sie ein Geräusch ins Mikrofon. Wenn Sie das Headset eingesteckt haben, hören Sie sich den Ton auf dem Headset an.</string>
     <string name="mic_volume_height_tip">MIKRO-Lautstärketest BESTANDEN</string>
     <string name="mic_volume_low_tip">MIKRO-Lautstärketest nicht bestanden. Bitte machen Sie bei der Aufnahme einen lauteren Ton.</string>
@@ -1163,8 +1179,12 @@ Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weite
     <string name="template_data">Vorlagendaten</string>
     <string name="template_hint">Entnehmen Sie %1$s Vorlagen für einen Finger</string>
     <string name="template_progress_hint">Warten auf die Entnahme von Vorlagendaten</string>
+    <string name="test_back_handset">Rückseitiger Hörertest</string>
     <string name="test_back_mic">Hinteres MIKRO</string>
     <string name="test_cases">Testfälle</string>
+    <string name="test_first_flash">Erster Blitztest</string>
+    <string name="test_flash">Blitztest</string>
+    <string name="test_front_handset">Vorderseite Hörertest</string>
     <string name="test_front_mic">Vorderes MIKRO</string>
     <string name="test_headset">Test Headset</string>
     <string name="test_horn_motor_summary">"Sie werden zwei zufällige Zahlen hören.
@@ -1175,6 +1195,7 @@ Wählen Sie die richtige Taste je nach den verschiedenen Vibrationsbedingungen."
     <string name="test_receiver_summary">"Sie hören zwei Zufallszahlen.
 Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="test_result">TESTERGEBNIS</string>
+    <string name="test_second_flash">Zweiter Blitztest</string>
     <string name="test_sidebottom_mic">SeiteUnten MIKRO</string>
     <string name="test_sidetop_mic">SeiteOben MIKRO</string>
     <string name="test_speaker">Lautsprecher</string>
