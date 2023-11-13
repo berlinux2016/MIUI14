@@ -896,9 +896,9 @@
     <string name="format_lunar_calendar_month_day">dd.MM.</string>
     <string name="format_lunar_calendar_month_day_desc">Datum nach traditionellem chinesischen Kalender: %s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, Datum nach traditionellem chinesischen Kalender: %3$s, Feiertag: %4$s</string>
-    <string name="format_month_day_style1">d. MMM</string>
-    <string name="format_month_day_style2">dd.MM.</string>
-    <string name="format_month_day_week">EEE, d. MMM</string>
+    <string name="format_month_day_style1">d/MMM</string>
+    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_week">EEE, dd. MMM</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, Datum nach traditionellem chinesischen Kalender: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, Feiertag: %4$s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Feiertag: %1$s, Datum nach traditionellem chinesischen Kalender: %2$s</string>
