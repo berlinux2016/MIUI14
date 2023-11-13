@@ -57,6 +57,50 @@
         <item quantity="other">%d Jahre</item>
         <item quantity="one">%d Jahr</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d Personen vor Ihnen</item>
+        <item quantity="one">%1d Person vor Ihnen</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">Wartezeit: %s Std</item>
+        <item quantity="one">Wartezeit: %s Std</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">Wartezeit: %s Min</item>
+        <item quantity="one">Wartezeit: %s Min</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">Erstellen… | Wartezeit: %d secs</item>
+        <item quantity="one">Erstellen… | Wartezeit: %d sec</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">Erstellen… | %d Personen vor Ihnen</item>
+        <item quantity="one">Erstellen… | %d Person vor Ihnen</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">Wartezeit: %d Min</item>
+        <item quantity="one">Wartezeit: %d Min</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">Erstellen… | %d Sek verbleiben</item>
+        <item quantity="one">Erstellen… | %d Sek verbleiben</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s Std</item>
+        <item quantity="one">%s Std</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">Eine Person kann bis zu %d KI-Bilder erstellen.</item>
+        <item quantity="one">Eine Person kann bis zu %d KI-Bild erstellen.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d Min</item>
+        <item quantity="one">%d Min</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">Fotos wählen (%d Sek verbleiben)…</item>
+        <item quantity="one">Fotos wählen (%d Sek verbleiben)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Bereits mit %d Personen geteilt</item>
         <item quantity="one">Bereits mit %d Person geteilt</item>
@@ -431,6 +475,10 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">%1$d Fotos aus \"%2$s\" entfernt</item>
         <item quantity="one">%1$d Foto aus \"%2$s\" entfernt</item>
+    </plurals>
+    <plurals name="search_title_ai">
+        <item quantity="other">%d Elemente gefunden</item>
+        <item quantity="one">%d Element gefunden</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d Installationspakete (%3$s) von %1$s</item>

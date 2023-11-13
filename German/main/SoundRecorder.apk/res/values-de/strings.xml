@@ -29,12 +29,13 @@
     <string name="alert_message_delete_record_title">Aufnahme löschen</string>
     <string name="all_record">Alle Aufnahmen</string>
     <string name="allowed">Gewährt</string>
-    <string name="app_name">Rekorder</string>
+    <string name="app_name">Recorder</string>
     <string name="app_record">App-Aufnahmen</string>
     <string name="app_record_preference_title">Sprachanruf-Rekorder</string>
     <string name="back">Zurück</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="btn_clear_records">Aufnahmen löschen (%d Elemente)</string>
+    <string name="btn_continue_record_description">Aufnahme fortsetzen</string>
     <string name="button_queue_for_wifi">Warteschlange</string>
     <string name="button_start_now">Herunterladen</string>
     <string name="call_record">Anrufaufnahmen</string>
@@ -157,8 +158,8 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="invisible_mode_dialog_title">Sie sind inkognito</string>
     <string name="invisible_mode_error_tip">Inkognito-Modus in den Einstellungen ausschalten, um das Mikrofon zu verwenden</string>
     <string name="keywords_search_call_record">Anrufe aufnehmen;Anruf aufnehmen;Anrufaufnahme;Anrufaufnahmen</string>
-    <string name="keywords_search_record">Neue Aufnahme;Aufnahme hinzufügen;Aufnahme;Aufnahmen;Protokoll;protokollieren;Rekorder;Sprachaufnahme;Sprachrekorder;Rekorder App;Aufnahme App;Wie nehme ich auf;Wie nehme ich Ton auf;Wo ist der Rekorder;MIUI Rekorder</string>
-    <string name="keywords_search_record_list">Rekorder;Protokoll;Protokolle;Aufnehmen;Aufnahme teilen;Aufnahmen teilen;Aufnahme;Aufnahmen</string>
+    <string name="keywords_search_record">Neue Aufnahme;Aufnahme hinzufügen;Aufnahme;Aufnahmen;Protokoll;protokollieren;Recorder;Sprachaufnahme;Sprachrekorder;Recorder App;Aufnahme App;Wie nehme ich auf;Wie nehme ich Ton auf;Wo ist der Recorder;MIUI Recorder</string>
+    <string name="keywords_search_record_list">Recorder;Protokoll;Protokolle;Aufnehmen;Aufnahme teilen;Aufnahmen teilen;Aufnahme;Aufnahmen</string>
     <string name="korea_permission_phone">Telefon</string>
     <string name="korea_permission_phone_resc">Für den Zugriff auf den Gerätestatus und die Handhabung von Aufnahmen während eines Anrufs</string>
     <string name="korea_permission_record">Mikrofon</string>
@@ -216,6 +217,9 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
     <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
+    <string name="miuix_navigator_content_switch_description">Seitenleiste anzeigen</string>
+    <string name="miuix_navigator_multiple_choice">Wählen</string>
+    <string name="miuix_navigator_navigator_switch_description">Seitenleiste ausblenden</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -286,18 +290,18 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="network_error_info">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="network_timeout_info">Netzwerkverbindung nicht möglich. Erneut versuchen.</string>
     <string name="network_tip_dialog_cancel">Nicht einverstanden</string>
-    <string name="network_tip_dialog_content">Rekorder muss eine Internetverbindung herstellen, um normal zu funktionieren. Einverstanden?</string>
+    <string name="network_tip_dialog_content">Recorder muss eine Internetverbindung herstellen, um normal zu funktionieren. Einverstanden?</string>
     <string name="network_tip_dialog_ok">Zustimmen</string>
     <string name="network_tip_dialog_title">Internetverbindung erforderlich</string>
     <string name="network_unavailable_tip">Bitte mit Netzwerk verbinden.</string>
     <string name="new_record_name">Neue Aufnahme</string>
-    <string name="new_saf_permission_dialog_content">Rekorderrechte wurden aktualisiert. Erlauben Sie Rekorder den Zugriff auf Anrufaufnahmen.\n\nErlaubnis erteilen:\nAuf \"%1$s\" tippen und dann \"%2$s\" wählen.</string>
+    <string name="new_saf_permission_dialog_content">Rekorderrechte wurden aktualisiert. Erlauben Sie Recorder den Zugriff auf Anrufaufnahmen.\n\nErlaubnis erteilen:\nAuf \"%1$s\" tippen und dann \"%2$s\" wählen.</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Weiter</string>
     <string name="new_search_alll_records_hint">Alle Aufnahmen durchsuchen</string>
     <string name="new_search_app_records_hint">App-Aufnahmen durchsuchen</string>
     <string name="new_search_call_records_hint">Gesprächsaufzeichnungen durchsuchen</string>
     <string name="new_search_fm_records_hint">Radioaufnahmen durchsuchen</string>
-    <string name="new_search_recorder_records_hint">In Rekorder suchen</string>
+    <string name="new_search_recorder_records_hint">In Recorder suchen</string>
     <string name="night">Abend</string>
     <string name="no_content">Noch keine Elemente hier</string>
     <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>
@@ -347,11 +351,14 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="order_item_number">Bestell-Nr.: %s</string>
     <string name="other_settings_pref_title">Weitere Einstellungen</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
-    <string name="path_soundrecorder_setting">Einstellungen/System-Apps/Rekorder</string>
+    <string name="path_soundrecorder_setting">Einstellungen/System-Apps/Recorder</string>
     <string name="pause_status_focus_notification">Angehalten</string>
     <string name="pay_error_cancel">Zahlung abgebrochen</string>
     <string name="pay_error_null">Zahlungsfehler, Konto prüfen</string>
     <string name="pay_error_unknown">Unbekannter Fehler</string>
+    <string name="permission_bluetooth">Zugriff auf Bluetooth-Verbindungsstatus</string>
+    <string name="permission_bluetooth_dialog_description">Diesem Gerät erlauben, sich mit Geräten in der Nähe zu verbinden, um beim Abspielen von Aufnahmen das Gerät zu wechseln.</string>
+    <string name="permission_bluetooth_title">Berechtigungen erforderlich</string>
     <string name="permission_desc">Berechtigungsdetails</string>
     <string name="permission_dialog_cancel">Abbrechen</string>
     <string name="permission_dialog_ok">Einstellungen</string>
@@ -424,7 +431,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="recognition_status_init">vorbereiten</string>
     <string name="recognition_stop_current">Laufende Aufgabe anhalten</string>
     <string name="recognition_terms">"Hallo, sehr geehrte Benutzer!
-Willkommen bei der Nutzung des Sprache-zu-Text-Dienstes in Xiaomi Rekorder. Dieser Service wird von Anhui Hearing Technology Co. Ltd. angeboten, die in der Lage ist, die Aufnahme schnell in Text zu sortieren, das Problem von Sprache-zu-Text in verschiedenen Szenen wie täglichen Meetings, Bildung und Ausbildung, Medienkommunikation zu lösen und die Arbeit zu verbessern. Effektivität.
+Willkommen bei der Nutzung des Sprache-zu-Text-Dienstes in Xiaomi Recorder. Dieser Service wird von Anhui Hearing Technology Co. Ltd. angeboten, die in der Lage ist, die Aufnahme schnell in Text zu sortieren, das Problem von Sprache-zu-Text in verschiedenen Szenen wie täglichen Meetings, Bildung und Ausbildung, Medienkommunikation zu lösen und die Arbeit zu verbessern. Effektivität.
 Der Sprache-zu-Text-Dienst ist ein kostenpflichtiger Dienst. Die Ladestrategie ist wie folgt:
 Audiodauer\u0009\u0009\u0009\u0009\u0009Berechneter Preis (Orignalpreis)
 Weniger als 10 Minuten\u0009\u0009\u00093.3 Yuan
@@ -509,15 +516,15 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="reg_error_upload_audio">Datei hochladen fehlgeschlagen. Erneut versuchen.</string>
     <string name="reg_error_upload_order">Hochladen fehlgeschlagen. Erneut versuchen.</string>
     <string name="remind_settings_pref_title">Benachrichtigungen</string>
-    <string name="remove_icon_description_content">Rekorder ist eine System-App. Sie können keine Aufnahmen mehr verwalten, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
-    <string name="remove_icon_description_title">\"Rekorder\" vom Startbildschirm entfernen?</string>
+    <string name="remove_icon_description_content">Recorder ist eine System-App. Sie können keine Aufnahmen mehr verwalten, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
+    <string name="remove_icon_description_title">\"Recorder\" vom Startbildschirm entfernen?</string>
     <string name="rename">Umbenennen</string>
     <string name="rename_dialog_title">Aufnahme umbenennen</string>
     <string name="rename_duplicate">Bitte neu eingeben: Eine Aufnahme mit demselben Namen ist bereit vorhanden.</string>
     <string name="rename_fail_tip">Nicht umbenannt. Ein Element mit diesem Namen existiert bereits.</string>
     <string name="rename_no_more_tip">Nicht wieder anzeigen</string>
     <string name="retry">Erneut versuchen</string>
-    <string name="runtime_permission_ungranted">Rekorder kann ohne erteilte Berechtigungen nicht verwendet werden</string>
+    <string name="runtime_permission_ungranted">Recorder kann ohne erteilte Berechtigungen nicht verwendet werden</string>
     <string name="saf_permission_dialog_content">Wegen Android-Beschränkungen benötigt Recorder die Erlaubnis, auf Aufnahmen anderer Apps zuzugreifen. Erlauben Sie Recorder, auf diese Aufnahmen zuzugreifen, um sie zu sehen.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Einstellungen</string>
     <string name="saf_permission_dialog_later">Nein danke</string>
@@ -528,7 +535,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="saturday_shortest">S</string>
     <string name="save_as">Speichern als</string>
     <string name="save_record_dialog_title">Aufnahme speichern</string>
-    <string name="search_app">Rekorder</string>
+    <string name="search_app">Recorder</string>
     <string name="search_empty">Keine Ergebnisse gefunden</string>
     <string name="search_enable_earpiece_title">Ohrhörer-Modus</string>
     <string name="search_hint">Suchen</string>
@@ -584,7 +591,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="sync_only_in_wifi">Synchronisation nur über WLAN</string>
-    <string name="sync_only_in_wifi_summary">Wenn diese Funktion ausgeschaltet ist, verwendet der Rekorder Ihre mobile Datenverbindung zum Hoch- und Herunterladen der Aufnahmen</string>
+    <string name="sync_only_in_wifi_summary">Wenn diese Funktion ausgeschaltet ist, verwendet Recorder Ihre mobile Datenverbindung zum Hoch- und Herunterladen der Aufnahmen</string>
     <string name="sync_records">Synchronisation mit Xiaomi Cloud</string>
     <string name="sync_desc_state_complete">Mit Cloud synchronisiert: %1$s</string>
     <string name="system_error_info">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
@@ -654,6 +661,8 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
+    <string name="toast_enter_silent_mode">Aufnahme. Lautlosmodus ist an.</string>
+    <string name="toast_exit_silent_mode">Aufnahme beendet. Lautlosmodus ist aus.</string>
     <string name="toast_file_is_downloading">Datei wird geladen</string>
     <string name="toast_max_record_time">%1$s kann aufnehmen für ungefähr %2$s</string>
     <string name="toast_uninstall_fileexplorer">Dateibrowser nicht installiert</string>
@@ -662,6 +671,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="trash_box">Kürzlich gelöschte Elemente</string>
     <string name="trash_box_close_tip">Eingabeaufforderung schließen</string>
     <string name="trash_box_delete_all">Alle Elemente dauerhaft aus dem Papierkorb löschen?</string>
+    <string name="trash_delete">Löschen</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>

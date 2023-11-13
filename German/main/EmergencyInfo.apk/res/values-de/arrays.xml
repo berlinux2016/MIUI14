@@ -57,7 +57,6 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
-        <item>192.0 kHz</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Systemauswahl nutzen (Standard)</item>
@@ -65,7 +64,6 @@
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
-        <item>192.0 kHz</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Systemauswahl nutzen (Standard)</item>

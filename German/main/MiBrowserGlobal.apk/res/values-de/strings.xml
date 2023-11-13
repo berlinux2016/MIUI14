@@ -89,6 +89,7 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activate_email_notice">Stellen Sie sicher, dass Sie Ihr Konto innerhalb von 24 Stunden aktivieren</string>
     <string name="activity_not_found_notice">App nicht gefunden</string>
+    <string name="ad_flag_text">WERBUNG</string>
     <string name="ad_loading_tips_text">Anzeige laden…</string>
     <string name="ad_mark">Werbung</string>
     <string name="ad_permission_name">Werbung blockieren</string>
@@ -263,6 +264,7 @@
     <string name="browser_wallpaper_subtitle">Mi Browser mit schönen Hintergründen personalisieren</string>
     <string name="browser_wallpaper_system_default">Standard</string>
     <string name="browser_wallpaper_title">Hintergründe</string>
+    <string name="browser_wallpaper_toast">Schalter für Werbeaktionen ausschalten, um den Hintergrund zu wechseln</string>
     <string name="btn_agree">Zustimmen</string>
     <string name="btn_cancel">Abbrechen</string>
     <string name="btn_confirm">Verstanden</string>
@@ -423,10 +425,12 @@
     <string name="confirm_privacy_password">Entsperrmuster zeichnen</string>
     <string name="confirm_unbundled_phone_dialog_message">Diese Rufnummer wurde mit Xiaomi-Konto %2$s am %1$s verknüpft. Sie wird nicht mehr mit dem Xiaomi-Konto %3$s verknüpft, wenn Sie fortfahren. Fortfahren?</string>
     <string name="connection_lost">Getrennt</string>
+    <string name="content_center_title">Inhaltscenter</string>
     <string name="content_collection_done">Erfolgreich zu Favoriten hinzugefügt</string>
     <string name="content_recommend">Empfohlen</string>
     <string name="contextmenu_add_contact">Kontakt hinzufügen</string>
     <string name="contextmenu_copy">Kopieren</string>
+    <string name="contextmenu_copy_image">Bild kopieren</string>
     <string name="contextmenu_copylink">URL kopieren</string>
     <string name="contextmenu_dial_dot">Wählen…</string>
     <string name="contextmenu_download_image">Bild speichern</string>
@@ -451,6 +455,8 @@
     <string name="continue_reading">Weiterlesen</string>
     <string name="continue_watch_video">Weiterschauen</string>
     <string name="copy">Kopieren</string>
+    <string name="copy_image_failed">Kopieren fehlgeschlagen</string>
+    <string name="copy_image_success">Erfolgreich kopiert</string>
     <string name="copy_success">Erfolgreich kopiert</string>
     <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="copy_url">URL kopieren</string>
@@ -481,6 +487,11 @@
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit festlegen</string>
     <string name="debug_crash">Debuggen von Abstürzen aktivieren</string>
+    <string name="debug_user_firebase_config_list_title">Firebase Konfig-Liste</string>
+    <string name="debug_user_firebase_config_reset">Zurücksetzen</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase-Konfigurationen werden zurückgesetzt</string>
+    <string name="debug_user_firebase_config_reset_loading_dialog">Verarbeitung…</string>
+    <string name="debug_user_firebase_config_search_hint">Konfiguration suchen</string>
     <string name="debug_youtube_file">YouTube-Datei debuggen</string>
     <string name="debug_youtube_in_release">Youtube im Release debuggen</string>
     <string name="decompress">Entpacken</string>
@@ -653,7 +664,7 @@
     <string name="empty_history_hint">Verlauf ist leer</string>
     <string name="empty_snapshot_hint">Leer</string>
     <string name="enable_geolocation_confirm_message">Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen</string>
-    <string name="enable_miui_lite_plus">MiuiLite+ Debug aktivieren</string>
+    <string name="enable_miui_lite_plus">Lite+ Debug aktivieren</string>
     <string name="enable_notification_permission_in_settings">Benachrichtigungen in den Einstellungen zulassen, um diese Funktion zu nutzen</string>
     <string name="enable_vpn">VPN-Debug aktivieren</string>
     <string name="encrypt_success">Erfolgreich ausgeblendet</string>
@@ -965,7 +976,6 @@
     <string name="ignore_add_game_center_dialog_this_week">Diese Woche nicht anzeigen</string>
     <string name="ignore_add_pwa_dialog_today">Heute nicht anzeigen</string>
     <string name="improve_mi_browser_pe">Helfen Sie uns, Mi Browser zu verbessern</string>
-    <string name="in_secureaccess">Browser ist im sicheren Modus</string>
     <string name="incognito_message">Jetzt können Sie privat surfen, und andere Personen, die dieses Gerät verwenden, sehen Ihre Aktivitäten nicht. Downloads und Lesezeichen werden jedoch weiterhin gespeichert.</string>
     <string name="incognito_off">Inkognito-Modus ist aus</string>
     <string name="incognito_on">Sie sind inkognito!</string>
@@ -1179,6 +1189,7 @@
     <string name="more_option">Weitere Optionen</string>
     <string name="more_privacy">Mehr Datenschutzoptionen</string>
     <string name="more_recommend">Weitere Empfehlungen</string>
+    <string name="more_videos">Mehr Videos</string>
     <string name="morning">Morgen</string>
     <string name="most_visited_sites">Meistbesucht</string>
     <string name="most_visited_sites_switch">Meistbesuchte Seiten auf Startseite anzeigen</string>
@@ -1455,8 +1466,6 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="navigationbar_rightbutton_actiontext_search">Suchen</string>
     <string name="need_provide_permissions">Um diese Funktion zu nutzen, müssen Sie die entsprechenden Berechtigungen erteilen.</string>
     <string name="net_error">Netzwerkfehler</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">WLAN-Hotspot in der Nähe gefunden. Verbindung herstellen?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">WLAN verfügbar</string>
     <string name="new_update_available">Update verfügbar</string>
     <string name="news_flow_more_recommend">Weitere empfohlene Elemente</string>
     <string name="news_load_failed">Tippen, um es erneut zu versuchen</string>
@@ -1983,6 +1992,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="reboot">Neu starten</string>
     <string name="recent_apk_status_install">INSTALLIERT</string>
     <string name="recommend">Empfohlen</string>
+    <string name="recommend_bottom_guide">Hochwischen, um mehr Videos zu sehen</string>
     <string name="recommend_button">Folgen (%s)</string>
     <string name="recommend_description">Wir haben einige Autoren ausgewählt, denen Sie vielleicht folgen möchten.</string>
     <string name="recommending_close_toast_text">Stellen Sie in den erweiterten Einstellungen das Schließen dieser Funktion ein</string>
@@ -2129,8 +2139,6 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="search_using_traceless_mode">Inkognito-Modus</string>
     <string name="search_with_browser">Mit Mi Browser suchen</string>
     <string name="secure_download_in_xiaomi_market">Im App Store herunterladen</string>
-    <string name="secureaccess">In den sicheren Modus wechseln</string>
-    <string name="secureaccess_cancel">Ignorieren</string>
     <string name="security_url_confirm_message">Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
     <string name="security_warning">Sicherheitswarnung</string>
     <string name="security_warnings_confirm_message">Deaktivieren dieser Funktion kann zu Sicherheitsrisiken führen</string>
@@ -2176,8 +2184,8 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="settings_search_online_apps">App-Märkte</string>
     <string name="settings_search_online_apps_desc">Inhalt von App-Märkten</string>
     <string name="share_by_yidianzixun">(wenig Informationen)</string>
-    <string name="share_image_text">Schauen Sie, was ich geteilt habe! @MIUI</string>
-    <string name="share_page_text">Schauen Sie, was ich geteilt habe: %1$s @MIUI| %2$s</string>
+    <string name="share_image_text">Ich habe ein Foto geteilt, seht es euch an! @Mi Browser</string>
+    <string name="share_page_text">Schauen Sie, was ich geteilt habe: %1$s @Mi Browser| %2$s</string>
     <string name="share_slide_video_text">Schauen Sie, was ich geteilt habe: %1$s</string>
     <string name="share_video">Video teilen</string>
     <string name="shear_plate_permission_name">Zugriff auf oder Speichern von Elementen in der Zwischenablage</string>
@@ -2302,8 +2310,6 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="switchText">JA</string>
-    <string name="switch_proxy_dialog_msg">Netzwerk-Hijacking erkannt. Verwenden Sie die integrierte MIUI Sicherheits-App oder melden Sie diesen Vorfall Ihrem Mobilfunkanbieter.</string>
-    <string name="switch_proxy_dialog_title">Netzwerk-Hijacking</string>
     <string name="sync_alert_checkbox_bookmark">Lesezeichen</string>
     <string name="sync_alert_checkbox_history">Browserverlauf</string>
     <string name="sync_bookmark">Lesezeichen synchronisieren</string>
@@ -2421,6 +2427,10 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
+    <string name="turn_off_dia_btn_cancel">Abbrechen</string>
+    <string name="turn_off_dia_btn_turn_off">Auschalten</string>
+    <string name="turn_off_dia_content">Wenn Sie Inhaltscenter deaktivieren, können Sie auf dem Startbildschirm nicht hochwischen. Sie können die Aktion für diese Geste unter Einstellungen > Startbildschirm bearbeiten. Inhaltscenter jetzt ausschalten?</string>
+    <string name="turn_off_dia_title">Inhaltscenter ausschalten?</string>
     <string name="twitter_moments">Twitter-Momente</string>
     <string name="type_not_support">Dieses Dateiformat wird nicht unterstützt. Datei entpacken und erneut versuchen.</string>
     <string name="unSwitchText">NEIN</string>
@@ -2448,8 +2458,6 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="url_suggest_indicator_bookmark">Lesezeichen/Verlauf</string>
     <string name="url_suggest_indicator_hoturl">Beliebt</string>
     <string name="url_suggest_indicator_mostvisited">Meistbesucht</string>
-    <string name="use_cellular_network_alert_message">WLAN nicht verfügbar. Stattdessen mobile Datenverbindung verwenden?</string>
-    <string name="use_cellular_network_alert_title">Datenverbrauch</string>
     <string name="user_avatar_update_title">Profilfoto ändern</string>
     <string name="user_avatar_uploading">Einen Moment…</string>
     <string name="user_defined_webpage">Zu Startseite hinzufügen</string>
@@ -2458,10 +2466,16 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="user_experience_content">Das Benutzererfahrungsprogramm hilft uns, unsere Produkte und Dienste gezielt zu verbessern sowie neue Funktionen und Dienste einzuführen, die für Sie hilfreich sind. Wir beginnen mit dem Sammeln und Analysieren relevanter Daten (z. B. Produktnutzungsdaten), sobald Sie sich für das Programm anmelden. Indem Sie unten auf \"Eintragen\" tippen, erklären Sie sich mit den Bedingungen des &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5;>Benutzererfahrungsprogramm&lt;/a>&lt;/font> einverstanden.\nSie können sich jederzeit unter Einstellungen > Datenschutz &amp; Sicherheit abmelden.</string>
     <string name="user_experience_disagree">Nicht eintragen</string>
     <string name="user_experience_title">Benutzererfahrungsprogramm</string>
+    <string name="user_guide_agree">Zustimmen</string>
     <string name="user_guide_color_mode_info">Light Mode und Dark Mode sind verfügbar</string>
     <string name="user_guide_color_mode_title">Farbschema wählen</string>
     <string name="user_guide_control_privacy_tips">Behalten Sie die volle Kontrolle über Ihre Daten</string>
+    <string name="user_guide_disagree">Ablehnen</string>
+    <string name="user_guide_privacy_message">Lesen und akzeptieren Sie unsere &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Datenschutzerklärung&lt;/a>&lt;/font> und &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>Nutzervereinbarung&lt;/a>&lt;/font>, bevor Sie Inhaltscenter verwenden.</string>
+    <string name="user_guide_provide_service_content">Beliebte Videos und Nachrichten</string>
+    <string name="user_guide_provide_service_title">Diese Funktion bietet die folgenden Dienste:</string>
     <string name="user_guide_read_info_tips">Um Apps in die Suchergebnisse aufzunehmen, muss Mi Browser auf die Liste der auf Ihrem Gerät installierten Apps zugreifen.</string>
+    <string name="user_guide_turn_off_feature">Um diese Funktion auszuschalten, tippen Sie &lt;font color=#0a84ff>&lt;u>hier&lt;/u>&lt;/font>.</string>
     <string name="user_id_hint">E-Mail/Telefon/Xiaomi-Konto-ID</string>
     <string name="uuid">UUID (Zum Exportieren tippen)</string>
     <string name="v5_deselect_all">Alles abwählen</string>
@@ -2528,7 +2542,10 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="video_push_multi_title">Update verfügbar</string>
     <string name="video_push_single_message">Tippen zum Update auf %1$d</string>
     <string name="video_replay_btn">Wiederholen</string>
+    <string name="video_report_entrance">Melden</string>
+    <string name="video_report_submit">Abschicken</string>
     <string name="video_retry_btn">Erneut versuchen</string>
+    <string name="video_select_report_reason">Grund wählen</string>
     <string name="video_service_notification_title">Video-Popup abspielen…</string>
     <string name="video_subtitle_last_message1">Weniger als 1 Minute verbleiben</string>
     <string name="video_subtitle_prefix1">Angesehen</string>
@@ -2714,6 +2731,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="whatsapp_status_saver">WhatsApp-Status sichern</string>
     <string name="whatsapp_webpage_btn">Anzeigen</string>
     <string name="whatsapp_webpage_tips">WhatsApp-Status sichern</string>
+    <string name="withdraw_dia_content">Wenn Sie Ihre Zustimmung zur Datenschutzerklärung von Inhaltscenter widerrufen, wird diese Funktion Ihre persönlichen Daten nicht mehr erfassen. Alle zuvor erfassten und auf unsere Server hochgeladenen personenbezogenen Daten werden gelöscht. Sobald Sie Ihre Zustimmung widerrufen, können Sie Inhaltscenter nicht mehr nutzen. Zustimmung jetzt widerrufen?</string>
     <string name="xiaomi_sign_in_btn_txt">Anmelden oder Konto erstellen</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Download-Manager-Verbindung fehlgeschlagen, bitte prüfen Sie den Status des Download-Managers in der App-Verwaltung.</string>

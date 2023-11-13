@@ -546,6 +546,7 @@
     <string name="last_check_canceled">Letzte Suche wurde abgebrochen</string>
     <string name="load_only_under_wlan">Nur mit WLAN laden</string>
     <string name="location_not_found">Datei nicht gefunden</string>
+    <string name="lock_device_toast">Dieses Gerät ist gesperrt. Entsperren, um Cleaner zu verwenden.</string>
     <string name="login_immediately">Anmelden</string>
     <string name="long_click_dialog_summary">Lange antippen, um zu den Ausnahmen hinzuzufügen</string>
     <string name="long_click_dialog_title">Hinweis</string>
@@ -637,6 +638,9 @@
     <string name="msg_update_error_code_unknown_error">Server sind beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="name_debuglog_dir">BSP Debuglog</string>
     <string name="name_optimizer">Datenschutzerklärung</string>
+    <string name="native_body">Körper</string>
+    <string name="native_headline">Überschrift</string>
+    <string name="native_media_view">Medienansicht</string>
     <string name="nb_clear_set">Cache bereinigen, Akku- und Sperrlisteninfos in der Statusleiste anzeigen</string>
     <string name="network_not_available">Keine Netzwerkverbindung</string>
     <string name="news_change">Ändern</string>
@@ -782,13 +786,8 @@
     <string name="pref_title_open_optimizer_cloud_scan">Dateinamen hochladen</string>
     <string name="pref_title_open_optimizer_memory_scan">App-Speicher prüfen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="privacy_app_desc">Konto und Passwort</string>
-    <string name="privacy_app_desc_message">Konto, Passwort und Nachrichten</string>
-    <string name="privacy_app_desc_search">Konto, Passwort und Suchverlauf</string>
-    <string name="privacy_app_desc_setting">Konto, Passwort und Einstellungen</string>
     <string name="privacy_appdata_chrome_history_des">Besuchte Webseiten</string>
     <string name="privacy_browser_desc">Suchverlauf</string>
-    <string name="privacy_cache_desc">Konto, Passwort, Verlauf, Einstellungen und mehr</string>
     <string name="privacy_cache_empty">Keine privaten Daten</string>
     <string name="privacy_cache_scaning">Prüfen…</string>
     <string name="privacy_cache_title">Persönliche Details</string>
@@ -848,6 +847,7 @@
     <string name="similar_image_empty">Keine Duplikate gefunden</string>
     <string name="similar_image_scaning">Prüfen…</string>
     <string name="similar_image_title">Fotos</string>
+    <string name="skip_ad">Überspringen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>

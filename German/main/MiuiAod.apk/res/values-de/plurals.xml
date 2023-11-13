@@ -33,6 +33,10 @@
         <item quantity="other">" %1$s Stunden %2$s"</item>
         <item quantity="one">" %1$s Stunde %2$s"</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosphärischer Druck: %s Hektopascal</item>
+        <item quantity="one">Atmosphärischer Druck: %s Hektopascal</item>
+    </plurals>
     <plurals name="character_pitch_minus">
         <item quantity="other">Reduzierte Zeichenabstände. Zeichenabstand %s.</item>
         <item quantity="one">Reduzierter Zeichenabstand. Zeichenabstand %s.</item>
@@ -53,6 +57,50 @@ Längere Animationen werden an dieser Stelle gestoppt."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s Kalorien verbrannt</item>
+        <item quantity="one">%1$s Kalorie verbrannt</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Kalorienziel: %1$s Kalorien</item>
+        <item quantity="one">Kalorienziel: %1$s Kalorie</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Aktivitätszeit: %1$s Minuten</item>
+        <item quantity="one">Aktivitätszeit: %1$s Minute</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Aktivitätsziel: %1$s Minuten</item>
+        <item quantity="one">Aktivitätsziel: %1$s Minute</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s Min</item>
+        <item quantity="one">%1$s/%2$s Min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Innerhalb von %1$s Stunden aufgestanden</item>
+        <item quantity="one">Innerhalb von %1$s Stunde aufgestanden</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Aufstehziel: %1$s Stunden</item>
+        <item quantity="one">Aufstehziel: %1$s Stunde</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s Std</item>
+        <item quantity="one">%1$s/%2$s Std</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Aktuelle Schrittzahl: %1$s Schritte</item>
+        <item quantity="one">Aktuelle Schrittzahl: %1$s Schritt</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Schrittziel: %1$s Schritte</item>
+        <item quantity="one">SSchrittziel: %1$s Schritt</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s Schritte</item>
+        <item quantity="one">%1$s/%2$s Schritt</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
@@ -89,5 +137,9 @@ Längere Animationen werden an dieser Stelle gestoppt."</item>
     <plurals name="num_minutes_ago">
         <item quantity="one">Vor 1 Minute</item>
         <item quantity="other">Vor %d Minuten</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatur: %1$s Grad, %2$s</item>
+        <item quantity="one">Temperatur: %1$s Grad, %2$s</item>
     </plurals>
 </resources>
