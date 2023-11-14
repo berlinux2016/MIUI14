@@ -557,6 +557,7 @@
     <string name="location_hint">Standort</string>
     <string name="log_save_path">Log-Pfad</string>
     <string name="login">Anmelden</string>
+    <string name="login_cancelled">Anmeldeversuch abgebrochen</string>
     <string name="login_des_126">Bei 126Mail anmelden</string>
     <string name="login_des_163">Bei 163Mail anmelden</string>
     <string name="login_des_exchange">Bei Exchange anmelden</string>

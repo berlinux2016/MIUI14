@@ -1120,6 +1120,9 @@ Grund: \"%s\""</string>
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
     <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
+    <string name="miuix_navigator_content_switch_description">Seitenleiste anzeigen</string>
+    <string name="miuix_navigator_multiple_choice">Wählen</string>
+    <string name="miuix_navigator_navigator_switch_description">Seitenleiste ausblenden</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>

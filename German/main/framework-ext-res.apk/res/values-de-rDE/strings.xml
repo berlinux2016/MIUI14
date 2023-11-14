@@ -220,6 +220,13 @@
     <string name="help">Sie können keine Geräte finden?</string>
     <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
     <string name="high_temperature_brightness_toast">Höhere Bildschirmhelligkeit erhitzt das Gerät und verbraucht mehr Strom</string>
+    <string name="hovermode_text_confirm">Verstanden</string>
+    <string name="hovermode_text_doubleclick">Doppeltipp zum Pausieren/Wiedergeben</string>
+    <string name="hovermode_text_drag">Schieben zum Zoomen</string>
+    <string name="hovermode_text_help">Hilfe</string>
+    <string name="hovermode_text_left">Helligkeit anpassen</string>
+    <string name="hovermode_text_prompt">Wenn der Hover-Modus an ist, verwenden Sie Gesten in der unteren Bildschirmhälfte. Dies kann von App zu App unterschiedlich sein.</string>
+    <string name="hovermode_text_right">Lautstärke anpassen</string>
     <string name="hs_guide_dialog_button_confirm">Verstanden</string>
     <string name="hs_guide_dialog_message">Diese App wurde noch nicht für den neuen Querformatmodus optimiert. Stattdessen wurde zu einem anderen kompatiblen Layout gewechselt.</string>
     <string name="hs_guide_dialog_title">Achtung</string>
@@ -343,6 +350,7 @@
     <string name="mw_guide_dialog_message">Anscheinend unterstützt diese App keine parallelen Fenster. Stattdessen wurde zu einem anderen kompatiblen Layout gewechselt.</string>
     <string name="mw_guide_dialog_title">Parallele Fenster werden nicht unterstützt</string>
     <string name="nearby_share">In der Nähe teilen</string>
+    <string name="no_avaliable_application">Keine Apps verfügbar</string>
     <string name="notice_audition">Naturgeräusche</string>
     <string name="notification_channel_hotspot">Hotspot-Benachrichtigung</string>
     <string name="notificationxylophone">Benachrichtigung (Xylophon)</string>
@@ -359,6 +367,7 @@
     <string name="open_close_tip_action">OK</string>
     <string name="open_close_tip_content">Aktionsleiste gedrückt halten und hochwischen, um das Popup zu schließen</string>
     <string name="open_miui_optimization">Erst MIUI-Optimierung einschalten</string>
+    <string name="open_system_optimization">Erst Systemoptimierung einschalten</string>
     <string name="other_ime">Weitere Tastaturen</string>
     <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
     <string name="package_delete_confirm_step_2">Nach der Deinstallation kann dies zu Systeminstabilität führen</string>
@@ -559,6 +568,10 @@
     <string name="tip_for_phone_and_camera">Gerät falten, um den integrierten Lautsprecher oder die Frontkamera zu verwenden</string>
     <string name="tip_use_front_camera">Gerät falten, um die \ndie Frontkamera zu verwenden</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tof_music_support_scene_des">Unterstützt Musikplayer-Steuerungen</string>
+    <string name="tof_office_support_scene_des">Unterstützt Word-Dokumente und PowerPoint-Präsentationen</string>
+    <string name="tof_short_video_support_scene_des">Unterstützt Umschalten zwischen Videos</string>
+    <string name="tof_video_support_scene_des">Unterstützt Vollbild-Videoplayer-Steuerungen</string>
     <string name="total">Nicht stören</string>
     <string name="total_description">Vibration und Töne aller Elemente außer des Weckers werden ausgeschaltet</string>
     <string name="total_title">Nicht stören</string>
@@ -588,6 +601,7 @@
     <string name="voice_button_action_up">Drücken zum Sprechen</string>
     <string name="voice_input_error_network">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="voice_input_error_other">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
+    <string name="wallpaper_geometrically_irregular_title">Abstrakte Geometrie</string>
     <string name="wallpaper_group_black_gobi_title">Sand aus Gobi</string>
     <string name="wallpaper_group_black_white_title">Schwarz-weiß</string>
     <string name="wallpaper_group_color_move_title">Flüssige Farben</string>
@@ -605,6 +619,8 @@
     <string name="wallpaper_group_natural_texture_title">Naturmuster</string>
     <string name="wallpaper_group_petros_koublis_title">Tagträume</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universität von Arizona</string>
+    <string name="wallpaper_overlapping_space_title">Form und Schatten</string>
+    <string name="wallpaper_submerged_wing_title">Texturen</string>
     <string name="waterdrop_preview">Tröpfchen</string>
     <string name="wifi_assistant_wifi_no_internet">Dieses WLAN hat keinen Zugang zum Internet.</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tippen, um Details anzuzeigen.</string>

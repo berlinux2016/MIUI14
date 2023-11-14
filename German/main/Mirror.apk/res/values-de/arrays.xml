@@ -1,9 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string-array name="desktop_positions">
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
     <string-array name="settings_search_mirror">
         <item>MIUI+ Beta</item>
         <item>Verbinden &amp; Teilen/MIUI+ Beta</item>
         <item>Screen Combo;Duet;Multiscreen;Duo;Computer;Mirror;MIUI+</item>
+    </string-array>
+    <string-array name="settings_search_mirror_desktop">
+        <item>Starbildschirm+</item>
+        <item>Vernetzung/Starbildschirm+</item>
+        <item>Starbildschirm+, Starbildschirm, Mi Smart Hub, Screen Combo, Gerätevernetzung</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Tragbare Hotspots, Mi Share oder Übertragung auf Ihrem Mobilgerät ausschalten, bevor Sie Screen Combo verwenden.

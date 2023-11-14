@@ -42,7 +42,8 @@
     <string name="already_liked">Schon in den Favoriten vorhanden</string>
     <string name="apk_installing">Installieren…</string>
     <string name="app_all_purpose">Sie können gerne den Dateimanager verwenden. Mit dieser App können Sie die Funktionen von Dateien auf Ihrem Telefon verwalten.</string>
-    <string name="app_all_purpose_pad">Willkommen bei File Manager! Sie können diese App verwenden, um die auf Ihrem Gerät gespeicherten Dateien zu verwalten.</string>
+    <string name="app_all_purpose_global">Willkommen bei Dateimanager! Mit dieser App können Sie auf Ihrem Gerät gespeicherte Dateien anzeigen und verwalten.</string>
+    <string name="app_all_purpose_pad">Willkommen bei Dateimanager! Mit dieser App können Sie auf Ihrem Gerät gespeicherte Dateien anzeigen und verwalten.</string>
     <string name="app_function">Dateien auf Ihrem Gerät verwalten</string>
     <string name="app_name">Dateimanager</string>
     <string name="app_name_camera">Kamera</string>
@@ -80,6 +81,12 @@
     <string name="by_date">Geändert am</string>
     <string name="by_size">Größe</string>
     <string name="by_type">Typ</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
     <string name="can_not_send_with_too_many">Zu viele Elemente auf einmal zum Senden</string>
     <string name="cancel">Abbrechen</string>
     <string name="cancel_error">Entfernen fehlgeschlagen. Erneut versuchen</string>
@@ -171,6 +178,7 @@
     <string name="comment_fail_banned_temporary">Sie wurden wegen unangemessener Kommentare vorübergehend gesperrt.</string>
     <string name="comment_hint">Kommentar hinzufügen</string>
     <string name="comment_reply">%1$s antworten: </string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit den Google Play-Diensten. Bitte erneut versuchen.</string>
     <string name="compress_fail">Komprimieren fehlgeschlagen, eine gleichnamige Datei ist bereits vorhanden.</string>
     <string name="compress_fail_unknown">Komprimieren fehlgeschlagen, Speicher voll oder unbekannter Fehler.</string>
     <string name="compress_message">Komprimieren nach…</string>
@@ -253,6 +261,9 @@
     <string name="disk_total">"Gesamt: "</string>
     <string name="dislike_toast">Solche Videos werden Ihnen nicht empfohlen</string>
     <string name="dislike_video">Ich bin nicht interessiert</string>
+    <string name="display_all_dirs">Alle Ordner</string>
+    <string name="display_hide_sys_dirs">Versteckte Systemordner</string>
+    <string name="display_mode">Bildschirm</string>
     <string name="display_setting">Angezeigte Elemente</string>
     <string name="doc_all">Alle</string>
     <string name="download_ad_count">%s Personen nutzen es</string>
@@ -379,6 +390,7 @@
     <string name="ftp_anonymous_login">Anonyme Anmeldung</string>
     <string name="ftp_anonymous_warning_msg">Anonymisierungsfunktionen können Sicherheitsrisiken darstellen. Die Funktion trotzdem nutzen?</string>
     <string name="ftp_anonymous_warning_title">Achtung!!!</string>
+    <string name="ftp_invalid_username">Benutzername darf keine Sonderzeichen enthalten. Einen anderen Namen eingeben.</string>
     <string name="ftp_invalid_username_or_password">Benutzername oder Kennwort falsch</string>
     <string name="ftp_open_port_error">Öffnen des Ports nicht möglich. Prüfen Sie die Netzwerkverbindung oder löschen Sie die Portnummer.</string>
     <string name="ftp_password_hint">Passwort</string>
@@ -387,6 +399,7 @@
     <string name="ftp_username_and_passworld">Anmeldung</string>
     <string name="ftp_username_hint">Benutzername</string>
     <string name="full_gems">Tauschen Sie Ihre Edelsteine</string>
+    <string name="func_settings">Funktionseinstellungen</string>
     <string name="function_file_operation">Zum Anzeigen oder Bearbeiten von Dateien</string>
     <string name="function_set_private">Zum Anzeigen und Verschlüsseln von Dateien</string>
     <string name="function_use_imei">Für IMEI-Zugriff und Dateiverschlüsselung</string>
@@ -453,6 +466,7 @@
     <string name="instruction_pre_phone">Dateien auf diesem Gerät über einen Computer verwalten</string>
     <string name="interest_recommend">Videos empfehlen</string>
     <string name="internal_storage">Interner Speicher</string>
+    <string name="internal_storage_device">Gerät</string>
     <string name="is_playing">Abgespielen…</string>
     <string name="just_now">Gerade eben</string>
     <string name="lack_perm_msg">Dateimanager benötigt die folgenden Berechtigungen, um normal zu funktionieren: &lt;b>%s&lt;/b></string>
@@ -499,6 +513,7 @@
     <string name="material_slider_range_end">Bereichsende,</string>
     <string name="material_slider_range_start">Bereichsanfang,</string>
     <string name="menu_item_cleanup">Dateibereinigung</string>
+    <string name="menu_item_midrop">Dateien übertragen</string>
     <string name="menu_item_search">Suchen</string>
     <string name="menu_item_sort">Sortieren nach</string>
     <string name="menu_item_sort_add_time">"Zu Favoriten hinzugefügt "</string>
@@ -566,6 +581,9 @@
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
     <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
+    <string name="miuix_navigator_content_switch_description">Seitenleiste anzeigen</string>
+    <string name="miuix_navigator_multiple_choice">Wählen</string>
+    <string name="miuix_navigator_navigator_switch_description">Seitenleiste ausblenden</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Erfolgreich aktualisiert</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aktualisieren…</string>
@@ -650,6 +668,8 @@
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
     <string name="my_follows">Mein Feed</string>
     <string name="name_empty">Name eingeben</string>
+    <string name="navigator_label_all_files">Alle Dateien</string>
+    <string name="navigator_label_external_devices">Externe Geräte</string>
     <string name="need_login">Erst Anmelden</string>
     <string name="need_open_content">Erlauben Sie Dateimanager den Zugriff auf Ihre Fotos und Dateien, um diese Funktion zu nutzen.</string>
     <string name="need_open_permission">Berechtigungen erforderlich</string>
@@ -828,6 +848,10 @@
     <string name="permission_account_title_pad">Zugriff auf Gerätekonten</string>
     <string name="permission_denial">Dateizugriff nicht möglich. Erlauben Sie Dateimanager in den Einstellungen den Zugriff auf Dateien.</string>
     <string name="permission_description">Berechtigungsdetails</string>
+    <string name="permission_group_description_phone">Wenn Sie eine Datei als privat kennzeichnen, sammelt diese App die IMEI Ihres Geräts für Erkennungs-, Speicher- und Entsperrungszwecke</string>
+    <string name="permission_group_description_storage_space">Zugriff auf und Hinzufügen von Elementen zum Speicher</string>
+    <string name="permission_group_name_phone">Telefon</string>
+    <string name="permission_group_name_storage_space">Speicher</string>
     <string name="permission_required">Dateizugriff nicht möglich. Erlauben Sie Dateimanager in den Einstellungen den Zugriff auf Dateien.</string>
     <string name="permission_storage_desc_pad">Zum Speichern von Fotos und Dokumenten auf Ihrem Gerät</string>
     <string name="permission_storage_title">Zugriff auf Gerätespeicher</string>
@@ -867,6 +891,7 @@
     <string name="popup_msg_wb">Dieses Video mit Ihren Freunden über Weibo teilen</string>
     <string name="popup_msg_wx">Dieses Video mit Ihren Freunden über WeChat teilen</string>
     <string name="port_range">Port muss zwischen 1024-65535 sein</string>
+    <string name="positive_order">Vorwärts</string>
     <string name="pre_privacy_recall">Widerruf Zustimmung</string>
     <string name="pref_permission_allowed">Gewährt</string>
     <string name="pref_permission_manage_key_storage">Zugriff auf Fotos und Dateien auf dem Gerät</string>
@@ -902,6 +927,9 @@
     <string name="qq_title">Kein Zugriff auf WeChat-Dokumente</string>
     <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="query_quota_searching">Einen Moment…</string>
+    <string name="recent_file_by_source">Dateiquelle</string>
+    <string name="recent_file_sort_by_date">Datum</string>
+    <string name="recent_file_sort_type">Sortiern nach</string>
     <string name="recent_hide_camera_and_screenshots">Galerieelemente und Screenshots nicht unter den letzten Dateien anzeigen</string>
     <string name="recent_hide_cloud_drive_files">Mi Drive-Dateien nicht unter Zuletzt verwendet anzeigen</string>
     <string name="recent_show">Zuletzt</string>
@@ -936,6 +964,7 @@
     <string name="request_timeout">Netzwerktimeout</string>
     <string name="reset_password">Passwort ändern</string>
     <string name="restoring">Wiederherstellen…</string>
+    <string name="reverse_order">Umgekehrt</string>
     <string name="rlv_closing">Schließen…</string>
     <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
     <string name="rlv_loading_more">Einen Moment…</string>
@@ -957,6 +986,7 @@
     <string name="search_app_more">Mehr</string>
     <string name="search_category">Kategorien</string>
     <string name="search_category_folder">Ordner</string>
+    <string name="search_category_type">Nach Kategorie suchen</string>
     <string name="search_description">Nach allen Dateien auf dem Gerät suchen</string>
     <string name="search_download">Downloads;Neueste Downloads</string>
     <string name="search_empty_view_hint">Keine Treffer</string>
@@ -979,6 +1009,7 @@
     <string name="search_statistic_appname">Quelle</string>
     <string name="search_statistic_keyword">Schlüssel</string>
     <string name="search_statistic_tag">Tag</string>
+    <string name="search_text_hint">Dateien durchsuchen</string>
     <string name="search_title">Suchen</string>
     <string name="search_title_hint">Suchen</string>
     <string name="search_topic">Themen suchen</string>
@@ -1069,6 +1100,7 @@
     <string name="sort_hint_name">Nach Name sortiert</string>
     <string name="sort_hint_time">Nach Zeit sortiert</string>
     <string name="sort_hint_type">Nach Typ sortiert</string>
+    <string name="sort_mode">Sortierung</string>
     <string name="sort_size_asc">Von klein nach groß</string>
     <string name="sort_size_desc">Von groß nach klein</string>
     <string name="start_all">Alle anzeigen</string>
@@ -1332,9 +1364,12 @@
     <string name="video_upload_wechat_hint">WeChat Videos hochladen, um mehr Fans zu bekommen</string>
     <string name="video_uploaded">Hochgeladen</string>
     <string name="view_master_rank">Youliao Top anzeigen</string>
+    <string name="view_mode_grid">Raster</string>
+    <string name="view_mode_list">Liste</string>
     <string name="view_more_sticker">Weitere Sticker anzeigen</string>
     <string name="view_top_rank">Ranking anzeigen</string>
     <string name="view_type">Anzeigen</string>
+    <string name="view_type_mode">Layout</string>
     <string name="web_sso_login_fail">Sie müssen sich erneut anmelden</string>
     <string name="web_sso_login_message">Anmelden…</string>
     <string name="webview_reload">Erneut versuchen</string>
