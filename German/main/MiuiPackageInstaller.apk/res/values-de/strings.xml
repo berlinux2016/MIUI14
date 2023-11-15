@@ -48,7 +48,7 @@
     <string name="anonymous_source_continue">Weiter</string>
     <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
     <string name="anonymous_source_warning_tablet">Ihre Geräte und persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für alle Schäden an Ihren Geräten oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
-    <string name="app_already_on_the_app_store">Von GetApps herunterladen</string>
+    <string name="app_already_on_the_app_store">Von einer vertrauenswürdigen Quelle herunterladen</string>
     <string name="app_crash_test_text">Paketinstaller zwangsweise beendet</string>
     <string name="app_description_picture">App-Beschreibung</string>
     <string name="app_detail_change_log">Was ist neu</string>
@@ -77,7 +77,7 @@
     <string name="app_ops_install_exit">Beenden</string>
     <string name="app_permissions">App-Berechtigungen</string>
     <string name="app_permissions_group_summary">%1$d von %2$d Apps sind berechtigt</string>
-    <string name="app_store_has_safe_version">Sichere Version von GetApps herunterladen</string>
+    <string name="app_store_has_safe_version">Sichere Version von einer vertrauenswürdigen Quelle herunterladen</string>
     <string name="app_store_install_hint">Jetzt installieren</string>
     <string name="app_store_installing_message">Installieren…</string>
     <string name="app_store_missing_message">Anscheinend ist unser offizieller App Store nicht installiert. Jetzt installieren?</string>
@@ -102,7 +102,7 @@
     <string name="btn_text_scaning">Prüfen…</string>
     <string name="btn_text_security_install">Ersetzen mit sicherer Version</string>
     <string name="bundle_app_learn_how_to_install">So installieren Sie \"%1$s\" </string>
-    <string name="bundle_app_market__tips_install">Dies ist eine sichere Version, die von GetApps bereitgestellt wird</string>
+    <string name="bundle_app_market__tips_install">Dies ist eine sichere Version, die von einer vertrauenswürdigen Quelle bereitgestellt wird</string>
     <string name="bundle_app_market_install_background">Installieren</string>
     <string name="bundle_app_market_install_permissions">Berechtigungen</string>
     <string name="bundle_app_market_install_privacy">Datenschutz</string>
@@ -285,7 +285,7 @@
     <string name="general_mode_setting_subtitle">Schutz vor riskanten Apps und Datenschutzverletzungen</string>
     <string name="general_mode_subtitle">Schutz vor riskanten Apps und Datenschutzverletzungen</string>
     <string name="general_mode_title">Allgemeiner Schutz</string>
-    <string name="get_the_app_through_mi_app_store">Sichere Versionen von GetApps herunterladen</string>
+    <string name="get_the_app_through_mi_app_store">Sichere Versionen von einer vertrauenswürdigen Quelle herunterladen</string>
     <string name="give_up">Abbrechen</string>
     <string name="gold_mi_prize">Goldene Mi-Auszeichnung</string>
     <string name="grant_confirm_question">Möchten Sie die folgenden Berechtigungen gewähren? Diese erlauben den Zugriff auf Folgendes:</string>
@@ -307,7 +307,7 @@
     <string name="install">Installieren</string>
     <string name="install_abi_error">Diese App ist nicht mit der 32-Bit-Architektur kompatibel</string>
     <string name="install_abi_error_des">Installieren Sie stattdessen die 32-Bit-Version dieser App</string>
-    <string name="install_abi_error_des_market">Laden Sie die 32-Bit-Version dieser App von GetApps herunter</string>
+    <string name="install_abi_error_des_market">Laden Sie die 32-Bit-Version dieser App von einer vertrauenswürdigen Quelle herunter</string>
     <string name="install_app_loading">Installationspaket prüfen…</string>
     <string name="install_app_progress_clear_apk">APK löschen</string>
     <string name="install_apps_user_restriction_dlg_text">Dieser Benutzer ist nicht berechtigt, Apps zu installieren</string>
@@ -348,7 +348,7 @@
     <string name="install_from_appstore_hint">Wir empfehlen Ihnen, die App aus dem <u><font color="#91c727">App Store</font></u> zu installieren</string>
     <string name="install_package_description">Details zum Installationspaket</string>
     <string name="install_package_error">Diese App ist mit Ihrem System nicht kompatibel</string>
-    <string name="install_package_error_des">Kontaktieren Sie den Entwickler oder installieren Sie eine kompatible Version von GetApps.</string>
+    <string name="install_package_error_des">Kontaktieren Sie den Entwickler oder installieren Sie eine kompatible Version von einer vertrauenswürdigen Quelle.</string>
     <string name="install_package_error_four">Installation dieser App kann Sicherheitsrisiken bergen</string>
     <string name="install_package_error_four_des">Deinstallieren Sie diese App oder schalten Sie die Berechtigung zur Installation von Apps aus unbekannten Quellen aus</string>
     <string name="install_source">Quelle</string>
@@ -365,7 +365,7 @@
     <string name="intercept_confirm_dialog_title">Achtung</string>
     <string name="intercept_install">Installieren</string>
     <string name="isntall_failed_verification">Dieses Installationspaket wurde nicht geprüft. Diese App ist evtl. nicht mit der aktuellen Version von Android kompatibel.</string>
-    <string name="isntall_failed_verification_resolve_uggestion">Versuchen Sie, einen Ersatz für diese App in GetApps zu finden</string>
+    <string name="isntall_failed_verification_resolve_uggestion">Versuchen Sie, einen Ersatz für diese App von einer vertrauenswürdigen Quelle zu finden</string>
     <string name="launch">Öffnen</string>
     <string name="learn_bundle_app_install">Mehr erfahren</string>
     <string name="learn_more">Mehr erfahren</string>
@@ -448,7 +448,7 @@
     <string name="miui_failed_solution_4">Unter Sicherheit > Cleaner, Speicherplatz freigeben und erneut versuchen.</string>
     <string name="miui_failed_solution_5">Versuchen, ein kompatibles Installationspaket zu verwenden.</string>
     <string name="miui_failed_solution_6">Bereits installierte Version löschen und die Installation erneut versuchen.</string>
-    <string name="miui_failed_solution_7">Neueste Version dieser App in GetApps herunterladen.</string>
+    <string name="miui_failed_solution_7">Neueste Version dieser App von einer vertrauenswürdigen Quelle herunterladen.</string>
     <string name="miui_failed_solution_8">App von einer vertrauenswürdigen Quelle herunterladen.</string>
     <string name="miui_failed_solution_market_code_already_new">Bitte versuchen Sie, die App erneut herunterzuladen und zu installieren</string>
     <string name="miui_failed_solution_retry_later">Etwas warten und erneut versuchen</string>
@@ -596,7 +596,7 @@
     <string name="noon">Mittag</string>
     <string name="not_safe">" (Nicht sicher)"</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="only_get_app_for_mi_store">Laden Sie Apps nur von GetApps und verifizierten Entwickler herunter</string>
+    <string name="only_get_app_for_mi_store">Laden Sie Apps nur von einer vertrauenswürdigen Quelle und verifizierten Entwickler herunter</string>
     <string name="only_get_app_for_mi_store_sub">Diese App hat unsere strengen Sicherheitsprüfungen bestanden</string>
     <string name="open">Einschalten</string>
     <string name="passed_security_test">Xiaomi-Sicherheitstests bestanden</string> 
@@ -968,7 +968,7 @@
     <string name="secure_mode_new_function_3">Irreführende und erzwungene App-Installation verhindern</string>
     <string name="secure_mode_new_function_4">Ungewolltes Starten von Apps verhindern</string>
     <string name="secure_mode_new_title">Umfassender Schutz vor nicht geprüften Apps</string>
-    <string name="secure_mode_open_app_verify_des">Installation für Apps autorisieren, die nicht von GetApps verifiziert wurden</string>
+    <string name="secure_mode_open_app_verify_des">Installation für Apps autorisieren, die nicht von einer vertrauenswürdigen Quelle verifiziert wurden</string>
     <string name="secure_mode_security_verify">Sicherheitsautorisierung</string>
     <string name="secure_verify_close_tip_des">Wenn Sie diese Funktion ausschalten, führt Ihr Gerät keine Sicherheitsprüfungen für Apps durch, und alle Apps können ohne Autorisierung heruntergeladen werden. Verifizieren Sie Ihre Identität, um diese Funktion auszuschalten.</string>
     <string name="secure_verify_close_title">Sicherheitsverifizierung ausschalten</string>

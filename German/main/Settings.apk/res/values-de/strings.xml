@@ -5232,6 +5232,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lock_last_pin_attempt_before_wipe_device">Wenn Sie beim nächsten Versuch die PIN falsch eingeben, werden die Daten des Geräts gelöscht</string>
     <string name="lock_last_pin_attempt_before_wipe_profile">Wenn Sie beim nächsten Versuch die PIN falsch eingeben, werden Ihr Arbeitsprofil und seine Daten gelöscht</string>
     <string name="lock_last_pin_attempt_before_wipe_user">Wenn Sie beim nächsten Versuch die PIN falsch eingeben, wird dieser Benutzer gelöscht</string>
+    <string name="lock_password_checking">Bildschirmsperre verifizieren…</string>
     <string name="lock_profile_wipe_attempts">Wiederholen, Versuch %1$d von %2$d</string>
     <string name="lock_profile_wipe_content">Zu viele falsche Versuche. Ihr Profil und zugehörige Daten werden von diesem Gerät entfernt.</string>
     <string name="lock_profile_wipe_dismiss">Löschen</string>
@@ -7017,6 +7018,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="operation_guide_title">Anleitung</string>
     <string name="operator_warning">Die Abrechnung der Mobilfunkanbieterdaten kann von Ihrem Gerät abweichen</string>
     <string name="optimization_cancel">Abbrechen</string>
+    <string name="os_version">OS-Version</string>
     <string name="osu_completing_sign_up">Anmeldung abschließen…</string>
     <string name="osu_connect_failed">Verbinden nicht möglich</string>
     <string name="osu_opening_provider">%1$s öffnen</string>
@@ -7769,6 +7771,7 @@ UT Interface: %5$s"</string>
     <string name="reading_settings">Einstellungen lesen…</string>
     <string name="really_remove_account_message">Durch das Entfernen dieses Kontos werden alle Nachrichten, Kontakte und andere Daten vom Telefon gelöscht.</string>
     <string name="really_remove_account_title">Konto entfernen?</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver">Ein Neustart ist erforderlich, um den OpenGL ES-Systemtreiber zu ändern</string>
     <string name="reboot_dialog_enable_freeform_support">Ein Neustart ist erforderlich, um die Freiform-Unterstützung zu aktivieren.</string>
     <string name="reboot_dialog_force_desktop_mode">Ein Neustart ist erforderlich, um den Desktop-Modus auf sekundären Bildschirmen zu erzwingen.</string>
     <string name="reboot_dialog_reboot_later">Später neu starten</string>

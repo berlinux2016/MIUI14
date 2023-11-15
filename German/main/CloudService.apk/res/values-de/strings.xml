@@ -81,6 +81,12 @@
     <string name="connect_wlan_china">Mit WLAN verbinden</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Wenn Sie die Synchronisation aktivieren, werden die von diesem Gerät hochgeladenen Kontakte mit den in der Cloud gespeicherten Kontakten zusammengeführt. Synchronisation trotzdem einschalten?</string>
     <string name="copy">Kopieren</string>
+    <string name="creation_dialog_message">Mi Canvas-Daten auf dem Tablet anzeigen</string>
+    <string name="creation_dialog_title">Achtung</string>
+    <string name="creation_sync_settings_only_in_wifi">Nur über WLAN synchronisieren</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Empfohlen, um mobile Daten zu sparen</string>
+    <string name="creation_sync_settings_preference">Leinwände synchronisieren</string>
+    <string name="creation_sync_settings_summary">Leinwände erstellt</string>
     <string name="cta_notification_content_text">%s die Internetverbindung erlauben, um Elemente wiederherzustellen</string>
     <string name="cta_notification_content_title">Elemente aus %s wiederherstellen nicht möglich</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Dieses Konto wird auch auf einem anderen Gerät verwendet. Elemente von mehreren Apps (inkl. %1$s und %2$s) mit den Elementen auf diesem Gerät zusammenführen?</string>
@@ -203,7 +209,8 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="gallery_auto_sync_fail_noti_content">Cloud-Speicher ist unzureichend. Fotos können nicht gespeichert werden.</string>
+    <string name="gallery_auto_sync_fail_noti_content">Nicht genügend Cloud-Speicherplatz. Aktualisieren Sie Ihren Speichertarif, um Fotos und Videos zu synchronisieren.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Cloud-Speicher unzureichend. Fotos werden nicht gespeichert.</string>
     <string name="gallery_data_transfer_ddl">Stichtag: %s</string>
     <string name="gallery_data_transfer_summary">Galerieelemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen und deren Dienste zu nutzen, um Ihre Elemente zu sichern.</string>
     <string name="gallery_data_transfer_title">Synchronisierte Fotos und Videos zu Google Fotos übertragen</string>

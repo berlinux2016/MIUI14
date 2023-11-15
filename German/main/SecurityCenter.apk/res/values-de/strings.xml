@@ -2472,7 +2472,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_super_finger_up_msg">Tippen-Reaktion auf Hardware-Ebene beschleunigen</string>
     <string name="gb_super_follow_up">Gestenverfolgung</string>
     <string name="gb_super_follow_up_msg">Bessere Echtzeit-Reaktion während der gesamten Geste</string>
-    <string name="gb_super_motion">Bewegungssteuerung</string>
+    <string name="gb_super_motion">Verbesserte Touch-Steuerungen</string>
     <string name="gb_super_shake">Stabilisierungsalgorithmus</string>
     <string name="gb_super_shake_msg">Kleinere Gesten mit Hilfe des speziellen Algorithmus reaktionsschneller machen</string>
     <string name="gb_turbo_collimator_subtitle">Zielgerät verwenden</string>

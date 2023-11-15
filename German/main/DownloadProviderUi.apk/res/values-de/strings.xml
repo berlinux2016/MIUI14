@@ -160,6 +160,7 @@ Bitte senden Sie diesen Code dem Techniker."</string>
     <string name="download_title_sorted_by_date">Nach Datum sortieren</string>
     <string name="download_title_sorted_by_size">Nach Größe sortieren</string>
     <string name="download_wait_connect">Auf Verbindung warten</string>
+    <string name="download_waiting">Ausstehend</string>
     <string name="download_when_network_connected">Download über Mobilnetz</string>
     <string name="downloaded">Download vollständig</string>
     <string name="downloaded_empty">Leer</string>

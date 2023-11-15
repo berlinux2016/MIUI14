@@ -40,6 +40,7 @@
     <string name="add_to_block_by_number_failed">%s wurde nicht zur Sperrliste hinzugefügt.\nErneut versuchen.</string>
     <string name="add_to_block_by_tag">Nachrichten, die \"%s\" enthalten, zur Sperrliste hinzugefügt</string>
     <string name="add_to_block_by_tag_failed">Nachrichten, die \"%s\" enthalten, wurden nicht zur Sperrliste hinzugefügt.\nErneut versuchen.</string>
+    <string name="add_to_block_cta_failed">Gewähren Sie Sicherheit die erforderlichen Berechtigungen, um Elemente zur Sperrliste hinzuzufügen</string>
     <string name="add_to_browser_favorite_failed">Fehlgeschlagen</string>
     <string name="add_to_browser_favorite_success">Erfolgreich hinzugefügt</string>
     <string name="add_video">Video hinzufügen</string>
@@ -941,7 +942,7 @@
     <string name="slide_show_part">Teil %1$d/%2$d</string>
     <string name="slide_up_to_cancel">Zum Abbrechen hochwischen</string>
     <string name="slideshow_activity">Diashow</string>
-    <string name="small_window_log_text">Kamera im Mehrfenstermodus verwenden nicht möglich</string>
+    <string name="small_window_log_text">Kamera unterstützt den Mehrfenstermodus nicht</string>
     <string name="smart_message_title">Smart Messaging</string>
     <string name="smart_messages_network_allow_message">Mi Message muss eine Internetverbindung herstellen, damit seine Dienste normal funktionieren. Jetzt erlauben?</string>
     <string name="smart_messages_network_allow_title">Internetverbindung ist erforderlich</string>

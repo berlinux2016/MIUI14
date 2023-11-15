@@ -180,6 +180,8 @@
     <string name="gb_gpu_dialog_button_countdown">Verstanden (%s)</string>
     <string name="gb_gpu_dialog_message">Aktuelle GPU-Einstellungen werden auf \"%s\" angewendet. Starten Sie dazu das Spiel neu.</string>
     <string name="gb_gpu_dialog_titile">GPU-Einstellungen</string>
+    <string name="gb_gpu_pannel_touch_ctl_dialog_message">Touch-Steuerung wurde aktualisiert. Sie finden die entsprechenden Funktionen jetzt unter Spielverknüpfungen > Verbesserte Touch-Steuerung während des Spiels.</string>
+    <string name="gb_gpu_pannel_touch_ctl_dialog_title">Neue Touch-Steuerungen</string>
     <string name="gb_gpu_rader_graph">Bildqualität</string>
     <string name="gb_gpu_rader_maxfps">Höchste Bildfrequenz</string>
     <string name="gb_gpu_rader_remain">Leistung</string>

@@ -25,13 +25,6 @@
     <string name="about_permission">Berechtigungen</string>
     <string name="access_denied_info">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="action_add_phone">Rufnummer hinzufügen</string>
-    <string name="action_more_dlg_add_to_loop">Zur Diashow hinzufügen</string>
-    <string name="action_more_dlg_apply">Als Hintergrund für Sperrbildschirm festlegen</string>
-    <string name="action_more_dlg_dislike">Das gefällt mir nicht</string>
-    <string name="action_more_dlg_my_favor">Zu Favoriten hinzufügen</string>
-    <string name="action_more_dlg_save">Hintergrund herunterladen</string>
-    <string name="action_more_dlg_settings">Mehr Einstellungen</string>
-    <string name="action_more_dlg_share">Teilen</string>
     <string name="action_update_phone">Rufnummer ändern</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="ad_btn_connecting">Verbinden</string>
@@ -70,7 +63,6 @@
     <string name="app_self_upgrade_toast_downloading_install">Download starten und neue Version installieren</string>
     <string name="applied_and_added_to_custom_wallpaper">"Erfolgreich zu Ihrer Diashow hinzugefügt. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Anzeigen&lt;/font>&lt;/a>"</string>
     <string name="apply">Anwenden</string>
-    <string name="apply_success_toast">Hintergrund erfolgreich eingestellt</string>
     <string name="apply_to_above_all">Als beides einstellen</string>
     <string name="apply_to_screenlock">Als Sperrbildschirm einstellen</string>
     <string name="apply_to_wallpaper">Als Startbildschirm einstellen</string>
@@ -236,7 +228,6 @@
     <string name="disable_dlg_ok">Ausschalten</string>
     <string name="disable_dlg_title">Hintergrundkarussell ausschalten?</string>
     <string name="dislike">Löschen</string>
-    <string name="dlg_add_to_loop_success_toast">Hintergrund zur Diashow hinzugefügt</string>
     <string name="dlg_cancel">Abbrechen</string>
     <string name="dlg_ok">Anwenden</string>
     <string name="doing_login">Anmelden…</string>
@@ -315,7 +306,6 @@
     <string name="just_a_second">Einen Moment…</string>
     <string name="later">Nicht ausschalten</string>
     <string name="launch_bg_permission_exception">Hintergrundkarussell darf Popups anzeigen, während es in Sicherheit im Hintergrund ausgeführt wird</string>
-    <string name="left_lks_detail_entrance">Mehr anzeigen</string>
     <string name="like">Zu Favoriten hinzufügen</string>
     <string name="liked">Zu Favoriten hinzugefügt</string>
     <string name="lks_cta_dont_mention">Nicht mehr anzeigen</string>
@@ -348,11 +338,6 @@
     <string name="lks_loop_icon_open_ok">Verstanden</string>
     <string name="lks_more">Mehr</string>
     <string name="lks_more_pics_coming_toast">Neue Bilder sind auf dem Weg</string>
-    <string name="lks_new_data_loaded">Erfolgreich geladen</string>
-    <string name="lks_new_data_warning">Diese Funktion verwendet mobile Daten</string>
-    <string name="lks_new_user_guide_horizontal">Nach links und rechts wischen, um weitere Bilder anzuzeigen</string>
-    <string name="lks_new_user_guide_left">Nach links wischen, um mehr Bilder anzuzeigen</string>
-    <string name="lks_new_user_guide_up">Hochwischen, um mehr Infos zu sehen</string>
     <string name="lks_new_user_help_anime">Hochwischen, um mehr vom Hintergrundkarussell zu sehen</string>
     <string name="lks_no_network">Netzwerkverbindung nicht möglich</string>
     <string name="lks_please_reload">Neu laden</string>
@@ -377,10 +362,6 @@
     <string name="llks_pop_top_title">Neue Hintergründe</string>
     <string name="llks_pop_top_title_backup">Neue Bilder</string>
     <string name="llks_setting_view_title">Zusätzlicher Bildschirm</string>
-    <string name="llks_simple_mode">Lite-Modus</string>
-    <string name="llks_simple_mode_desc">Vereinfachtes Layout und zusätzliche Verknüpfungen</string>
-    <string name="llks_standard_mode">Standard</string>
-    <string name="llks_standard_mode_desc">Hintergründe, Geschichten und tägliche Empfehlungen</string>
     <string name="llks_subscribe">Abonnieren</string>
     <string name="llks_subscribe_sucess">Erfolgreich abonniert</string>
     <string name="llks_tools_gallery_name">Hintergrundkarussell</string>
@@ -408,16 +389,6 @@
     <string name="logout_summary">Sie können Ihre Abos und benutzerdefinierten Einstellungen nicht mehr geräteübergreifend synchronisieren, wenn Sie sich abmelden. Trotzdem abmelden?</string>
     <string name="logout_title">Jetzt abmelden?</string>
     <string name="look_str">Beliebt</string>
-    <string name="loop_service_dlg_content">Diashow zeigt automatisch Bilder für den Sperrbildschirm an, die auf Ihre Vorlieben zugeschnitten sind, inkl. Themen wie Reisen, Essen, Kunst, Unterhaltung und mehr. Diashow für den Sperrbildschirm einschalten und dieses Bild hinzufügen?</string>
-    <string name="loop_service_dlg_negative">Jetzt nicht</string>
-    <string name="loop_service_dlg_positive">Einschalten</string>
-    <string name="loop_service_dlg_positive_toast_day">Diashow ist an. Hintergrund wird jeden Tag gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_positive_toast_hour_1">Diashow ist an. Hintergrund wird jede Stunde gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_positive_toast_hour_3">Diashow ist an. Hintergrund wird alle 3 Stunden gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_positive_toast_minutes_15">Diashow ist an. Hintergrund wird alle 15 Minuten gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_positive_toast_minutes_5">Diashow ist an. Hintergrund wird alle 5 Minuten gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_positive_toast_unlock">Diashow ist an. Hintergrund ändert sich jedes Mal, wenn Ihr Gerät entsperrt wird. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_title">Diashow auf Sperrbildschirm einschalten?</string>
     <string name="main_fragment_title_discover">Entdecken</string>
     <string name="main_fragment_title_home">Empfehlungen</string>
     <string name="main_fragment_title_home_excellent">Ausgewählt</string>
@@ -570,7 +541,6 @@ dd.MM."</string>
     <string name="open_guid_des">Gehen Sie zu Einstellungen &gt; Rechte &gt; Andere Rechte &gt; Hintergrundkarussell und geben Sie der App alle erforderlichen Berechtigungen.</string>
     <string name="open_sub_title">Kategorien wählen</string>
     <string name="open_title">Hintergrundkarussell</string>
-    <string name="open_unable">Hintergrundkarussell funktioniert nur mit dem MIUI Standard-Sperrbildschirm.</string>
     <string name="opened">An</string>
     <string name="pager_load_hd">Originalbild anzeigen</string>
     <string name="passport_access_denied">Zugriff verweigert</string>
@@ -1039,12 +1009,6 @@ dd.MM."</string>
     <string name="setting_title">Erfolgreich hinzugefügt</string>
     <string name="settings">Einstellungen</string>
     <string name="share">Teilen</string>
-    <string name="share_dlg_more">Mehr</string>
-    <string name="share_dlg_qq">An QQ senden</string>
-    <string name="share_dlg_save">In Galerie speichern</string>
-    <string name="share_dlg_title">Hintergrund teilen</string>
-    <string name="share_dlg_wechat">An einen Freund senden</string>
-    <string name="share_dlg_weibo">An Weibo senden</string>
     <string name="share_today_morning">Teilen</string>
     <string name="shield">"Blockieren: "</string>
     <string name="shield_failed">Element nicht blockierbar</string>
@@ -1263,12 +1227,11 @@ dd.MM."</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="top_search_tip">Nach gewünschten Kategorien suchen</string>
-    <string name="torch">Lampe</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="understand_band_story">Mehr erfahren</string>
-    <string name="uninstall_introducation_text_desc">Hintergrundkarussell liefert neue Qualitätsbilder direkt auf Ihren Sperrbildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
+    <string name="uninstall_introducation_text_desc">Hintergrundkarussell liefert neue, hochwertige Bilder direkt auf Ihren Sperrbildschirm. Stellen Sie sicher, dass Sie auf seine Funktionen verzichten können, bevor Sie die App deinstallieren.</string>
     <string name="uninstall_introduction_text_title">Über Hintergrundkarussell</string>
     <string name="uninstall_warning_text_desc">Ohne Hintergrundkarussell können Sie nicht regelmäßig neue Sperrbildschirmhintergründe erhalten. Sie können die App jedoch erneut herunterladen und installieren. Hintergrundkarussell löschen?</string>
     <string name="uninstall_warning_text_title">Hintergrundkarussell löschen</string>
@@ -1281,7 +1244,6 @@ dd.MM."</string>
     <string name="v_code_title">Verifizierungscode eingeben</string>
     <string name="view_privacy_policy">Datenschutzerklärung</string>
     <string name="wallpaper">Hintergrund</string>
-    <string name="wallpaper_added_success_toast">Hintergrund erfolgreich hinzugefügt</string>
     <string name="wallpaper_feed_title">Vielleicht gefällt Ihnen auch</string>
     <string name="wallpaper_relations_title">Empfehlungen</string>
     <string name="wednesday">Mittwoch</string>

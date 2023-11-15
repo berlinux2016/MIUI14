@@ -178,6 +178,7 @@
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
+    <string name="screen_rotation_freeze_message">Bildschirmausrichtung im Querformat gesperrt</string>
     <string name="search_menu_title">Suchen</string>
     <string name="send">Senden</string>
     <string name="show_on_keyguard">Am Sperrbildschirm anzeigen</string>
@@ -205,6 +206,13 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="status_bar_toggle_data">Mobile Daten</string>
+    <string name="status_bar_toggle_lock">Sperren</string>
+    <string name="status_bar_toggle_mute">Lautlos</string>
+    <string name="status_bar_toggle_rotate">Ausrichtung sperren</string>
+    <string name="status_bar_toggle_torch">Lampe</string>
+    <string name="status_bar_toggle_vibrate">Vibration</string>
+    <string name="status_bar_toggle_wifi">WLAN</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
