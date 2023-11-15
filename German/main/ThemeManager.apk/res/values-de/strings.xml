@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="UVI_level_0">Schwach</string>
+    <string name="UVI_level_1">Mäßig</string>
+    <string name="UVI_level_2">Stark</string>
+    <string name="UVI_level_3">Sehr stark</string>
+    <string name="UVI_level_4">Schwer</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -76,6 +81,7 @@
     <string name="anonymous_resource_unlink_confirm">Nicht hinzufügen</string>
     <string name="anonymous_resource_unlink_hint">Wenn Sie keine Elemente hinzufügen, werden diese nicht mit Ihrem Konto verknüpft.</string>
     <string name="anonymous_resource_unlink_title">Ihre Aktion bestätigen</string>
+    <string name="aod_app_name">Always-on-Display und Sperrbildschirm-Editor</string>
     <string name="app_ad_title">Tägliche Empfehlungen</string>
     <string name="app_disable_transparent_wallpaper">Ohne transparenten Hintergrund</string>
     <string name="app_enable_transparent_wallpaper">Mit transparentem Hintergrund</string>
@@ -104,6 +110,8 @@
     <string name="apply_wallpaper_warning_use_super_wallpaper">Sie verwenden derzeit einen Superhintergrund. Wenn Sie einen neuen Hintergrund wählen, wird er sowohl auf den Start- als auch auf den Sperrbildschirm angewendet. Jetzt anwenden?</string>
     <string name="apply_warning_get_device_dialog_message">Um heruntergeladene Inhalte zu verwenden, müssen Sie dieser Funktion zunächst den Zugriff auf Ihre Geräte-ID erlauben. Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen.</string>
     <string name="apply_warning_tip_get_device_status">Dieser App muss erst der Zugriff auf Ihre Geräte-ID unter Profil &gt; Einstellungen erlaubt werden.</string>
+    <string name="aqi_format">LQI %s</string>
+    <string name="aqi_format_desc">Luftqualitätsindex: %s</string>
     <string name="audio_duration_minutes_format">%1$d Minuten</string>
     <string name="audio_duration_seconds_format">%1$d Sekunden</string>
     <string name="audition_ringtone">Abspielen</string>
@@ -437,6 +445,18 @@
     <string name="font_trial_end_purchase">Fonts kaufen</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Transparenten Hintergrund erst im Hauptprofil anwenden</string>
     <string name="forbid_video_wallpaper_by_second_space">Dynamischen Hintergrund erst im Hauptprofil anwenden</string>
+    <string name="format_day_desc">Tag des Monats: %s</string>
+    <string name="format_day_week_desc">Tag des Monats: %1$s, %2$s</string>
+    <string name="format_lunar_calendar_month_day_desc">Datum nach dem traditionellen chinesischen Kalender: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, Datum nach dem traditionellen chinesischen Kalender: %3$s, Feiertag: %4$s</string>
+    <string name="format_month_day_style1">d. MMM</string>
+    <string name="format_month_day_style2">dd.MM.</string>
+    <string name="format_month_day_week">EEE, d. MMM</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, Datum nach dem traditionellen chinesischen Kalender: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, Feiertag: %4$s</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">Feiertag: %1$s, Datum nach dem traditionellen chinesischen Kalender: %2$s</string>
+    <string name="format_week_day_style1">EE d.</string>
+    <string name="format_week_day_style1_desc">%1$s, Tag des Monats: %2$s</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -483,6 +503,13 @@
     <string name="has_mamual_hide_theme">Ausgeblendet</string>
     <string name="has_mamual_hide_wallpaper">Ausgeblendet</string>
     <string name="head_portraits">Profilfoto</string>
+    <string name="health_chart_calories_unit">Kalorien</string>
+    <string name="health_chart_sleep_time_good">Ausreichend</string>
+    <string name="health_chart_sleep_time_low">Unzureichend</string>
+    <string name="health_chart_sleep_time_very_good">Gut</string>
+    <string name="health_chart_step_count_unit">Schritte</string>
+    <string name="health_no_data">Keine Gesundheitsdaten</string>
+    <string name="health_sleep_desc">Schlafdauer %1$s, Schlafqualität: %2$s</string>
     <string name="hide_free_aod">Kostenlose Themen ausblenden</string>
     <string name="hide_free_font">Kostenlose Fonts ausblenden</string>
     <string name="hide_free_icons">Kostenlose Symbole ausblenden</string>
@@ -506,6 +533,7 @@
     <string name="home_apply_failured">Startbildschirmhintergrund wurde nicht angewendet</string>
     <string name="home_apply_success">Startbildschirmhintergrund wurde angewendet</string>
     <string name="home_daily">Tägliche Highlights</string>
+    <string name="humidity_format">Feuchtigkeit %s</string>
     <string name="i_know">Verstanden</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="icon_pad_setting_find_more_title">Weitere Symbole</string>
@@ -574,9 +602,14 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="local_mode_desc">Offline-Modus verwendet nur lokale Inhalte und nutzt keine Online-Dienste</string>
     <string name="local_mode_hint">Sie verwenden den Offline-Modus.\nTippen zum Ausschalten.</string>
     <string name="local_mode_open">Offline-Modus</string>
+    <string name="local_notification_default_title">Themen</string>
+    <string name="local_notification_font_trial_title">Neue Schriften ausprobieren</string>
+    <string name="local_notification_update_theme_title">Aktualisieren Sie Ihre Themen</string>
     <string name="local_photos">Lokale Fotos</string>
     <string name="local_resouce_creator_name">Entwickler: %1$s</string>
     <string name="lock_screen_apply">Als Sperrbildschirm festlegen</string>
+    <string name="lock_screen_keyguard_guide_popup">Entdecken Sie die brandneuen, personalisierten Funktionen und Designs des Sperrbildschirms</string>
+    <string name="lock_screen_keyguard_tip_title">Brandneuer personalisierter Sperrbildschirm</string>
     <string name="lockscreen_apply_failured">Sperrbildschirmhintergrund wurde nicht angewendet</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Hintergrund auf Starbildschirm angewendet, aber nicht auf Sperrbildschirm</string>
     <string name="lockscreen_apply_success">Sperrbildschirmhintergrund wurde angewendet</string>
@@ -586,6 +619,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="lockscreen_magazine_summary">Kategorien</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s Hintergründe</string>
     <string name="lockscreen_magazine_title">Hintergrundkarussell</string>
+    <string name="lockscreen_tip_content">Sperrbildschirm gedrückt halten, um die Bearbeitung zu starten. Machen Sie ihn zu dem Ihren, mit brandneuen Anpassungsoptionen und Vorlagen.</string>
     <string name="lockscreen_wallpaper">Sperrbildschirm</string>
     <string name="lockstyle_personal_settings">Anpassen</string>
     <string name="login_theme">Bei Themen anmelden</string>
@@ -624,6 +658,12 @@ d. MMMM"</string>
 dd.MM."</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM."</string>
+    <string name="miui_magazine_c_clock_style2_date">EE dd.MM.</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd. MMM</string>
+    <string name="miui_magazine_clock_date">dd.MM.</string>
+    <string name="miui_magazine_clock_date_content_description">dd.MM.</string>
+    <string name="miui_rhombus_clock_date">dd. MMMM</string>
+    <string name="miui_smart_frame_clock_date">dd.MM.</string>
     <string name="miuishare_account_activate_confirmation">Xiaomi-Konto aktivieren</string>
     <string name="miuishare_account_activate_ok">Aktivieren</string>
     <string name="miuishare_account_login_cancel">Abbrechen</string>
@@ -815,6 +855,7 @@ Anzeigen und Verwenden der Elemente, die Sie gekauft oder zu den Favoriten hinzu
     <string name="personalize_default_font">Standardschrift</string>
     <string name="personalize_fingerprint_style_title">Fingerabdruck</string>
     <string name="personalize_icon_title">Symbole</string>
+    <string name="personalize_item_more_setting">Weitere Einstellungen</string>
     <string name="personalize_notify_ringtone_title">Benachrichtigungen</string>
     <string name="personalize_notify_style_title">Effekte</string>
     <string name="personalize_recommend_switch_desc">Empfangen Sie personalisierte Inhaltsempfehlungen basierend auf der Geräte-ID</string>
@@ -971,6 +1012,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="purchased_list_current">Optimierte Themen</string>
     <string name="purchased_list_format">%1$s gekauft</string>
     <string name="purchased_list_legacy">Alte Themen</string>
+    <string name="rain_probability_desc">Niederschlagswahrscheinlichkeit: %s</string>
     <string name="read_and_agree_account_privacy"><Data>Ich habe die Xiaomi-Konto&lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
     <string name="recently_used">Zuletzt verwendet</string>
     <string name="recommend_trigger">Personalisierte Empfehlungen</string>
@@ -1157,6 +1199,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_restore_succ">Erfolgreich wiederhergestellt</string>
     <string name="resource_ringtone_default">Klingeltöne</string>
     <string name="resource_ringtone_playing_error">Abspielfehler</string>
+    <string name="resource_ringtone_too_large_waring">Klingeltondateien müssen %1$d MB oder kleiner sein</string>
     <string name="resource_ringtone_volume_mute">Ihr Klingelton steht aktuell auf lautlos</string>
     <string name="resource_save_to_note">In den Notizen speichern</string>
     <string name="resource_search_color">Farbe zum Suchen auswählen</string>
@@ -1222,6 +1265,10 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_update">Aktualisierung</string>
     <string name="resource_waiting_download">Warten</string>
     <string name="resource_wallpaper_download">Hintergrund herunterladen</string>
+    <string name="restore_default_change_wallpaper_when_special_lockscreen">Sie verwenden derzeit eine Sperrbildschirmvorlage. Wenn Sie fortfahren, wird Ihr Sperrbildschirm auf Standard zurückgesetzt, und der Startseiten- und Sperrbildschirmhintergrund werden ersetzt. Jetzt anwenden?</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">Diese Sperrbildschirmvorlage unterstützt keine Superhintergründe. Einmal angewendet, wird Ihr Sperrbildschirm auf Standard zurückgesetzt und der Startseiten- und Sperrbildschirmhintergrund werden ersetzt. Jetzt anwenden?</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">Sie verwenden derzeit eine Sperrbildschirmvorlage. Wenn Sie fortfahren, wird Ihr Sperrbildschirm auf Standard zurückgesetzt. Jetzt anwenden?</string>
+    <string name="restore_history_lock_screen_when_apply_theme">Sie verwenden derzeit ein Drittanbieter-Design. Wenn Sie den Sperrbildschirmhintergrund ändern, kann dies dazu führen, dass die Sperrbildschirmuhr auf Standard zurückgesetzt wird. Jetzt anwenden?</string>
     <string name="restore_home_icon_text">Startbildschirm-Verknüpfung hinzufügen</string>
     <string name="restore_icon_later">Sie können die Startbildschirm-Verknüpfung in den Einstellungen wieder hinzufügen</string>
     <string name="ringtone_confirm_dialog_message">Dieser Klingelton ist relativ lang. Trotzdem verwenden?</string>
@@ -1338,12 +1385,18 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="somatosensory_temperature_format">Gefühlt wie %s°</string>
     <string name="still_apply">Anwenden</string>
     <string name="storage_migration_exit_msg">Um Themen mit den kommenden Android-Versionen kompatibel zu machen, haben wir Ihre heruntergeladenen Elemente an einen neuen Ort verschoben. App neu starten, um die Änderungen anzuwenden und die heruntergeladenen Inhalte anzuzeigen.</string>
     <string name="storage_permission_denied_desc">Themen den Speicherzugriff erlauben, um Elemente anzuzeigen</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="sunrise_time_format">Sonnenaufgang %s</string>
+    <string name="sunrise_time_format_desc">Sonnenaufgang: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">Morgiger Sonnenaufgang: %s</string>
+    <string name="sunset_time_format">Sonnenuntergang %s</string>
+    <string name="sunset_time_format_desc">Sonnenuntergang: %s</string>
     <string name="super_wallpaper">Superhintergründe</string>
     <string name="super_wallpaper_dialog_content">Stromsparen schaltet die dynamischen Funktionen des Hintergrundes aus.</string>
     <string name="super_wallpaper_list_footer_text">Für unsere neuen Releases dranbleiben!</string>
@@ -1611,6 +1664,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="using_theme_next_automatic_update_summary">Heruntergeladene Themen über WLAN aktualisieren, wenn das Gerät gesperrt ist</string>
     <string name="using_theme_show_ad">Empfehlungen</string>
     <string name="using_wallpaper_personal">Personalisierte Hintergrundauswahl</string>
+    <string name="uvi_format_desc">UV-Index: %1$s, %2$s</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="version_update">Nach Updates suchen</string>
@@ -1673,6 +1727,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_loop_title">Hintergrund-Diashow</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Hintergrund-Diashow Startbildschirm</string>
     <string name="wallpaper_loop_title_lock_walpaper">Hintergrund-Diashow Sperrbildschirm</string>
+    <string name="wallpaper_magic_mode_preview_tip">Vorschau Sperrbildschirm</string>
     <string name="wallpaper_no_favorite">Noch keine Elemente hier</string>
     <string name="wallpaper_no_record">Noch keine Elemente hier</string>
     <string name="wallpaper_online">Online-Hintergründe</string>
@@ -1720,6 +1775,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="warning_miui_optimization_closed_dialog_message">Anscheinend haben Sie die MIUI-Optimierung nicht aktiviert. Ohne sie wird dieses Thema beim Anwenden nicht richtig funktionieren. Sie können es trotzdem anwenden oder die MIUI-Optimierung in den Einstellungen aktivieren.</string>
     <string name="warning_miui_optimization_closed_dialog_title">Achtung</string>
     <string name="warning_subscribe_wallpaper_group_content">Sie haben Diashow am Startbildschirm eingeschaltet. %1$s wird am Startbildschirm angewendet.</string>
+    <string name="weather_no_data">Keine Wetterdaten</string>
     <string name="wechat_not_found">Erst WeChat installieren</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
@@ -1728,6 +1784,18 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wifi_check_confirm">Bestätigen</string>
     <string name="wifi_check_message">Mobile Daten für Updates nutzen?</string>
     <string name="wifi_check_tip">Nicht mehr anzeigen</string>
+    <string name="wind_direction_0">N-Wind</string>
+    <string name="wind_direction_1">NO-Wind</string>
+    <string name="wind_direction_1_f">NO-Wind</string>
+    <string name="wind_direction_2">O-Wind</string>
+    <string name="wind_direction_3">SO-Wind</string>
+    <string name="wind_direction_3_f">SO-Wind</string>
+    <string name="wind_direction_4">S-Wind</string>
+    <string name="wind_direction_5">SW-Wind</string>
+    <string name="wind_direction_5_f">SW-Wind</string>
+    <string name="wind_direction_6">W-Wind</string>
+    <string name="wind_direction_7">NW-Wind</string>
+    <string name="wind_direction_7_f">NW-Wind</string>
     <string name="xiaoai_speech_not_installed_download">Herunterladen</string>
     <string name="xiaoai_speech_not_installed_message">Mi KI Sprachassistent herunterladen und installieren, um fortzufahren</string>
     <string name="xiaoai_speech_not_installed_title">Mi KI Sprachassistent ist nicht installiert</string>

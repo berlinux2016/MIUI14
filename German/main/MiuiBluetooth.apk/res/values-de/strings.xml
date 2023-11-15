@@ -91,6 +91,7 @@
     <string name="allow_mock_location_summary">Scheinstandorte zulassen</string>
     <string name="animator_duration_scale_title">Animationsdauer</string>
     <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
+    <string name="app_name">Bluetooth-Erweiterung</string>
     <string name="app_process_limit_title">Hintergrundprozesslimit</string>
     <string name="audio_relay_default_device_name">Mi KI-Lautsprecher</string>
     <string name="auto_connect_disable">Auto-Verbinden ist aus</string>
@@ -332,6 +333,15 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="disconnect_Channel">Kanal trennen</string>
     <string name="disconnect_device">Gerät trennen</string>
     <string name="early_morning">Morgen</string>
+    <string name="easy_tether_auto_connect_summary">Mobilen Hotspot automatisch einschalten und eine Verbindung herstellen, wenn Geräte in der Nähe mit demselben Konto Internetzugang benötigen</string>
+    <string name="easy_tether_cancel">Abbrechen</string>
+    <string name="easy_tether_confirm">Bestätigen</string>
+    <string name="easy_tether_next_auto_connect">Nächstes Mal automatisch verbinden?</string>
+    <string name="easy_tether_statusbar_auto_connected_title">Mit %1$s Hotspots verbunden</string>
+    <string name="easy_tether_statusbar_connect_fail_title">Verbindung fehlgeschlagen</string>
+    <string name="easy_tether_statusbar_connect_title">%1$s Hotspot aktivieren</string>
+    <string name="easy_tether_statusbar_connecting_title">Verbinden</string>
+    <string name="easy_tether_statusbar_dialog_connected_title">Verbunden</string>
     <string name="enable_adb">USB-Debugging</string>
     <string name="enable_adb_summary">Zum Debug-Modus wechseln bei Anschluss über USB</string>
     <string name="enable_adb_wireless">Kabelloses Debugging</string>
@@ -371,6 +381,13 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="fast_connect_device_headset_l">Links</string>
     <string name="fast_connect_device_headset_r">Rechts</string>
     <string name="fast_connect_device_headset_reset">Taste gedrückt halten</string>
+    <string name="fast_connect_device_message_audio_share">Audio damit abhören</string>
+    <string name="fast_connect_device_replace_current_device">aktuelles Gerät ersetzen</string>
+    <string name="fast_connect_device_reset_audio_share">Zum Zurücksetzen bitte 2 Sekunden gedrückt halten</string>
+    <string name="fast_connect_device_start_audio_share">zusammen abhören</string>
+    <string name="fast_connect_device_title_audio_share">mit %1$s abhören</string>
+    <string name="fast_connect_device_title_audio_share_fail">Verbindung zu %1$s nicht möglich, bitte erneut versuchen</string>
+    <string name="fast_connect_device_title_audio_share_success">jetzt mit %1$s abhören</string>
     <string name="fast_connect_device_title_connect_fail">Verbindung fehlgeschlagen</string>
     <string name="fast_connect_device_title_connecting">Verbinden…</string>
     <string name="fast_connect_device_title_find_headset">%1$s finden</string>
@@ -480,6 +497,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="headset_loss_notify_summary">Anscheinend ist mindestens einer Ihrer Ohrhörer nicht in der Ladehülle. Sehen Sie nach!</string>
     <string name="headset_loss_notify_summary1">Anscheinend sind Ihre Ohrhörer nicht in der Ladehülle. Legen Sie sie zurück, um sie aufzuladen.</string>
     <string name="headset_loss_notify_title">Warnung bei fehlendem Ohrhörer</string>
+    <string name="headset_new_notification_connecting">Verbinden</string>
     <string name="headset_not_in_case">Beide Ohrhörer ins Gehäuse stecken und neu beginnen</string>
     <string name="headset_read_fw_state">Aktualisierungsinfo erhalten nicht möglich</string>
     <string name="headset_update_failed">Aktualisieren nicht möglich</string>

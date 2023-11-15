@@ -220,6 +220,12 @@
         <item>Prozent neben Symbol</item>
         <item>Balken</item>
     </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>Grafisch</item>
+        <item>Prozent (im Symbol)</item>
+        <item>Prozent (neben Symbol)</item>
+        <item>Balken</item>
+    </string-array>
     <string-array name="bearer_entries">
         <item>Keine Angabe</item>
         <item>LTE</item>
@@ -711,6 +717,11 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Prozent im Symbol</item>
         <item>Prozent neben Symbol</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>Grafisch</item>
+        <item>Prozent (im Symbol)</item>
+        <item>Prozent (neben Symbol)</item>
+    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Suchen</item>
         <item>Einstellungen</item>
@@ -931,6 +942,18 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Nach unten bewegen</item>
         <item>Nach rechts bewegen</item>
         <item>Nach oben bewegen</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TDSCDMA</item>
+        <item>LTE</item>
+        <item>Dreifachmodus</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Dreifachmodus</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Laden</item>

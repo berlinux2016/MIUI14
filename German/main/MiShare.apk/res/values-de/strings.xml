@@ -106,6 +106,7 @@
     <string name="file_sending">Dateien übertragen…</string>
     <string name="file_transfer_progress">Fortschritt: %1$d%%</string>
     <string name="file_transfer_progress_title">Fortschritt</string>
+    <string name="file_transferring">Elemente werden übertragen. Später erneut versuchen.</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -147,8 +148,14 @@
     <string name="hide">Ausblenden</string>
     <string name="i_know">Verstanden</string>
     <string name="location_enabled">Mi Share hat Standortdienste eingeschaltet, um Geräte in der Nähe zu finden</string>
+    <string name="menu_item_permission_manager_and_use_guide_title">Berechtigungsdetails</string>
     <string name="menu_item_permission_title">Berechtigungsdetails</string>
+    <string name="menu_item_privacy_setting_title">Datenschutz</string>
     <string name="menu_item_privacy_title">Datenschutzerklärung</string>
+    <string name="menu_item_support_device_title">Unterstützte Geräte</string>
+    <string name="menu_item_view_privacy_policy_title">Datenschutzerklärung anzeigen</string>
+    <string name="menu_item_view_user_protocol_title">Nutzervereinbarung anzeigen</string>
+    <string name="menu_item_withdraw_privacy_policy_consent_title">Zustimmung widerrufen</string>
     <string name="menu_new_display_open">In neuem Fenster öffnen</string>
     <string name="menu_pc_open">Am PC öffnen</string>
     <string name="midnight">Nacht</string>
@@ -216,6 +223,19 @@
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
     <string name="nearby_share">In der Nähe teilen</string>
+    <string name="nfc_check_the_touch_device">Um die Geräte zu verbinden, sollten WLAN und Bluetooth auch auf dem anderen Gerät aktiviert sein. Prüfen Sie, ob die Verbindung für das andere Gerät unter Einstellungen > Verbinden &amp; Teilen > Verbundene Geräte erlaubt ist und versuchen Sie es erneut.</string>
+    <string name="nfc_check_the_touch_device_china">Um die Geräte zu verbinden, sollten WLAN und Bluetooth auch auf dem anderen Gerät aktiviert sein. Prüfen Sie, ob die Verbindung für das andere Gerät unter Einstellungen > Verbinden &amp; Teilen > Verbundene Geräte erlaubt ist und versuchen Sie es erneut.</string>
+    <string name="nfc_connect_fail">Verbinden fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="nfc_connect_fail_lyra_secure">Sie können Mi Share im Kontrollzentrum Ihres Geräts einschalten.</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Mi Share ist aus</string>
+    <string name="nfc_connect_fail_pad">Verbinden fehlgeschlagen</string>
+    <string name="nfc_connecting">Verbinden…</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Um die Geräte zu verbinden, schalten Sie zuerst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Um die Geräte zu verbinden, schalten Sie zuerst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbinden fehlgeschlagen. Vergewissern Sie sich, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbinden fehlgeschlagen. Vergewissern Sie sich, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
+    <string name="nfc_wifi_and_bluetooth">WLAN und Bluetooth einschalten</string>
+    <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>
     <string name="no_longer_prompt">Blockieren</string>
     <string name="no_longer_receive">Dieses Gerät blockieren? Sie werden keine Dateien mehr von ihm empfangen können.</string>
@@ -225,8 +245,11 @@
     <string name="operate_too_fast">Zu schnell! Warten Sie, bis die laufenden Vorgänge abgeschlossen sind.</string>
     <string name="pc_redmi_device_model_name">Redmi-Laptop</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi-Laptop</string>
+    <string name="permission_apply_purpose">Mi Share erlauben, Geräte in der Nähe zu erkennen und sich mit ihnen zu verbinden, um Dateien zu übertragen.</string>
     <string name="permission_denied_hint">Erforderlichen Berechtigungen erteilen, um Mi Share zu verwenden.</string>
+    <string name="permission_related">Berechtigungen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
+    <string name="privacy_authorize">Autorisierung</string>
     <string name="purpose">Willkommen bei Mi Share! Sie können diese App verwenden, um Dateien zwischen Geräten zu übertragen. Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Richtlinien.\nBevor Sie Mi Share nutzen können, müssen Sie die folgenden Berechtigungen erteilen und zulassen, dass Mi Share die erforderlichen personenbezogenen Daten sammelt:</string>
     <string name="purpose_v12">Willkommen bei Mi Share! Mit dieser App können Sie Dateien zwischen Geräten übertragen.</string>
     <string name="queue_full">Beenden Sie laufende Übertragungen, bevor Sie neue hinzufügen.</string>
@@ -251,6 +274,18 @@
     <string name="send_files_to">Elemente senden an</string>
     <string name="send_files_to_remote_success">Elemente erfolgreich an %1$s gesendet</string>
     <string name="send_files_to_remote_success_title">Erfolgreich gesendet</string>
+    <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" von %1$s</string>
+    <string name="send_one_apk_dialog_desc_received">%2$d APK \"%3$s\" von %1$s erhalten</string>
+    <string name="send_one_apk_dialog_desc_receiving">%2$d APK \"%3$s\" von %1$s erhalten</string>
+    <string name="send_one_audio_dialog_desc">%2$d Audiodatei \"%3$s\" von %1$s</string>
+    <string name="send_one_audio_dialog_desc_received">%2$d Audiodatei \"%3$s\" von %1$s erhalten</string>
+    <string name="send_one_audio_dialog_desc_receiving">%2$d Audiodatei \"%3$s\" von %1$s erhalten</string>
+    <string name="send_one_file_dialog_desc">%2$d %3$s-Datei \"%4$s\" von %1$s</string>
+    <string name="send_one_file_dialog_desc_received">%2$d %3$s-Datei \"%4$s\" von %1$s erhalten</string>
+    <string name="send_one_file_dialog_desc_receiving">%2$d %3$s-Datei \"%4$s\" von %1$s erhalten</string>
+    <string name="send_one_zip_dialog_desc">%2$d ZIP-Datei \"%3$s\" von %1$s</string>
+    <string name="send_one_zip_dialog_desc_received">%2$d ZIP-Datei \"%3$s\" von %1$s erhalten</string>
+    <string name="send_one_zip_dialog_desc_receiving">%2$d ZIP-Datei \"%3$s\" von %1$s erhalten</string>
     <string name="send_successfully">Erfolgreich gesendet</string>
     <string name="sender_error">Senden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
@@ -285,6 +320,8 @@
     <string name="stop_advertise">WERBEN ANHALTEN</string>
     <string name="stop_scan">SCAN ANHALTEN</string>
     <string name="sub_title_mishare_switch">Diese Funktion schaltet sich nach %d Min. automatisch ab</string>
+    <string name="sub_title_turbo_mode">Superschnelle Übertragungen zwischen Xiaomi Telefonen und Tablets. Das Netzwerk wird während der Übertragung unterbrochen.</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Wenn Sie Ihre Zustimmung zur Datenschutzerklärung widerrufen, wird auch Mi Share deaktiviert</string>
     <string name="success_receive_much_file_from_pc">Mehr als %2$d Dateien von %1$s erhalten. Zum Anzeigen tippen.</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
@@ -351,6 +388,7 @@
     <string name="transfer_intercept_to_remote">Senden fehlgeschlagen: %1$s</string>
     <string name="transfer_to_pc_summary">Sie können Mi Share verwenden, um Elemente direkt an Mi Notebooks zu senden. Auf anderen Laptops müssen Sie Mi Share zuerst installieren.</string>
     <string name="transfer_to_pc_summary_new"><Data>Die auf Mi Notebooks installierte neueste Version von MIUI+ ist mit Mi Share kompatibel. Sie können die Liste der unterstützten Laptop-Modelle auf der MIUI+-Website (&lt;a href=%1$s>%2$s&lt;/a>) prüfen. Wenn Ihr Laptop auf der Liste steht, aber MIUI+ nicht darauf installiert ist, aktualisieren Sie das BIOS und den Netzwerkkartentreiber Ihres Laptops und laden Sie MIUI+ herunter.</Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager unterstützt jetzt Mi Share! Eine Liste der unterstützten Computermodelle finden Sie &lt;a href=%1$s>hier&lt;/a>.</Data></string>
     <string name="transfer_to_pc_title">Dateien an Computer senden</string>
     <string name="transfer_to_phone_summary">Aktivieren Sie Mi Share mit dem Schalter in der Benachrichtigungsleiste. Danach können Sie Geräte in der Nähe sehen, wenn Sie ein Foto oder eine Datei teilen. Tippen Sie auf das Empfängergerät, um das Element zu senden, das Sie teilen.</string>
     <string name="transfer_to_phone_summary_new">Aktivieren Sie Mi Share im Kontrollzentrum, um Elemente einfach senden und empfangen zu können. Nach dem Einschalten können Sie Objekte für %d Minuten mit Geräten in der Nähe teilen, bevor es automatisch ausgeschaltet wird.</string>
@@ -384,5 +422,9 @@
     <string name="wednesday_shortest">M</string>
     <string name="wifi_is_not_enabled">Erst WLAN einschalten</string>
     <string name="wifi_is_not_enabled_china">Erst WLAN einschalten</string>
+    <string name="withdraw">Widerrufen</string>
+    <string name="withdraw_consent_message">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Share. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Mi Share seine Dienstleistungen anhand der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Verweigerung der Annahme der Dienstleistungen von Mi Share gewertet.</string>
+    <string name="withdraw_consent_title">Zustimmung widerrufen</string>
+    <string name="withdraw_with_time">Widerrufen (%1$ds)</string>
     <string name="yesterday">Gestern</string>
 </resources>

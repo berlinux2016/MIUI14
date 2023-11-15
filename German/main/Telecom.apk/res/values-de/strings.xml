@@ -120,6 +120,7 @@
     <string name="available_via_app">Verfügbar über %1$s</string>
     <string name="available_via_carrier">Verfügbar über %1$s</string>
     <string name="available_via_passpoint">Verfügbar über %1$s</string>
+    <string name="back">Zurück</string>
     <string name="battery_info_status_charging">Laden</string>
     <string name="battery_info_status_charging_ac">Laden über Ladegerät</string>
     <string name="battery_info_status_charging_ac_short">Laden</string>
@@ -260,6 +261,7 @@ Abtastrate"</string>
     <string name="call_streaming_notification_action_switch_here">Hier wechseln</string>
     <string name="call_streaming_notification_body">Audiostreaming auf ein anderes Gerät</string>
     <string name="callendpoint_name_earpiece">Ohrhörer</string>
+    <string name="callendpoint_name_speaker">Lautsprecher</string>
     <string name="callendpoint_name_streaming">Extern</string>
     <string name="callendpoint_name_unknown">Unbekannt</string>
     <string name="callendpoint_name_wiredheadset">Kabelgebundenes Headset</string>

@@ -222,8 +222,8 @@
     <string name="kg_color_value_editor_saturation">Sättigung</string>
     <string name="kg_color_value_editor_title">Farbe bearbeiten</string>
     <string name="kg_customize">Anpassen</string>
-    <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">Dieser Sperrbildschirm unterstützt keine Super-Hintergründe. Der Hintergrund auf dem Start- und Sperrbildschirm wird ersetzt, wenn Sie fortfahren. Trotzdem fortfahren?</string>
-    <string name="kg_dialog_apply_super_wallpaper_confirm">Sie verwenden derzeit einen Super-Hintergrund. Wenn Sie fortfahren, wird er durch einen neuen Bildschirmhintergrund auf dem Start- und Sperrbildschirm ersetzt. Trotzdem fortfahren?</string>
+    <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">Dieser Sperrbildschirm unterstützt keine Superhintergründe. Der Hintergrund auf dem Start- und Sperrbildschirm wird ersetzt, wenn Sie fortfahren. Trotzdem fortfahren?</string>
+    <string name="kg_dialog_apply_super_wallpaper_confirm">Sie verwenden derzeit einen Superhintergrund. Wenn Sie fortfahren, wird er durch einen neuen Bildschirmhintergrund auf dem Start- und Sperrbildschirm ersetzt. Trotzdem fortfahren?</string>
     <string name="kg_dialog_apply_super_wallpaper_nagetive_button">Abbrechen</string>
     <string name="kg_dialog_fashion_gallery_button_negative">Anwenden</string>
     <string name="kg_dialog_fashion_gallery_button_positive">Abbrechen</string>

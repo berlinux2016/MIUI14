@@ -36,8 +36,10 @@
     <string name="anti_flicker_mode">Anti-Flimmer</string>
     <string name="anti_flicker_mode_categroy">Modus</string>
     <string name="anti_flicker_mode_summary">Ausgedehntes Flimmern verhindern und die Belastung der Augen bei schlechten Lichtverhältnissen reduzieren</string>
+    <string name="anti_flicker_mode_summary_new">DC-Dimming bei schwachem Licht zur Verringerung der Augenbelastung verwenden</string>
     <string name="anti_flicker_title">Anti-Flimmer-Modus</string>
     <string name="app_name">Einstellungen</string>
+    <string name="app_use">App-Bildschirmzeit</string>
     <string name="application_sound">App-Benachrichtigungen</string>
     <string name="apply_ringtone">Anwenden</string>
     <string name="arctic_fox">Polarfuchs</string>
@@ -328,6 +330,8 @@
     <string name="masked_palm_civet">Larvenroller</string>
     <string name="max_fps_string">Bis zu %s Hz</string>
     <string name="medium_tree_finch">Kleinschnabel-Darwinfink</string>
+    <string name="mi_transfer_banner_summary">Mehrere Gerätehersteller werden unterstützt</string>
+    <string name="mi_transfer_banner_title">Übertragen Sie Elemente von Ihrem alten Gerät</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>

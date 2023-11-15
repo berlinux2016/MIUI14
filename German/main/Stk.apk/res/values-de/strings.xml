@@ -25,6 +25,7 @@
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="button_cancel">Abbrechen</string>
     <string name="button_no">Nein</string>
     <string name="button_yes">Ja</string>

@@ -575,6 +575,7 @@
     <string name="navigation_type_title_synonyms_4">Navigationstaste</string>
     <string name="navigation_type_virtual_key">Tasten</string>
     <string name="network_error">Netzwerkverbindung nicht möglich, erneut versuchen.</string>
+    <string name="new_default_folder_title_tools">System-Apps</string>
     <string name="new_feature_title">Was ist neu</string>
     <string name="new_open_personal_assistant_settings_simplified">Infoassistent</string>
     <string name="new_privacy_thumbnail_blur_summary">App-Vorschau in Letzte Apps verwischen</string>

@@ -79,6 +79,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
+    <string name="hide_password_talkback">Passwort ausblenden</string>
     <string name="invalid_package_signature">Ungültige App-Signatur</string>
     <string name="login_mi_account_alert">Achtung</string>
     <string name="login_mi_account_summary">Passwortmanager synchronisiert Passwörter mit Ihrem Xiaomi-Konto. Jetzt anmelden?</string>
@@ -154,6 +155,7 @@
     <string name="send">Senden</string>
     <string name="settings_clear_data_confirmation_description">"Wenn Sie jetzt Passwörter löschen, müssen Sie sie bei der nächsten Anmeldung manuell eingeben.\nPasswörter löschen?"</string>
     <string name="settings_clear_data_confirmation_title">Passwörter löschen</string>
+    <string name="show_password_talkback">Passwort anzeigen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>

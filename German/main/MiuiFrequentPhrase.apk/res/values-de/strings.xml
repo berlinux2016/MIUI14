@@ -150,6 +150,7 @@
     <string name="morning">Morgen</string>
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
+    <string name="phrase_network_tip_summary">Um Ihre häufigen Sätze mit der Cloud zu synchronisieren und sie geräteübergreifend zu verwenden, müssen Sie dieser App die Internetverbindung erlauben.</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
