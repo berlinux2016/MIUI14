@@ -1162,7 +1162,7 @@
     <string name="kg_invalid_confirm_pin_hint">PIN-Codes stimmen nicht überein</string>
     <string name="kg_invalid_puk">Geben Sie den richtigen PUK-Code ein. Bei wiederholten Versuchen wird die SIM-Karte dauerhaft deaktiviert.</string>
     <string name="kg_invalid_sim_pin_hint">Geben Sie eine 4- bis 8-stellige PIN ein</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-Code sollte mind. %1$d Ziffern enthalten.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-Code sollte mind. 8 Ziffern enthalten.</string>
     <string name="kg_login_too_many_attempts">Zu viele Musterversuche</string>
     <string name="kg_password_default_pin_message">{count, plural, =1 {SIM-PIN eingeben. Sie haben # verbleibenden Versuch, bevor Sie Ihren Anbieter kontaktieren müssen, um Ihr Gerät zu entsperren.} other {SIM-PIN eingeben. Sie haben # verbleibende Versuche.} }</string>
     <string name="kg_password_default_puk_message">{count, plural, =1 {SIM ist jetzt deaktiviert. PUK-Code eingeben, um fortzufahren. Sie haben # verbleibenden Versuch, bevor die SIM dauerhaft unbrauchbar wird. Wenden Sie sich für weitere Infos an Ihren Anbieter.} other {SIM ist jetzt deaktiviert. PUK-Code eingeben, um fortzufahren. Sie haben # verbleibende Versuche, bevor die SIM dauerhaft unbrauchbar wird. Wenden Sie sich für weitere Infos an Ihren Anbieter.} }</string>

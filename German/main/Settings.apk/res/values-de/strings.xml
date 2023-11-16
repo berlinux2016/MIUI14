@@ -1706,9 +1706,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bluetooth_pairing_device_down_error_message">Kommunikation mit %1$s nicht möglich</string>
     <string name="bluetooth_pairing_error_message">Koppeln mit %1$s nicht möglich</string>
     <string name="bluetooth_pairing_group_late_bonding">Neues Mitglied zum bestehenden koordinierten Satz hinzufügen</string>
-    <string name="bluetooth_pairing_key_msg">Pairing-Code</string>
+    <string name="bluetooth_pairing_key_msg">Bluetooth-Pairing-Code</string>
     <string name="bluetooth_pairing_page_title">Neues Gerät koppeln</string>
-    <string name="bluetooth_pairing_pin_error_message">Koppeln mit %1$s wegen falschen Passworts oder Schlüssels nicht möglich</string>
+    <string name="bluetooth_pairing_pin_error_message">PIN oder Schlüssel falsch. Koppeln fehlgeschlagen.</string>
     <string name="bluetooth_pairing_pref_title">Neues Gerät koppeln</string>
     <string name="bluetooth_pairing_rejected_error_message">Koppeln von %1$s zurückgewiesen</string>
     <string name="bluetooth_pairing_request">Mit %1$s koppeln?</string>
@@ -2601,19 +2601,19 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="credentials_title_verification">Verifizierung</string>
     <string name="credentials_unlock_hint">Passwort für den Anmeldedatenspeicher eingeben</string>
     <string name="credentials_wrong_password">Passwort falsch</string>
-    <string name="credman_autofill_confirmation_message">&lt;b>&lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> verwenden?&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> verwendet das, was auf Ihrem Bildschirm ist, um zu bestimmen, was automatisch ausgefüllt werden kann. Neue Passwörter, Passschlüssel und andere Daten werden von nun an hier gespeichert.</string>
-    <string name="credman_autofill_keywords">auto, ausfüllen, autofill, daten, passkey, passschlüssel, passwort</string>
-    <string name="credman_chosen_app_title">Passwörter, Passschlüssel und Datendienste</string>
-    <string name="credman_confirmation_message">Gespeicherte Daten wie Adressen oder Zahlungsmethoden werden nicht ausgefüllt, wenn Sie sich anmelden. Um Ihre gespeicherten Daten einzutragen, aktivieren Sie ein Passwort, einen Passschlüssel und Daten oder einen Dienst.</string>
+    <string name="credman_autofill_confirmation_message">&lt;b>&lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> verwenden?&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> verwendet das, was auf Ihrem Bildschirm ist, um zu bestimmen, was automatisch ausgefüllt werden kann. Neue Passwörter, Schlüssel und andere Daten werden von nun an hier gespeichert.</string>
+    <string name="credman_autofill_keywords">auto, ausfüllen, autofill, daten, passkey, schlüssel, passwort</string>
+    <string name="credman_chosen_app_title">Passwörter, Schlüssel und Datendienste</string>
+    <string name="credman_confirmation_message">Gespeicherte Daten wie Adressen oder Zahlungsmethoden werden nicht ausgefüllt, wenn Sie sich anmelden. Um Ihre gespeicherten Daten einzutragen, aktivieren Sie ein Passwort, einen Schlüssel und Daten oder einen Dienst.</string>
     <string name="credman_confirmation_message_positive_button">Ausschalten</string>
     <string name="credman_confirmation_message_title">%1$s ausschalten?</string>
-    <string name="credman_credentials">Passwörter, Passschlüssel und Datendienste</string>
+    <string name="credman_credentials">Passwörter, Schlüssel und Datendienste</string>
     <string name="credman_enable_confirmation_message">%1$s verwendet das, was auf Ihrem Bildschirm ist, um zu bestimmen, was automatisch ausgefüllt werden kann.</string>
     <string name="credman_enable_confirmation_message_title">%1$s verwenden?</string>
-    <string name="credman_error_message">Sie können bis zu 5 Passwörter, Passschlüssel und Datendienste gleichzeitig aktiv haben. Schalten Sie einen Dienst aus, um weitere hinzuzufügen.</string>
-    <string name="credman_error_message_title">Limit Passwörter, Passschlüssel und Datendienste</string>
-    <string name="credman_keywords">daten, passschlüssel, passwort</string>
-    <string name="credman_picker_title">Passwörter, Passschlüssel und Datendienste</string>
+    <string name="credman_error_message">Sie können bis zu 5 Passwörter, Schlüssel und Datendienste gleichzeitig aktiv haben. Schalten Sie einen Dienst aus, um weitere hinzuzufügen.</string>
+    <string name="credman_error_message_title">Limit Passwörter, Schlüssel und Datendienste</string>
+    <string name="credman_keywords">daten, schlüssel, passwort</string>
+    <string name="credman_picker_title">Passwörter, Schlüssel und Datendienste</string>
     <string name="crisp_text">Hohe Frequenzen sorgen für mehr Klarheit bei den Details jeder Aktion</string>
     <string name="critical_feedback">Kritisches Feedback</string>
     <string name="cross_profile_calendar_restricted_summary">Ihre Firma erlaubt es persönlichen Apps nicht, auf Ihren Arbeitskalender zuzugreifen</string>

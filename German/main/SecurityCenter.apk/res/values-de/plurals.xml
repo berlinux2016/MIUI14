@@ -727,8 +727,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">%1$s | Diese App griff %2$d-mal auf Ihre Trainingsdaten zu</item>
     </plurals>
     <plurals name="permission_usage_allow_autostart">
-        <item quantity="other">%1$s | Diese App ist %2$-mal automatisch gestartet</item>
-        <item quantity="one">%1$s | Diese App ist %2$-mal automatisch gestartet</item>
+        <item quantity="other">%1$s | Diese App startete %2$d-mal automatisch</item>
+        <item quantity="one">%1$s | Diese App startete %2$d-mal automatisch</item>
     </plurals>
     <plurals name="permission_usage_allow_body_sensor">
         <item quantity="other">%1$s | Diese App griff %2$d-mal auf Körpersensoren zu</item>
