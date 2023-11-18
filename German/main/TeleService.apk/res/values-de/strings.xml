@@ -1033,12 +1033,12 @@
     <string name="lgu_emm_cause_others">Netzverbindung nicht möglich. Gehen Sie zu einem Kundendienstzentrum (+%1$d-%2$d-%3$d-%4$d).</string>
     <string name="lgu_msim_emm_cause_11_12_13_15">SIM %d wurde nicht am Netz angemeldet</string>
     <string name="lgu_msim_emm_cause_16_17_22">SIM %d wird am Netz angemeldet… Etwas warten und erneut versuchen.</string>
-    <string name="lgu_msim_emm_cause_2">SIM %d erfordert eine Aktivierung. Gehen Sie zu einem Kundendienstzentrum (+%1$d-%2$d-%3$d-%4$d).</string>
-    <string name="lgu_msim_emm_cause_3">SIM %d hat den Benutzer nicht verifiziert. Gehen Sie zu einem Kundendienstzentrum (+%1$d-%2$d-%3$d-%4$d).</string>
-    <string name="lgu_msim_emm_cause_6">SIM %d hat das Gerät nicht verifiziert. Gehen Sie zu einem Kundendienstzentrum (+%1$d-%2$d-%3$d-%4$d).</string>
+    <string name="lgu_msim_emm_cause_2">SIM %1$d erfordert eine Aktivierung. Gehen Sie zu einem Kundendienstzentrum (+%2$d-%3$d-%4$d-%5$d).</string>
+    <string name="lgu_msim_emm_cause_3">SIM %1$d hat den Benutzer nicht verifiziert. Gehen Sie zu einem Kundendienstzentrum (+%2$d-%3$d-%4$d-%5$d).</string>
+    <string name="lgu_msim_emm_cause_6">SIM %1$d hat das Gerät nicht verifiziert. Gehen Sie zu einem Kundendienstzentrum (+%2$d-%3$d-%4$d-%5$d).</string>
     <string name="lgu_msim_emm_cause_7_14">SIM %d-Netz bietet keine mobilen Datendienste</string>
-    <string name="lgu_msim_emm_cause_8">SIM %d wurde nicht am Netz angemeldet. Gehen Sie zu einem Kundendienstzentrum (+%1$d-%2$d-%3$d-%4$d).</string>
-    <string name="lgu_msim_emm_cause_others">SIM %d kann sich nicht mit dem Netz verbinden. Gehen Sie zu einem Kundendienstzentrum (+%1$d-%2$d-%3$d-%4$d).</string>
+    <string name="lgu_msim_emm_cause_8">SIM %1$d wurde nicht am Netz angemeldet. Gehen Sie zu einem Kundendienstzentrum (+%2$d-%3$d-%4$d-%5$d).</string>
+    <string name="lgu_msim_emm_cause_others">SIM %1$d kann sich nicht mit dem Netz verbinden. Gehen Sie zu einem Kundendienstzentrum (+%2$d-%3$d-%4$d-%5$d).</string>
     <string name="limited_sim_function_notification_message">%1$s-Anrufe und -Datendienste können blockiert werden, wenn eine andere SIM genutzt wird</string>
     <string name="limited_sim_function_notification_title">Begrenzte SIM-Funktionalität</string>
     <string name="limited_sim_function_with_phone_num_notification_message">%1$s-Anrufe und -Datendienste können blockiert werden, wenn %2$s genutzt wird</string>
