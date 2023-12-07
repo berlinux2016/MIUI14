@@ -2,8 +2,8 @@
 <resources>
     <string name="application_label">Netzwerkmanager</string>
     <string name="connected">Verbunden</string>
-    <string name="notification_channel_description_connected">Benachrichtigungen, die angezeigt werden, wenn sich das Gerät erfolgreich bei einem Captive Portal-Netzwerk authentifiziert hat</string>
-    <string name="notification_channel_description_network_venue_info">Benachrichtigungen, die angezeigt werden, um darauf hinzuweisen, dass das Netzwerk eine Standortinformationsseite hat</string>
+    <string name="notification_channel_description_connected">Angezeigte Benachrichtigungen, wenn sich das Gerät erfolgreich bei einem Captive Portal-Netzwerk authentifiziert hat</string>
+    <string name="notification_channel_description_network_venue_info">Angezeigte Benachrichtigungen als Hinweis, dass das Netzwerk eine Standortinformationsseite hat</string>
     <string name="notification_channel_name_connected">Captive Portal-Authentifizierung</string>
     <string name="notification_channel_name_network_venue_info">Netzwerkstandortinformation</string>
     <string name="tap_for_info">Verbunden / Tippen zum Anzeigen der Webseite</string>
