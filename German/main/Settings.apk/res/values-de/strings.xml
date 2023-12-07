@@ -3354,7 +3354,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="dual_wifi_summary">WLAN-Geschwindigkeit durch Verbindung mit Hilfsnetzwerken erhöhen</string>
     <string name="dual_wifi_switching_not_remind">Nicht mehr anzeigen</string>
     <string name="dual_wifi_switching_prompt">Zwischen Netzwerken umschalten</string>
-    <string name="dual_wifi_switching_summary">Dualband WLAN-Geschwindigkeitssteigerung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
+    <string name="dual_wifi_switching_summary">Dualband-WLAN Geschwindigkeitssteigerung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
     <string name="dump_log">Problembezogene Protokolle abrufen</string>
     <string name="dump_log_summary">Diese Funktion ist für die Generierung des %s-Log in der Beta-Version von MIUI vorgesehen. Verwenden Sie sie mit Vorsicht.\nSie können die generierten Protokolle im Dateimanager ansehen.</string>
     <string name="dump_log_title">Über diese Funktion</string>

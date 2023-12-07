@@ -416,8 +416,8 @@
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Abbrechen</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Bestätigen</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Nicht mehr anzeigen</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Zwischen Netzwerken umschalten</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dualband-WLAN-Geschwindigkeit steigern muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie eine Verbindung zu einem anderen Hauptnetzwerk herstellen, geht die Hilfsverbindung verloren.</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Zwischen Netzwerken wechseln</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dualband-WLAN Geschwindigkeitssteigerung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
     <string name="quick_settings_wifi_detail_empty_text">Kein WLAN verfügbar</string>
     <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wireless_label">Kabelloses Umkehrladen</string>

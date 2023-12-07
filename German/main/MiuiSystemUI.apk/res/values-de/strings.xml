@@ -1990,12 +1990,12 @@
     <string name="quick_settings_vowifi_label">WLAN-Anruf</string>
     <string name="quick_settings_vowifi_sim1_label">WLAN-Anruf SIM 1</string>
     <string name="quick_settings_vowifi_sim2_label">WLAN-Anruf SIM 2</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Geschwindigkeit erhöhen</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Geschwindigkeit steigern</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Abbrechen</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Bestätigen</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Nicht mehr anzeigen</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Zwischen Netzwerken wechseln</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dualband-WLAN Geschwindigkeitserhöhung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dualband-WLAN Geschwindigkeitssteigerung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
     <string name="quick_settings_wifi_is_off">WLAN ist aus</string>
     <string name="quick_settings_wifi_label">WLAN</string>
     <string name="quick_settings_wifi_nearby">Wählen Sie ein Netzwerk in der Nähe</string>

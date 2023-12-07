@@ -301,8 +301,6 @@
     <string name="clipboard_cancel_sync">Abbrechen</string>
     <string name="clipboard_loading">Einfügen von %1$s</string>
     <string name="close">Schließen</string>
-    <string name="close_auxiliary_wifi_hint">\"WLAN-Geschwindigkeit erhöhen\" ausschalten, um übertragen zu können</string>
-    <string name="close_auxiliary_wifi_hint_china">\"WLAN-Geschwindigkeit erhöhen\" ausschalten, um übertragen zu können</string>
     <string name="close_hotspot_hint">Tragbaren Hotspot vor der Übertragung ausschalten</string>
     <string name="close_hotspot_hint_DFS">Um Elemente auf einen Fernseher zu übertragen, schalten Sie erst den Hotspot aus.</string>
     <string name="close_invisible_mode_dialog_cancel">Abbrechen</string>
