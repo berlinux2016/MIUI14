@@ -561,7 +561,7 @@
     <string name="micloud_space_applist_detail">Apps auf Startbildschirm verwalten</string>
     <string name="micloud_space_applist_title">Apps verwalten</string>
     <string name="micloud_space_duokan_detail">Herunterladen und Verwalten von E-Books mit der Duokan App</string>
-    <string name="micloud_space_soundrecorder_detail">Öffnen Sie die Rekorder-App auf Ihrem Xiaomi-Gerät und wählen Sie den Ordner mit den in der Cloud gespeicherten Elementen.\nVergewissern Sie sich, dass Sie das zugehörige Xiaomi-Konto als Ihr MIUI-Systemkonto verwenden.</string>
+    <string name="micloud_space_soundrecorder_detail">Öffnen Sie die Rekorder-App auf Ihrem Xiaomi-Gerät und wählen Sie den Ordner mit den in der Cloud gespeicherten Elementen.\nStellen Sie sicher, dass Sie das zugehörige Xiaomi-Konto als Ihr Systemkonto verwenden.</string>
     <string name="micloud_space_soundrecorder_title">Aufnahmen</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Sie müssen Ihr Abo verlängern</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Sie müssen Ihr Abo verlängern</string>

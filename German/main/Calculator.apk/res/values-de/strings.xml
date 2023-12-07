@@ -142,6 +142,7 @@
     <string name="hint_weight">Gewicht eingeben</string>
     <string name="histories">Verlauf</string>
     <string name="history_guidance">Verlauf hier anzeigen</string>
+    <string name="history_time_date_format">dd.MM.yyyy</string>
     <string name="home_loan">Hypothekenzinsen</string>
     <string name="house_rent">Miete</string>
     <string name="input_limit">Weitere Elemente können nicht eingegeben werden</string>
